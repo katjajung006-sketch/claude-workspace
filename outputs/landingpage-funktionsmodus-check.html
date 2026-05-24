@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Der Funktionsmodus-Check – Kostenloses Freebie von Katja Jung</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sand:        #D8C7B2;
+    --cream:       #F4EFE7;
+    --clay:        #9A7461;
+    --espresso:    #3A2D28;
+    --sage:        #A8AEA0;
+    --copper:      #B66F55;
+    --mauve:       #A9878A;
+
+    --bg:          var(--espresso);
+    --bg-soft:     #44342E;
+    --text:        var(--cream);
+    --text-muted:  #C9BFB4;
+    --accent:      var(--copper);
+    --italic:      var(--mauve);
+    --line:        rgba(244,239,231,0.12);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+    font-size: 17px;
+    background-image: radial-gradient(circle at 20% 10%, rgba(182,111,85,0.08), transparent 50%),
+                      radial-gradient(circle at 80% 80%, rgba(169,135,138,0.08), transparent 50%);
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+    line-height: 1.15;
+    color: var(--cream);
+  }
+  em, .italic {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--italic);
+  }
+
+  .container { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+  section { padding: 96px 0; position: relative; }
+
+  .eyebrow {
+    font-size: 12px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+    margin-bottom: 20px;
+    display: inline-block;
+  }
+
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(244,239,231,0.04);
+    font-size: 12px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--cream);
+    margin-bottom: 28px;
+  }
+  .pill::before {
+    content: '';
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 18px 38px;
+    border-radius: 999px;
+    background: linear-gradient(135deg, var(--copper), #C98D72);
+    color: var(--cream);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    box-shadow: 0 0 60px rgba(182,111,85,0.35);
+    transition: transform .25s ease, box-shadow .25s ease;
+  }
+  .btn:hover { transform: translateY(-2px); box-shadow: 0 0 80px rgba(182,111,85,0.55); }
+  .btn-small { padding: 12px 24px; font-size: 11px; }
+
+  /* HERO */
+  .hero { padding-top: 80px; padding-bottom: 60px; }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.1fr;
+    gap: 80px;
+    align-items: center;
+  }
+  .hero h1 {
+    font-size: clamp(40px, 5.5vw, 76px);
+    margin-bottom: 28px;
+  }
+  .hero p.lead {
+    font-size: 18px;
+    color: var(--text-muted);
+    max-width: 520px;
+    margin-bottom: 40px;
+  }
+  .hero-meta {
+    display: block;
+    margin-top: 16px;
+    font-size: 13px;
+    color: var(--text-muted);
+    letter-spacing: 0.08em;
+  }
+
+  /* Mockup */
+  .mockup {
+    background: var(--bg-soft);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 22px;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.35);
+  }
+  .mockup-bar {
+    display: flex; align-items: center; gap: 8px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 22px;
+  }
+  .dot { width: 11px; height: 11px; border-radius: 50%; background: var(--clay); }
+  .dot:nth-child(2) { background: var(--sand); }
+  .dot:nth-child(3) { background: var(--copper); }
+  .mockup-url { margin-left: 14px; font-size: 13px; color: var(--text-muted); }
+
+  .chat-label { font-size: 11px; letter-spacing: 0.22em; color: var(--accent); margin-bottom: 10px; text-transform: uppercase; }
+  .chat-bubble {
+    background: rgba(244,239,231,0.05);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin-bottom: 22px;
+    font-size: 15px;
+    color: var(--cream);
+  }
+  .chat-result {
+    background: linear-gradient(160deg, rgba(182,111,85,0.22), rgba(169,135,138,0.15));
+    border-radius: 16px;
+    padding: 28px;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .chat-result .tag {
+    align-self: flex-start;
+    background: rgba(244,239,231,0.12);
+    border-radius: 999px;
+    padding: 6px 14px;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--cream);
+  }
+  .chat-result h3 {
+    font-size: 26px;
+    line-height: 1.25;
+    margin-top: 80px;
+  }
+  .chat-result .mini-btn {
+    align-self: flex-start;
+    margin-top: 30px;
+    background: var(--copper);
+    color: var(--cream);
+    padding: 10px 18px;
+    border-radius: 999px;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+
+  /* STEPS */
+  .steps {
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    padding: 70px 0;
+  }
+  .steps-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    text-align: center;
+  }
+  .steps-grid .num {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 56px;
+    color: var(--mauve);
+    line-height: 1;
+    margin-bottom: 14px;
+  }
+  .steps-grid h4 { font-size: 18px; }
+
+  /* PAIN */
+  .pain h2 {
+    font-size: clamp(34px, 4.5vw, 56px);
+    max-width: 900px;
+    margin-bottom: 32px;
+  }
+  .pain p { max-width: 760px; margin-bottom: 22px; color: var(--text-muted); }
+  .pain blockquote {
+    border-left: 3px solid var(--accent);
+    padding: 8px 0 8px 28px;
+    margin: 36px 0;
+    max-width: 900px;
+  }
+  .pain blockquote p {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    font-size: 28px;
+    color: var(--mauve);
+    line-height: 1.4;
+  }
+
+  /* USE CASES */
+  .usecases h2 {
+    font-size: clamp(34px, 4.5vw, 56px);
+    margin-bottom: 60px;
+  }
+  .uc-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+  }
+  .uc-card {
+    background: rgba(244,239,231,0.03);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 32px 28px;
+    transition: transform .25s ease, border-color .25s ease;
+  }
+  .uc-card:hover { transform: translateY(-4px); border-color: var(--accent); }
+  .uc-card .num {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 32px;
+    color: var(--mauve);
+    margin-bottom: 10px;
+  }
+  .uc-card h4 { font-size: 18px; margin-bottom: 12px; }
+  .uc-card p { font-size: 15px; color: var(--text-muted); }
+
+  /* STATS */
+  .stats {
+    background: linear-gradient(135deg, var(--copper), var(--mauve));
+    padding: 70px 0;
+  }
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    gap: 30px;
+  }
+  .stats .num {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 56px;
+    color: var(--cream);
+    line-height: 1;
+    margin-bottom: 10px;
+  }
+  .stats p { color: rgba(244,239,231,0.9); font-size: 14px; }
+
+  /* MODULES */
+  .modules h2 {
+    font-size: clamp(34px, 4.5vw, 56px);
+    margin-bottom: 60px;
+  }
+  .module {
+    background: rgba(244,239,231,0.03);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 40px;
+    margin-bottom: 22px;
+  }
+  .module-tag {
+    display: inline-block;
+    background: var(--copper);
+    color: var(--cream);
+    padding: 6px 16px;
+    border-radius: 999px;
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+  }
+  .module h3 { font-size: 26px; margin-bottom: 24px; }
+  .module ul { list-style: none; }
+  .module li {
+    padding: 16px 0;
+    border-bottom: 1px solid var(--line);
+    color: var(--text-muted);
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+  .module li:last-child { border-bottom: none; }
+  .module li::before {
+    content: '✦';
+    color: var(--accent);
+    font-size: 14px;
+    margin-top: 4px;
+    flex-shrink: 0;
+  }
+
+  /* ABOUT */
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.3fr;
+    gap: 70px;
+    align-items: center;
+  }
+  .about-img {
+    aspect-ratio: 4/5;
+    background: linear-gradient(135deg, var(--clay), var(--mauve));
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(244,239,231,0.4);
+    font-size: 14px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+  .about h2 { font-size: clamp(32px, 4vw, 48px); margin-bottom: 28px; }
+  .about p { color: var(--text-muted); margin-bottom: 20px; }
+
+  /* OFFER */
+  .offer { text-align: center; }
+  .offer h2 {
+    font-size: clamp(34px, 4.5vw, 56px);
+    margin-bottom: 60px;
+  }
+  .offer-card {
+    background: rgba(244,239,231,0.04);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 50px 40px;
+    text-align: left;
+  }
+  .offer-card .tag {
+    display: inline-block;
+    background: var(--copper);
+    color: var(--cream);
+    padding: 6px 16px;
+    border-radius: 999px;
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+  }
+  .offer-card .price {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 56px;
+    color: var(--cream);
+    line-height: 1;
+  }
+  .offer-card .sub { color: var(--text-muted); margin-top: 8px; margin-bottom: 30px; font-size: 15px; }
+  .offer-card ul { list-style: none; margin-bottom: 34px; }
+  .offer-card li {
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line);
+    color: var(--text-muted);
+    display: flex;
+    gap: 12px;
+  }
+  .offer-card li::before { content: '✦'; color: var(--accent); }
+  .offer-card .btn { width: 100%; text-align: center; }
+
+  /* FAQ */
+  .faq h2 {
+    font-size: clamp(34px, 4.5vw, 56px);
+    margin-bottom: 60px;
+    max-width: 800px;
+  }
+  .faq-item {
+    border-bottom: 1px solid var(--line);
+    padding: 28px 0;
+  }
+  .faq-item h4 { font-size: 19px; margin-bottom: 12px; color: var(--cream); }
+  .faq-item p { color: var(--text-muted); }
+  .faq-item strong { color: var(--accent); font-weight: 500; }
+
+  /* FINAL CTA */
+  .final {
+    text-align: center;
+    padding: 130px 0;
+    background: radial-gradient(ellipse at center, rgba(182,111,85,0.18), transparent 60%);
+  }
+  .final h2 {
+    font-size: clamp(34px, 4.5vw, 56px);
+    margin-bottom: 24px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .final p {
+    max-width: 620px;
+    margin: 0 auto 40px;
+    color: var(--text-muted);
+  }
+
+  /* FOOTER */
+  footer {
+    text-align: center;
+    padding: 40px 0;
+    color: var(--text-muted);
+    font-size: 13px;
+    border-top: 1px solid var(--line);
+  }
+  footer a { color: var(--text-muted); text-decoration: none; margin: 0 6px; }
+
+  /* RESPONSIVE */
+  @media (max-width: 900px) {
+    .hero-grid, .about-grid { grid-template-columns: 1fr; gap: 50px; }
+    .steps-grid, .stats-grid { grid-template-columns: repeat(2, 1fr); }
+    .uc-grid { grid-template-columns: 1fr; }
+    section { padding: 70px 0; }
+  }
+  @media (max-width: 540px) {
+    .steps-grid, .stats-grid { grid-template-columns: 1fr; }
+    .btn { padding: 16px 28px; font-size: 12px; }
+  }
+</style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container hero-grid">
+
+      <div class="mockup">
+        <div class="mockup-bar">
+          <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+          <span class="mockup-url">yoga.statt.funktionieren</span>
+        </div>
+        <div class="chat-label">Eine ehrliche Frage · An dich</div>
+        <div class="chat-bubble">Wann hast du zuletzt gespürt, dass dein Leben sich nach dir anfühlt?</div>
+        <div class="chat-label">Dein Ergebnis</div>
+        <div class="chat-result">
+          <span class="tag">Funktionsmodus-Check</span>
+          <h3>Erkenne, wo du gerade <em>wirklich</em> stehst.</h3>
+          <a href="#optin" class="mini-btn">Jetzt kostenlos sichern</a>
+        </div>
+      </div>
+
+      <div>
+        <span class="pill">Kostenloses Freebie · Selbstcheck</span>
+        <h1>Du funktionierst. Aber <em>lebst du noch?</em></h1>
+        <p class="lead">
+          Der ehrliche Selbstcheck für Frauen ab 40, der dir in 7 Minuten zeigt,
+          wie tief du im Funktionsmodus steckst — und welche konkreten Schritte
+          dich zurück in deinen Körper und zurück zu dir bringen.
+        </p>
+        <a href="#optin" class="btn">Jetzt kostenlos sichern</a>
+        <span class="hero-meta">· 100 % kostenlos · sofortiger Zugang per E-Mail</span>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- STEPS -->
+  <section class="steps">
+    <div class="container steps-grid">
+      <div>
+        <div class="num">01</div>
+        <h4>Eintragen</h4>
+      </div>
+      <div>
+        <div class="num">02</div>
+        <h4>Check in Ruhe durchführen</h4>
+      </div>
+      <div>
+        <div class="num">03</div>
+        <h4>Klarheit gewinnen — ohne Druck</h4>
+      </div>
+    </div>
+  </section>
+
+  <!-- PAIN -->
+  <section class="pain">
+    <div class="container">
+      <span class="eyebrow">Vielleicht kennst du das</span>
+      <h2>Du machst weiter. Immer weiter. Aber irgendetwas fehlt.</h2>
+      <p>
+        Du stehst morgens auf, erledigst, hältst zusammen, bist für alle da.
+        Von außen funktioniert dein Leben. Aber innen ist da diese leise Erschöpfung —
+        die sich auch nach dem Wochenende nicht mehr richtig löst.
+      </p>
+      <p>
+        Vielleicht merkst du, dass du Dinge tust, ohne sie zu fühlen.
+        Dass Freude nur noch in kurzen Blitzen auftaucht.
+        Dass du deinen Körper erst hörst, wenn er laut wird.
+        Und dass du gar nicht mehr weißt, was du eigentlich brauchst —
+        weil du schon so lange als Letzte an dich gedacht hast.
+      </p>
+
+      <blockquote>
+        <p>Was wäre, wenn du nur 7 Minuten brauchst, um zu erkennen, wo du gerade wirklich stehst?</p>
+      </blockquote>
+
+      <p>
+        Genau dafür ist der Funktionsmodus-Check da. Du beantwortest ehrliche Fragen —
+        keine Bewertung, kein Druck — und bekommst danach eine klare Auswertung:
+        Wie tief bist du im Funktionsmodus? Was kostet dich gerade am meisten Kraft?
+        Und was ist dein erster Schritt zurück zu dir?
+      </p>
+      <br>
+      <a href="#optin" class="btn">Ich will Klarheit</a>
+    </div>
+  </section>
+
+  <!-- USE CASES -->
+  <section class="usecases">
+    <div class="container">
+      <span class="eyebrow">Was du erkennst</span>
+      <h2>Das zeigt dir <em>der Funktionsmodus-Check</em></h2>
+
+      <div class="uc-grid">
+        <div class="uc-card">
+          <div class="num">01</div>
+          <h4>Wie ausgeprägt dein Funktionsmodus ist</h4>
+          <p>Eine ehrliche Einschätzung, wie tief du gerade im Modus des Abarbeitens steckst — ohne Schönfärberei.</p>
+        </div>
+        <div class="uc-card">
+          <div class="num">02</div>
+          <h4>Wo deine Energie jeden Tag versickert</h4>
+          <p>Welche Routinen, Glaubenssätze und alten Muster dich täglich Kraft kosten, ohne dass du es bewusst merkst.</p>
+        </div>
+        <div class="uc-card">
+          <div class="num">03</div>
+          <h4>Was dein Körper dir schon lange sagt</h4>
+          <p>Welche körperlichen Signale du übergangen hast — und was sie dir wirklich mitteilen wollen.</p>
+        </div>
+        <div class="uc-card">
+          <div class="num">04</div>
+          <h4>Welche Lebensbereiche am meisten leiden</h4>
+          <p>Ob es Körper, Beziehungen, Beruf oder das Gefühl von Sinn ist — du siehst genau, wo du dich zuerst wieder spüren darfst.</p>
+        </div>
+        <div class="uc-card">
+          <div class="num">05</div>
+          <h4>Deinen persönlichen Modus-Typ</h4>
+          <p>Eine klare Einordnung in einen von vier Funktionsmodus-Typen — mit deinen Stärken, deinen blinden Flecken und dem, was dich gerade antreibt.</p>
+        </div>
+        <div class="uc-card">
+          <div class="num">06</div>
+          <h4>Deinen ersten echten Schritt zurück</h4>
+          <p>Kein Programm, das du durchhalten musst. Sondern einen konkreten, kleinen Impuls — den du heute noch spüren kannst.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS -->
+  <section class="stats">
+    <div class="container stats-grid">
+      <div>
+        <div class="num">7</div>
+        <p>Minuten — mehr brauchst du nicht</p>
+      </div>
+      <div>
+        <div class="num">12</div>
+        <p>ehrliche Fragen zu deinem echten Alltag</p>
+      </div>
+      <div>
+        <div class="num">4</div>
+        <p>Funktionsmodus-Typen zur Einordnung</p>
+      </div>
+      <div>
+        <div class="num">100%</div>
+        <p>kostenlos & sofort in deinem Postfach</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- MODULES -->
+  <section class="modules">
+    <div class="container">
+      <span class="eyebrow">Inhalt des Freebies</span>
+      <h2>Das erwartet dich <em>im Funktionsmodus-Check</em></h2>
+
+      <div class="module">
+        <span class="module-tag">Teil 1</span>
+        <h3>Der Selbstcheck</h3>
+        <ul>
+          <li>12 ehrliche Fragen aus den Bereichen Körper, Energie, Beziehungen und Sinn</li>
+          <li>Eine Skala, die dir sofort zeigt, wie tief du im Funktionsmodus steckst</li>
+          <li>Klare Beispiele zu jeder Frage — damit du weißt, was wirklich gemeint ist</li>
+          <li>Kein Richtig oder Falsch. Kein Druck. Nur ein ehrlicher Spiegel.</li>
+        </ul>
+      </div>
+
+      <div class="module">
+        <span class="module-tag">Teil 2</span>
+        <h3>Deine persönliche Auswertung</h3>
+        <ul>
+          <li>Dein individueller Funktionsmodus-Typ — mit Beschreibung, die sich anfühlt wie: „Ja. Genau das."</li>
+          <li>Deine Stärken in dieser Phase und warum sie dich gleichzeitig festhalten</li>
+          <li>Die blinden Flecken, die deinen Energiehaushalt gerade am stärksten beeinflussen</li>
+          <li>Eine klare Übersicht: Wo brauchst du deine Aufmerksamkeit als Erstes?</li>
+        </ul>
+      </div>
+
+      <div class="module">
+        <span class="module-tag">Teil 3</span>
+        <h3>Dein Weg zurück zu dir</h3>
+        <ul>
+          <li>Drei konkrete Mini-Schritte, die in deinen echten Alltag passen — nicht in einen idealen</li>
+          <li>Eine kurze Körperübung, mit der du dich noch heute wieder ein bisschen spüren kannst</li>
+          <li>Mein persönliches Ritual, das mir selbst geholfen hat, aus dem Funktionsmodus auszusteigen</li>
+          <li>Eine ehrliche Einschätzung: Wann macht es Sinn, tiefer zu gehen?</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <div class="container about-grid">
+      <div class="about-img">[ Foto von Katja ]</div>
+      <div>
+        <span class="eyebrow">Über mich</span>
+        <h2>Hey, ich bin <em>Katja Jung</em>.</h2>
+        <p>
+          Von außen sah mein Leben immer gut aus. Ich war zuverlässig. Belastbar.
+          Organisiert. Ich habe gearbeitet, mitgedacht, erledigt, gehalten, weitergemacht.
+          Und genau darin lag das Problem.
+        </p>
+        <p>
+          Irgendwann merkst du nicht mehr, dass du dich selbst übergehst.
+          Es fühlt sich einfach normal an — müde zu sein, angespannt zu sein,
+          noch eine Aufgabe zu schaffen, bevor du an dich denkst.
+          Ich war da, aber nicht wirklich bei mir.
+        </p>
+        <p>
+          Der Wendepunkt war kein dramatischer Zusammenbruch.
+          Es war dieses leise, immer klarer werdende Gefühl:
+          Ich will nicht weiter durch ein Leben gehen, das sich nicht mehr nach mir anfühlt.
+          Ich brauche keinen neuen Plan. Ich brauche einen Weg zurück in meinen Körper.
+        </p>
+        <p>
+          Genau das begleite ich jetzt andere Frauen ab 40 dabei zu finden —
+          durch einfache Yoga- und Atemimpulse, die in einen echten, vollen Alltag passen.
+          Dein Körper ist kein weiteres Projekt. Er ist der Ort, an dem du ankommst.
+        </p>
+        <br>
+        <a href="#optin" class="btn">Ich will den Check</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- OFFER / OPTIN -->
+  <section class="offer" id="optin">
+    <div class="container">
+      <span class="eyebrow">Jetzt sichern</span>
+      <h2>Hol dir den <em>Funktionsmodus-Check</em></h2>
+
+      <div class="offer-card">
+        <span class="tag">Kostenloses Freebie</span>
+        <div class="price">Kostenlos</div>
+        <p class="sub">Sofortiger Zugang per E-Mail · Kein Spam · Jederzeit abmeldbar</p>
+        <ul>
+          <li>12-Fragen-Selbstcheck als PDF — klar, ruhig, ohne Druck</li>
+          <li>Persönliche Auswertung mit deinem Funktionsmodus-Typ</li>
+          <li>3 konkrete Mini-Schritte, die in deinen Alltag passen</li>
+          <li>Kurze Körperübung für sofortige Rückkehr zu dir</li>
+          <li>Begleit-E-Mail mit weiterführenden Impulsen von mir</li>
+        </ul>
+        <a href="#" class="btn">Jetzt kostenlos sichern</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="faq">
+    <div class="container">
+      <span class="eyebrow">Häufige Fragen</span>
+      <h2>Bevor du zögerst — hier sind deine Antworten</h2>
+
+      <div class="faq-item">
+        <h4>Muss ich Yoga kennen oder geübt sein?</h4>
+        <p>Nein. Der Funktionsmodus-Check ist ein Selbstreflexions-Tool, keine Übungseinheit. Du brauchst keine Yoga-Erfahrung, keinen Yogablock und auch keine bestimmte Fitness. Nur Ehrlichkeit mit dir selbst — und die bringst du schon mit.</p>
+      </div>
+
+      <div class="faq-item">
+        <h4>Wieviel Zeit brauche ich dafür?</h4>
+        <p>Realistisch 7 Minuten für den Check selbst. Dann noch ein paar Minuten für die Auswertung. Du musst keinen Abend freiräumen. Kein perfektes Umfeld schaffen. <strong>7 Minuten reichen.</strong></p>
+      </div>
+
+      <div class="faq-item">
+        <h4>Was passiert nach der Anmeldung?</h4>
+        <p>Du bekommst das Freebie sofort per E-Mail — als PDF, das du direkt öffnen oder ausdrucken kannst. Danach erhältst du ab und zu weitere Impulse von mir. Nicht täglich. Nur dann, wenn es etwas zu sagen gibt.</p>
+      </div>
+
+      <div class="faq-item">
+        <h4>Für wen ist dieser Check?</h4>
+        <p>Für Frauen ab 40, die das Gefühl kennen: Ich mache weiter — aber ich bin kaum noch bei mir. Die funktionieren, liefern, halten zusammen — und irgendwann fragen: <strong>Ist das alles?</strong> Wenn du dich in dieser Frage erkennst: Ja, dieser Check ist für dich.</p>
+      </div>
+
+      <div class="faq-item">
+        <h4>Was, wenn ich mein Ergebnis nicht mag?</h4>
+        <p>Der Check ist kein Urteil. Er ist ein Spiegel. Was du darin siehst, gehört zu dir — aber es definiert dich nicht. Und es zeigt dir genau, wo du anfangen kannst, dich wieder zu spüren. Das ist kein Problem. Das ist ein Anfang.</p>
+      </div>
+
+      <div class="faq-item">
+        <h4>Kostet das wirklich nichts?</h4>
+        <p>Nichts. Kein Trick, kein versteckter Upsell hinter dem Button. Der Funktionsmodus-Check ist <strong>komplett kostenlos</strong> — weil ich möchte, dass du erst einmal spürst, wo du stehst. Alles andere kommt, wenn du bereit bist.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="final">
+    <div class="container">
+      <h2>Du musst nicht noch mehr leisten, um bei dir anzukommen.</h2>
+      <p>
+        Du brauchst nur 7 ehrliche Minuten.
+        Und den Mut, genau hinzuschauen — bevor du wieder weiterrennst.
+      </p>
+      <a href="#optin" class="btn">Jetzt kostenlos sichern</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      © 2026 Katja Jung · Yoga gegen Selbstübergehen ·
+      <a href="#">Impressum</a> ·
+      <a href="#">Datenschutz</a>
+    </p>
+  </footer>
+
+</body>
+</html>
