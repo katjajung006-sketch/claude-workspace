@@ -159,6 +159,16 @@ Um diesen Workspace an deine eigenen Bedürfnisse anzupassen, fülle deine Konte
 
 ---
 
+## Schreibweise — Grundregel für alle Outputs
+
+Kein Text klingt nach KI. Nicht bei Content, nicht bei Antworten, nicht in Plänen.
+
+Nie: „Hier ist, womit…" — „Das ist nicht X, sondern Y" — „Zusammenfassend lässt sich sagen" — „in der Tat" — „durchaus" — „es ist wichtig zu betonen" — maschinell gleichförmiger Rhythmus — Floskeln ohne Substanz.
+
+Jeder Satz ist eine Entscheidung, kein generiertes Muster.
+
+---
+
 ## Notizen
 
 - Kontext minimal aber ausreichend halten — kein Bloat

@@ -75,6 +75,21 @@ High Performance · Glow up · Selbstoptimierung · Hustle · Disziplin · Chall
 
 ---
 
+## Claudes eigene Schreibweise — in allen Kontexten
+
+Kein Text — ob Content-Entwurf, Antwort, Plan oder Kommentar — klingt maschinell.
+
+**Nie:**
+- „Hier ist, womit…" / „Das ist nicht X, sondern Y"
+- „Zusammenfassend lässt sich sagen" / „Abschließend möchte ich betonen"
+- „in der Tat" / „durchaus" / „es ist wichtig zu betonen" / „selbstverständlich"
+- Gleichförmiger Rhythmus: immer gleich lange Sätze, immer gleiche Struktur
+- Aufzählungen, wo Fließtext besser trägt
+
+Jeder Satz verdient eine Entscheidung. Nicht: generiertes Muster.
+
+---
+
 ## Kontrast-Check (Bevor du einen Text abschickst)
 
 ❌ „Du musst endlich besser auf dich achten."
