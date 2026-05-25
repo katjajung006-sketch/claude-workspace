@@ -112,6 +112,15 @@ Liest den Plan, führt jeden Schritt der Reihe nach aus, validiert die Arbeit un
 
 Beispiel: `/implement plans/2026-01-28-wettbewerbs-analyse-command.md`
 
+### /zielgruppe [thema | update]
+
+**Zweck:** Mit dem Soulclient-Profil arbeiten — entweder ein Thema aus Sicht der Zielgruppe analysieren oder ein neues Insight dokumentieren.
+
+- `/zielgruppe Feierabend-Erschöpfung` → Analyse: Sprache, innere Sätze, Widerstände, Trigger-Sätze und Content-Winkel für dieses Thema
+- `/zielgruppe update` → Profil-Update: neues Insight dokumentieren und in `context/soulclient.md` einpflegen
+
+Liest automatisch `context/soulclient.md` und `context/brand-voice.md` als Grundlage.
+
 ### /shutdown
 
 **Zweck:** Session sauber beenden — Workspace scannen, aufräumen, alles auf den neuesten Stand bringen.
