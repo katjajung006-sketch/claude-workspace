@@ -125,12 +125,12 @@ Wochenrhythmus: Woche 1 (Mo + Do), Woche 2 (Mo + So)
 
 Ohne Argument: fragt nach dem gewünschten Typ.
 
-### /reel [thema]
+### /reel [thema] · /reel-auto
 
-**Zweck:** Vollständiges Instagram Reel Content-Piece erstellen — Reel-Text, Caption und CTA im Funktionsmodus-Format.
+**Zweck:** Vollständiges Instagram Reel Content-Piece im Funktionsmodus-Format — Reel-Text, Caption, CTA, B-Roll-Vorschlag.
 
-- `/reel Müdigkeit` → Reel-Text (Hook + Klammer), Caption (7-teilige Struktur), CTA-Optionen, B-Roll-Vorschlag
-- Ohne Argument: fragt nach dem Thema
+- `/reel Müdigkeit` → Thema selbst vorgeben
+- `/reel-auto` → Claude wählt Thema und Blickwinkel eigenständig aus dem Soulclient-Profil
 
 Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · leise Autorität
 
