@@ -101,8 +101,7 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 
 ## Finanzielles Ziel für Kündigung
 
-**€3.000 netto/Monat** → dann kündigt Katja ihren Job
-Einschätzung: erreichbarer erster Step
+**€5.000 netto/Monat** → dann kündigt Katja ihren Job
 
 ---
 
@@ -113,12 +112,12 @@ Einschätzung: erreichbarer erster Step
 | systeme.io | E-Mail-Marketing, Funnels, Automationen | Eingerichtet, Inhalte noch zu erstellen |
 | Netlify | Landingpages | Geplant, noch nicht gebaut |
 | Instagram @yoga.statt.funktionieren | Hauptkanal / Traffic | Profil vorhanden, kein Content gepostet |
-| Telegram „Zurück zu dir" | Kostenlose Community | Content vorbereitet, Gruppe noch zu eröffnen |
+| Telegram „Zurück zu dir" | Kostenlose Community | Gruppe erstellt ✓ |
 
 **Noch zu bauen:**
 - Landingpages für beide Freebies (Netlify)
 - E-Mail-Sequenzen nach Freebie-Download (systeme.io)
-- Telegram-Gruppe öffnen und CTA in Freebies eintragen
+- CTA in Freebies eintragen (Telegram-Gruppe „Zurück zu dir" ist erstellt ✓)
 
 ---
 
