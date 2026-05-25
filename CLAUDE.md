@@ -118,7 +118,7 @@ Beispiel: `/implement plans/2026-01-28-wettbewerbs-analyse-command.md`
 
 - `/telegram tagesimpuls` → Morgenimpuls (2–4 Sätze)
 - `/telegram körper` → Körper-Einladung mit Anleitung
-- `/telegram erkenntnis` → Kurzer Erkenntnismoment (1–3 Sätze)
+- `/telegram reflexion` → Reflexionsfrage mit festem 6-Zeilen-Aufbau
 - `/telegram woche` → Wochenabschluss / Check-in
 - `/telegram tagesimpuls 3` → 3 Tagesimpulse auf einmal
 

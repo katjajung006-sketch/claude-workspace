@@ -22,13 +22,13 @@ Lies zuerst:
 Frage kurz welcher Typ gewünscht ist:
 
 > Welchen Post-Typ?
-> `tagesimpuls` · `körper` · `erkenntnis` · `woche`
+> `tagesimpuls` · `körper` · `reflexion` · `woche`
 > Oder eine Zahl dahinter für mehrere auf einmal — z.B. `tagesimpuls 3`
 
 **Erkenne folgende Eingaben:**
 - `tagesimpuls` / `morgen` / `tag` → Typ A
 - `körper` / `übung` / `praxis` → Typ B
-- `erkenntnis` / `impuls` / `satz` → Typ C
+- `reflexion` / `reflexionsfrage` / `frage` → Typ C
 - `woche` / `freitag` / `sonntag` / `check` → Typ D
 
 **Wenn eine Zahl dabei steht** (z.B. `tagesimpuls 3`): erstelle so viele Posts dieses Typs.
@@ -72,20 +72,38 @@ Stilregel: Niemals „Das war Yoga." / „Du hast es geschafft." / „Gut gemach
 
 ---
 
-## Post-Typ C — Erkenntnismoment
+## Post-Typ C — Reflexionsfrage
 
-**Länge:** Sehr kurz — 1 bis maximal 3 Sätze
-**Ton:** Trifft. Benennt etwas, das die Frau kennt aber noch nie so gehört hat.
-**Ziel:** Die Frau liest es und denkt: „Das bin ich. Genau das."
+**Länge:** Mittel — 6 Zeilen, fester Aufbau
+**Ton:** Ehrlich, direkt, aber haltend. Stellt etwas Unbequemes — ohne zu beschuldigen.
+**Ziel:** Die Frau hält inne. Die Frage bleibt bei ihr. Kein Druck zur Antwort — nur eine Tür.
 
-Format:
+Format — dieser Aufbau ist fest, nicht variieren:
 ```
-[1–3 Sätze. Kein Kommentar, keine Erklärung danach. Der Satz steht alleine.]
+Reflexionsfrage:
+[Die Frage — spezifisch, direkt, setzt das Muster als gegeben voraus. Format: „Wo / Wann / Wie lange [Verb] du gerade [konkretes Muster]?"]
+
+Nimm diese Frage nicht als Vorwurf.
+Nimm sie als Tür.
+
+Vielleicht ist heute nicht der Tag, an dem du alles anders machst.
+Aber vielleicht ist heute der Tag, an dem du [kleine, konkrete Verschiebung — passend zur Frage].
 ```
 
-Beispiel-Ton:
-> Du bist nicht erschöpft, weil du zu wenig machst.
-> Du bist erschöpft, weil du aufgehört hast, dich selbst mitzumachen.
+Referenzbeispiel (von Katja — Ton und Struktur so übernehmen):
+> Reflexionsfrage:
+> Wo verwechselst du gerade Durchhalten mit Stärke?
+>
+> Nimm diese Frage nicht als Vorwurf.
+> Nimm sie als Tür.
+>
+> Vielleicht ist heute nicht der Tag, an dem du alles anders machst.
+> Aber vielleicht ist heute der Tag, an dem du dich nicht mehr ganz so selbstverständlich übergehst.
+
+Stilregeln für die Frage:
+- „Wo", „Wann", „Wie lange", „Bei wem" — nicht „Ob". Sie tut es bereits, die Frage ist nur wo.
+- „gerade" einbauen — macht es gegenwärtig, nicht abstrakt
+- Kein Fragezeichen am Ende der letzten Zeile — die Frau soll denken, nicht antworten
 
 ---
 
