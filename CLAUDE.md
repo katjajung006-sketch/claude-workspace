@@ -112,6 +112,18 @@ Liest den Plan, führt jeden Schritt der Reihe nach aus, validiert die Arbeit un
 
 Beispiel: `/implement plans/2026-01-28-wettbewerbs-analyse-command.md`
 
+### /telegram [typ | typ anzahl]
+
+**Zweck:** Fertige Beiträge für die Telegram-Gruppe „Zurück zu dir" erstellen — direkt kopierbereit.
+
+- `/telegram tagesimpuls` → Morgenimpuls (2–4 Sätze)
+- `/telegram körper` → Körper-Einladung mit Anleitung
+- `/telegram erkenntnis` → Kurzer Erkenntnismoment (1–3 Sätze)
+- `/telegram woche` → Wochenabschluss / Check-in
+- `/telegram tagesimpuls 3` → 3 Tagesimpulse auf einmal
+
+Ohne Argument: fragt nach dem gewünschten Typ.
+
 ### /zielgruppe [thema | update]
 
 **Zweck:** Mit dem Soulclient-Profil arbeiten — entweder ein Thema aus Sicht der Zielgruppe analysieren oder ein neues Insight dokumentieren.
