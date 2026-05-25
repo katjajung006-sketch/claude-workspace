@@ -65,31 +65,27 @@ Erstelle auf Basis von Thema + Blickwinkel das vollständige Reel nach dem Funkt
 
 ### Output 1 — Reel-Text (On-Screen)
 
-Struktur:
-```
-Zeile 1: starke Beobachtung
-Zeile 2: körperlicher oder innerer Zusammenhang
-(Klammer-Satz — der emotionale Stich)
-:
-```
+**PFLICHT: Der Reel-Text MUSS mit einer der vier Grundformeln beginnen. Keine Ausnahme.**
 
-Grundformeln (variieren):
+Diese Formeln sind der Scroll-Stopper. Sie erzeugen Aufmerksamkeit, weil sie sofort wiedererkennen lassen. Ohne diese Formel funktioniert der Hook nicht. Nie davon abweichen.
 
-Formel 1:
+Formel 1 — starke Aussage mit Reframe:
 > Viele Frauen glauben, [harmlose Erklärung] — dabei zeigt ihr Körper längst [tiefere Wahrheit]
 > ([warum sie es so lange nicht ernst nehmen]):
 
-Formel 2:
+Formel 2 — der unscheinbare Moment:
 > Der Moment, in dem du dich selbst übergehst, sieht selten dramatisch aus
 > ([weil er sich oft wie Verantwortung anfühlt]):
 
-Formel 3:
+Formel 3 — Körper weiß es früher:
 > Dein Körper merkt oft früher als dein Kopf, dass du nicht mehr bei dir bist
 > ([und genau deshalb solltest du leise Signale nicht länger übergehen]):
 
-Formel 4:
+Formel 4 — falsche Ursache, wahre Ursache:
 > Viele Frauen kommen nicht zur Ruhe, weil sie zu wenig Zeit haben — sondern weil sie verlernt haben, bei sich zu bleiben
 > ([und fast niemand spricht darüber]):
+
+Wähle die Formel, die am besten zum gewählten Thema passt. Passe die Füllwörter in [ ] an — aber halte die Grundstruktur exakt.
 
 Klammer-Sätze (Pool):
 - (und genau deshalb nimmst du es selbst so lange nicht ernst)
