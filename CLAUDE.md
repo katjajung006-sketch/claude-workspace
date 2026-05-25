@@ -116,11 +116,12 @@ Beispiel: `/implement plans/2026-01-28-wettbewerbs-analyse-command.md`
 
 **Zweck:** Fertige Beiträge für die Telegram-Gruppe „Zurück zu dir" erstellen — direkt kopierbereit.
 
-- `/telegram tagesimpuls` → Morgenimpuls (2–4 Sätze)
-- `/telegram körper` → Körper-Einladung mit Anleitung
-- `/telegram reflexion` → Reflexionsfrage mit festem 6-Zeilen-Aufbau
-- `/telegram woche` → Wochenabschluss / Check-in
-- `/telegram tagesimpuls 3` → 3 Tagesimpulse auf einmal
+Wochenrhythmus: Woche 1 (Mo + Do), Woche 2 (Mo + So)
+- `/telegram montag` → Wahrer Satz + Reflexionsfrage (Montagsformat)
+- `/telegram körper` → 3-Minuten-Körperimpuls (Donnerstag)
+- `/telegram audio` → Audio-Rückkehr Skript (Sonntag, zum Einsprechen)
+- `/telegram tagesimpuls` → Spontaner Kurzimpuls (2–4 Sätze)
+- `/telegram tagesimpuls 3` → Mehrere Posts auf einmal
 
 Ohne Argument: fragt nach dem gewünschten Typ.
 
