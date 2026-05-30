@@ -390,6 +390,17 @@
   .hero .price { font-family: 'Libre Baskerville', serif; font-size: 42px; font-weight: 700; color: var(--cream); }
   .hero .price-old { font-size: 22px; color: var(--text-muted); text-decoration: line-through; margin-left: 8px; }
 
+  /* INLINE CTA-GRUPPE */
+  .cta-group {
+    margin-top: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+  .cta-group .btn,
+  .cta-group .btn-ghost { min-width: 340px; max-width: 100%; text-align: center; }
+
   @media (max-width: 900px) {
     section { padding: 64px 0; }
     .not-grid { grid-template-columns: 1fr; }
@@ -482,6 +493,11 @@
           <li>Dein 7-Tage-Mini-Rückkehrplan — ein machbarer Anfang, kein Pensum zum Abarbeiten</li>
           <li>„Wenn du gar nicht runterkommst" — sanfte Optionen für die unruhigen Tage</li>
         </ul>
+      </div>
+
+      <div class="cta-group">
+        <a href="https://www.katjajung.com/minikurs1" class="btn">Ja, ich will zurück zu mir</a>
+        <a href="https://www.katjajung.com/danke1" class="btn-ghost">Nein danke — ich bleibe erst einmal bei meinem Check</a>
       </div>
     </div>
   </section>
