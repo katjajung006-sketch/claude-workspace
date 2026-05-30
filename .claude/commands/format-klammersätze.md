@@ -1,6 +1,6 @@
-# Reel Auto — Thema selbst wählen
+# Format Klammersätze
 
-> Wie /reel — aber Claude wählt Thema und Blickwinkel eigenständig. Auf Basis des Soulclient-Profils, der Brand Voice und dem Pool an relevanten Alltagsmomenten dieser Zielgruppe. Kein Input nötig außer dem Aufruf.
+> Vollständiges Reel Content-Piece im Klammersatz-Format — Claude wählt Thema und Blickwinkel eigenständig. Auf Basis des Soulclient-Profils, der Brand Voice und dem Pool an relevanten Alltagsmomenten dieser Zielgruppe. Kein Input nötig außer dem Aufruf.
 
 ## Variablen
 

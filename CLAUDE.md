@@ -130,7 +130,7 @@ Ohne Argument: fragt nach dem gewünschten Typ.
 **Zweck:** Vollständiges Instagram Reel Content-Piece im Funktionsmodus-Format — Reel-Text, Caption, CTA, B-Roll-Vorschlag.
 
 - `/reel Müdigkeit` → Thema selbst vorgeben
-- `/reel-auto` → Claude wählt Thema und Blickwinkel eigenständig aus dem Soulclient-Profil
+- `/format-klammersätze` → Claude wählt Thema und Blickwinkel eigenständig aus dem Soulclient-Profil
 
 Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · leise Autorität
 
@@ -199,6 +199,16 @@ Nie: „Hier ist, womit…" — „Das ist nicht X, sondern Y" — „Zusammenfa
 Jeder Satz ist eine Entscheidung, kein generiertes Muster.
 
 ---
+
+## Live-Funnel & Hosting
+
+Die Verkaufs-/Landingpages liegen als statisches HTML im Workspace und werden auf **Cloudflare Pages** gehostet (umgezogen von Netlify, weil das Netlify-Konto wegen Credit-Limit pausiert wurde).
+
+- `netlify-deploy/` — **Quelldateien** (Name historisch): `index.html` (Landingpage), `angebot.html` (€7-Tripwire-Verkaufsseite), `kurs.html` (öffentliche €17-Kursseite), `optin.html`, `katja.jpg`. Änderungen hier vornehmen.
+- `cloudflare-deploy/check/` und `cloudflare-deploy/kurs/` — **Deploy-Ordner** für die zwei Cloudflare-Pages-Projekte. Vor jedem Deploy aus `netlify-deploy/` synchronisieren.
+- `reference/cloudflare-config.md` — Token, Account-ID, Projektnamen, Deploy-Befehle, DNS-Einträge. **Single Source of Truth fürs Deployen.**
+
+Live-Domains: `check.katjajung.com` (Landingpage + €7-Seite) und `10-minuten-rueckkehr.katjajung.com` (€17-Kursseite). Bezahlung/Kurse/E-Mail-Marketing laufen weiterhin über **systeme.io** — Cloudflare ist nur die Anzeige-Hülle, die Kauf-Buttons verlinken auf systeme.io-Bezahlseiten (`minikurs1` = 7 € exklusiv am Freebie-Weg, `17minikurs1` = 17 € öffentlich).
 
 ## Notizen
 
