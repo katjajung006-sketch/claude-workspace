@@ -379,10 +379,44 @@
   }
   footer a { color: var(--text-muted); text-decoration: none; margin: 0 6px; }
 
+  /* HERO TEASER */
+  .hero-teaser {
+    margin-top: 38px;
+    padding: 30px 34px;
+    border: 1px solid var(--copper);
+    border-radius: 22px;
+    background: linear-gradient(135deg, rgba(182,111,85,0.16), rgba(169,135,138,0.10));
+    box-shadow: 0 0 70px rgba(182,111,85,0.22);
+    max-width: 620px;
+  }
+  .hero-teaser .teaser-eyebrow {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    font-size: 21px;
+    color: var(--mauve);
+    margin-bottom: 12px;
+  }
+  .hero-teaser p {
+    color: var(--cream);
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .hero-teaser .teaser-bottom {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    flex-wrap: wrap;
+  }
+  .hero-teaser .price { font-family: 'Libre Baskerville', serif; font-size: 38px; font-weight: 700; color: var(--cream); }
+  .hero-teaser .price-old { font-size: 20px; color: var(--text-muted); text-decoration: line-through; margin-left: 8px; }
+  .hero-teaser .btn { padding: 15px 30px; }
+
   @media (max-width: 900px) {
     section { padding: 64px 0; }
     .not-grid { grid-template-columns: 1fr; }
     .module { padding: 30px 24px; }
+    .hero-teaser { padding: 26px 22px; }
+    .hero-teaser .teaser-bottom { gap: 16px; }
   }
 </style>
 </head>
@@ -399,6 +433,19 @@
       </p>
       <div class="inbox">
         <strong>Tipp:</strong>&nbsp;Falls nichts ankommt, schau im Spam- oder Werbeordner.
+      </div>
+
+      <div class="hero-teaser">
+        <div class="teaser-eyebrow">Warte — ich hab noch etwas für dich.</div>
+        <p>
+          Weil du den Check gemacht hast, bekommst du heute meine
+          <strong>10-Minuten-Rückkehr in deinen Körper</strong> — Audio &amp; Begleitguide —
+          für nur <strong>7&nbsp;€</strong> statt 17&nbsp;€.
+        </p>
+        <div class="teaser-bottom">
+          <span><span class="price">7&nbsp;€</span><span class="price-old">17&nbsp;€</span></span>
+          <a href="#angebot" class="btn">Ja, zeig mir das</a>
+        </div>
       </div>
     </div>
   </section>
