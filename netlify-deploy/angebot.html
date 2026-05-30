@@ -101,6 +101,22 @@
     transition: transform .25s ease, box-shadow .25s ease;
   }
   .btn:hover { transform: translateY(-2px); box-shadow: 0 0 80px rgba(182,111,85,0.55); }
+  .btn-ghost {
+    display: inline-block;
+    padding: 16px 34px;
+    border-radius: 999px;
+    background: transparent;
+    border: 1px solid var(--copper);
+    color: var(--copper);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    transition: background .25s ease, color .25s ease, transform .25s ease;
+  }
+  .btn-ghost:hover { background: var(--copper); color: var(--cream); transform: translateY(-2px); }
+  .close .btn-ghost { margin-top: 26px; }
 
   /* HERO / DANKE */
   .hero {
@@ -521,7 +537,7 @@
       </p>
       <a href="#angebot" class="btn">Ja, ich will zurück zu mir</a>
       <p class="signature">Ich freu mich auf dich. Deine Katja</p>
-      <a href="https://www.katjajung.com/danke1" class="skip">Nein danke — ich lese erst einmal nur meinen Check</a>
+      <a href="https://www.katjajung.com/danke1" class="btn-ghost">Nein danke — ich lese erst einmal nur meinen Check</a>
     </div>
   </section>
 
