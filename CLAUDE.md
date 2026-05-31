@@ -147,6 +147,17 @@ Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbe
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hauptziel: Speichern · kalter bis warmer Traffic
 
+### /reel-spiegel [thema]
+
+**Zweck:** Minimalistisches Spiegel-Reel — ruhiges Video, der Text trägt alles. Ziel: sofortige Wiedererkennung („Das bin ich.") bei Frauen 40+. Contentsäule: Der Körper im Funktionsmodus.
+
+- `/reel-spiegel` → Claude wählt den Winkel selbst aus dem Soulclient-Profil
+- `/reel-spiegel Ruhe fühlt sich fremd an` → Winkel selbst vorgeben
+
+Output: Text im Video (Hook-Titel + 3–5 Punkte + Schlusssatz) · Thumbnail-Hook · Caption (Hook → Spiegel → Erkenntnis+Brücke → CTA) · 5 Hashtags
+Format: Listen-Hook (KEINE Grundformel-Pflicht) · stille Erkenntnis · kalter Traffic · Problem-Bewusstsein
+Hauptziel: Speichern · Teilen · Folgen
+
 ### /zielgruppe [thema | update]
 
 **Zweck:** Mit dem Soulclient-Profil arbeiten — entweder ein Thema aus Sicht der Zielgruppe analysieren oder ein neues Insight dokumentieren.

@@ -29,7 +29,7 @@ Nach dem Lesen liefere einen kompakten Status-Block — kein Fließtext, nur das
 **Letzte Outputs:** <die 3 neuesten Dateien in outputs/, oder "Keine">
 **Inbox:** <Anzahl und kurze Beschreibung der Einträge in inbox/, oder "Leer">
 
-**Verfügbare Commands:** /start · /capture · /plan · /create-plan · /implement · /shutdown · /prime · /zielgruppe · /telegram · /reel · /format-klammersätze · /reel-yoga
+**Verfügbare Commands:** /start · /capture · /plan · /create-plan · /implement · /shutdown · /prime · /zielgruppe · /telegram · /reel · /format-klammersätze · /reel-yoga · /reel-spiegel
 
 **Bereit.** Was möchtest du heute angehen?
 ```
