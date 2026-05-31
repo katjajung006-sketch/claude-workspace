@@ -118,7 +118,32 @@ Kein Fitness-Vibe. Nur ruhige Präsenz.
 
 ---
 
-## Output 3 — Caption
+## Output 3 — Thumbnail-Hook (Reelcover)
+
+Ein kurzer Text fürs Reelcover — das Bild, das im Feed und auf dem Profil angezeigt wird. Wer aufs Profil kommt, soll allein durch diesen Text neugierig werden und das Reel öffnen.
+
+**Regeln:**
+- **Extrem kurz** — maximal 3–5 Wörter, eine Zeile. Muss auf einem kleinen Cover lesbar sein.
+- **Maximale Neugier** — eine offene Schleife, die nur das Reel auflöst. Kein fertiger Gedanke.
+- Anders als der Reel-Hook im Video — eigenständig, plakativer.
+- Keine Auflösung, kein Ergebnis. Die Frage bleibt offen.
+
+Beispiele (Stil):
+> 3 Minuten. Spür den Unterschied.
+> Was dein Körper dann macht
+> Mach das nach einem langen Tag
+> Dein Körper wartet darauf
+> Bevor dein Kopf weiterrennt
+
+---
+
+## Output 4 — Hashtags
+
+Genau **5 Hashtags**, die wirklich zu diesem Content passen — Mischung aus Themenwelt (Yoga ohne Druck, Frauen 40+, Funktionsmodus, Runterkommen) und konkretem Haltungs-/Stress-Thema des Posts. Keine generischen Mega-Tags wie #love oder #instagood. Auf den konkreten Inhalt zuschneiden, nicht jedes Mal dieselben fünf.
+
+---
+
+## Output 5 — Caption
 
 **Wichtig:** Caption beginnt NICHT mit demselben Satz wie das Reel. Andere Hook — öffnet tiefer.
 
@@ -212,6 +237,11 @@ REEL-HOOK (On-Screen-Text)
 [Zeile 2]:
 
 ---
+THUMBNAIL-HOOK (Reelcover)
+
+[3–5 Wörter, maximale Neugier]
+
+---
 HALTUNG & FILMHINWEIS
 
 Haltung: [Name]
@@ -231,6 +261,11 @@ CAPTION
 [Erkenntnissatz]
 
 [CTA]
+
+---
+HASHTAGS
+
+[5 passende Hashtags]
 
 ---
 ```

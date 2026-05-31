@@ -102,7 +102,25 @@ Klammer-Sätze (Pool):
 
 ---
 
-### Output 2 — Caption
+### Output 2 — Thumbnail-Hook (Reelcover)
+
+Ein kurzer Text fürs Reelcover — das Bild, das im Feed und auf dem Profil angezeigt wird. Wer aufs Profil kommt, soll allein durch diesen Text neugierig werden und das Reel öffnen.
+
+**Regeln:**
+- **Extrem kurz** — maximal 3–5 Wörter, eine Zeile. Muss auf einem kleinen Cover lesbar sein.
+- **Maximale Neugier** — eine offene Schleife, kein fertiger Gedanke, keine Auflösung.
+- Anders als der Reel-Text — eigenständig, plakativer.
+
+Beispiele (Stil):
+> Das übersiehst du täglich
+> Dein Körper weiß es zuerst
+> Es sieht aus wie Stärke
+> Du hältst das für normal
+> Was funktionieren wirklich kostet
+
+---
+
+### Output 3 — Caption
 
 Wichtig: Caption beginnt NICHT mit demselben Satz wie das Reel.
 
@@ -122,11 +140,17 @@ Reihenfolge einhalten:
 
 ---
 
-### Output 3 — B-Roll-Vorschlag
+### Output 4 — B-Roll-Vorschlag
 
 1–3 Szenen passend zum gewählten Thema und Blickwinkel:
 
 Pool: Fensterlicht · Kaffee am Morgen · Bettkante · Waldweg · Hand am Lenkrad · Abendlicht im Wohnzimmer · Spiegelbild · Tasse in der Hand · leere Küche nach einem langen Tag · ausgerollte Yogamatte · Hand auf dem Brustkorb · Füße auf der Matte · sanfte Vorbeuge · Kindhaltung · Blick aus dem Fenster · eine Frau, die kurz innehält · Schuhe im Flur · Supermarktparkplatz
+
+---
+
+### Output 5 — Hashtags
+
+Genau **5 Hashtags**, die wirklich zum gewählten Thema passen — Mischung aus Themenwelt (Funktionsmodus, Frauen 40+, Erschöpfung, Yoga ohne Druck, Runterkommen) und dem konkreten Winkel des Posts. Keine generischen Mega-Tags wie #love oder #instagood. Auf den Inhalt zuschneiden, nicht jedes Mal dieselben fünf.
 
 ---
 
@@ -142,6 +166,11 @@ REEL-TEXT (On-Screen)
 [Zeile 1]
 [Zeile 2]
 (Klammer-Satz):
+
+---
+THUMBNAIL-HOOK (Reelcover)
+
+[3–5 Wörter, maximale Neugier]
 
 ---
 CAPTION
@@ -164,6 +193,11 @@ CAPTION
 B-ROLL-VORSCHLAG
 
 [Szenen]
+
+---
+HASHTAGS
+
+[5 passende Hashtags]
 
 ---
 ```
