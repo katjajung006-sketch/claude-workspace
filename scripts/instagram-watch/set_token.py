@@ -1,18 +1,14 @@
 #!/usr/bin/env python3
-"""Trägt einen kopierten Token sicher in config.json ein — ohne Tippen.
+"""Trägt einen Token sicher in config.json ein.
 
 Ablauf:
-  1. Token irgendwo kopieren (z.B. mit dem Kopier-Symbol bei Apify/Telegram).
-  2. Im Terminal aufrufen, z.B.:
+  1. Im Terminal aufrufen, z.B.:
         python3 set_token.py apify_token
         python3 set_token.py telegram_bot_token
-        python3 set_token.py telegram_chat_id
-  Der Wert wird aus der Zwischenablage (pbpaste) gelesen und gespeichert.
-  Der Token wird dabei NICHT im Klartext angezeigt.
+  2. Das Skript fragt nach dem Wert — Token einfügen und Enter drücken.
 """
 
 import json
-import subprocess
 import sys
 from pathlib import Path
 
@@ -25,14 +21,12 @@ if len(sys.argv) != 2 or sys.argv[1] not in VALID_KEYS:
 
 key = sys.argv[1]
 
-try:
-    value = subprocess.check_output(["pbpaste"]).decode("utf-8").strip()
-except Exception as e:
-    print("Konnte Zwischenablage nicht lesen:", e)
-    raise SystemExit(1)
+# Immer interaktiv fragen — am einfachsten und ohne Zwischenablage-Stolperfallen.
+print(f"Füge den Wert für '{key}' ein und drück Enter:")
+value = input("> ").strip()
 
-if not value:
-    print("Zwischenablage ist leer. Bitte zuerst den Token kopieren.")
+if not value or any(ch.isspace() for ch in value) or value.startswith(("python3", "cd ", "HIER_")):
+    print("Das sieht nicht nach einem gültigen Token aus. Bitte nochmal versuchen.")
     raise SystemExit(1)
 
 cfg_path = Path(__file__).resolve().parent / "config.json"
