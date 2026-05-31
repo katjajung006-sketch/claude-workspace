@@ -179,7 +179,10 @@ Danach ein kurzer Block "Heute auffällig": Muster, das über die Accounts hinwe
 REGELN für deinen Text:
 - Schreib wie ein Mensch, kein KI-Klang. Keine Floskeln, kein "Hier ist", kein \
 "Zusammenfassend", kein gleichförmiger Rhythmus.
-- Knapp und brauchbar. Telegram-Nachricht, kein Essay. Keine Markdown-Überschriften mit #.
+- Knapp und brauchbar. Telegram-Nachricht, kein Essay.
+- KEINE Markdown-Zeichen: keine Sternchen (* oder **), keine Rauten (#). Reiner Text.
+  Für eine Überschrift einfach eine eigene Zeile, für Betonung notfalls GROSSBUCHSTABEN.
+- Jeder Beitrag beginnt mit einer Zeile: Accountname + kurze Einordnung.
 - Auf Deutsch.
 
 --- KONTEXT: KATJAS MARKENSTIMME ---
