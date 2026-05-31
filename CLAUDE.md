@@ -125,7 +125,7 @@ Wochenrhythmus: Woche 1 (Mo + Do), Woche 2 (Mo + So)
 
 Ohne Argument: fragt nach dem gewünschten Typ.
 
-### /reel [thema] · /reel-auto
+### /reel [thema] · /format-klammersätze
 
 **Zweck:** Vollständiges Instagram Reel Content-Piece im Funktionsmodus-Format — Reel-Text, Caption, CTA, B-Roll-Vorschlag.
 
@@ -133,6 +133,16 @@ Ohne Argument: fragt nach dem gewünschten Typ.
 - `/format-klammersätze` → Claude wählt Thema und Blickwinkel eigenständig aus dem Soulclient-Profil
 
 Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · leise Autorität
+
+### /reel-yoga [haltung]
+
+**Zweck:** Reel im Open-Loop-Format — einfache Yoga-Haltung zeigen, Neugier-Text im Reel, Auflösung erst in der Caption. Contentsäule: Yoga ohne Leistungsdruck.
+
+- `/reel-yoga` → Claude wählt Haltung selbst
+- `/reel-yoga Kindhaltung` → Haltung selbst vorgeben
+
+Output: Reel-Hook · Haltung & Filmhinweis · Caption (6-teilig) · CTA
+Hauptziel: Speichern · kalter bis warmer Traffic
 
 ### /zielgruppe [thema | update]
 
