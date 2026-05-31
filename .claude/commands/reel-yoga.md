@@ -120,18 +120,26 @@ Kein Fitness-Vibe. Nur ruhige Präsenz.
 
 ## Output 3 — Thumbnail-Hook (Reelcover)
 
-Ein kurzer Text fürs Reelcover — das Bild, das im Feed und auf dem Profil angezeigt wird. Wer aufs Profil kommt, soll allein durch diesen Text neugierig werden und das Reel öffnen.
+**Einheitliches Serien-Cover.** Alle Yoga-Reels nutzen dasselbe Cover-Layout — das macht sie im Profil-Grid als Serie erkennbar und erhöht das Speichern. In Canva liegt eine feste Vorlage mit zwei Textfeldern; der Skill liefert nur die beiden Zeilen.
 
-**Regeln:**
-- **Extrem kurz** — maximal 3–5 Wörter, eine Zeile. Muss auf einem kleinen Cover lesbar sein.
-- **Maximale Neugier** — eine offene Schleife, die nur das Reel auflöst. Kein fertiger Gedanke.
-- Anders als der Reel-Hook im Video — eigenständig, plakativer.
-- Keine Auflösung, kein Ergebnis. Die Frage bleibt offen.
+**Aufbau — zwei feste Slots:**
 
-Beispiele (Stil):
-> 3 Minuten. Spür den Unterschied.
+```
+Slot 1 (Kicker — IMMER GLEICH):   3-MINUTEN-ÜBUNG
+Slot 2 (Neugier-Zusatz — variabel): [kurzer offener Hook]
+```
+
+**Slot 1 — Kicker:** Bleibt konstant `3-MINUTEN-ÜBUNG`. Nie ändern — das ist der Wiedererkennungs-Anker der Serie. (Reel-Hooks deshalb möglichst auch bei 3 Minuten halten, damit Cover und Video zusammenpassen.)
+
+**Slot 2 — Neugier-Zusatz:**
+- **Extrem kurz** — maximal 3–5 Wörter, eine offene Schleife.
+- **Maximale Neugier** — kein fertiger Gedanke, keine Auflösung, kein Ergebnis nennen.
+- Die Übung NICHT verraten — die Neugier trägt das Cover, der Name lebt im Reel.
+
+Beispiele für Slot 2:
 > Was dein Körper dann macht
-> Mach das nach einem langen Tag
+> Spür den Unterschied
+> Mach das heute Abend
 > Dein Körper wartet darauf
 > Bevor dein Kopf weiterrennt
 
@@ -237,9 +245,10 @@ REEL-HOOK (On-Screen-Text)
 [Zeile 2]:
 
 ---
-THUMBNAIL-HOOK (Reelcover)
+REELCOVER (einheitliche Serien-Vorlage)
 
-[3–5 Wörter, maximale Neugier]
+Kicker (fest):   3-MINUTEN-ÜBUNG
+Neugier-Zusatz:  [3–5 Wörter, maximale Neugier]
 
 ---
 HALTUNG & FILMHINWEIS
