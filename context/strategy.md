@@ -93,6 +93,12 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 - Text-Overlay auf Video (z.B. "Ich blieb 4min in der Vorbeuge und das ist passiert")
 - Engagement: 226–440 Likes
 
+**Vorbild-Profile (von Katja gewählt):**
+1. @entspannungsstudio_anila — ruhiges Yoga-Format & Setup
+2. @yes.you.are_ (Sabine Gallei, ~21k) — Nischen-Winkel mit Reichweite: Yoga + Nervensystem für Frauen
+3. @julia.physioglueck (~348k) — virale Reel-Mechanik & Reichweite (Körper/Nervensystem)
+Vollständige Konkurrenz-Übersicht: `reference/wettbewerber-instagram.md`
+
 **Bereits ausgearbeitete Content-Ideen:**
 1. Reel: „Viele Frauen merken nicht, dass ihr Körper längst Nein sagt" + fertige Caption ✓
 2. Reel: „5 stille Anzeichen des Funktionsmodus" + fertige Caption ✓
