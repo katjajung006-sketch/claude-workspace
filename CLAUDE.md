@@ -224,6 +224,20 @@ Jeder Satz ist eine Entscheidung, kein generiertes Muster.
 
 ---
 
+## Content-Ablage (Notion)
+
+Katjas fertiger Content wird in ihrer Notion-Datenbank **„Feed"** gesammelt — ihr bestehender Content-Kalender, den sie so behalten will.
+
+- **Wann:** Sobald Katja ein Content-Piece ausdrücklich abnimmt („passt so" / „perfekt") — nie ungefragt.
+- **Wohin:** Datenbank „Feed" auf der Notion-Seite „yoga.statt.funktionieren", `data_source_id` `33a8aca2-e91e-81af-8577-000b691410f4`. Anlegen via `notion-create-pages` mit `parent: {type: data_source_id, ...}`.
+- **Feld-Mapping:** Titel/Überschrift (Thema) · Format (Reels/Carousel/Post/Video/IG Live) · Thumbnail-Hook (Cover-Text) · Content Säule · Erstellt = `__YES__` · Gepostet + Datum/Tag leer (plant Katja selbst) · kompletter Content im Seiteninhalt.
+- **Content-Säulen (in Notion gepflegt):** „Yoga ohne Leistungsdruck" · „Der Körper im Funktionsmodus".
+- **Hinweis:** Der Reelcover-Kicker „3-MINUTEN-ÜBUNG" gehört nur zu `/reel-yoga`, nicht zu anderen Reel-Formaten.
+
+Details im Memory: `notion_content_workflow.md`.
+
+---
+
 ## Live-Funnel & Hosting
 
 Die Verkaufs-/Landingpages liegen als statisches HTML im Workspace und werden auf **Cloudflare Pages** gehostet (umgezogen von Netlify, weil das Netlify-Konto wegen Credit-Limit pausiert wurde).
