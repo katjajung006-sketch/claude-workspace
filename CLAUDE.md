@@ -254,7 +254,7 @@ Automatisierter Bot in `scripts/instagram-watch/`, der täglich die drei wichtig
 Wettbewerber-Accounts (@entspannungsstudio_anila · @yes.you.are_ · @julia.physioglueck)
 auf neue Reels/Posts prüft und Katja per Telegram benachrichtigt.
 
-- **Lauf:** `launchd` täglich um 08:00 auf Katjas Mac (`com.katja.instagram-watch.plist`).
+- **Lauf:** `launchd` täglich um 18:00 auf Katjas Mac (`com.katja.instagram-watch.plist`).
 - **Abruf:** Instagram-Daten über **Apify** (Gratis-Kontingent). Anonymes Scrapen blockt
   Instagram inzwischen (403) — Apify ist der zuverlässige Weg ohne Account-Risiko.
 - **Analyse:** Wenn das **Claude Code CLI** installiert ist, analysiert Claude jeden neuen

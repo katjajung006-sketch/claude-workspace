@@ -11,7 +11,7 @@ Strategie/Marke analysiert und das Ergebnis per Telegram schickt.
 
 ## Wie es funktioniert
 
-1. `launchd` startet täglich um 08:00 `run.sh` → `watch.py`.
+1. `launchd` startet täglich um 18:00 `run.sh` → `watch.py`.
 2. `watch.py` holt über **Apify** die neuesten Beiträge je Account.
 3. Es vergleicht mit `state.json` (was schon bekannt war) → nur **neue** Beiträge zählen.
 4. **Analyse:** Wenn das Claude Code CLI vorhanden ist, schreibt Claude eine kurze
@@ -66,7 +66,7 @@ Beim ersten Mal: Telegram-Nachricht "Späher eingerichtet …". Läuft das, weit
 cp scripts/instagram-watch/com.katja.instagram-watch.plist ~/Library/LaunchAgents/
 launchctl load ~/Library/LaunchAgents/com.katja.instagram-watch.plist
 ```
-Fertig. Der Bot meldet sich ab jetzt täglich um 08:00.
+Fertig. Der Bot meldet sich ab jetzt täglich um 18:00.
 
 **Uhrzeit ändern:** `Hour`/`Minute` in der plist anpassen, dann
 `launchctl unload …` und wieder `load`.
@@ -92,7 +92,7 @@ Fertig. Der Bot meldet sich ab jetzt täglich um 08:00.
 - **Nichts kommt an:** `cat scripts/instagram-watch/watch.log` ansehen.
 - **Apify-Fehler:** Token prüfen, Apify-Guthaben checken (apify.com → Billing).
 - **Keine Analyse, nur Liste:** Claude CLI ist nicht installiert/eingeloggt (Schritt 3).
-- **Mac war um 08:00 aus:** launchd holt den Lauf beim nächsten Aufwachen nach.
+- **Mac war um 18:00 aus:** launchd holt den Lauf beim nächsten Aufwachen nach.
 
 ## Spätere Upgrades
 - **Läuft nur, wenn der Mac an ist.** Wenn das stört: auf einen Cloud-Lauf umstellen
