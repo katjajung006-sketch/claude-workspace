@@ -22,6 +22,17 @@
 
 ---
 
+## Gespeicherte Canva-Vorlagen
+
+Zwei fertige Cover-Vorlagen liegen im Canva-Konto (Brand Kit „yoga.statt.funktionieren"), beide mit großem „3-MINUTEN-ÜBUNG" und Textfeld für den Zusatz:
+
+- **Vorlage A:** https://www.canva.com/d/yPOWac47z3pyjTl
+- **Vorlage B:** https://www.canva.com/d/6mdn7tR6aTn-OvM
+
+Pro Reel: Vorlage öffnen → nur den Zusatz im unteren Textfeld eintragen (liefert `/reel-yoga`) → Hintergrundbild der Haltung einsetzen → exportieren → als Reelcover hochladen.
+
+---
+
 ## Canva-Setup (einmalig)
 
 - **Format:** 1080 × 1920 px (Reel-Hochformat). Das Cover füllt das ganze Bild.
