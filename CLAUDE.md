@@ -127,11 +127,12 @@ Ohne Argument: fragt nach dem gewünschten Typ.
 
 ### /reel [thema] · /format-klammersätze
 
-**Zweck:** Vollständiges Instagram Reel Content-Piece im Funktionsmodus-Format — Reel-Text, Caption, CTA, B-Roll-Vorschlag.
+**Zweck:** Vollständiges Instagram Reel Content-Piece im Funktionsmodus-Format — Reel-Text, Thumbnail-Hook, Caption, CTA, B-Roll, Hashtags.
 
 - `/reel Müdigkeit` → Thema selbst vorgeben
 - `/format-klammersätze` → Claude wählt Thema und Blickwinkel eigenständig aus dem Soulclient-Profil
 
+Output je Reel: Reel-Text · Thumbnail-Hook (Reelcover) · Caption · B-Roll · 5 passende Hashtags
 Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · leise Autorität
 
 ### /reel-yoga [haltung]
@@ -141,7 +142,9 @@ Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · 
 - `/reel-yoga` → Claude wählt Haltung selbst
 - `/reel-yoga Kindhaltung` → Haltung selbst vorgeben
 
-Output: Reel-Hook · Haltung & Filmhinweis · Caption (6-teilig) · CTA
+Output: Reel-Hook · Reelcover (Kicker „3-MINUTEN-ÜBUNG" fest + variabler Neugier-Zusatz) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags
+Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe).
+Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hauptziel: Speichern · kalter bis warmer Traffic
 
 ### /zielgruppe [thema | update]
