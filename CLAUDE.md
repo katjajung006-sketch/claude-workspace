@@ -248,6 +248,21 @@ Die Verkaufs-/Landingpages liegen als statisches HTML im Workspace und werden au
 
 Live-Domains: `check.katjajung.com` (Landingpage + €7-Seite) und `10-minuten-rueckkehr.katjajung.com` (€17-Kursseite). Bezahlung/Kurse/E-Mail-Marketing laufen weiterhin über **systeme.io** — Cloudflare ist nur die Anzeige-Hülle, die Kauf-Buttons verlinken auf systeme.io-Bezahlseiten (`minikurs1` = 7 € exklusiv am Freebie-Weg, `17minikurs1` = 17 € öffentlich).
 
+## Instagram-Späher (täglicher Wettbewerber-Bot)
+
+Automatisierter Bot in `scripts/instagram-watch/`, der täglich die drei wichtigsten
+Wettbewerber-Accounts (@entspannungsstudio_anila · @yes.you.are_ · @julia.physioglueck)
+auf neue Reels/Posts prüft und Katja per Telegram benachrichtigt.
+
+- **Lauf:** `launchd` täglich um 08:00 auf Katjas Mac (`com.katja.instagram-watch.plist`).
+- **Abruf:** Instagram-Daten über **Apify** (Gratis-Kontingent). Anonymes Scrapen blockt
+  Instagram inzwischen (403) — Apify ist der zuverlässige Weg ohne Account-Risiko.
+- **Analyse:** Wenn das **Claude Code CLI** installiert ist, analysiert Claude jeden neuen
+  Beitrag durch Katjas Strategie/Marke (gratis übers Abo). Sonst saubere Liste als Fallback.
+- **State:** `state.json` merkt bekannte Beiträge → nur echte Neuigkeiten werden gemeldet.
+- **Secrets:** `config.json` (Apify- + Telegram-Token) ist gitignored, nie committen.
+- **Setup & Details:** `scripts/instagram-watch/README.md`.
+
 ## Notizen
 
 - Kontext minimal aber ausreichend halten — kein Bloat

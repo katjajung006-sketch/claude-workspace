@@ -1,3 +1,8 @@
 .DS_Store
 .wrangler/
 reference/secrets.local.md
+
+# Instagram-Späher — enthält Tokens & Laufzeit-Daten, nie committen
+scripts/instagram-watch/config.json
+scripts/instagram-watch/state.json
+scripts/instagram-watch/*.log

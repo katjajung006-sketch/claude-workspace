@@ -1,0 +1,20 @@
+{
+  "apify_token": "HIER_APIFY_TOKEN_EINTRAGEN",
+  "telegram_bot_token": "HIER_TELEGRAM_BOT_TOKEN_EINTRAGEN",
+  "telegram_chat_id": "HIER_CHAT_ID_EINTRAGEN",
+  "posts_per_account": 6,
+  "accounts": [
+    {
+      "username": "entspannungsstudio_anila",
+      "url": "https://www.instagram.com/entspannungsstudio_anila/"
+    },
+    {
+      "username": "yes.you.are_",
+      "url": "https://www.instagram.com/yes.you.are_/"
+    },
+    {
+      "username": "julia.physioglueck",
+      "url": "https://www.instagram.com/julia.physioglueck/"
+    }
+  ]
+}

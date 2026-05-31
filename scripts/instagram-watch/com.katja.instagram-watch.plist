@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.katja.instagram-watch</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/katjajung/Desktop/claude-workspace-vorlage/scripts/instagram-watch/run.sh</string>
+    </array>
+
+    <!-- Täglich um 08:00. Verpasst der Mac den Zeitpunkt (Ruhezustand),
+         holt launchd den Lauf beim nächsten Aufwachen nach. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/katjajung/Desktop/claude-workspace-vorlage/scripts/instagram-watch/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/katjajung/Desktop/claude-workspace-vorlage/scripts/instagram-watch/launchd.err.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
