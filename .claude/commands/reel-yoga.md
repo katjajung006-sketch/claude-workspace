@@ -37,6 +37,25 @@ Lies zuerst:
 
 ---
 
+## Schritt 2.5 — Wirkung der Haltung prüfen (PFLICHT)
+
+**Bevor du irgendetwas schreibst: Prüfe, was diese Haltung im Körper WIRKLICH bewirkt.**
+
+Regeln:
+- Die Wirkung muss der Wahrheit entsprechen. Nichts erfinden, nichts übertreiben. Im Zweifel kurz recherchieren (WebSearch), bevor du eine Wirkung behauptest.
+- Beschrieben wird nur das **Resultat, das der Soul Client haben will** — nicht der Mechanismus dahinter.
+- **Keine Fachsprache, keine Yoga-Begriffe, keine Physiologie-Wörter.** Nicht: Parasympathikus, Cortisol, Lymphfluss, vegetatives Nervensystem, Asana. Diese Begriffe interessieren die Zielgruppe nicht.
+- Übersetze die echte Wirkung in das, was sie spürt und will: runterkommen · Stress fällt ab · der Kopf wird leiser · der Körper darf aus dem Funktionsmodus aussteigen · ankommen.
+
+**Beispiel-Übersetzung (Beine an der Wand / Viparita Karani):**
+- Echte Wirkung: senkt den Stresspegel, beruhigt das Nervensystem, hilft beim Runterkommen; die Beine werden **leichter** (nicht schwer), weil die Stauung aus den Beinen weichen darf.
+- In Katjas Sprache: „Dein Atem wird tiefer. / Deine Beine werden leichter. / Dein Kopf wird langsam leiser. / Und dein Körper merkt: Ich darf gerade runterkommen."
+
+**Häufiger Fehler — nicht wiederholen:**
+Bei Haltungen mit Beinen nach oben (Beine an der Wand, Figur-4 liegend) werden die Beine **leichter**, nie schwerer. Schwere Beine gehören eher zu Savasana / liegender Ruhe am Boden. Prüfe das pro Haltung — nicht pauschal dieselbe Liste übernehmen.
+
+---
+
 ## Was dieses Format tut
 
 Zeigt Frauen 40+, dass Yoga kein weiterer Leistungsbereich sein muss.
@@ -122,13 +141,13 @@ Das kann passieren:
 Dein Atem wird tiefer.
 Deine Schultern sinken.
 Dein Kiefer wird weicher.
-Deine Beine werden schwer.
+Deine Beine werden leichter.
 Dein Kopf wird etwas leiser.
 Und manchmal merkst du erst dann, wie angespannt du eigentlich warst.
 ```
 
-Anpassen an die gewählte Haltung — nicht jedes Mal dieselbe Liste.
-Sprache: spüren · merken · weich werden · schwer werden · loslassen · festhalten · runterkommen
+**Wichtig:** Diese Liste IMMER an die in Schritt 2.5 geprüfte Wirkung der gewählten Haltung anpassen — nicht pauschal kopieren. Nur körperliche Resultate nennen, die bei genau dieser Haltung wirklich eintreten. (Beine an der Wand → Beine werden leichter. Savasana am Boden → Beine werden schwer. Nicht verwechseln.)
+Sprache: spüren · merken · weich werden · leichter werden · schwer werden · loslassen · festhalten · runterkommen
 
 **3. Verbindung zum Funktionsmodus**
 Kurze Einordnung — warum diese Haltung für diese Frau relevant ist:
@@ -224,6 +243,8 @@ Nach der Ausgabe: kurz fragen ob Haltung, Hook oder Caption angepasst werden sol
 
 - Reel: Open Loop IMMER — Auflösung gehört in die Caption, nie ins Reel
 - Kein Fitness-Vibe · kein Yoga-Jargon · keine Fachbegriffe
+- Wirkung der Haltung IMMER vorher prüfen (Schritt 2.5) — nur echte, wahre Resultate beschreiben, nie erfinden
+- Wirkung in Katjas Sprache übersetzen — das Resultat, das sie will, nicht der Mechanismus (kein Cortisol, Lymphfluss, Parasympathikus)
 - Nie: „Diese Asana reguliert dich sofort." / „Stimuliert das Nervensystem."
 - Die Haltung muss sofort machbar aussehen: „Das kann ich auch."
 - Brand Voice aus `brand-voice.md` einhalten
