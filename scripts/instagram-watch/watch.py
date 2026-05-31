@@ -170,6 +170,9 @@ def build_analysis_prompt(new_by_account):
 Frauen 40+. Unten stehen NEUE Beiträge ihrer drei wichtigsten Wettbewerber seit gestern.
 
 Analysiere jeden Beitrag kurz und konkret. Pro Beitrag:
+- Erste Zeile: Accountname + kurze Einordnung.
+- Zweite Zeile: die exakte Beitrags-URL mit einem 🔗 davor. Kopiere die URL Zeichen \
+für Zeichen aus den Beitragsdaten unten — niemals erfinden, kürzen oder ändern.
 - Was ist es (Format, Hook-Mechanik)?
 - Warum funktioniert es – oder warum nicht?
 - Was nimmt Katja konkret für ihren eigenen Content mit (1 umsetzbarer Satz)?
@@ -182,7 +185,7 @@ REGELN für deinen Text:
 - Knapp und brauchbar. Telegram-Nachricht, kein Essay.
 - KEINE Markdown-Zeichen: keine Sternchen (* oder **), keine Rauten (#). Reiner Text.
   Für eine Überschrift einfach eine eigene Zeile, für Betonung notfalls GROSSBUCHSTABEN.
-- Jeder Beitrag beginnt mit einer Zeile: Accountname + kurze Einordnung.
+  (Ausnahme: das 🔗 vor der URL ist erwünscht.)
 - Auf Deutsch.
 
 --- KONTEXT: KATJAS MARKENSTIMME ---
