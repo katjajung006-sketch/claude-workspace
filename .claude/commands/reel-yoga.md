@@ -120,7 +120,7 @@ Kein Fitness-Vibe. Nur ruhige Präsenz.
 
 ## Output 3 — Thumbnail-Hook (Reelcover)
 
-**Einheitliches Serien-Cover.** Alle Yoga-Reels nutzen dasselbe Cover-Layout — das macht sie im Profil-Grid als Serie erkennbar und erhöht das Speichern. In Canva liegt eine feste Vorlage mit zwei Textfeldern; der Skill liefert nur die beiden Zeilen.
+**Einheitliches Serien-Cover.** Alle Yoga-Reels nutzen dasselbe Cover-Layout — das macht sie im Profil-Grid als Serie erkennbar und erhöht das Speichern. In Canva liegt eine feste Vorlage mit zwei Textfeldern; der Skill liefert nur die beiden Zeilen. Specs der Vorlage: `reference/reelcover-yoga.md`.
 
 **Aufbau — zwei feste Slots:**
 
