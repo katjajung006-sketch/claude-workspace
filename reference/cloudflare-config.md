@@ -29,7 +29,7 @@ Hinweis: Cloudflare Pages nutzt „Clean URLs" — `/angebot.html` leitet per 30
 Quelle bleibt `netlify-deploy/`. Vor dem Deploy die Ordner synchronisieren:
 
 ```bash
-cd /Users/katjajung/Desktop/claude-workspace-vorlage
+cd /Users/katjajung/claude-workspace-vorlage
 cp netlify-deploy/index.html netlify-deploy/angebot.html netlify-deploy/optin.html netlify-deploy/katja.jpg cloudflare-deploy/check/
 cp netlify-deploy/kurs.html cloudflare-deploy/kurs/index.html
 

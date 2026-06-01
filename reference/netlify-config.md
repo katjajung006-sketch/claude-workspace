@@ -10,7 +10,7 @@
 ## Deploy-Befehl (nicht mehr aktiv)
 
 ```bash
-cd /Users/katjajung/Desktop/claude-workspace-vorlage/netlify-deploy && \
+cd /Users/katjajung/claude-workspace-vorlage/netlify-deploy && \
 zip -r /tmp/netlify-deploy.zip . && \
 curl -s -X POST \
   -H "Authorization: Bearer <TOKEN aus secrets.local.md>" \

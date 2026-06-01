@@ -8,7 +8,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/katjajung/Desktop/claude-workspace-vorlage/scripts/instagram-watch/run.sh</string>
+        <string>/Users/katjajung/claude-workspace-vorlage/scripts/instagram-watch/run.sh</string>
     </array>
 
     <!-- Täglich um 18:00. Verpasst der Mac den Zeitpunkt (Ruhezustand),
@@ -22,9 +22,9 @@
     </dict>
 
     <key>StandardOutPath</key>
-    <string>/Users/katjajung/Desktop/claude-workspace-vorlage/scripts/instagram-watch/launchd.out.log</string>
+    <string>/Users/katjajung/claude-workspace-vorlage/scripts/instagram-watch/launchd.out.log</string>
     <key>StandardErrorPath</key>
-    <string>/Users/katjajung/Desktop/claude-workspace-vorlage/scripts/instagram-watch/launchd.err.log</string>
+    <string>/Users/katjajung/claude-workspace-vorlage/scripts/instagram-watch/launchd.err.log</string>
 
     <key>RunAtLoad</key>
     <false/>
