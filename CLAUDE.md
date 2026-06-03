@@ -167,6 +167,14 @@ Hauptziel: Speichern · Teilen · Folgen
 
 Liest automatisch `context/soulclient.md` und `context/brand-voice.md` als Grundlage.
 
+### /karussell-woche
+
+**Zweck:** Komplette Wochen-Produktion — 7 fertige Instagram-Karussells, editierbar in Canva, je mit Caption als Kommentar, abgelegt im Ordner „erstellte Karussells" (`FAHLiWIgZvA`). Der feste Freitags-Output.
+
+Claude wählt die 7 Themen **selbst** (Trend via Instagram-Späher + WebSearch + eigene Top-Performer, vor allem nach Soul Client), schreibt in Brand Voice, rendert über die bewährte HTML→PDF-Pipeline (Foto fest eingebacken), hostet temporär auf Cloudflare, importiert als editierbare Canva-Designs, legt sie ab und kommentiert die Captions. Immer exakt diese Vorlage — nicht neu designen. Vollständige Schritt-für-Schritt-Pipeline in `.claude/commands/karussell-woche.md`.
+
+Läuft **automatisch jeden Freitag** als geplante Aufgabe (siehe Abschnitt „Karussell-Automatik" unten). Manuell jederzeit über `/karussell-woche` auslösbar.
+
 ### /shutdown
 
 **Zweck:** Session sauber beenden — Workspace scannen, aufräumen, alles auf den neuesten Stand bringen.
@@ -262,6 +270,16 @@ auf neue Reels/Posts prüft und Katja per Telegram benachrichtigt.
 - **State:** `state.json` merkt bekannte Beiträge → nur echte Neuigkeiten werden gemeldet.
 - **Secrets:** `config.json` (Apify- + Telegram-Token) ist gitignored, nie committen.
 - **Setup & Details:** `scripts/instagram-watch/README.md`.
+
+## Karussell-Automatik (Freitag)
+
+Katjas wöchentliche Instagram-Karussells laufen **vollautomatisch jeden Freitag** — sie wählt die Themen nicht mehr selbst, Claude macht alles.
+
+- **Geplante Aufgabe:** `karussell-woche-freitag` (via `mcp__scheduled-tasks`), Cron `30 7 * * 5` (Freitag 7:30 Lokalzeit). Gespeichert unter `~/.claude/scheduled-tasks/karussell-woche-freitag/SKILL.md`.
+- **Ablauf:** folgt exakt `.claude/commands/karussell-woche.md` — 7 Themen autonom nach Trend + Soul Client (immer spezifisch, nie generisch), Inhalte in Brand Voice, HTML→PDF rendern (Foto eingebacken), temporär auf Cloudflare hosten, als editierbare Canva-Designs importieren, in Ordner „erstellte Karussells" (`FAHLiWIgZvA`) ablegen, Captions als Kommentar, temp-Hosting löschen, Katja benachrichtigen.
+- **Wichtig:** Geplante Aufgaben laufen, **während die Claude-App offen ist**. Ist sie zum Fälligkeitszeitpunkt zu, läuft die Aufgabe beim nächsten Öffnen nach.
+- **Produktionsbausteine:** `outputs/karussell/build.py` (Inhalt `CAROUSELS` + PNG-Renderer), `build_pdf.py` (editierbare PDFs), `bake_photo.py` (Gradient ins Foto backen → `cover_bg.png`/`close_bg.png`), `KARUSSELLS.md` (Captions). Design-System-Details + bekannte Import-Tücken im Memory `project_karussell_design_system.md`.
+- **Status:** Testphase (2–3 Wochen ab 2026-06-03). Katja gibt zwischendurch Feedback; Format/Themenwahl danach justieren — nicht eigenmächtig umbauen.
 
 ## Notizen
 
