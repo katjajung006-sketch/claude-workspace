@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de"><head><meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--sand:#D8C7B2;--cream:#F4EFE7;--clay:#9A7461;--espresso:#3A2D28;}
+*{margin:0;padding:0;box-sizing:border-box;}
+html,body{background:#1a1a1a;}
+::-webkit-scrollbar{display:none;}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;display:none;font-family:'DM Sans',sans-serif;}
+.slide.active{display:block;}
+.photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 22%;}
+.scrim{position:absolute;inset:0;}
+.cover .scrim{background:linear-gradient(to bottom,rgba(58,45,40,.15) 0%,rgba(58,45,40,.35) 48%,rgba(58,45,40,.86) 100%);}
+.close .scrim{background:linear-gradient(to bottom,rgba(58,45,40,.30) 0%,rgba(58,45,40,.55) 40%,rgba(58,45,40,.92) 100%);}
+.bottom{position:absolute;left:0;right:0;bottom:0;padding:0 96px 110px;}
+.eyebrow{font-family:'DM Sans',sans-serif;font-weight:500;font-size:24px;letter-spacing:.24em;text-transform:uppercase;color:var(--sand);margin-bottom:30px;}
+.cover h1{font-family:'Libre Baskerville',serif;font-weight:700;font-size:70px;line-height:1.2;color:var(--cream);letter-spacing:-.5px;}
+.cover .sub{font-family:'DM Sans',sans-serif;font-weight:400;font-size:30px;line-height:1.45;color:rgba(244,239,231,.82);margin-top:30px;max-width:780px;}
+.content-slide{background:var(--sand);}
+.content-slide .num{position:absolute;top:84px;right:104px;font-family:'Libre Baskerville',serif;font-weight:700;font-size:290px;line-height:1;color:var(--cream);opacity:.62;letter-spacing:-6px;}
+.content-slide .body{position:absolute;left:104px;right:104px;top:50%;transform:translateY(-50%);}
+.content-slide .body p{font-family:'Libre Baskerville',serif;font-weight:400;font-size:56px;line-height:1.42;color:var(--espresso);max-width:872px;}
+.footer{position:absolute;left:104px;bottom:78px;font-family:'DM Sans',sans-serif;font-weight:500;font-size:23px;letter-spacing:.04em;color:var(--clay);}
+.close .relief{font-family:'Libre Baskerville',serif;font-weight:700;font-size:58px;line-height:1.3;color:var(--cream);max-width:872px;}
+.close .cta{font-family:'DM Sans',sans-serif;font-weight:500;font-size:30px;line-height:1.45;color:var(--sand);margin-top:34px;}
+</style></head><body>
+
+<section class="slide cover active" data-slide="1">
+<img class="photo" src="file:///Users/katjajung/claude-workspace-vorlage/outputs/karussell/katja.jpg" alt="">
+<div class="scrim"></div>
+<div class="bottom">
+<div class="eyebrow">YOGA OHNE LEISTUNGSDRUCK</div>
+<h1>3 ruhige Haltungen für einen Körper, der abends nicht runterkommt.</h1>
+<div class="sub">Keine Übung zum Können. Eine Einladung zum Loslassen.</div>
+</div></section>
+<section class="slide content-slide" data-slide="2">
+<div class="num">1</div>
+<div class="body"><p>Kindhaltung. Knie auseinander, Stirn auf die Matte oder ein Kissen. Hier darfst du dich kurz nicht halten müssen.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="3">
+<div class="num">2</div>
+<div class="body"><p>Beine hoch an die Wand. Becken nah ran, Arme weit. Der Körper merkt: ich muss gerade nirgends hin.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="4">
+<div class="num">3</div>
+<div class="body"><p>Liegende Drehung. Knie zur Seite fallen lassen, Blick zur anderen. Du gibst den Tag aus den Schultern ab.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide close" data-slide="5">
+<img class="photo" src="file:///Users/katjajung/claude-workspace-vorlage/outputs/karussell/katja.jpg" alt="">
+<div class="scrim"></div>
+<div class="bottom">
+<div class="relief">Du musst den Tag nicht abarbeiten, um runterzukommen. Manchmal reicht es, dich hinzulegen — und zu bleiben.</div>
+<div class="cta">Speicher dir die drei — für den nächsten Abend, der nicht aufhören will.</div>
+</div></section>
+
+<script>
+function show(n){document.querySelectorAll('.slide').forEach(s=>s.classList.remove('active'));
+var el=document.querySelector('.slide[data-slide="'+n+'"]');if(el)el.classList.add('active');}
+var p=new URLSearchParams(location.search).get('slide');if(p)show(p);
+</script></body></html>
