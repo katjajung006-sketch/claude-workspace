@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Karussell-Test</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --sand:#D8C7B2; --cream:#F4EFE7; --clay:#9A7461;
+    --espresso:#3A2D28; --sage:#A8AEA0; --copper:#B66F55; --mauve:#A9878A;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{background:#1a1a1a;}
+  ::-webkit-scrollbar{display:none;}
+  .slide{
+    width:1080px;height:1350px;position:relative;overflow:hidden;
+    display:none;font-family:'DM Sans',sans-serif;
+  }
+  .slide.active{display:block;}
+
+  /* ---------- FOTO-COVER ---------- */
+  .cover{background:var(--espresso);}
+  .cover img{
+    position:absolute;inset:0;width:100%;height:100%;
+    object-fit:cover;object-position:center 22%;
+  }
+  .cover .scrim{
+    position:absolute;inset:0;
+    background:linear-gradient(to bottom,
+      rgba(58,45,40,.15) 0%,
+      rgba(58,45,40,.35) 48%,
+      rgba(58,45,40,.86) 100%);
+  }
+  .cover .content{
+    position:absolute;left:0;right:0;bottom:0;
+    padding:0 96px 110px;
+  }
+  .eyebrow{
+    font-family:'DM Sans',sans-serif;font-weight:500;
+    font-size:24px;letter-spacing:.24em;text-transform:uppercase;
+    color:var(--sand);margin-bottom:30px;
+  }
+  .cover h1{
+    font-family:'Libre Baskerville',serif;font-weight:700;
+    font-size:78px;line-height:1.18;color:var(--cream);
+    letter-spacing:-.5px;
+  }
+  .cover .sub{
+    font-family:'DM Sans',sans-serif;font-weight:400;
+    font-size:30px;line-height:1.45;color:rgba(244,239,231,.82);
+    margin-top:30px;max-width:760px;
+  }
+
+  /* ---------- SANDBEIGE INHALTS-SLIDE ---------- */
+  .content-slide{background:var(--sand);}
+  .content-slide .num{
+    position:absolute;top:90px;right:104px;
+    font-family:'Libre Baskerville',serif;font-weight:700;
+    font-size:300px;line-height:1;color:var(--cream);
+    opacity:.62;letter-spacing:-6px;
+  }
+  .content-slide .body{
+    position:absolute;left:104px;right:104px;
+    top:50%;transform:translateY(-50%);
+  }
+  .content-slide .body p{
+    font-family:'Libre Baskerville',serif;font-weight:400;
+    font-size:62px;line-height:1.4;color:var(--espresso);
+    max-width:840px;
+  }
+  .footer{
+    position:absolute;left:104px;bottom:78px;
+    font-family:'DM Sans',sans-serif;font-weight:500;
+    font-size:23px;letter-spacing:.04em;color:var(--clay);
+  }
+
+  /* ---------- FOTO-SCHLUSS ---------- */
+  .close{background:var(--espresso);}
+  .close img{
+    position:absolute;inset:0;width:100%;height:100%;
+    object-fit:cover;object-position:center 22%;
+  }
+  .close .scrim{
+    position:absolute;inset:0;
+    background:linear-gradient(to bottom,
+      rgba(58,45,40,.30) 0%,
+      rgba(58,45,40,.55) 40%,
+      rgba(58,45,40,.92) 100%);
+  }
+  .close .content{
+    position:absolute;left:0;right:0;bottom:0;
+    padding:0 96px 104px;
+  }
+  .close .relief{
+    font-family:'Libre Baskerville',serif;font-weight:700;
+    font-size:60px;line-height:1.3;color:var(--cream);
+    max-width:840px;
+  }
+  .close .cta{
+    font-family:'DM Sans',sans-serif;font-weight:500;
+    font-size:30px;line-height:1.45;color:var(--sand);
+    margin-top:36px;
+  }
+</style>
+</head>
+<body>
+
+  <!-- SLIDE 1: FOTO-COVER -->
+  <section class="slide cover active" data-slide="1">
+    <img src="katja.jpg" alt="">
+    <div class="scrim"></div>
+    <div class="content">
+      <div class="eyebrow">Der Körper im Funktionsmodus</div>
+      <h1>7 stille Zeichen, dass du nur noch funktionierst.</h1>
+      <div class="sub">Nicht laut. Nicht dramatisch. Einfach leise da.</div>
+    </div>
+  </section>
+
+  <!-- SLIDE 2: SANDBEIGE INHALT -->
+  <section class="slide content-slide" data-slide="2">
+    <div class="num">1</div>
+    <div class="body">
+      <p>Du merkst erst, dass du erschöpft bist, wenn du dich endlich hinsetzt.</p>
+    </div>
+    <div class="footer">@yoga.statt.funktionieren</div>
+  </section>
+
+  <!-- SLIDE 3: FOTO-SCHLUSS -->
+  <section class="slide close" data-slide="3">
+    <img src="katja.jpg" alt="">
+    <div class="scrim"></div>
+    <div class="content">
+      <div class="relief">Du bist nicht zu empfindlich. Du bist nur zu lange über dich hinweggegangen.</div>
+      <div class="cta">Speicher dir das — für den Tag, an dem du's wieder vergisst.</div>
+    </div>
+  </section>
+
+<script>
+  function show(n){
+    document.querySelectorAll('.slide').forEach(s=>s.classList.remove('active'));
+    var el=document.querySelector('.slide[data-slide="'+n+'"]');
+    if(el)el.classList.add('active');
+  }
+  var p=new URLSearchParams(location.search).get('slide');
+  if(p)show(p);
+</script>
+</body>
+</html>
