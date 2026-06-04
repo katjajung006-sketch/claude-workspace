@@ -54,7 +54,6 @@ def slides_html(c, cover_uri, close_uri):
     out.append(f'''<section class="slide cover">
 <img class="photo" src="{cover_uri}" alt="">
 <div class="bottom">
-<div class="eyebrow">{esc(c["eyebrow"])}</div>
 <h1>{esc(c["cover"]["hook"])}</h1>
 <div class="sub">{esc(c["cover"]["sub"])}</div>
 </div></section>''')

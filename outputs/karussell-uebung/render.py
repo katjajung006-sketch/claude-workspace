@@ -53,7 +53,6 @@ def build_html(c, photo_uri):
 <img class="photo" src="{photo_uri}" alt="">
 <div class="scrim"></div>
 <div class="bottom">
-<div class="eyebrow">{esc(c["eyebrow"])}</div>
 <h1>{esc(c["cover"]["hook"])}</h1>
 <div class="sub">{esc(c["cover"]["sub"])}</div>
 </div></section>''')

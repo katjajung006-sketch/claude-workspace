@@ -43,7 +43,7 @@ Freebie 1: **Der Funktionsmodus-Check** (fertig, PDF)
 - 7 Zeichen, dass du nur noch funktionierst + 1-Minuten-Körperanker
 - CTA am Ende → Telegram (Mini Produkt, Placeholder noch leer)
 
-Freebie 2: **5 Tage zurück in deinen Körper** (PDF fertig, Audios noch ausstehend)
+Freebie 2: **5 Tage zurück in deinen Körper** (⏳ NOCH NICHT FERTIG — zählt aktuell NICHT, nicht in Content-/Freebie-CTAs verwenden, bis Katja Bescheid gibt; Stand 2026-06-04)
 - 5 Tage, 3–5 Minuten/Tag, kein Equipment nötig
 - Struktur pro Tag: 1 Impuls + 1 Übung + 1 Satz + 1 Mini-Reflexion
 - CTA am Ende → Telegram + Upsell (Placeholder noch leer)
