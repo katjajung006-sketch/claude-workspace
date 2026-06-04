@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de"><head><meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--sand:#D8C7B2;--cream:#F4EFE7;--clay:#9A7461;--espresso:#3A2D28;}
+*{margin:0;padding:0;box-sizing:border-box;}
+html,body{background:#1a1a1a;}
+::-webkit-scrollbar{display:none;}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;display:none;font-family:'DM Sans',sans-serif;}
+.slide.active{display:block;}
+.photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 22%;}
+.scrim{position:absolute;inset:0;}
+.cover .scrim{background:linear-gradient(to bottom,rgba(58,45,40,.15) 0%,rgba(58,45,40,.35) 48%,rgba(58,45,40,.86) 100%);}
+.close .scrim{background:linear-gradient(to bottom,rgba(58,45,40,.30) 0%,rgba(58,45,40,.55) 40%,rgba(58,45,40,.92) 100%);}
+.bottom{position:absolute;left:0;right:0;bottom:0;padding:0 96px 110px;}
+.eyebrow{font-family:'DM Sans',sans-serif;font-weight:500;font-size:24px;letter-spacing:.24em;text-transform:uppercase;color:var(--sand);margin-bottom:30px;}
+.cover h1{font-family:'Libre Baskerville',serif;font-weight:700;font-size:70px;line-height:1.2;color:var(--cream);letter-spacing:-.5px;}
+.cover .sub{font-family:'DM Sans',sans-serif;font-weight:400;font-size:30px;line-height:1.45;color:rgba(244,239,231,.82);margin-top:30px;max-width:780px;}
+.content-slide{background:var(--sand);}
+.content-slide .num{position:absolute;top:84px;right:104px;font-family:'Libre Baskerville',serif;font-weight:700;font-size:290px;line-height:1;color:var(--cream);opacity:.62;letter-spacing:-6px;}
+.content-slide .body{position:absolute;left:104px;right:104px;top:50%;transform:translateY(-50%);}
+.content-slide .body p{font-family:'Libre Baskerville',serif;font-weight:400;font-size:56px;line-height:1.42;color:var(--espresso);max-width:872px;}
+.footer{position:absolute;left:104px;bottom:78px;font-family:'DM Sans',sans-serif;font-weight:500;font-size:23px;letter-spacing:.04em;color:var(--clay);}
+.close .relief{font-family:'Libre Baskerville',serif;font-weight:700;font-size:58px;line-height:1.3;color:var(--cream);max-width:872px;}
+.close .cta{font-family:'DM Sans',sans-serif;font-weight:500;font-size:30px;line-height:1.45;color:var(--sand);margin-top:34px;}
+.content-slide .kicker{font-family:'DM Sans',sans-serif;font-weight:500;font-size:24px;letter-spacing:.24em;text-transform:uppercase;color:var(--clay);margin-bottom:28px;}
+</style></head><body>
+
+<section class="slide cover active" data-slide="1">
+<img class="photo" src="file:///Users/katjajung/claude-workspace-vorlage/outputs/karussell-einstieg/../karussell/katja.jpg" alt="">
+<div class="scrim"></div>
+<div class="bottom">
+<div class="eyebrow">YOGA OHNE LEISTUNGSDRUCK</div>
+<h1>Du musst nicht beweglich sein, um mit Yoga anzufangen.</h1>
+<div class="sub">Du musst dich nur nicht länger übergehen wollen.</div>
+</div></section>
+<section class="slide content-slide" data-slide="2">
+<div class="body"><div class="kicker">Kennst du das</div><p>Die meisten Yoga-Videos zeigen Frauen, die sich mühelos verbiegen. Du schaust zu und denkst: Nicht mein Körper. Nicht meine Zeit. Und klickst weg.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="3">
+<div class="num">1</div>
+<div class="body"><p>Beweglichkeit ist kein Eintrittspreis. Yoga beginnt nicht im Körper, der schon alles kann — sondern in dem, der wieder spüren darf.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="4">
+<div class="num">2</div>
+<div class="body"><p>Du musst keine Haltung perfekt halten. Du darfst dich hinsetzen, atmen und merken: Ich bin noch da.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="5">
+<div class="num">3</div>
+<div class="body"><p>Die Übungen, die wirklich etwas verändern, sehen nach fast nichts aus. Beine an die Wand. Hand auf den Bauch. Langsam ausatmen.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="6">
+<div class="num">4</div>
+<div class="body"><p>Und es muss nicht lang sein. 3 Minuten reichen, damit dein Körper kurz aus dem Funktionieren aussteigt.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="7">
+<div class="body"><div class="kicker">Neu gedacht</div><p>Vielleicht ist Yoga für dich nicht der Weg, beweglicher zu werden. Vielleicht ist es der Weg, dich im eigenen Alltag wieder zu bemerken.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide content-slide" data-slide="8">
+<div class="body"><div class="kicker">Dein erster Schritt</div><p>Der erste Schritt ist kleiner, als du denkst: einmal ehrlich spüren, wie es dir geht. Genau dafür gibt's den Funktionsmodus-Check — 7 Zeichen + deine erste 3-Minuten-Rückkehr.</p></div>
+<div class="footer">@yoga.statt.funktionieren</div>
+</section>
+<section class="slide close" data-slide="9">
+<img class="photo" src="file:///Users/katjajung/claude-workspace-vorlage/outputs/karussell-einstieg/../karussell/katja.jpg" alt="">
+<div class="scrim"></div>
+<div class="bottom">
+<div class="relief">Du musst nicht mehr leisten, um zurückzufinden. Du darfst einfach anfangen, wieder hinzuspüren.</div>
+<div class="cta">Kommentiere ANKOMMEN — ich schicke dir den Funktionsmodus-Check, deinen ersten Schritt zurück zu dir.</div>
+</div></section>
+
+<script>
+function show(n){document.querySelectorAll('.slide').forEach(s=>s.classList.remove('active'));
+var el=document.querySelector('.slide[data-slide="'+n+'"]');if(el)el.classList.add('active');}
+var p=new URLSearchParams(location.search).get('slide');if(p)show(p);
+</script></body></html>
