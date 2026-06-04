@@ -155,3 +155,61 @@ Sondern:
 > 5 Minuten für dich sind kein weiterer Punkt auf der To-do-Liste.
 > Sie sind ein neuer Standard.
 > Eine Frau, die alles trägt, darf nicht der letzte Ort sein, an dem sie selbst ankommt.
+
+---
+
+## 10. Welche Probleme Katja löst (Ergebnisse, die zählen)
+
+> Das sind die echten Ergebnisse — nicht „beweglicher werden". Jeder Punkt ist ein möglicher Content-Winkel, ein Hook, ein Caption-Kern, ein Versprechen für ein Angebot. In Katjas eigenen Worten.
+
+**Zurück in den Körper**
+- sie kommt aus dem Kopf zurück in den Körper
+- sie kommt aus dem ständigen Aushalten ins bewusste Wahrnehmen
+- sie fühlt sich ihrem Körper wieder näher
+- sie entwickelt wieder Vertrauen in ihren Körper
+- sie hört auf, gegen ihren Körper zu kämpfen
+- sie nimmt Körpersignale ernster
+- sie hört auf, Warnsignale zu übergehen
+
+**Das Muster erkennen (Funktionsmodus)**
+- sie erkennt Funktionsmuster
+- sie merkt, dass ihr Problem nicht fehlende Disziplin ist
+- sie erkennt, dass ständiges Funktionieren kein Charakterzug, sondern ein Muster ist
+- sie erkennt die Kosten ihres permanenten Funktionierens
+- sie versteht, warum Urlaub und Wellness das eigentliche Problem nicht lösen
+- sie erkennt den Unterschied zwischen Müdigkeit und Erschöpfung
+- sie bekommt eine Sprache für ihren Zustand
+
+**Früher spüren statt zusammenbrechen**
+- sie lernt, eigene Grenzen früher zu spüren
+- sie lernt, Stress früher zu bemerken statt erst beim Zusammenbruch
+- sie spürt wieder, wann etwas zu viel wird
+- sie lernt, ihre Energie bewusster zu schützen
+- sie muss nicht mehr erst komplett erschöpft sein, um sich eine Pause zu erlauben
+
+**Erlaubnis & Selbstwert**
+- sie hört auf, jede Pause verdienen zu müssen
+- sie erlaubt sich, Bedürfnisse wahrzunehmen, ohne sie sofort wegzuschieben
+- sie lernt, sich selbst wichtig zu nehmen, bevor alles andere erledigt ist
+- sie trifft Entscheidungen nicht nur aus Pflichtgefühl heraus
+- sie entwickelt mehr Mitgefühl für sich selbst
+- sie fühlt sich wieder lebendig statt nur leistungsfähig
+- sie fühlt sich wieder als Mensch – nicht nur als die, die für alles zuständig ist
+- sie lebt nicht länger nur für das, was erledigt werden muss
+
+**Zurück zu sich selbst**
+- sie nimmt sich selbst wieder mit
+- sie hört auf, sich selbst auf dem Weg durch den Tag zu verlieren
+- sie findet zurück zu dem, was ihr wirklich guttut
+- sie findet zurück zu ihrer eigenen Wahrheit
+- sie erinnert sich daran, wie es sich anfühlt, wirklich bei sich zu sein
+
+**Ruhe & Selbstfürsorge ohne Druck**
+- sie findet kleine Inseln im Alltag
+- sie findet zurück zu innerer Ruhe, ohne ihr Leben komplett verändern zu müssen
+- sie baut eine neue Beziehung zu Ruhe auf
+- sie entdeckt, dass Selbstfürsorge nicht noch eine weitere Aufgabe sein muss
+- sie erlebt, dass Veränderung auch in kleinen Schritten möglich ist
+
+**Sie ist nicht allein**
+- sie fühlt sich weniger allein
