@@ -179,6 +179,17 @@ Output: Carousel-Slides (7–9, Hook → Einordnung → Schritt-für-Schritt →
 Format: warmer (auch kalter) Traffic · Lösungsbewusstsein · konkreter, machbarer Einstieg ohne Leistungsdruck. Wirkung jeder Übung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe).
 Hauptziel: Speichern + Freebie holen.
 
+### /karussell-einstieg [thema | winkel]
+
+**Zweck:** Teach-Karussell „Teach + Freebie" — erkennen → körperlich verstehen → kleiner nächster Schritt. Zeigt Frauen 40+, dass Yoga kein weiterer To-do-Punkt ist, sondern der erste Moment am Tag, in dem sie wieder bei sich ankommen. Reines Content-Piece (Text), Rendern optional. Contentsäule: Yoga ohne Leistungsdruck.
+
+- `/karussell-einstieg` → Claude wählt den Teach-Winkel selbst
+- `/karussell-einstieg Warum du nicht beweglich sein musst` → Winkel vorgeben
+
+Output: Carousel-Slides (6–9, Hook → Problem schärfen → Teach-Teil → tiefe Erkenntnis → Freebie-Brücke → CTA) · Caption (eigene Hook → Spiegelung → Learning → Reframe → Freebie-Brücke → Kommentar-CTA) · Kommentar-CTA · 5 Hashtags · optional Story-Sequenz + DM-Antwort.
+Format: kalter + warmer Traffic · Problem- bis Lösungsbewusstsein · Yoga als Tür, nicht als Lösungsversprechen.
+Hauptziel: **Kommentar fürs Freebie (Keyword ANKOMMEN)**. Abgrenzung zu `/karussell-uebung` (eine Übung, Speichern) ist im Skill dokumentiert.
+
 ### /karussell-woche
 
 **Zweck:** Komplette Wochen-Produktion — 7 fertige Instagram-Karussells, editierbar in Canva, je mit Caption als Kommentar, abgelegt im Ordner „erstellte Karussells" (`FAHLiWIgZvA`). Der feste Freitags-Output.
