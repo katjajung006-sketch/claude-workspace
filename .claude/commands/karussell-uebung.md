@@ -266,6 +266,17 @@ Nach der Ausgabe: kurz fragen, ob Übung, Hook, Slide-Texte oder Caption angepas
 
 ---
 
+## Optional — Slides rendern (wenn Katja es will)
+
+Standard ist Text. Will Katja das Karussell **fertig als Bilder**, gibt es den einfachen Weg (ihre Wahl 2026-06-04, statt HTML→PDF→Canva): `outputs/karussell-uebung/render.py` rendert direkt **fertige 1080×1350-PNGs** zum Posten — kein PDF, kein Cloudflare, kein Canva.
+
+- Wiederverwendet das freigegebene Design-System aus `outputs/karussell/build.py` (Sandbeige, Libre Baskerville, Foto + Verlauf in Cover/Schluss) — **nicht neu designen**.
+- Tutorial-Eigenheit: nur die **echten Schritte** tragen die große Zahl (1–4). Einordnung + Zusammenfassung bekommen statt Zahl einen kleinen Kicker im Brand-Stil (z. B. „WARUM" / „KURZ GEFASST").
+- Im Skript die `CAR`-Felder (cover/content/close) durch das neue Karussell ersetzen, dann `python3 outputs/karussell-uebung/render.py`. PNGs landen in `outputs/karussell-uebung/<slug>/`.
+- Will Katja stattdessen ein editierbares Canva-Design (selten für dieses Format), läuft der Weg wie in `.claude/commands/karussell-woche.md` (PDF → temp Cloudflare → `import-design-from-url`).
+
+---
+
 ## Stilregeln
 
 - Der ganze Mehrwert liegt im Karussell — die Leserin versteht die Übung, ohne in die Caption zu müssen.
