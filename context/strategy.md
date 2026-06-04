@@ -39,7 +39,7 @@ Ziel: Noch dieses Jahr den Job kündigen und vollständig vom Business leben.
 
 **Phase 1 — Jetzt (Aufbau):**
 
-Freebie 1: **Der Funktionsmodus-Check** (fertig, PDF)
+Freebie 1: **Der Funktionsmodus-Check** (live, in Instagram-Bio verlinkt — Stand 2026-06-04)
 - 7 Zeichen, dass du nur noch funktionierst + 1-Minuten-Körperanker
 - CTA am Ende → Telegram (Mini Produkt, Placeholder noch leer)
 
@@ -56,10 +56,10 @@ Freebie 2: **5 Tage zurück in deinen Körper** (⏳ NOCH NICHT FERTIG — zähl
   - Sonntag: Kurzes Audio (1–2 Min, eingesprochen von Katja)
 - Inhalte für Wochen 1 & 2 bereits ausgearbeitet
 
-**Erstes Mini-Produkt: „10 Minuten zurück zu dir"** (in Erstellung)
-- Audio-Guide mit begleitendem PDF
-- Audios noch nicht aufgenommen
-- Details noch zu ergänzen
+**Erstes Mini-Produkt: „10 Minuten zurück zu dir" / „Die 10-Minuten-Rückkehr"** (LIVE, Stand 2026-06-04)
+- Geführtes 10-Minuten-Audio + Begleitguide (PDF: 1-Minuten-Anker, 3-Minuten-Körperimpuls, 7-Tage-Rückkehrplan)
+- Zwei Preise: **7 € Tripwire** (exklusiv am Freebie-Weg, ploppt als Upsell nach Freebie-Sicherung) · **17 € öffentlich** (regulär 37 €, Verkaufsseite `10-minuten-rueckkehr.katjajung.com`)
+- Für öffentliche/kalte CTAs immer die 17-€-Seite — die 7 € bleiben Freebie-exklusiv
 
 Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 
