@@ -56,7 +56,8 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 ### A — Wahrer Satz
 - **1 Frame.** Ein wahrer Satz auf ruhigem Hintergrund (Sandbeige-Fläche oder stille B-Roll).
-- Quelle: frisch schreiben im Ton des „Wahre Sätze"-Fundus (z. B. „Du bist nicht erschöpft, weil du zu schwach bist. Du warst nur zu lange stark."). Nicht denselben Satz zweimal.
+- **Framing — „Vielleicht"-Denkanstoß (Standard, von Katja 2026-06-04):** Wahre Sätze in Stories als sanften Denkanstoß formulieren, nicht als Feststellung. Doppeltes „Vielleicht … Vielleicht …" lädt die Frau zum Selbst-Erkennen ein und spielt mit dem Slider „Trifft dich das?" zusammen. Beispiel: „Vielleicht bist du nicht zu empfindlich. Vielleicht hast du nur lange genug überhört, was dein Körper dir längst sagt." Die direkte Urteils-Stimme („Du bist nicht …") gehört NICHT in dieses Format — die ist für laute Momente (Reel-Hook, Baustein D „Leiser Take").
+- Frisch schreiben, im Ton des „Wahre Sätze"-Fundus. Nicht denselben Satz zweimal.
 - **Sticker:** Emoji-Slider „Trifft dich das?" *oder* schlichte Textzeile „Speicher dir das – oder schick's einer Frau, die das gerade auch braucht."
 - **Job:** Vertrauen + Teilen.
 
