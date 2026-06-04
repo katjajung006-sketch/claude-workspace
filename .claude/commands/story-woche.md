@@ -1,0 +1,166 @@
+# Story-Woche
+
+> Komplette Wochen-Produktion für Instagram-Stories: 7 Tage (Montag–Sonntag) fertige, copy-fertige Story-Frames — Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. Faceless: B-Roll + Text-Overlay, kein In-die-Kamera-Sprechen nötig.
+
+Läuft auf Zuruf, nicht automatisch. Inhalte wählt Claude selbst — frisch je Lauf, nie wiederholt, immer spezifisch (nie generisch).
+
+---
+
+## Variablen
+
+eingabe: $ARGUMENTS  *(optional — z. B. „ohne angebot" oder „start am dienstag"; sonst Standard-Woche)*
+
+---
+
+## Was am Ende rauskommt
+
+- **7 Tage** (Mo–So) nach festem Rhythmus, jeder Tag mit 1–3 copy-fertigen Frames.
+- Pro Frame: **Text** (fertig zum Tippen/Overlay), **Sticker-Anweisung**, kurzer **B-Roll-/Hintergrund-Hinweis**, an Funnel-Tagen der **richtige Link**.
+- Frischer Inhalt: neue wahre Sätze, neue Impulse, neue Takes — nichts aus der Vorwoche.
+- Kurzer Wochen-Überblick am Ende (welcher Tag welches Ziel hat).
+
+---
+
+## Schritt 0 — Kontext laden (Pflicht, jeder Lauf)
+
+Lies zuerst, damit Stimme und Nische sitzen:
+- `context/soulclient.md` — die funktionierende Frau 40+
+- `context/brand-voice.md` — Tonalität, Power-Words, **verbotene Wörter**, Satzrhythmus
+- `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_content_niche.md` — Nische
+- `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_no_generic.md` — nichts darf generisch klingen
+- `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_content_story_dm.md` — DM-Antwort, wo Keyword/DM-Mechanik
+- `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/project_freebie_inventory.md` — welches Freebie/Angebot live ist (für korrekte Links)
+
+**Harte Leitplanken (nicht verhandelbar):**
+- Nur **Funktionsmodus** + **einfache Yoga-/Atemimpulse**. NIEMALS „Nervensystem", „Vagusnerv", „Regulation", Fachsprache.
+- Verbotene Marken-Wörter: High Performance, Disziplin (außer in Verneinung), Challenge, Transformation, Selbstoptimierung, Selfcare, „du musst nur", „Zeit für dich nehmen" u. Ä. (siehe brand-voice).
+- **Kein Satz darf nach KI klingen.** Keine Floskeln, kein gleichförmiger Rhythmus, keine „Das ist nicht X, sondern Y"-Masche.
+- Geduzt, nie gesiezt. Kein Emoji im Frame-Text, außer Katja gibt eines vor (Emojis nur in Sticker-/Hinweis-Zeilen erlaubt).
+
+---
+
+## Story-Mechanik (aus der Marktrecherche — fest eingebaut)
+
+- **Ein Story-Run = ein Ziel.** An Funnel-Tagen nie Freebie + Angebot + DM mischen. Eine Handlung.
+- **Polls/This-or-That max. 2–3×/Woche** (Mo, Sa und ggf. einmal spontan) — sonst stumpft es ab.
+- **Kurz halten, Bestes zuerst.** Pro Tag selten mehr als 3 Frames. Der erste Frame entscheidet, ob jemand bleibt.
+- **Interaktion ist der Hebel:** Sticker (Poll, Frage-Box, Emoji-Slider) bringen mehr Antworten → Algorithmus zeigt Katjas Stories danach weiter vorne. Mindestens jeden Tag *ein* Interaktions- oder Bindungs-Element.
+- **Faceless ist gewollt:** ruhige B-Roll + Text-Overlay. Bildsprache in Katjas Sandbeige/Creme-Welt (#D8C7B2 / #F4EFE7), Tageslicht, ruhige Settings.
+- **Posten am besten abends 18–22 Uhr** (die Feierabend-Frau). Diesen Hinweis am Ende einmal mitgeben.
+
+---
+
+## Die Format-Bausteine
+
+Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
+
+### A — Wahrer Satz
+- **1 Frame.** Ein wahrer Satz auf ruhigem Hintergrund (Sandbeige-Fläche oder stille B-Roll).
+- Quelle: frisch schreiben im Ton des „Wahre Sätze"-Fundus (z. B. „Du bist nicht erschöpft, weil du zu schwach bist. Du warst nur zu lange stark."). Nicht denselben Satz zweimal.
+- **Sticker:** Emoji-Slider „Trifft dich das?" *oder* schlichte Textzeile „Speicher dir das – oder schick's einer Frau, die das gerade auch braucht."
+- **Job:** Vertrauen + Teilen.
+
+### B — Spür-Check (This-or-That)
+- **1 Frame.** Stille B-Roll + eine This-or-That-Frage.
+- **Sticker:** Umfrage mit zwei Optionen, z. B. „Heute eher: nur funktioniert ◻ / kurz bei mir gewesen ◻".
+- **Job:** Engagement-Signal + DM-Öffner. Nur an Poll-Tagen einsetzen.
+
+### C — Mini-Körperimpuls
+- **2–3 Frames.** Mikro-Übung zum Sofort-Mitmachen (B-Roll: Hände, Füße, Schultern, Fenster).
+- Aufbau: Frame 1 = der Moment („Wenn dein Nacken fest ist und dein Kopf voll …"). Frame 2 = die Übung (1–2 klare Handlungen, Atem unkompliziert lassen). Frame 3 (optional) = innere Frage oder Signal-Satz („Ich bin wieder da.").
+- Themen variieren: Füße spüren · Schultern sinken · Kiefer weich · Hand auf Bauch · langsam ausatmen · Nacken lösen.
+- **Sticker:** optional Frage-Sticker „Wie fühlt sich das gerade an?".
+- **Job:** Wert + Speichern.
+
+### D — Leiser Take (Klartext)
+- **1–2 Frames.** Ein klarer Standpunkt, der einen neuen Standard setzt (Manifestor-Energie: benennen, nicht überzeugen).
+- Aufbau: Frame 1 = der Take („Mehr Disziplin ist selten die Antwort."). Frame 2 = die Brücke („Was du oft brauchst, ist kein neuer Plan – sondern ein Moment, in dem du aufhörst, gegen dich zu leben.").
+- **Sticker:** Frage-Sticker „Wie siehst du das?" / Antwort-Aufruf.
+- **Job:** Autorität + DMs.
+
+### E — Was brauchst du? (Frage-Box)
+- **1 Frame.** Offene Frage-Box an die Frauen 40+.
+- **Sticker:** Frage-Box, z. B. „Was übergehst du gerade an dir – ganz ehrlich?" / „Was würdest du tun, wenn heute 10 Minuten nur dir gehören?".
+- **Job:** Nähe + Zielgruppen-Wissen. Antworten kann Katja später als Reel-/Karussell-Stoff nutzen.
+
+### F — Anstoß (Recycling)
+- **1 Frame.** Das neueste Reel/Karussell als Story teilen + ein persönlicher Text-Frame davor/dabei („Das hier wollte ich dir heute zeigen ↓").
+- **Sticker:** Beitrags-Sticker (Re-Share des eigenen Posts).
+- **Job:** Reichweite für den Feed. Nur an Tagen mit frischem Feed-Post.
+
+### G — Einladung (Funnel — EIN Ziel)
+- **2–3 Frames.** Kurze Sequenz: Frame 1 = Moment/Wiedererkennung. Frame 2 = Spiegelung/Empathie. Frame 3 = Handlung mit Link-Sticker.
+- **Drei Ziel-Varianten (pro Lauf nur passend einsetzen, nicht mischen):**
+  - **Freebie** „Funktionsmodus-Check" (live, in Bio verlinkt): Link-Sticker beschriftet „Funktionsmodus-Check holen" → Opt-in-Seite, oder „Link in meiner Bio".
+  - **Telegram-Gruppe** „Zurück zu dir" (kostenlos): Einladung in die Community.
+  - **Angebot** „10-Minuten-Rückkehr" (17 €): Link-Sticker „Ich will zurück zu mir" → **`10-minuten-rueckkehr.katjajung.com`** (öffentliche Verkaufsseite). **NIE direkt zur Kasse.** Der 7-€-Tripwire bleibt Freebie-exklusiv und kommt **nicht** in Stories.
+- **DM-Antwort:** Wenn die Einladung mit Keyword-Mechanik läuft („Schreib mir ANKOMMEN"), eine kurze, warme DM-Antwort mitliefern (Begrüßung → Link → ein ehrlicher Satz). Nie generisch.
+- **Job:** Conversion.
+
+### H — Behind-the-Scenes / Aufbau-Moment
+- **1–2 Frames.** Ein echter, leiser Moment: Brand-Aufbau neben dem Job, Feierabend, Tee, Laufband-Spaziergang, Schreibtisch. Ehrlich, nicht inszeniert — spiegelt die arbeitende Frau 40+.
+- **Sticker:** optional Slider/Frage.
+- **Job:** Nähe, Menschlichkeit.
+
+---
+
+## Der Wochen-Rhythmus (an Katjas Telegram angedockt)
+
+Telegram läuft Mo (wahrer Satz), Do (Körperimpuls), So (Audio) — die Stories stützen das, statt doppelt zu erfinden.
+
+| Tag | Bausteine | Ziel |
+|---|---|---|
+| **Montag** | A (Wahrer Satz) + B (Spür-Check) | Vertrauen + Engagement-Signal |
+| **Dienstag** | C (Mini-Körperimpuls) + F (Anstoß, wenn Feed-Post da) | Wert + Reichweite |
+| **Mittwoch** | D (Leiser Take) | Autorität + DMs |
+| **Donnerstag** | C (Mini-Körperimpuls) + E (Frage-Box) | Wert + Zielgruppen-Wissen |
+| **Freitag** | A (Wahrer Satz) + G (Einladung → Freebie) | Vertrauen + Conversion |
+| **Samstag** | H (Behind-the-Scenes) + B (Spür-Check) | Nähe + Engagement |
+| **Sonntag** | A (Wahrer Satz) + G (Einladung → Telegram, Audio-Teaser) | Vertrauen + Community |
+
+Grobe Mischung über die Woche: ~70 % Wert/Vertrauen, ~20 % Nähe/Interaktion, ~10 % Conversion. Höchstens 1–2 Funnel-Tage pro Woche.
+
+Argumente passen das an: „ohne angebot" → Freitag/Sonntag-Einladung weicher (nur Telegram/Speichern); „start am dienstag" → Reihenfolge verschieben.
+
+---
+
+## Spezifisch statt generisch — der wichtigste Test
+
+Jeder Frame muss an einem **konkreten, schmalen Moment** der Soul-Client hängen.
+- Generisch (verboten): „Gönn dir Ruhe", „Selbstfürsorge ist wichtig", „Atme tief durch".
+- Spezifisch (so): „Der Moment im Auto, in dem du kurz nicht aussteigen willst.", „Abends auf dem Sofa, aber im Kopf läuft die nächste Liste."
+- Vor dem Schreiben gegen die Soul-Client halten: Würde **sie** beim Durchtippen kurz innehalten und denken „das bin ich"? Wenn nicht — verwerfen.
+
+---
+
+## Ausgabe-Format
+
+Pro Tag ein klarer Block:
+
+```
+### MONTAG · Vertrauen + Engagement-Signal
+
+**Frame 1 — Wahrer Satz**
+[Frame-Text, copy-fertig]
+🟫 Hintergrund: [B-Roll-/Flächen-Hinweis]
+🎯 Sticker: Emoji-Slider „Trifft dich das?"
+
+**Frame 2 — Spür-Check**
+[Frame-Text]
+🎯 Sticker: Umfrage — „[Option A]" / „[Option B]"
+```
+
+An Einladungs-Tagen den Link klar nennen (Ziel + URL/„Link in Bio") und — bei Keyword-Mechanik — die DM-Antwort separat darunter.
+
+**Am Ende des ganzen Laufs:** der Wochen-Überblick (Tabelle Tag → Ziel) + der Hinweis „Am besten abends 18–22 Uhr posten."
+
+**Danach:** kurz fragen, ob ein Tag angepasst werden soll.
+
+---
+
+## Nicht tun
+
+- **Nicht** nach Notion archivieren — nur wenn Katja ausdrücklich abnimmt („passt so" / „perfekt"). Dann in die Datenbank „Story Highlights & Stories" (`150c2b99-75fe-4478-94c4-ed52407136ae`), Typ „Story (Einzel)".
+- **Nicht** das Freebie-Angebot falsch verlinken (Freebie → Opt-in/Bio · Angebot → Verkaufsseite, nie Kasse · 7-€-Tripwire nie öffentlich).
+- **Nicht** mehr als 2–3 Polls pro Woche. **Nicht** zwei Funnel-Ziele in einen Tag.
+- **Nicht** generisch, nicht belehrend, nicht antreibend.
