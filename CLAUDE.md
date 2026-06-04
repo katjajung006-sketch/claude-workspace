@@ -167,6 +167,18 @@ Hauptziel: Speichern · Teilen · Folgen
 
 Liest automatisch `context/soulclient.md` und `context/brand-voice.md` als Grundlage.
 
+### /karussell-uebung [übung | anlass]
+
+**Zweck:** Tutorial-Karussell im „All of it in the Post"-Format — eine kleine, konkrete Yoga-, Atem- oder Körperübung, die komplett im Post funktioniert. Reines Content-Piece (Text), kein Rendering. Contentsäule: Yoga ohne Leistungsdruck.
+
+- `/karussell-uebung` → Claude wählt Anlass + Übung selbst aus dem Soulclient-Profil
+- `/karussell-uebung Beine an der Wand` → Übung selbst vorgeben
+- `/karussell-uebung Feierabend-Erschöpfung` → Anlass vorgeben, Claude wählt passende Übung
+
+Output: Carousel-Slides (7–9, Hook → Einordnung → Schritt-für-Schritt → Zusammenfassung → CTA) · 3 Hook-Varianten · Caption (eigener Hook → Spiegelung → Erkenntnis → Bezug zum Karussell → CTA) · 5 Hashtags · optional Design-Hinweise pro Slide.
+Format: warmer (auch kalter) Traffic · Lösungsbewusstsein · konkreter, machbarer Einstieg ohne Leistungsdruck. Wirkung jeder Übung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe).
+Hauptziel: Speichern + Freebie holen.
+
 ### /karussell-woche
 
 **Zweck:** Komplette Wochen-Produktion — 7 fertige Instagram-Karussells, editierbar in Canva, je mit Caption als Kommentar, abgelegt im Ordner „erstellte Karussells" (`FAHLiWIgZvA`). Der feste Freitags-Output.
