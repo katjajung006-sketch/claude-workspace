@@ -235,6 +235,21 @@ Genau **5 Hashtags**, die wirklich zum Thema dieses Reels passen — Mischung au
 
 ---
 
+## Output 6 — Story-Sequenz (immer)
+
+**Immer mitliefern.** 3–5 kurze Stories, die das Thema antippen und zum Reel führen — je Story ein Gedanke + Verweis („neues Reel oben" / „schau's dir an") oder ein Sticker (Frage/Umfrage). Niedrigschwellig, gleiche Stimme wie der Post. Wärmt die Zielgruppe an und holt Profilbesuche, bevor das Reel im Feed läuft.
+
+---
+
+## Output 7 — DM-Antwort (nur wenn der Post eine DM-/Keyword-Mechanik nutzt)
+
+Nur wenn der CTA über Kommentar/Keyword in die DM führt (z. B. „Kommentiere [Keyword]"). Eine warme, kurze Antwort für alle, die kommentieren — kein Verkaufston:
+> So schön, dass du dir diesen Moment nehmen möchtest. Hier ist dein [Freebie/Übung]. Fang wirklich klein an — nicht perfekt, nur ehrlich.
+
+Wenn der Post keine DM-Mechanik hat (reines Speichern/Teilen/Folgen): diesen Output weglassen.
+
+---
+
 ## Ausgabe-Format
 
 ```
@@ -277,6 +292,16 @@ B-ROLL-VORSCHLAG
 HASHTAGS
 
 [5 passende Hashtags]
+
+---
+STORY-SEQUENZ
+
+[3–5 kurze Stories zum Bewerben]
+
+---
+DM-ANTWORT (nur bei DM-/Keyword-Mechanik)
+
+[warme Kurzantwort — sonst diesen Block weglassen]
 
 ---
 ```

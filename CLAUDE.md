@@ -132,7 +132,7 @@ Ohne Argument: fragt nach dem gewünschten Typ.
 - `/reel Müdigkeit` → Thema selbst vorgeben
 - `/format-klammersätze` → Claude wählt Thema und Blickwinkel eigenständig aus dem Soulclient-Profil
 
-Output je Reel: Reel-Text · Thumbnail-Hook (Reelcover) · Caption · B-Roll · 5 passende Hashtags
+Output je Reel: Reel-Text · Thumbnail-Hook (Reelcover) · Caption · B-Roll · 5 passende Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · leise Autorität
 
 ### /reel-yoga [haltung]
@@ -142,7 +142,7 @@ Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · 
 - `/reel-yoga` → Claude wählt Haltung selbst
 - `/reel-yoga Kindhaltung` → Haltung selbst vorgeben
 
-Output: Reel-Hook · Reelcover (Kicker „3-MINUTEN-ÜBUNG" fest + variabler Neugier-Zusatz) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags
+Output: Reel-Hook · Reelcover (Kicker „3-MINUTEN-ÜBUNG" fest + variabler Neugier-Zusatz) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe).
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hauptziel: Speichern · kalter bis warmer Traffic
@@ -154,7 +154,7 @@ Hauptziel: Speichern · kalter bis warmer Traffic
 - `/reel-spiegel` → Claude wählt den Winkel selbst aus dem Soulclient-Profil
 - `/reel-spiegel Ruhe fühlt sich fremd an` → Winkel selbst vorgeben
 
-Output: Text im Video (Hook-Titel + 3–5 Punkte + Schlusssatz) · Thumbnail-Hook · Caption (Hook → Spiegel → Erkenntnis+Brücke → CTA) · 5 Hashtags
+Output: Text im Video (Hook-Titel + 3–5 Punkte + Schlusssatz) · Thumbnail-Hook · Caption (Hook → Spiegel → Erkenntnis+Brücke → CTA) · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Format: Listen-Hook (KEINE Grundformel-Pflicht) · stille Erkenntnis · kalter Traffic · Problem-Bewusstsein
 Hauptziel: Speichern · Teilen · Folgen
 
@@ -175,7 +175,7 @@ Liest automatisch `context/soulclient.md` und `context/brand-voice.md` als Grund
 - `/karussell-uebung Beine an der Wand` → Übung selbst vorgeben
 - `/karussell-uebung Feierabend-Erschöpfung` → Anlass vorgeben, Claude wählt passende Übung
 
-Output: Carousel-Slides (7–9, Hook → Einordnung → Schritt-für-Schritt → Zusammenfassung → CTA) · 3 Hook-Varianten · Caption (eigener Hook → Spiegelung → Erkenntnis → Bezug zum Karussell → CTA) · 5 Hashtags · optional Design-Hinweise pro Slide.
+Output: Carousel-Slides (7–9, Hook → Einordnung → Schritt-für-Schritt → Zusammenfassung → CTA) · 3 Hook-Varianten · Caption (eigener Hook → Spiegelung → Erkenntnis → Bezug zum Karussell → CTA) · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM) · optional Design-Hinweise pro Slide.
 Format: warmer (auch kalter) Traffic · Lösungsbewusstsein · konkreter, machbarer Einstieg ohne Leistungsdruck. Wirkung jeder Übung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe).
 Hauptziel: Speichern + Freebie holen.
 
@@ -186,7 +186,7 @@ Hauptziel: Speichern + Freebie holen.
 - `/karussell-einstieg` → Claude wählt den Teach-Winkel selbst
 - `/karussell-einstieg Warum du nicht beweglich sein musst` → Winkel vorgeben
 
-Output: Carousel-Slides (6–9, Hook → Problem schärfen → Teach-Teil → tiefe Erkenntnis → Freebie-Brücke → CTA) · Caption (eigene Hook → Spiegelung → Learning → Reframe → Freebie-Brücke → Kommentar-CTA) · Kommentar-CTA · 5 Hashtags · optional Story-Sequenz + DM-Antwort.
+Output: Carousel-Slides (6–9, Hook → Problem schärfen → Teach-Teil → tiefe Erkenntnis → Freebie-Brücke → CTA) · Caption (eigene Hook → Spiegelung → Learning → Reframe → Freebie-Brücke → Kommentar-CTA) · Kommentar-CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM).
 Format: kalter + warmer Traffic · Problem- bis Lösungsbewusstsein · Yoga als Tür, nicht als Lösungsversprechen.
 Hauptziel: **Kommentar fürs Freebie (Keyword ANKOMMEN)**. Abgrenzung zu `/karussell-uebung` (eine Übung, Speichern) ist im Skill dokumentiert.
 

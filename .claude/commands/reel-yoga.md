@@ -235,6 +235,21 @@ Folgen:
 
 ---
 
+## Output 6 — Story-Sequenz (immer)
+
+**Immer mitliefern.** 3–5 kurze Stories, die das Thema antippen und zum Reel führen — je Story ein Gedanke + Verweis („neue 3-Minuten-Übung oben" / „schau mal") oder ein Sticker (Frage/Umfrage). Niedrigschwellig, gleiche Stimme wie der Post.
+
+---
+
+## Output 7 — DM-Antwort (nur wenn der Post eine DM-/Keyword-Mechanik nutzt)
+
+Nur wenn der CTA über Kommentar/Keyword in die DM führt (z. B. „Kommentiere RUHE"). Eine warme, kurze Antwort für alle, die kommentieren:
+> Schön, dass du dir die 3 Minuten nehmen willst. Hier ist deine Übung — fang klein an, nicht perfekt, nur da sein.
+
+Wenn der Post keine DM-Mechanik hat (reines Speichern/Folgen): diesen Output weglassen.
+
+---
+
 ## Ausgabe-Format
 
 ```
@@ -275,6 +290,16 @@ CAPTION
 HASHTAGS
 
 [5 passende Hashtags]
+
+---
+STORY-SEQUENZ
+
+[3–5 kurze Stories zum Bewerben]
+
+---
+DM-ANTWORT (nur bei DM-/Keyword-Mechanik)
+
+[warme Kurzantwort — sonst diesen Block weglassen]
 
 ---
 ```

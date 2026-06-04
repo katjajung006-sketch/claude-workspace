@@ -166,13 +166,13 @@ Der Freebie-CTA darf nie nach „Lead einsammeln" klingen, sondern nach: „Hier
 
 ---
 
-## Output 4 — Story-Sequenz (optional)
+## Output 4 — Story-Sequenz (immer)
 
-3–5 kurze Stories, die das Thema antippen und zum Karussell führen. Je Story ein Gedanke + Verweis („neuer Beitrag" / „swipe"). Niedrigschwellig, gleiche Stimme. Nur liefern, wenn hilfreich.
+**Immer mitliefern.** 3–5 kurze Stories, die das Thema antippen und zum Karussell führen. Je Story ein Gedanke + Verweis („neuer Beitrag" / „swipe") oder ein Sticker (Frage/Umfrage). Niedrigschwellig, gleiche Stimme wie der Post.
 
 ---
 
-## Output 5 — DM-Antwort (optional)
+## Output 5 — DM-Antwort (nur wenn der Post eine DM-/Keyword-Mechanik nutzt)
 
 Eine warme, kurze Antwort für alle, die das Keyword kommentieren:
 > So schön, dass du dir diesen Moment nehmen möchtest. Hier ist dein [Freebie]. Fang wirklich klein an — nicht perfekt. Nur ehrlich.
@@ -226,12 +226,15 @@ HASHTAGS
 
 [5 passende Hashtags]
 
-(— optional —)
+---
 STORY-SEQUENZ
+
 [3–5 kurze Stories zum Bewerben]
 
-DM-ANTWORT
-[warme Kurzantwort auf das Keyword]
+---
+DM-ANTWORT (nur bei DM-/Keyword-Mechanik)
+
+[warme Kurzantwort auf das Keyword — sonst weglassen]
 
 ---
 ```
