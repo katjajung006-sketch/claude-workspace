@@ -319,6 +319,14 @@ Katjas wöchentliche Instagram-Karussells erstellt Claude **auf Zuruf** — Katj
 - **Auslöser:** `/karussell-woche` (oder Katja bittet darum). Ablauf folgt exakt `.claude/commands/karussell-woche.md` — 7 Themen autonom nach Trend + Soul Client (immer spezifisch, nie generisch), Inhalte in Brand Voice, HTML→PDF rendern (Foto eingebacken), temporär auf Cloudflare hosten, als editierbare Canva-Designs importieren, in Ordner „erstellte Karussells" (`FAHLiWIgZvA`) ablegen, Captions als Kommentar, temp-Hosting löschen.
 - **Produktionsbausteine:** `outputs/karussell/build.py` (Inhalt `CAROUSELS` + PNG-Renderer), `build_pdf.py` (editierbare PDFs), `bake_photo.py` (Gradient ins Foto backen → `cover_bg.png`/`close_bg.png`), `KARUSSELLS.md` (Captions). Design-System-Details + bekannte Import-Tücken im Memory `project_karussell_design_system.md`.
 
+## Instagram Story-Highlight-Cover
+
+Die 7 Highlight-Cover für @yoga.statt.funktionieren sind gebaut (2026-06-05). Look: **nur Strichsymbol (Espresso #3A2D28) auf vollflächigem Sandbeige #D8C7B2, kein Wort**, 1080×1920, Symbol mittig (Instagram stanzt den runden Kreis selbst aus → ganzes Bild gefüllt).
+
+- **Produktion:** `outputs/highlight-covers/gen_final.py` (HTML/CSS → headless Chrome → einzelne PNGs + 7-seitiges PDF). PNGs in `outputs/highlight-covers/final/`.
+- **Canva:** editierbares Design `DAHLvN6rajc` im Ordner „Highlight-Cover" (`FAHLvJtAYGI`). Pipeline = wie Karussells (PDF → temp Cloudflare → `import-design-from-url` als `your_story` → in Ordner verschieben → temp löschen).
+- **Doku:** `reference/highlight-cover.md` (Symbol-Zuordnung je Highlight, Pipeline für neue/​geänderte Cover). Highlights-Liste lebt in der Notion-DB „Story Highlights & Stories".
+
 ## Notizen
 
 - Kontext minimal aber ausreichend halten — kein Bloat
