@@ -73,8 +73,12 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 ## Instagram-Kanal
 
 **Handle:** @yoga.statt.funktionieren
-**Status:** 325 Follower · 40 Beiträge (bereits vorhanden, kein Network-Marketing-Content mehr sichtbar)
-**Bio:** Fertig überarbeitet ✓ · Linktree verlinkt ✓ · Highlights angelegt (Über mich, Funktionsmodus, Alltag) ✓
+**Status:** 324 Follower · 25 Beiträge · 141 Gefolgt (Stand 2026-06-06)
+**Bio:** SEO-optimiert (2026-06-06). Grundprinzip: Instagram durchsucht nur Handle + Namensfeld → Namensfeld trägt das gesuchte Keyword, nicht den (nicht gesuchten) Markensatz „Selbstübergehen".
+- **Namensfeld:** `Katja Jung · Yoga für Frauen 40+` (auffindbar für „Yoga 40+ / Yoga Frauen 40")
+- **Bio-Text:** 🤍 Für Frauen 40+, die für alle da sind. Nur nicht mehr für sich. · 🌿 Kurze Yoga- & Atemimpulse, ohne Druck · ↓ Zurück zu dir — Gratis-Check holen (CTA → Funktionsmodus-Check)
+- **Link:** linktr.ee/katjajung · Highlights angelegt ✓ · später ggf. eigener Markenlink (check.katjajung.com) statt Linktree
+- **Aufgehoben für Content:** Reel-Hook „Du funktionierst. Du hältst durch. Und bist kaum noch bei dir."
 
 **Erste Reels-Performance (bereits gepostet, Funktionsmodus-Themen):**
 - 251 Aufrufe (stärkster Performer)
