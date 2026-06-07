@@ -74,7 +74,7 @@ Jetzt das vollständige, postfertige Reel um den finalen Hook bauen — **exakt 
 - **Reel-Text / Reel-Hook** (On-Screen) — der finale Hook aus Schritt 3
 - **Reelcover** (Thumbnail-Hook; bei Yoga mit festem Kicker „3-MINUTEN-ÜBUNG")
 - **Haltung & Filmhinweis** (Yoga) *bzw.* **B-Roll-Vorschlag** (Funktionsmodus)
-- **Caption** (volle Struktur des jeweiligen Formats — beginnt NIE mit demselben Satz wie das Reel)
+- **Caption** (Struktur des jeweiligen Formats — beginnt NIE mit demselben Satz wie das Reel). **Kurz halten & eng am Hook bleiben:** die Caption löst genau das ein, was der Reel-Text aufmacht, kein Abschweifen; die Zielgruppe ist im Dauerstress, zu lang = wird nicht gelesen. Bausteine sind ein Baukasten, keine Pflicht — streichen, was ein zweites Thema aufmacht (siehe Caption-Grundregel in `reel.md`).
 - **5 Hashtags** (auf dieses Reel zugeschnitten, keine generischen Mega-Tags)
 - **Story-Sequenz** (immer, 3–5 kurze Stories, die zum Reel führen)
 - **DM-Antwort** (nur wenn der Post eine DM-/Keyword-Mechanik nutzt — sonst weglassen)

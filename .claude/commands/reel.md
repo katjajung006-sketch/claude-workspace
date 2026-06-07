@@ -126,6 +126,8 @@ Beispiele (Stil):
 
 **Wichtig:** Die Caption beginnt NICHT mit demselben Satz wie das Reel. Anderer Einstieg — öffnet tiefer.
 
+**Kurz halten & am Hook bleiben (Grundregel).** Die Caption bezieht sich immer eng auf den Reel-Text/Hook und löst genau das ein, was er aufmacht — kein Abschweifen in Nebenthemen. Die Zielgruppe ist im Dauerstress: zu lang oder zu weit vom Hook weg = wird nicht zu Ende gelesen. Im Zweifel kürzen. Die Bausteine unten sind ein Baukasten, keine Pflicht-Checkliste — nimm nur, was den einen Gedanken des Reels trägt, und streiche, was ein zweites Thema aufmacht. Tiefe lieber auf mehrere Posts verteilen als eine Caption überladen. (Achtung: den Atem-/Yoga-Rückweg nicht aus *allen* Captions streichen — er ist Katjas Signature; wenn ein Freebie-CTA den Körperanker schon trägt, darf er in der Caption entfallen.)
+
 ### Caption-Struktur (diese Reihenfolge halten):
 
 **1. Neuer Caption-Hook**
