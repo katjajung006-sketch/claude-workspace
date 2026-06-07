@@ -189,10 +189,11 @@ Kurze Einordnung — warum diese Haltung für diese Frau relevant ist:
 Wenn du den ganzen Tag funktionierst, bleibt dein Körper oft im Modus:
 halten · reagieren · kontrollieren · weitermachen
 
-Diese Haltung ist kein Workout.
-Sie ist ein kleiner Moment, in dem dein Körper wieder merken darf:
+Das ist ein kleiner Moment, in dem dein Körper wieder merken darf:
 Ich muss gerade nichts leisten.
 ```
+
+**Nicht** über das Verbotene definieren („Diese Haltung ist kein Workout/Training") — „Workout" ist ein verbotenes Wort und wird auch durch Verneinung im Kopf gepflanzt. Direkt mit „Das ist ein kleiner Moment, in dem …" einsteigen.
 
 Nie: „Diese Asana stimuliert dein parasympathisches Nervensystem."
 Stattdessen: „Dein Körper merkt langsam: Ich muss gerade nichts leisten."
