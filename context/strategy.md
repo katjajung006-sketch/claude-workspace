@@ -90,6 +90,10 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 - 2 Content-Säulen:
   1. **Yoga ohne Leistungsdruck** — kurze Yoga- & Atemimpulse (Referenz: @entspannungsstudio_anila, Stil: Pose halten + was passiert)
   2. **Der Körper im Funktionsmodus** — Awareness, Wiedererkennung, Identitäts-Content
+- **Rollenteilung der Reels (Grundsatz, Stand 2026-06-07):**
+  - *Yoga-Reels (3-Minuten-Übungen)* = Mehrwert-Job → die konkrete Übung/das „Wie" geben (Ziel: Speichern, Vertrauen).
+  - *Funktionsmodus-Reels (Klammersätze, Spiegel)* = Erkennungs-Job & **Lead-Magnet** → Wert ist das Gesehenwerden, NICHT eine Anleitung. Standardmäßig keine Gratis-Mini-Übung in der Caption; Problembewusstsein öffnen + CTA (oft Freebie). Gratis-Auflösung würde den Grund nehmen, den Funktionsmodus-Check zu holen.
+  - Nicht jedes Funktionsmodus-Reel ist ein Freebie-Pitch: ~2 von 3 auf Reichweite (Speichern/Teilen/Folgen), ~1 gezielt auf Freebie. Der Atem-/Körperanker lebt im Freebie + in den Yoga-Reels.
 
 **Referenz-Reels (@entspannungsstudio_anila):**
 - Pose für mehrere Minuten halten → erklären was passiert
