@@ -87,7 +87,22 @@ Formel 4 — falsche Ursache, wahre Ursache:
 
 Wähle die Formel, die am besten zum gewählten Thema passt. Passe die Füllwörter in [ ] an — aber halte die Grundstruktur exakt.
 
-Klammer-Sätze (Pool):
+**So funktioniert der Klammersatz — Prinzip (immer einhalten):**
+
+Die Klammer ist ein **Trigger, kein Abschluss.** Sie öffnet eine Neugier-Schleife, die erst in der **Caption** aufgelöst wird — nie schon im Reel.
+
+- **Andeuten, nie benennen.** Sie zeigt deiktisch auf die Sache, statt sie aufzuzählen: „diese leisen Signale", „dieser Moment", „das hier". Die Frau soll denken „welche? welcher?" — und genau deshalb weiterlesen.
+- **Auflösung gehört in die Caption.** Die konkreten Signale / der konkrete Moment werden dort aufgeführt. Stehen sie schon in der Klammer, ist der Loop zu — kein Grund mehr weiterzulesen.
+- **Keine Großbuchstaben.** Der Trigger trägt durch die Sprache (das deiktische „diese/dieser"), nicht durch Lautstärke. Caps brechen die leise Markenstimme. Wenn betonen, dann übers Design — ein stiller Akzent, kein Ruf.
+- Die Klammer ist kein Deko — sie ist der emotionale Stich, der zeigt, warum das Muster so lange unbemerkt bleibt.
+
+Beispiel:
+> … weil ihr Alltag trotzdem funktioniert
+> (und genau deshalb nehmen sie diese leisen Signale so lange nicht ernst):
+
+→ Caption löst auf: „Das sind die Signale, die du vielleicht übersiehst: die Schultern, die nie ganz runtergehen. Der Atem, der oben bleibt. Die Müdigkeit, die kein Schlaf mehr nimmt."
+
+Klammer-Sätze (Pool — andeuten, nicht auflösen; deiktisch pointen wo möglich):
 - (und genau deshalb nimmst du es selbst so lange nicht ernst)
 - (weil es von außen so vernünftig aussieht)
 - (bis der Körper irgendwann nicht mehr leise bleibt)
