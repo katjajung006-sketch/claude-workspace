@@ -1,0 +1,9 @@
+Hier dein eigenes Foto als "photo.jpg" ablegen (gleicher Ordner).
+
+- Hochformat, mind. ca. 1080×1350 px (Instagram-Karussell-Format 4:5).
+- Es wird in Cover- und Schluss-Slide verwendet, mit einem dunklen Verlauf
+  unten drüber (damit weisse Schrift lesbar ist).
+- Nach dem Ablegen einmal `python3 bake_photo.py` laufen lassen —
+  das erzeugt cover_bg.png und close_bg.png.
+
+Diese .txt-Datei kann danach gelöscht werden.
