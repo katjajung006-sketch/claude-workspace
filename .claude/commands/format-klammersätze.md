@@ -139,7 +139,7 @@ Beispiele (Stil):
 
 Wichtig: Caption beginnt NICHT mit demselben Satz wie das Reel.
 
-**Kurz halten & am Hook bleiben (Grundregel).** Die Caption bezieht sich immer eng auf den Reel-Text/Hook und löst genau das ein, was er aufmacht — kein Abschweifen in Nebenthemen. Die Zielgruppe ist im Dauerstress: zu lang oder zu weit vom Hook weg = wird nicht zu Ende gelesen. Im Zweifel kürzen. Die Reihenfolge unten ist ein Baukasten, keine Pflicht-Checkliste — nimm nur, was den einen Gedanken des Reels trägt, und streiche, was ein zweites Thema aufmacht. Tiefe lieber auf mehrere Posts verteilen. (Den Atem-/Yoga-Rückweg nicht aus *allen* Captions streichen — Katjas Signature; wenn ein Freebie-CTA den Körperanker schon trägt, darf er in der Caption entfallen.)
+**Kurz halten & am Hook bleiben (Grundregel).** Die Caption bezieht sich immer eng auf den Reel-Text/Hook und löst genau das ein, was er aufmacht — kein Abschweifen in Nebenthemen. Die Zielgruppe ist im Dauerstress: zu lang oder zu weit vom Hook weg = wird nicht zu Ende gelesen. Im Zweifel kürzen. Die Reihenfolge unten ist ein Baukasten, keine Pflicht-Checkliste — nimm nur, was den einen Gedanken des Reels trägt, und streiche, was ein zweites Thema aufmacht. Tiefe lieber auf mehrere Posts verteilen. (**Mini-Übung/Atem-Anker in der Caption ist hier KEIN Standard.** Funktionsmodus-/Klammersatz-Reels sind Erkennungs-Content & Lead-Magnet — der Wert ist das Gesehenwerden, nicht eine Anleitung. Den Körperanker also default weglassen; er lebt im Freebie und in den Yoga-3-Minuten-Reels. Nur einbauen, wenn Katja ihn ausdrücklich will UND kein Freebie-CTA trägt.)
 
 Reihenfolge (Baukasten):
 
@@ -148,7 +148,7 @@ Reihenfolge (Baukasten):
 3. **Entlarvung** — das Muster benennen, ohne zu beschuldigen
 4. **Körperliche Wahrheit** — konkrete Körpersignale, keine Diagnose, kein Drama
 5. **Erkenntnis** — ein Satz, der hängen bleibt
-6. **Sanfter Atem/Yoga-Übergang** — klein, konkret, physischer Anker, ohne Druck
+6. **Atem/Yoga-Übergang (optional, meist weglassen)** — nur wenn Katja ihn ausdrücklich will UND der CTA NICHT auf den Freebie führt. Default: überspringen (siehe Caption-Grundregel oben — diese Reels sind Lead-Magnet, nicht Anleitung)
 7. **CTA** — genau einen, passend zum Ziel des Posts:
    - Speichern: „Speichere dir das, wenn du gerade lernst, wieder mehr bei dir anzukommen."
    - Teilen: „Schick das einer Frau, die immer funktioniert — aber viel zu selten gefragt wird, wie es ihr wirklich geht."
@@ -202,7 +202,7 @@ CAPTION
 
 [Erkenntnis]
 
-[Atem/Yoga-Übergang]
+[Atem/Yoga-Übergang — optional, meist weglassen]
 
 [CTA]
 
@@ -229,4 +229,4 @@ Nach der Ausgabe: kurz fragen ob Thema, Reel-Text oder Caption angepasst werden 
 - Nie: „Du hast dich selbst vernachlässigt." / „Du musst jetzt Yoga machen."
 - Keine Panikmache · keine Diagnosen · kein spirituelles Überhöhen · kein Leistungs-Yoga
 - Brand Voice strikt einhalten · verbotene Wörter aus `brand-voice.md` beachten
-- Immer physischer Anker im Atem/Yoga-Übergang
+- Atem/Yoga-Anker in der Caption ist optional, KEIN Pflichtbaustein: bei diesen Erkennungs-/Lead-Magnet-Reels default weglassen (der Anker lebt im Freebie + in den Yoga-3-Minuten-Reels); nur auf ausdrücklichen Wunsch und wenn kein Freebie-CTA trägt
