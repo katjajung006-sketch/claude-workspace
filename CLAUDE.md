@@ -135,6 +135,18 @@ Ohne Argument: fragt nach dem gewünschten Typ.
 Output je Reel: Reel-Text · Thumbnail-Hook (Reelcover) · Caption · B-Roll · 5 passende Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Format: Kalter bis warmer Traffic · Wiedererkennung · körpernahe Wahrheit · leise Autorität
 
+### /reel-idee [idee | hook]
+
+**Zweck:** Du kommst mit einer eigenen Idee oder einem fertigen Hook — Claude prüft/schärft den Hook und baut daraus das komplette, postfertige Reel. Der Hook ist dein Ausgangspunkt, nicht Claudes. Erkennt automatisch die passende Content-Säule.
+
+- `/reel-idee Viele Frauen halten Erschöpfung für normal …` → fertigen Hook reingeben
+- `/reel-idee irgendwas zu: abends nicht abschalten können` → grobe Idee, Claude baut den Hook
+- `/reel-idee Beine an der Wand` → Haltung/Übung vorgeben
+
+Ablauf: Format automatisch erkennen (Funktionsmodus *oder* Yoga ohne Leistungsdruck) → **Hook-Check** (stark bestätigen / schärfen mit Varianten + Begründung / neu bauen) → komplettes Reel um den finalen Hook bauen, exakt nach dem erkannten Format.
+Output: Erkanntes Format · Hook-Check (Urteil + finaler Hook + ggf. Alternativen) · dann alle Reel-Outputs des Formats (Reel-Text · Reelcover · Haltung & Filmhinweis bzw. B-Roll · Caption · 5 Hashtags · Story-Sequenz · DM-Antwort wenn Keyword/DM).
+Nutzt `reel.md` (Funktionsmodus) bzw. `reel-yoga.md` (Yoga) als Single Source of Truth für die Formatstruktur — kein Doppeln.
+
 ### /reel-yoga [haltung]
 
 **Zweck:** Reel im Open-Loop-Format — einfache Yoga-Haltung zeigen, Neugier-Text im Reel, Auflösung erst in der Caption. Contentsäule: Yoga ohne Leistungsdruck.
