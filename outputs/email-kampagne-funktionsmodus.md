@@ -241,3 +241,42 @@ Ich bin froh, dass du da bist.
 
 Alles Liebe
 Katja
+
+---
+
+## Mail 7 — Letzter Anstoß mit Frist (Tag 10, abends)
+
+> Dringlichkeits-Variante. Die Frist muss **echt** sein: Preis in systeme.io / Deadline Funnel nach dem Stichtag tatsächlich auf 37 € setzen. Abends 18–20 Uhr versenden, Frist = Mitternacht.
+
+**Betreff:** Bis heute Abend — danach 37 statt 17 €
+**Alternativ:** Heute schließt sich diese Tür
+
+Hallo {first_name},
+
+ich mach es heute kurz.
+
+Der Preis, zu dem du „Die 10-Minuten-Rückkehr" über diese Reihe bekommst — 17 statt 37 Euro — gilt nur noch bis heute Abend.
+Danach kostet sie wieder regulär 37.
+
+Kein Trick. Ich sage dir nur ehrlich: Dieser Moment ist jetzt da.
+
+Vielleicht hast du die letzten Mails gelesen, und etwas in dir hat genickt.
+Vielleicht hast du gedacht: Ja. Irgendwann.
+Und genau dieses „irgendwann" ist oft der Ort, an dem Frauen wie du sich selbst wieder hintenanstellen.
+
+Du musst dich nicht entscheiden, weil ich es sage.
+Entscheide dich, weil dir die zehn Minuten etwas wert sind.
+
+Was dich erwartet:
+– ein geführtes 10-Minuten-Audio, das dich zurück in deinen Körper bringt
+– ein 1-Minuten-Anker für stressige Tage
+– ein 3-Minuten-Körperimpuls für zwischendurch
+– ein 7-Tage-Plan, um wieder bei dir anzukommen
+
+👉 [Produkt-Link] — bis heute Abend für 17 statt 37 Euro
+
+Und falls heute nicht dein Tag ist: Die Tür zu „Zurück zu dir", meiner kostenlosen Telegram-Gruppe, bleibt offen.
+👉 [Telegram-Link]
+
+Alles Liebe
+Katja
