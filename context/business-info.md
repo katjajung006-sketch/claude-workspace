@@ -90,6 +90,7 @@ Nicht: High Vibe · Laut motivierend · „Girl, du schaffst alles"
 | Rauchiges Mauve | #A9878A | Akzent, emotionale Tiefe |
 
 **Schriften:** Libre Baskerville (Headlines) · Montserrat/DM Sans (Fließtext) · kursive Serif-Akzente
+_Ersatz in der Edits-App (Reels): siehe `reference/edits-schriften.md` — Crimson Text (Hooks) + Outfit (Text)._
 
 **Bildsprache:** Keine Yoga-Akrobatik. Echte Momente: Hand auf Brustkorb, Füße auf Matte, Fensterblick, Tee, Journal. Morgenlicht, Holzboden, Leinen.
 
