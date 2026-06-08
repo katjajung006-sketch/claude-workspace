@@ -309,6 +309,16 @@ Die Verkaufs-/Landingpages liegen als statisches HTML im Workspace und werden au
 
 Live-Domains: `check.katjajung.com` (Landingpage + €7-Seite) und `10-minuten-rueckkehr.katjajung.com` (€17-Kursseite). Bezahlung/Kurse/E-Mail-Marketing laufen weiterhin über **systeme.io** — Cloudflare ist nur die Anzeige-Hülle, die Kauf-Buttons verlinken auf systeme.io-Bezahlseiten (`minikurs1` = 7 € exklusiv am Freebie-Weg, `17minikurs1` = 17 € öffentlich).
 
+## ManyChat (Auto-DM-Funnel)
+
+ManyChat steuert die **Instagram-Auto-DMs**: Kommentar mit Keyword **CHECK** unter einem Reel → automatische DM mit Freebie-Link (`check.katjajung.com`). Verbindet Instagram-Kommentar → Freebie → Landingpage → systeme.io.
+
+- **Account:** @yoga.statt.funktionieren, **Free-Plan** (Limit 25 Kontakte). Kein MCP/API-Connector → Bedienung über die **Claude-Chrome-Extension** (eingeloggte Session) oder copy-fertige Texte.
+- **Aktueller Flow** (gebaut 2026-06-08): Keyword CHECK unter Reel „Ruhe kommt nicht von selbst" → Opening-DM → Link-DM zum Funktionsmodus-Check. Status **DRAFT/Off**, noch nicht live.
+- **Keyword-Konsistenz:** Freebie-CTAs im Content müssen **CHECK** sagen (nicht „ANKOMMEN"), sonst feuert der Auto-DM nicht.
+- **Konnektor = Stufe 2:** Eigener MCP-Server um die ManyChat-API erst bei **Pro** (API ist Pro-only) + Volumen, v. a. für systeme.io-Sync. Jetzt nicht nötig — Browser-Weg reicht.
+- **Details & Konnektor-Fähigkeiten:** `reference/manychat-konnektor.md`.
+
 ## Instagram-Späher (täglicher Wettbewerber-Bot)
 
 Automatisierter Bot in `scripts/instagram-watch/`, der täglich die drei wichtigsten
