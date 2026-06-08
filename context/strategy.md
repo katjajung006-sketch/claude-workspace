@@ -130,7 +130,11 @@ Vollständige Konkurrenz-Übersicht: `reference/wettbewerber-instagram.md`
 
 **Noch zu bauen:**
 - Landingpages für beide Freebies (Netlify)
-- E-Mail-Sequenzen nach Freebie-Download (systeme.io)
+- E-Mail-Sequenzen nach Freebie-Download (systeme.io) — **Texte fertig (2026-06-08), noch in systeme.io einzubauen:**
+  - Verkaufs-Kampagne (7 Mails) nach Funktionsmodus-Check → `outputs/email-kampagne-funktionsmodus.md`. Ziel: 10-Minuten-Rückkehr für 17 € verkaufen + Telegram-Beitritt. Reihenfolge: Lieferung → Story → Telegram → Pitch → Einwand → Abschluss → (optional) Frist-Mail.
+  - Danach: dauerhaft leiser Newsletter (alle 2 Wochen) → `outputs/newsletter-grundgeruest.md` (Grundgerüst + erste 4 Ausgaben, 80 % Wert / 20 % Verkauf). Neue Kampagne erst bei echtem Anlass (neues Produkt/Freebie oder saisonaler Aufhänger), nicht direkt nachfeuern.
+  - **Versandzeiten:** Kampagne abends 20:00 (Lieferung sofort beim Opt-in, Frist-Mail 18:00); Newsletter mittwochs 20:00. Nach 4–6 Versänden an echten Öffnungs-/Klickraten nachjustieren.
+  - Noch einzusetzen: echte Links (Check-Download, Telegram-Einladung, `10-minuten-rueckkehr.katjajung.com`).
 - CTA in Freebies eintragen (Telegram-Gruppe „Zurück zu dir" ist erstellt ✓)
 
 ---
