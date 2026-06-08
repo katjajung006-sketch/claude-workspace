@@ -7,7 +7,7 @@
 **Name:** Katja Jung
 **Alter:** 48 Jahre
 **Aktueller Job:** Sekretariat (täglich 8:00–14:30 Uhr)
-**Phase:** Aufbau der eigenen Personal Brand parallel zum Job — noch kein Content gepostet, aber 2 fertige Freebies vorhanden.
+**Phase:** Aufbau der eigenen Personal Brand parallel zum Job — erste Reels sind live (Stand 2026-06-08, u. a. „Ruhe kommt nicht von selbst"), Freebie + Funnel stehen.
 **Instagram-Handle:** @yoga.statt.funktionieren
 **Ziel dieses Jahr:** Job kündigen und vollständig vom eigenen Business leben.
 
@@ -24,7 +24,7 @@ Hauptthema: Yoga für Frauen 40+, die aufhören wollen, über sich selbst hinweg
 ## Kernverantwortlichkeiten (aktuell)
 
 - Personal Brand auf Instagram von null aufbauen
-- Content erstellen (noch nicht gestartet)
+- Content erstellen (gestartet — erste Reels live)
 - Business-Fundament legen (Angebote, Strategie, Positionierung)
 - Job kündigen, sobald Business trägt
 
