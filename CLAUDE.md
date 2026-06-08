@@ -349,6 +349,14 @@ Die 7 Highlight-Cover für @yoga.statt.funktionieren sind gebaut (2026-06-05). L
 - **Canva:** editierbares Design `DAHLvN6rajc` im Ordner „Highlight-Cover" (`FAHLvJtAYGI`). Pipeline = wie Karussells (PDF → temp Cloudflare → `import-design-from-url` als `your_story` → in Ordner verschieben → temp löschen).
 - **Doku:** `reference/highlight-cover.md` (Symbol-Zuordnung je Highlight, Pipeline für neue/​geänderte Cover). Highlights-Liste lebt in der Notion-DB „Story Highlights & Stories".
 
+## CTA-Bibliothek
+
+Pro Reel-Ziel eine fertige CTA-Vorlage in Brand Voice — zum Rauspicken beim Content-Bau (recherchiert + festgelegt 2026-06-08). Jeweils gleich aufgebaut: Kernregel · CTAs nach Mechanismus · Platzierung · Tabu. Liegt doppelt — als Markdown in `reference/` und als Notion-Unterseite der Seite „yoga.statt.funktionieren".
+
+- **Folgen** → `reference/folgen-ctas.md` — Regel: Grund statt Bitte („bleib hier, wenn…"), Identität/Zugehörigkeit am stärksten.
+- **Speichern** → `reference/speichern-ctas.md` — Regel: wiederkehrender Zukunftsmoment („für die Abende, an denen…").
+- **Kommentar/Keyword** → `reference/kommentar-keyword-ctas.md` — Keyword immer **CHECK** (Funnel), plus Erkennungs-Kommentar fürs Engagement.
+
 ## Notizen
 
 - Kontext minimal aber ausreichend halten — kein Bloat
