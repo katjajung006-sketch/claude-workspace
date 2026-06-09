@@ -199,7 +199,7 @@ def build_analysis_prompt(new_by_account):
 
     return f"""Du bist Katjas Content-Stratege. Katja macht Instagram-Content unter \
 @yoga.statt.funktionieren: ruhiges Yoga + Nervensystem-/Funktionsmodus-Sprache für \
-Frauen 40+. Unten stehen NEUE Beiträge ihrer drei wichtigsten Wettbewerber seit gestern.
+Frauen 40+. Unten stehen NEUE Beiträge ihrer wichtigsten Wettbewerber seit gestern.
 
 Analysiere jeden Beitrag kurz und konkret. Pro Beitrag:
 - Erste Zeile: Accountname + kurze Einordnung.
@@ -254,7 +254,7 @@ def run_analysis(claude_bin, prompt):
 # ---------- einfache Benachrichtigung (Fallback ohne CLI) ----------
 
 def build_plain_digest(new_by_account):
-    out = ["Neue Beiträge bei deinen 3 Wettbewerbern:\n"]
+    out = ["Neue Beiträge bei deinen Wettbewerbern:\n"]
     for username, posts in new_by_account.items():
         out.append(f"@{username}")
         for p in posts:
@@ -341,7 +341,7 @@ def main():
         return
 
     if not new_by_account:
-        msg = f"Instagram-Späher {date_str}: heute nichts Neues bei deinen 3 Accounts."
+        msg = f"Instagram-Späher {date_str}: heute nichts Neues bei deinen {len(accounts)} Accounts."
         if errors:
             msg += "\n\nProbleme beim Abruf:\n" + "\n".join(f"  • {e}" for e in errors)
         telegram_send(tg_token, tg_chat, msg)

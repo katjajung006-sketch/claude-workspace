@@ -330,8 +330,8 @@ ManyChat steuert die **Instagram-Auto-DMs**: Kommentar mit Keyword **CHECK** unt
 
 ## Instagram-Späher (täglicher Wettbewerber-Bot)
 
-Automatisierter Bot in `scripts/instagram-watch/`, der täglich die drei wichtigsten
-Wettbewerber-Accounts (@entspannungsstudio_anila · @yes.you.are_ · @julia.physioglueck)
+Automatisierter Bot in `scripts/instagram-watch/`, der täglich die wichtigsten
+Wettbewerber-Accounts (@entspannungsstudio_anila · @jasmin.bachman · @kerstin.huber.steinhorst · @nadine_weiland_yoga)
 auf neue Reels/Posts prüft und Katja per Telegram benachrichtigt.
 
 - **Lauf:** `launchd` täglich um 18:00 auf Katjas Mac (`com.katja.instagram-watch.plist`).

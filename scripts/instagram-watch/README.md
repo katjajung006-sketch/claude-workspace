@@ -1,10 +1,10 @@
 # Instagram-Späher
 
-Täglicher Bot, der die drei wichtigsten Wettbewerber-Accounts auf neue
+Täglicher Bot, der die wichtigsten Wettbewerber-Accounts auf neue
 Reels/Posts prüft, sie (falls Claude CLI installiert ist) durch Katjas
 Strategie/Marke analysiert und das Ergebnis per Telegram schickt.
 
-**Beobachtete Accounts:** @entspannungsstudio_anila · @yes.you.are_ · @julia.physioglueck
+**Beobachtete Accounts:** @entspannungsstudio_anila · @jasmin.bachman · @kerstin.huber.steinhorst · @nadine_weiland_yoga
 (änderbar in `config.json`)
 
 ---
