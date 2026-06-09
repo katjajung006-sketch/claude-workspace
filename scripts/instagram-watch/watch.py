@@ -14,6 +14,7 @@ import os
 import shutil
 import subprocess
 import sys
+import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
@@ -26,6 +27,11 @@ STATE_PATH = HERE / "state.json"
 
 APIFY_ACTOR = "apify~instagram-scraper"
 TELEGRAM_LIMIT = 4096
+
+# Vorübergehende Netzwerk-Aussetzer (Connection reset, Timeout) abfangen:
+# scheitert ein Abruf, wird er mit wachsender Pause erneut versucht.
+FETCH_RETRIES = 3
+FETCH_BACKOFF = (5, 15, 30)  # Sekunden Pause vor Versuch 2, 3, …
 
 
 # ---------- Hilfen ----------
@@ -58,7 +64,7 @@ def read_context_file(rel_path, max_chars):
 
 # ---------- Instagram über Apify ----------
 
-def apify_fetch(token, account_url, limit):
+def _apify_fetch_once(token, account_url, limit):
     url = (
         f"https://api.apify.com/v2/acts/{APIFY_ACTOR}"
         f"/run-sync-get-dataset-items?token={token}"
@@ -75,6 +81,32 @@ def apify_fetch(token, account_url, limit):
     )
     with urllib.request.urlopen(req, timeout=180) as resp:
         return json.load(resp)
+
+
+def apify_fetch(token, account_url, limit):
+    """Abruf mit automatischen Wiederholungen bei vorübergehenden Aussetzern.
+
+    Fängt Connection-Resets/Timeouts ab, die einzelne Läufe sonst killen.
+    HTTP-Fehler ab 400 (z. B. falscher Token, Account gesperrt) sind dauerhaft
+    und werden nicht wiederholt.
+    """
+    last_err = None
+    for attempt in range(1, FETCH_RETRIES + 1):
+        try:
+            return _apify_fetch_once(token, account_url, limit)
+        except urllib.error.HTTPError as e:
+            # 429/5xx sind oft vorübergehend → erneut versuchen; 4xx sonst nicht.
+            if e.code != 429 and 400 <= e.code < 500:
+                raise
+            last_err = e
+        except Exception as e:
+            last_err = e
+        if attempt < FETCH_RETRIES:
+            pause = FETCH_BACKOFF[min(attempt - 1, len(FETCH_BACKOFF) - 1)]
+            log(f"  Abruf-Versuch {attempt} scheiterte ({type(last_err).__name__}), "
+                f"erneuter Versuch in {pause}s")
+            time.sleep(pause)
+    raise last_err
 
 
 def is_reel(post):
