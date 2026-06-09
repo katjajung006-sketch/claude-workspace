@@ -130,11 +130,11 @@ Vollständige Konkurrenz-Übersicht: `reference/wettbewerber-instagram.md`
 
 **Noch zu bauen:**
 - Landingpages für beide Freebies (Netlify)
-- E-Mail-Sequenzen nach Freebie-Download (systeme.io) — **Texte fertig (2026-06-08), noch in systeme.io einzubauen:**
-  - Verkaufs-Kampagne (7 Mails) nach Funktionsmodus-Check → `outputs/email-kampagne-funktionsmodus.md`. Ziel: 10-Minuten-Rückkehr für 17 € verkaufen + Telegram-Beitritt. Reihenfolge: Lieferung → Story → Telegram → Pitch → Einwand → Abschluss → (optional) Frist-Mail.
-  - Danach: dauerhaft leiser Newsletter (alle 2 Wochen) → `outputs/newsletter-grundgeruest.md` (Grundgerüst + erste 4 Ausgaben, 80 % Wert / 20 % Verkauf). Neue Kampagne erst bei echtem Anlass (neues Produkt/Freebie oder saisonaler Aufhänger), nicht direkt nachfeuern.
+- E-Mail-Sequenzen nach Freebie-Download (systeme.io) — Texte unter `outputs/`:
+  - Verkaufs-Kampagne (7 Mails) nach Funktionsmodus-Check → `outputs/email-kampagne-funktionsmodus.md`. Ziel: 10-Minuten-Rückkehr für 17 € verkaufen + Telegram-Beitritt. Reihenfolge: Lieferung → Story → Telegram → Pitch → Einwand → Abschluss → (optional) Frist-Mail. **Status: von Katja in systeme.io eingebaut (Stand 2026-06-09).**
+  - Danach: dauerhaft leiser Newsletter (alle 2 Wochen) → `outputs/newsletter-grundgeruest.md` (Grundgerüst + erste 4 Ausgaben, 80 % Wert / 20 % Verkauf). Neue Kampagne erst bei echtem Anlass (neues Produkt/Freebie oder saisonaler Aufhänger), nicht direkt nachfeuern. **Status: alle 4 Ausgaben als Entwürfe in systeme.io angelegt (Newsletter-Bereich, klassischer Editor, Absender „Katja Jung @yoga.statt.funktionieren", `{first_name}`-Personalisierung, Links eingebaut) — Stand 2026-06-09. Offen pro Ausgabe: Empfänger-Tag wählen + Versanddatum planen + senden (macht Katja).**
   - **Versandzeiten:** Kampagne abends 20:00 (Lieferung sofort beim Opt-in, Frist-Mail 18:00); Newsletter mittwochs 20:00. Nach 4–6 Versänden an echten Öffnungs-/Klickraten nachjustieren.
-  - Noch einzusetzen: echte Links (Check-Download, Telegram-Einladung, `10-minuten-rueckkehr.katjajung.com`).
+  - Echte Links eingesetzt: Telegram-Einladung `https://t.me/+mJbsYV-tVkc3ZWYy` (Ausgabe 2), Produkt `https://10-minuten-rueckkehr.katjajung.com` (Ausgabe 3). Noch offen: Check-Download-Link für Kampagne.
 - CTA in Freebies eintragen (Telegram-Gruppe „Zurück zu dir" ist erstellt ✓)
 
 ---

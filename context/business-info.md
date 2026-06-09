@@ -103,13 +103,13 @@ _Ersatz in der Edits-App (Reels): siehe `reference/edits-schriften.md` — Crims
 - **Eigene Praxis:** 2 Jahre
 - **Stil:** Ruhiges, langsames Yoga — keine Akrobatik, keine Performance
 - **Schwerpunkte:** Atemübungen (bewusstes, tiefes Ein- und Ausatmen), Körperwahrnehmung (z.B. Füße auf dem Boden spüren), kurze Bewegungsimpulse (3 Minuten reichen)
-- **Ausbildung:** Noch keine abgeschlossene Yogalehrerin-Ausbildung — ist geplant
+- **Ausbildung:** **Somatic-Yoga-Lehrerausbildung** (bewusst nicht die klassische Yogalehrer-Ausbildung). Somatic Yoga = spüren statt leisten, langsame kleine Bewegungen von innen geführt, Körperehrlichkeit statt Performance — passt methodisch fast deckungsgleich zur Marke „raus aus dem Funktionsmodus, zurück in den Körper". Vollständige Wissens-Grundlage + Sprach-Übersetzung (Methode ist im Kern Nervensystem-Arbeit, im Content aber NIE so benennen): `reference/somatic-yoga.md`.
 - **Referenz-Stil:** ähnlich @entspannungsstudio_anila (Stress lösen, innere Ruhe, Entspannung)
-- **Positionierung jetzt:** Nicht als zertifizierte Lehrerin, sondern als Frau, die aus eigener Erfahrung teilt und führt
+- **Positionierung jetzt:** Frau, die aus eigener Erfahrung teilt und führt — und sich gerade zur Somatic-Yoga-Lehrerin ausbilden lässt (Stil deckt sich mit dem, was sie ohnehin lebt). Noch nicht zertifiziert.
 
 ---
 
 ## Business-Phase
 
 Ganz am Anfang. Instagram-Profil wird aufgebaut. Noch kein Content gepostet (Stand: Mai 2026).
-Yogalehrerin-Ausbildung ist in Planung.
+Somatic-Yoga-Lehrerausbildung läuft (Details: `reference/somatic-yoga.md`).
