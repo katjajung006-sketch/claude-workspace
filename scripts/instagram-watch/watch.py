@@ -276,6 +276,19 @@ def run_analysis(claude_bin, prompt):
 
 # ---------- einfache Benachrichtigung (Fallback ohne CLI) ----------
 
+def build_check_summary(account_names, new_by_account, error_usernames):
+    """Übersicht über ALLE geprüften Accounts — mit Vermerk, wo nichts Neues war."""
+    lines = [f"Geprüft ({len(account_names)}):"]
+    for u in account_names:
+        if u in error_usernames:
+            lines.append(f"⚠️ @{u} — Abruf gescheitert")
+        elif u in new_by_account:
+            lines.append(f"✅ @{u} — {len(new_by_account[u])} neu")
+        else:
+            lines.append(f"➖ @{u} — nichts Neues")
+    return "\n".join(lines)
+
+
 def build_plain_digest(new_by_account):
     out = ["Neue Beiträge bei deinen Wettbewerbern:\n"]
     for username, posts in new_by_account.items():
@@ -319,6 +332,7 @@ def main():
     new_by_account = {}
     baseline_accounts = []
     errors = []
+    error_usernames = set()
 
     for acc in accounts:
         username = acc["username"]
@@ -327,6 +341,7 @@ def main():
             raw = apify_fetch(apify_token, url, per_account)
         except Exception as e:
             errors.append(f"@{username}: {type(e).__name__} {str(e)[:160]}")
+            error_usernames.add(username)
             log(f"Abruf fehlgeschlagen @{username}: {e}")
             continue
 
@@ -384,6 +399,9 @@ def main():
         body = build_plain_digest(new_by_account)
 
     full = header + "\n" + body
+    full += "\n\n———\n" + build_check_summary(
+        [a["username"] for a in accounts], new_by_account, error_usernames
+    )
     if errors:
         full += "\n\nProbleme beim Abruf:\n" + "\n".join(f"  • {e}" for e in errors)
     notify(tg_token, tg_chat, full)
