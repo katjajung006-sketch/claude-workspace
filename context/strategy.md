@@ -81,6 +81,7 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
   - 🌿 Sanftes Yoga, ganz ohne dich zu verrenken
   - ↓ Zurück zu dir: hol dir den Gratis-Check (CTA → Funktionsmodus-Check)
   - **Logik:** Zeile 1 = Körper-Erkennung (3-Sek.-Spiegel „das bin ich"). Zeile 2 = löst den Anfänger-Irrglauben „ich muss beweglich sein / mich verbiegen" auf — „sanft" + „ohne verrenken" = sofort machbar; trägt die Somatik-Essenz (spüren statt leisten) in Alltagssprache OHNE Fachwort. Zeile 3 = Freebie-CTA. (Ersetzt die alte Bio mit „Für Frauen 40+, die für alle da sind …".)
+  - **Möglicher Zeile-2-Swap (Variante 3, von Katja offen gehalten 2026-06-10):** statt „Sanftes Yoga, ganz ohne dich zu verrenken" → **„🌿 Yoga zum Spüren, ohne dich zu verrenken"**. Bringt das Wort „Spüren" (Somatik-Ansatz) sichtbar rein; Trade-off: minimal weniger „sofort-beruhigend" als „sanft". Katja noch unsicher — ggf. später tauschen.
 - **Link:** linktr.ee/katjajung · Highlights angelegt ✓ · später ggf. eigener Markenlink (check.katjajung.com) statt Linktree
 - **Aufgehoben für Content:** Reel-Hook „Du funktionierst. Du hältst durch. Und bist kaum noch bei dir."
 
