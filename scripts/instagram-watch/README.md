@@ -18,6 +18,9 @@ Strategie/Marke analysiert und das Ergebnis per Telegram schickt.
    Analyse pro Beitrag (Hook, was funktioniert, was du mitnimmst).
    Sonst gibt's eine saubere Liste mit Link, Format und Zahlen.
 5. Versand per **Telegram**.
+6. Jede gesendete Nachricht wird zusätzlich lokal mitgeschrieben:
+   `sent/JJJJ-MM-TT.txt` (mehrere Läufe am Tag werden mit Zeitstempel angehängt).
+   So lässt sich jederzeit nachlesen, was verschickt wurde — gitignored.
 
 Am ersten Lauf wird nur der aktuelle Stand gespeichert (kein Beitrags-Flut) — ab dem
 nächsten Tag kommen echte Neuigkeiten.
@@ -84,6 +87,7 @@ Fertig. Der Bot meldet sich ab jetzt täglich um 18:00.
 | `run.sh` | Wrapper für launchd (setzt PATH) |
 | `com.katja.instagram-watch.plist` | Zeitplan für launchd |
 | `state.json` | gemerkte Beiträge — wird automatisch angelegt, gitignored |
+| `sent/JJJJ-MM-TT.txt` | Kopie jeder gesendeten Telegram-Nachricht, gitignored |
 | `watch.log` / `launchd.*.log` | Protokolle, gitignored |
 
 ---

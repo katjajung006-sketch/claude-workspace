@@ -6,6 +6,7 @@ reference/secrets.local.md
 scripts/instagram-watch/config.json
 scripts/instagram-watch/state.json
 scripts/instagram-watch/*.log
+scripts/instagram-watch/sent/
 
 # Karussell-Pipeline — Zwischen-Staging für Canva-Import, wird jeden Lauf neu erzeugt
 outputs/karussell/_pdf/

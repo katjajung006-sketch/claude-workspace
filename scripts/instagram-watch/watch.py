@@ -24,6 +24,7 @@ HERE = Path(__file__).resolve().parent
 WORKSPACE = HERE.parent.parent
 CONFIG_PATH = HERE / "config.json"
 STATE_PATH = HERE / "state.json"
+SENT_DIR = HERE / "sent"
 
 APIFY_ACTOR = "apify~instagram-scraper"
 TELEGRAM_LIMIT = 4096
@@ -154,6 +155,28 @@ def telegram_send(token, chat_id, text):
         except urllib.error.HTTPError as e:
             log(f"Telegram-Fehler: {e.code} {e.read().decode('utf-8', 'ignore')[:300]}")
             raise
+
+
+def save_sent(text):
+    """Jede gesendete Nachricht zusätzlich als Datei sichern (sent/JJJJ-MM-TT.txt).
+
+    Mehrere Läufe am selben Tag werden mit Zeitstempel angehängt. Scheitert das
+    Schreiben, wird nur geloggt — der Versand selbst soll dadurch nie kippen.
+    """
+    try:
+        SENT_DIR.mkdir(exist_ok=True)
+        now = datetime.now()
+        path = SENT_DIR / f"{now:%Y-%m-%d}.txt"
+        with open(path, "a", encoding="utf-8") as f:
+            f.write(f"===== {now:%Y-%m-%d %H:%M:%S} =====\n{text}\n\n")
+    except Exception as e:
+        log(f"Konnte gesendete Nachricht nicht sichern: {type(e).__name__} {e}")
+
+
+def notify(token, chat_id, text):
+    """Nachricht senden UND lokal mitschreiben."""
+    save_sent(text)
+    telegram_send(token, chat_id, text)
 
 
 # ---------- Analyse über Claude Code CLI (falls vorhanden) ----------
@@ -336,7 +359,7 @@ def main():
         if errors:
             lines.append("\nProbleme beim Abruf:")
             lines += [f"  • {e}" for e in errors]
-        telegram_send(tg_token, tg_chat, "\n".join(lines))
+        notify(tg_token, tg_chat, "\n".join(lines))
         log("Baseline gesetzt.")
         return
 
@@ -344,7 +367,7 @@ def main():
         msg = f"Instagram-Späher {date_str}: heute nichts Neues bei deinen {len(accounts)} Accounts."
         if errors:
             msg += "\n\nProbleme beim Abruf:\n" + "\n".join(f"  • {e}" for e in errors)
-        telegram_send(tg_token, tg_chat, msg)
+        notify(tg_token, tg_chat, msg)
         log("Keine neuen Beiträge.")
         return
 
@@ -363,7 +386,7 @@ def main():
     full = header + "\n" + body
     if errors:
         full += "\n\nProbleme beim Abruf:\n" + "\n".join(f"  • {e}" for e in errors)
-    telegram_send(tg_token, tg_chat, full)
+    notify(tg_token, tg_chat, full)
     log(f"Gesendet: {count} neue Beiträge.")
 
 
@@ -375,7 +398,7 @@ if __name__ == "__main__":
         # Versuch, den Fehler auch per Telegram zu melden
         try:
             cfg = load_json(CONFIG_PATH, {})
-            telegram_send(
+            notify(
                 cfg.get("telegram_bot_token", ""),
                 str(cfg.get("telegram_chat_id", "")),
                 f"⚠️ Instagram-Späher Fehler: {type(e).__name__} {str(e)[:300]}",
