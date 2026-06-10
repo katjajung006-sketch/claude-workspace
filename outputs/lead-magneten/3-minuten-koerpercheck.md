@@ -3,7 +3,7 @@
 **Lead-Magnet #1 · Direkt-Geschenk (kein Opt-in) · erstellt 2026-06-10**
 Auslieferung: Kommentar → ManyChat-DM mit Google-Drive-Link (direkt, ohne E-Mail).
 Content-Säule: Der Körper im Funktionsmodus.
-Google Doc: https://docs.google.com/document/d/1AedYc18_Q68__Te5j1_jYzpZNWe43Ci87npakOu8UGA/edit
+Google Doc (final, im Ordner Freebies): https://docs.google.com/document/d/1G31qFKxQeDdAH8yXirI1Z48a39cCRzROkaScdUaMpLk/edit
 
 ---
 
@@ -28,6 +28,9 @@ Du musstest nichts schaffen — du hast nur wieder zugehört. Je öfter du das t
 
 —
 
-Wenn dir diese drei Minuten gutgetan haben:
-Genau so geht es bei mir weiter — ruhig, körpernah, ohne Leistungsdruck.
-Komm vorbei: @yoga.statt.funktionieren
+**Magst du mehr davon?**
+In meiner kostenlosen Telegram-Gruppe „Zurück zu dir" bekommst du regelmäßig kleine Impulse wie diesen — einen wahren Satz, einen kurzen Moment für deinen Körper, zum Innehalten zwischendurch. Kein Druck, keine Aufgaben. Nur ein ruhiger Ort, an dem du immer wieder bei dir ankommst.
+→ Komm dazu: https://t.me/+mJbsYV-tVkc3ZWYy
+
+Und wenn du magst, begleite ich dich auch hier weiter — ruhig, körpernah, ohne Leistungsdruck:
+Instagram: @yoga.statt.funktionieren
