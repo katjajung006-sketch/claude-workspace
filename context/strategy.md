@@ -74,9 +74,13 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 
 **Handle:** @yoga.statt.funktionieren
 **Status:** 324 Follower · 25 Beiträge · 141 Gefolgt (Stand 2026-06-06)
-**Bio:** SEO-optimiert (2026-06-06). Grundprinzip: Instagram durchsucht nur Handle + Namensfeld → Namensfeld trägt das gesuchte Keyword, nicht den (nicht gesuchten) Markensatz „Selbstübergehen".
+**Bio:** SEO-optimiert (Namensfeld 2026-06-06), Bio-Text überarbeitet 2026-06-10 (live gesetzt). Grundprinzip: Instagram durchsucht nur Handle + Namensfeld → Namensfeld trägt das gesuchte Keyword, nicht den (nicht gesuchten) Markensatz „Selbstübergehen".
 - **Namensfeld:** `Katja Jung · Yoga für Frauen 40+` (auffindbar für „Yoga 40+ / Yoga Frauen 40")
-- **Bio-Text:** 🤍 Für Frauen 40+, die für alle da sind. Nur nicht mehr für sich. · 🌿 Kurze Yoga- & Atemimpulse, ohne Druck · ↓ Zurück zu dir — Gratis-Check holen (CTA → Funktionsmodus-Check)
+- **Bio-Text (live, Variante 1):**
+  - 🤍 Immer stark. Immer da. Und abends wie leer.
+  - 🌿 Sanftes Yoga, ganz ohne dich zu verrenken
+  - ↓ Zurück zu dir: hol dir den Gratis-Check (CTA → Funktionsmodus-Check)
+  - **Logik:** Zeile 1 = Körper-Erkennung (3-Sek.-Spiegel „das bin ich"). Zeile 2 = löst den Anfänger-Irrglauben „ich muss beweglich sein / mich verbiegen" auf — „sanft" + „ohne verrenken" = sofort machbar; trägt die Somatik-Essenz (spüren statt leisten) in Alltagssprache OHNE Fachwort. Zeile 3 = Freebie-CTA. (Ersetzt die alte Bio mit „Für Frauen 40+, die für alle da sind …".)
 - **Link:** linktr.ee/katjajung · Highlights angelegt ✓ · später ggf. eigener Markenlink (check.katjajung.com) statt Linktree
 - **Aufgehoben für Content:** Reel-Hook „Du funktionierst. Du hältst durch. Und bist kaum noch bei dir."
 
