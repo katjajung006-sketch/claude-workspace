@@ -340,6 +340,8 @@ auf neue Reels/Posts prüft und Katja per Telegram benachrichtigt.
 - **Analyse:** Wenn das **Claude Code CLI** installiert ist, analysiert Claude jeden neuen
   Beitrag durch Katjas Strategie/Marke (gratis übers Abo). Sonst saubere Liste als Fallback.
 - **State:** `state.json` merkt bekannte Beiträge → nur echte Neuigkeiten werden gemeldet.
+- **Mitschrift:** Jede gesendete Telegram-Nachricht wird zusätzlich lokal gesichert in `scripts/instagram-watch/sent/JJJJ-MM-TT.txt` (gitignored) — so kann Claude jederzeit nachlesen/vorlesen, was der Späher verschickt hat.
+- **Übersicht:** Die Hauptnachricht listet am Ende ALLE geprüften Accounts mit Vermerk (✅ x neu · ➖ nichts Neues · ⚠️ Abruf gescheitert).
 - **Secrets:** `config.json` (Apify- + Telegram-Token) ist gitignored, nie committen.
 - **Setup & Details:** `scripts/instagram-watch/README.md`.
 
