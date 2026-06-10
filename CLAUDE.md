@@ -323,8 +323,10 @@ Live-Domains: `check.katjajung.com` (Landingpage + €7-Seite) und `10-minuten-r
 ManyChat steuert die **Instagram-Auto-DMs**: Kommentar mit Keyword **CHECK** unter einem Reel → automatische DM mit Freebie-Link (`check.katjajung.com`). Verbindet Instagram-Kommentar → Freebie → Landingpage → systeme.io.
 
 - **Account:** @yoga.statt.funktionieren, **Free-Plan** (Limit 25 Kontakte). Kein MCP/API-Connector → Bedienung über die **Claude-Chrome-Extension** (eingeloggte Session) oder copy-fertige Texte.
-- **Aktueller Flow** (gebaut 2026-06-08): Keyword CHECK unter Reel „Ruhe kommt nicht von selbst" → Opening-DM → Link-DM zum Funktionsmodus-Check. Status **DRAFT/Off**, noch nicht live.
-- **Keyword-Konsistenz:** Freebie-CTAs im Content müssen **CHECK** sagen (nicht „ANKOMMEN"), sonst feuert der Auto-DM nicht.
+- **Zwei Flows (Stand 2026-06-10):**
+  - **„Auto-DM Funktionsmodus-Check"** — Keyword **CHECK** → Opening-DM → Link-DM `check.katjajung.com`. **LIVE** auf dem Reel „Der Körper sagt selten laut Nein…".
+  - **„Auto-DM 3MINUTEN (Körpercheck)"** — Keyword **3MINUTEN** → Opening-DM → Link-DM mit Google-Drive-Link (3-Minuten-Körpercheck, Direkt-Lieferung) + Telegram-Button. Status **DRAFT/Off**, Trigger-Post bei Bedarf aufs Promo-Reel setzen.
+- **Keyword-Konsistenz (jetzt pro Freebie):** Erkennungs-/Funktionsmodus-Content → **CHECK** · Übungs-/Spür-Content → **3MINUTEN**. Keyword im Post muss exakt zum jeweiligen Trigger passen. Keywords distinktiv halten (siehe Memory `project_manychat_keyword_strategy`). **Gotcha:** Archiviertes/neu hochgeladenes Reel bricht den Trigger („Post not found") → neu zuweisen; Trigger-Schalter muss ON sein.
 - **Konnektor = Stufe 2:** Eigener MCP-Server um die ManyChat-API erst bei **Pro** (API ist Pro-only) + Volumen, v. a. für systeme.io-Sync. Jetzt nicht nötig — Browser-Weg reicht.
 - **Details & Konnektor-Fähigkeiten:** `reference/manychat-konnektor.md`.
 
