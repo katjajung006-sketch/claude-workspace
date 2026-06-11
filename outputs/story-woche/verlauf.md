@@ -8,6 +8,7 @@
 
 ## Einzel-Stories (laufend, von `/story`)
 
+- 2026-06-11 · take · „Du musst dir Ruhe nicht verdienen" (Frage-Sticker, DMs)
 - 2026-06-12 · impuls · Hände öffnen + langer Ausatem (Freitagabend, „Woche abfallen lassen")
 - 2026-06-13 · satz · Wochenende nicht für die Liste, sondern für dich (Slider)
 - 2026-06-14 · satz + einladung · Sonntag-Ankommen → Telegram „Zurück zu dir"
