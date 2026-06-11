@@ -54,6 +54,21 @@ Sanft, langsam, fließend. „Weniger tun, mehr spüren." Man hört dem Körper 
 - Langes Ausatmen als eigene „Übung"
 - Nachspüren in Stille nach jeder Bewegung (das Spüren ist die Übung, nicht nur die Bewegung)
 
+---
+
+## Erklär-Regel für Übungen (Pflicht in ALLEM Content — Kanon)
+
+Jede Übung, Haltung oder jeder Körperimpuls — egal ob in Reel, Karussell, Story, Caption, Telegram oder E-Mail — muss so erklärt sein, dass eine Frau, die **noch NIE** Yoga oder Körperarbeit gemacht hat, sie **allein mit dem Text richtig nachmachen** kann. Einfach reicht nicht — es muss *vollständig* sein. Immer nennen:
+
+1. **Ausgangshaltung** — wo ist der Körperteil, wie sitzt/liegt/steht sie (z. B. „Hände locker im Schoß, Handflächen nach oben"; „im Bett liegend, Arme neben dir").
+2. **Genaue Bewegung** — wohin, wie weit, in welche Richtung. Nicht „lös die Schultern", sondern „zieh die Schultern bewusst hoch Richtung Ohren und lass sie dann schwer nach unten fallen".
+3. **Atemrichtung** — was beim Einatmen, was beim Ausatmen (sofern Atem geführt wird).
+4. **Wiederholung / Dauer** — wie oft oder wie lange („zwei-, dreimal so"; „bleib ein paar Atemzüge").
+
+Keine Fachbegriffe, keine Pose-Namen ohne Erklärung, nichts vorausgesetzt (auch nicht „Erdung", „Zentrum", „in die Mitte kommen"). **Test vor dem Abschicken:** Könnte sie es nur mit diesem Text richtig machen, ohne nachzufragen? Wenn nein → konkreter.
+
+Auslöser (2026-06-11): Ein Story-Impuls „Hände lösen — öffne die Hände, lass die Finger lang werden und fallen" war zu vage (wo sind die Hände? welche Haltung? wohin?). Diese Regel verhindert das überall.
+
 ## Für wen — und warum es Katjas Zielgruppe so trifft
 
 Besonders für Menschen mit Dauerstress, Erschöpfung, „immer in Bereitschaft", Verspannung, Schlafproblemen, dem Gefühl nicht abschalten zu können — und für alle, die **kein leistungsorientiertes, akrobatisches Yoga** wollen. Das ist exakt Katjas Soulclient: Frauen 40+, die funktioniert und sich übergangen haben, die ihren Körper erst hören, wenn er laut wird. Somatic Yoga ist der körperliche Weg zurück aus dem Funktionsmodus — nicht noch ein To-do, sondern Erlaubnis zum Spüren.

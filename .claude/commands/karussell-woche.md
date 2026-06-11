@@ -28,6 +28,7 @@ Lies zuerst, damit Stimme und Nische sitzen:
 **Harte Leitplanken (nicht verhandelbar):**
 - Nur **Funktionsmodus** + **einfache Yoga-/Atemimpulse**. NIEMALS „Nervensystem", „Vagusnerv", „Regulation", „Perimenopause", Fachsprache.
 - Verbotene Marken-Wörter: High Performance, Disziplin, Challenge, Transformation u. Ä. (siehe brand-voice).
+- **Übungen anfängerinnen-tauglich:** Leitet ein Karussell eine konkrete Übung/Haltung an, vollständig erklären (Ausgangshaltung + genaue Bewegung + Atemrichtung + Wiederholung/Dauer), sodass eine absolute Anfängerin es allein nachmacht. Keine Pose-Namen ohne Erklärung. Kanon: `reference/somatic-yoga.md`.
 - **Kein Satz darf nach KI klingen.** Kein „Das ist nicht X, sondern Y" als Masche, keine Floskeln, kein gleichförmiger Rhythmus.
 - **Nichts Generisches.** Siehe Schritt 1.
 

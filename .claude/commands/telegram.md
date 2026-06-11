@@ -125,6 +125,7 @@ Diese kleine Übung ist für den Moment, in dem du merkst:
 **Schritte:**
 - Kurze, klare Handlungsanweisungen — keine Fachbegriffe
 - Jede Zeile eine Handlung oder Wahrnehmung
+- **Anfängerinnen-tauglich (Pflicht):** so vollständig, dass eine Frau, die noch NIE Körperarbeit gemacht hat, es allein nachmacht — **Ausgangshaltung** (wo/wie sitzt/liegt/steht sie) + **genaue Bewegung** (wohin, wie weit, welche Richtung) + **Atemrichtung** + **Dauer/Wiederholung**. Keine Pose-Namen ohne Erklärung. (Kanon: `reference/somatic-yoga.md`.)
 - Atem immer unkompliziert lassen: „Lass den Atem so, wie er gerade ist." / „Du musst ihn nicht verändern."
 
 **Innere Frage:**

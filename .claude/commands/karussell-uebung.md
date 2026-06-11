@@ -104,7 +104,11 @@ Slide 9 (optional) — „Wann du diese Übung nutzen kannst"
 **Slide 2 — Einordnung.** Warum gerade diese kleine Übung, nicht mehr Disziplin. Beispiel:
 > Wenn du lange funktioniert hast, brauchst du nicht noch mehr Disziplin. Du brauchst einen Moment, in dem dein Körper merkt: Ich bin wieder hier.
 
-**Slide 3–6 — Schritt-für-Schritt.** Je ein Schritt, körpernah, sicher, ohne Fachsprache. Sprache wie:
+**Slide 3–6 — Schritt-für-Schritt.** Je ein Schritt, körpernah, sicher, ohne Fachsprache.
+
+> **Erklär-Regel (Pflicht — absolute Anfängerin):** Die Schritte zusammen müssen so vollständig sein, dass eine Frau, die noch NIE Yoga/Körperarbeit gemacht hat, die Übung **allein mit dem Text richtig macht**. Pro Schritt klar: **Ausgangshaltung** (wo/wie sitzt/liegt/steht sie) · **genaue Bewegung** (wohin, wie weit, welche Richtung — nicht „lös die Schultern", sondern „zieh sie hoch Richtung Ohren und lass sie fallen") · **Atemrichtung** (ein-/ausatmen) · **Wiederholung/Dauer**. Keine Fachbegriffe, keine Pose-Namen ohne Erklärung. Test: Könnte sie's ohne Nachfragen? (Kanon: `reference/somatic-yoga.md`.)
+
+Sprache wie:
 > Setz dich hin. Beide Füße auf den Boden. Nicht schön. Nicht perfekt. Nur stabil.
 > Leg eine Hand auf deinen Bauch. Nicht um etwas zu kontrollieren. Nur um wieder Kontakt aufzunehmen.
 > Atme einmal bewusst aus. Länger aus als ein.

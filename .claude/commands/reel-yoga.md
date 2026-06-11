@@ -116,6 +116,8 @@ WICHTIG: Ruhige, langsame Bewegung oder statisches Halten. Keine Erklärung im V
 Kein Fitness-Vibe. Nur ruhige Präsenz.
 ```
 
+> **Erklär-Regel (Pflicht — absolute Anfängerin):** Überall, wo die Frau erfährt, *wie* sie in die Haltung kommt (Caption-Anleitung, ggf. kurzer On-Screen-Hinweis), so erklären, dass eine, die noch NIE Yoga gemacht hat, es allein nachmachen kann: **Ausgangshaltung** (wo/wie sitzt/liegt/steht sie) · **genaue Bewegung** (wohin, wie weit, welche Richtung) · **Atemrichtung** · **Dauer** („bleib 3 Minuten"). Keine Pose-Namen ohne Erklärung, keine Fachsprache. Test: Könnte sie's ohne Nachfragen? (Kanon: `reference/somatic-yoga.md`.)
+
 ---
 
 ## Output 3 — Thumbnail-Hook (Reelcover)

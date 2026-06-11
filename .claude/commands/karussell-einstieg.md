@@ -54,6 +54,8 @@ Wenn der Teach-Teil konkrete Haltungen/Impulse nennt (Beine an die Wand, Kindhal
 
 Häufiger Fehler: Bei Beinen nach oben (Beine an der Wand) werden die Beine **leichter**, nie schwerer. Pro Übung prüfen.
 
+**Erklär-Regel (sobald eine konkrete Übung/Haltung wirklich angeleitet wird):** so erklären, dass eine Frau, die noch NIE Yoga gemacht hat, es allein nachmachen kann — **Ausgangshaltung** + **genaue Bewegung** (wohin, wie weit, welche Richtung) + **Atemrichtung** + **Wiederholung/Dauer**, keine Pose-Namen ohne Erklärung. (Dieses Format *öffnet* meist nur eine Tür, statt durchzuturnen — aber sobald eine Übung angeleitet wird, gilt die Regel voll. Kanon: `reference/somatic-yoga.md`.)
+
 ---
 
 ## Was dieses Format tut
