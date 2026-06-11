@@ -8,7 +8,9 @@
 
 ## Einzel-Stories (laufend, von `/story`)
 
-_(noch keine — die erste `/story` mit rotierbarem Inhalt trägt hier ein)_
+- 2026-06-12 · impuls · Hände öffnen + langer Ausatem (Freitagabend, „Woche abfallen lassen")
+- 2026-06-13 · satz · Wochenende nicht für die Liste, sondern für dich (Slider)
+- 2026-06-14 · satz + einladung · Sonntag-Ankommen → Telegram „Zurück zu dir"
 
 ---
 
