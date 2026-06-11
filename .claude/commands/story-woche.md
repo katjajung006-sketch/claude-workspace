@@ -26,6 +26,7 @@ eingabe: $ARGUMENTS  *(optional — z. B. „ohne angebot" oder „start am dien
 Lies zuerst, damit Stimme und Nische sitzen:
 - `context/soulclient.md` — die funktionierende Frau 40+
 - `context/brand-voice.md` — Tonalität, Power-Words, **verbotene Wörter**, Satzrhythmus
+- `reference/story-aufbau.md` — **was eine gute Story trägt** (Abbruch-Kurve, Frame-1-Regel, Sticker-Hebel, DM-vor-Link) + Zielgruppen-Übersetzung (müde Abend-Frau 40+). Das *Warum* hinter den Bausteinen A–H.
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_content_niche.md` — Nische
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_no_generic.md` — nichts darf generisch klingen
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_content_story_dm.md` — DM-Antwort, wo Keyword/DM-Mechanik

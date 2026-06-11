@@ -15,6 +15,7 @@ eingabe: $ARGUMENTS
 Lies zuerst:
 - `context/soulclient.md`
 - `context/brand-voice.md`
+- `reference/story-aufbau.md` — **was eine gute Story trägt** (Abbruch-Kurve, Frame-1-Regel, Sticker-Hebel, DM-vor-Link) + Zielgruppen-Übersetzung (müde Abend-Frau 40+). Grundlage für jeden Frame.
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/project_freebie_inventory.md` (für korrekte Links bei Einladungen)
 
 Volle Format-Definitionen, Story-Mechanik und Link-Disziplin stehen in `.claude/commands/story-woche.md` (Bausteine A–H). Hier nur die Kurzfassung zum Auswählen.
