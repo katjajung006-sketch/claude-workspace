@@ -362,6 +362,16 @@ Die 7 Highlight-Cover für @yoga.statt.funktionieren sind gebaut (2026-06-05). L
 - **Canva:** editierbares Design `DAHLvN6rajc` im Ordner „Highlight-Cover" (`FAHLvJtAYGI`). Pipeline = wie Karussells (PDF → temp Cloudflare → `import-design-from-url` als `your_story` → in Ordner verschieben → temp löschen).
 - **Doku:** `reference/highlight-cover.md` (Symbol-Zuordnung je Highlight, Pipeline für neue/​geänderte Cover). Highlights-Liste lebt in der Notion-DB „Story Highlights & Stories".
 
+## Instagram Story-Vorlagen (Canva)
+
+Editierbares Story-Vorlagen-Set, eine Vorlage je Story-Typ (Wahrer Satz · Spür-Check · Mini-Impuls · Leiser Take · Frage-Box · Einladung · Behind-the-Scenes), gebaut 2026-06-11. Marken-Optik (Sandbeige/Creme, Libre Baskerville + DM Sans), 1080×1920. Katja tippt nur den Text rein; Sticker setzt sie in Instagram.
+
+- **Produktion:** `outputs/story-vorlagen/build.py` (HTML/CSS → headless Chrome → Preview-PNGs + 7-seitiges PDF). Pipeline wie Highlight-Cover/Karussell (PDF → temp Cloudflare → `import-design-from-url` als `your_story` → in Ordner → temp löschen).
+- **Canva:** Design „Story-Vorlagen — yoga.statt.funktionieren" `DAHMRwHPwjc` im Ordner „Story-Vorlagen" `FAHMR5OZJJI`.
+- **Doku:** `reference/story-vorlagen.md`. Grundlagen für guten Story-Aufbau (Recherche) + Zielgruppen-Übersetzung: `reference/story-aufbau.md` (von `/story` + `/story-woche` mitgelesen).
+- **Variation:** `/story` und `/story-woche` teilen sich `outputs/story-woche/verlauf.md` — vor jedem Lauf lesen (nicht wiederholen), nach jedem Lauf eintragen. Erzwingt frische Körperthemen/Sätze über Wochen hinweg.
+- **Erklär-Regel für Übungen:** Jede Übung/Haltung in JEDEM Format anfängerinnen-tauglich (Ausgangshaltung + genaue Bewegung + Atemrichtung + Wiederholung). Kanon in `reference/somatic-yoga.md`, verankert in allen Übungs-Skills.
+
 ## CTA-Bibliothek
 
 Pro Reel-Ziel eine fertige CTA-Vorlage in Brand Voice — zum Rauspicken beim Content-Bau (recherchiert + festgelegt 2026-06-08). Jeweils gleich aufgebaut: Kernregel · CTAs nach Mechanismus · Platzierung · Tabu. Liegt doppelt — als Markdown in `reference/` und als Notion-Unterseite der Seite „yoga.statt.funktionieren".
