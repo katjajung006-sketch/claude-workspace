@@ -84,7 +84,13 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 ### C — Mini-Körperimpuls
 - **2–3 Frames.** Mikro-Übung zum Sofort-Mitmachen (B-Roll: Hände, Füße, Schultern, Fenster).
-- Aufbau: Frame 1 = der Moment („Wenn dein Nacken fest ist und dein Kopf voll …"). Frame 2 = die Übung (1–2 klare Handlungen, Atem unkompliziert lassen). Frame 3 (optional) = innere Frage oder Signal-Satz („Ich bin wieder da.").
+- Aufbau: Frame 1 = der Moment („Wenn dein Nacken fest ist und dein Kopf voll …"). Frame 2 = die Übung **Schritt für Schritt aus Anfängerinnen-Sicht** (siehe Erklär-Regel). Frame 3 (optional) = innere Frage oder Signal-Satz („Ich bin wieder da.").
+- **Erklär-Regel (Pflicht — absolute Anfängerin):** Jede Übung so erklären, dass eine Frau, die **noch NIE** Yoga/Körperarbeit gemacht hat, allein mit dem Text genau weiß, was zu tun ist. Immer nennen:
+  1. **Ausgangshaltung** — wo ist der Körperteil, wie sitzt/liegt/steht sie (z. B. „Hände locker im Schoß, Handflächen nach oben").
+  2. **Genaue Bewegung** — wohin, wie weit, in welche Richtung (nicht „lös die Schultern", sondern „zieh die Schultern einmal hoch zu den Ohren und lass sie dann fallen").
+  3. **Atemrichtung** — was beim Einatmen, was beim Ausatmen.
+  4. **Wiederholung** — wie oft („zwei-, dreimal so").
+  Keine Fachbegriffe, keine Pose-Namen ohne Erklärung, nichts vorausgesetzt. **Test:** Könnte sie es nur mit diesem Text richtig machen, ohne nachzufragen? Wenn nein → konkreter.
 - **Körper-Themen-Pool (durchrotieren, nicht beim Lieblingsthema bleiben):** Füße auf dem Boden spüren · Schultern sinken lassen · Kiefer/Zähne weich · Zunge vom Gaumen lösen · Hand auf den Bauch, mit dem Atem heben · Hand aufs Brustbein · Nacken lang werden lassen · langer Ausatem (länger aus als ein) · Augen/Blick weich werden lassen · Hände öffnen statt fausten · Brustkorb beim Einatmen weiten · Becken/Sitzknochen im Stuhl spüren · Stirn/Augenbrauen lösen · einmal gähnen/seufzen lassen.
 - **Rotationspflicht (siehe Variations-Regel):** Di und Do je eine andere Region; keine Region wiederholen, die in den letzten 2 Wochen laut `verlauf.md` dran war.
 - **Sticker:** optional Frage-Sticker „Wie fühlt sich das gerade an?".

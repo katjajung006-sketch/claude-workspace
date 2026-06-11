@@ -84,3 +84,4 @@ Bei Einladung mit Keyword: DM-Antwort separat darunter.
 - Kein KI-Klang, keine Floskeln, kein gleichförmiger Rhythmus. Geduzt.
 - Kein Emoji im Frame-Text (nur in Sticker-/Hinweis-Zeilen). Einladend, erinnernd, körpernah — nie belehrend oder antreibend.
 - Polls sparsam (max. 2–3/Woche im Gesamtbild). Ein Story-Run = ein Ziel.
+- **Übungen/Körperimpulse IMMER aus Sicht der absoluten Anfängerin erklären** (Frau, die noch nie Yoga/Körperarbeit gemacht hat). Pflicht je Übung: **Ausgangshaltung** (wo, wie sitzt/liegt/steht sie) + **genaue Bewegung** (wohin, wie weit, welche Richtung) + **Atemrichtung** (ein-/ausatmen) + **Wiederholung**. Keine Fachbegriffe, keine Pose-Namen ohne Erklärung. Sie muss es allein mit dem Text richtig machen können (volle Erklär-Regel in `story-woche.md`, Baustein C).
