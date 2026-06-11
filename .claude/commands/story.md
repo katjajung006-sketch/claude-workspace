@@ -16,9 +16,12 @@ Lies zuerst:
 - `context/soulclient.md`
 - `context/brand-voice.md`
 - `reference/story-aufbau.md` — **was eine gute Story trägt** (Abbruch-Kurve, Frame-1-Regel, Sticker-Hebel, DM-vor-Link) + Zielgruppen-Übersetzung (müde Abend-Frau 40+). Grundlage für jeden Frame.
+- `outputs/story-woche/verlauf.md` — **was zuletzt schon dran war** (gemeinsamer Verlauf mit `/story-woche`). Die letzten Einträge lesen und **nicht wiederholen** — besonders das Körperthema bei `impuls`, den Winkel bei `satz`/`take`. Existiert die Datei nicht: erster Lauf, neu anlegen.
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/project_freebie_inventory.md` (für korrekte Links bei Einladungen)
 
 Volle Format-Definitionen, Story-Mechanik und Link-Disziplin stehen in `.claude/commands/story-woche.md` (Bausteine A–H). Hier nur die Kurzfassung zum Auswählen.
+
+**Variation:** Den gewählten Typ inhaltlich frisch halten gegenüber den letzten Verlauf-Einträgen — kein Körperthema, kein wahrer Satz, kein Take doppelt (auch nicht leicht umformuliert). Bei mehreren Varianten (`satz 3`) untereinander klar verschieden.
 
 ---
 
@@ -67,6 +70,8 @@ Den gewählten Baustein exakt nach der Definition in `story-woche.md` schreiben.
 ```
 
 Bei Einladung mit Keyword: DM-Antwort separat darunter.
+
+**Verlauf festhalten:** Bei Typen mit rotierbarem Inhalt (`impuls`, `satz`, `take`, `check`, `frage`, `bts`) **eine kurze Zeile** in die Liste „Einzel-Stories (laufend)" in `outputs/story-woche/verlauf.md` anfügen — Datum · Typ · Kernthema (z. B. „2026-06-12 · impuls · Füße"). Nur eine Zeile, kein voller Block. Bei reinem `anstoss`/`einladung` ohne neues Thema entfällt der Eintrag.
 
 **Nach der Ausgabe:** kurz fragen, ob Anpassungen gewünscht sind.
 

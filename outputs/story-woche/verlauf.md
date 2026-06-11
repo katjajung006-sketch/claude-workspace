@@ -1,8 +1,14 @@
 # Story-Woche — Verlauf (für Variation)
 
-> Zweck: damit sich keine Woche wie die letzte anfühlt.
+> Zweck: damit sich keine Woche wie die letzte anfühlt. Gemeinsam genutzt von `/story-woche` und `/story`.
 > **Vor jedem Lauf:** die letzten 2–3 Einträge lesen und NICHT wiederholen (auch nicht leicht umformuliert).
-> **Nach jedem Lauf:** neuen Eintrag **oben** anfügen. Kurz, stichpunktartig.
+> **Nach jedem Lauf:** `/story-woche` fügt einen neuen Wochen-Block **oben** an; `/story` fügt eine Zeile unter „Einzel-Stories (laufend)" an.
+
+---
+
+## Einzel-Stories (laufend, von `/story`)
+
+_(noch keine — die erste `/story` mit rotierbarem Inhalt trägt hier ein)_
 
 ---
 
