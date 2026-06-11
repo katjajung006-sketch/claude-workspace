@@ -31,6 +31,7 @@ Lies zuerst, damit Stimme und Nische sitzen:
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_no_generic.md` — nichts darf generisch klingen
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_content_story_dm.md` — DM-Antwort, wo Keyword/DM-Mechanik
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/project_freebie_inventory.md` — welches Freebie/Angebot live ist (für korrekte Links)
+- `outputs/story-woche/verlauf.md` — **was die letzten Wochen schon dran war** (Körperthemen, wahre Sätze, Takes, BTS-Momente). Existiert die Datei nicht, ist es der erste Lauf → neu anlegen. **Die letzten 2–3 Einträge lesen und NICHT wiederholen** (siehe Variations-Regel).
 
 **Harte Leitplanken (nicht verhandelbar):**
 - Nur **Funktionsmodus** + **einfache Yoga-/Atemimpulse**. NIEMALS „Nervensystem", „Vagusnerv", „Regulation", Fachsprache.
@@ -48,6 +49,20 @@ Lies zuerst, damit Stimme und Nische sitzen:
 - **Interaktion ist der Hebel:** Sticker (Poll, Frage-Box, Emoji-Slider) bringen mehr Antworten → Algorithmus zeigt Katjas Stories danach weiter vorne. Mindestens jeden Tag *ein* Interaktions- oder Bindungs-Element.
 - **Faceless ist gewollt:** ruhige B-Roll + Text-Overlay. Bildsprache in Katjas Sandbeige/Creme-Welt (#D8C7B2 / #F4EFE7), Tageslicht, ruhige Settings.
 - **Posten am besten abends 18–22 Uhr** (die Feierabend-Frau). Diesen Hinweis am Ende einmal mitgeben.
+
+---
+
+## Variations-Regel (nicht verhandelbar)
+
+Jede Woche muss sich frisch anfühlen — nie das Gefühl „das hatte ich letzte Woche schon". Konkret:
+
+- **Mini-Körperimpuls (C):** Die beiden Körperimpuls-Tage (Di + Do) decken **immer zwei verschiedene Körperregionen** ab — nie zweimal dieselbe in einer Woche. Und: **keine Region, die in den letzten 2 Wochen** (laut `verlauf.md`) schon dran war. Durch den Pool rotieren, nicht beim Lieblingsthema (Schultern/Nacken) hängen bleiben.
+- **Wahrer Satz (A), Leiser Take (D), Frage-Box (E), BTS (H):** Jeweils ein **neuer Winkel/Moment**, der so in den letzten 2 Einträgen nicht vorkam. Kein wahrer Satz, kein Take zweimal — auch nicht leicht umformuliert.
+- **Spür-Check / Umfrage (B):** Neue Fragestellung, nicht dieselbe This-or-That wie zuletzt.
+- **Tageszeit/Setting der Momente** abwechseln: nicht jede Woche „abends auf dem Sofa". Mal Morgen (Küche, Auto vor der Arbeit), mal Mittag (Schreibtisch, Telefonat), mal Abend (Bett, Bad).
+- **Test vor dem Abschicken:** Würde Katja beim Lesen denken „das hatte ich so ähnlich erst"? Wenn ja → neu.
+
+Am Ende des Laufs die Picks dieser Woche in `verlauf.md` festhalten (siehe Ausgabe-Format), damit der nächste Lauf weiß, was zu meiden ist.
 
 ---
 
@@ -70,7 +85,8 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 ### C — Mini-Körperimpuls
 - **2–3 Frames.** Mikro-Übung zum Sofort-Mitmachen (B-Roll: Hände, Füße, Schultern, Fenster).
 - Aufbau: Frame 1 = der Moment („Wenn dein Nacken fest ist und dein Kopf voll …"). Frame 2 = die Übung (1–2 klare Handlungen, Atem unkompliziert lassen). Frame 3 (optional) = innere Frage oder Signal-Satz („Ich bin wieder da.").
-- Themen variieren: Füße spüren · Schultern sinken · Kiefer weich · Hand auf Bauch · langsam ausatmen · Nacken lösen.
+- **Körper-Themen-Pool (durchrotieren, nicht beim Lieblingsthema bleiben):** Füße auf dem Boden spüren · Schultern sinken lassen · Kiefer/Zähne weich · Zunge vom Gaumen lösen · Hand auf den Bauch, mit dem Atem heben · Hand aufs Brustbein · Nacken lang werden lassen · langer Ausatem (länger aus als ein) · Augen/Blick weich werden lassen · Hände öffnen statt fausten · Brustkorb beim Einatmen weiten · Becken/Sitzknochen im Stuhl spüren · Stirn/Augenbrauen lösen · einmal gähnen/seufzen lassen.
+- **Rotationspflicht (siehe Variations-Regel):** Di und Do je eine andere Region; keine Region wiederholen, die in den letzten 2 Wochen laut `verlauf.md` dran war.
 - **Sticker:** optional Frage-Sticker „Wie fühlt sich das gerade an?".
 - **Job:** Wert + Speichern.
 
@@ -156,6 +172,8 @@ An Einladungs-Tagen den Link klar nennen (Ziel + URL/„Link in Bio") und — be
 
 **Am Ende des ganzen Laufs:** der Wochen-Überblick (Tabelle Tag → Ziel) + der Hinweis „Am besten abends 18–22 Uhr posten."
 
+**Verlauf festhalten (Pflicht):** Einen neuen Eintrag **oben** in `outputs/story-woche/verlauf.md` anlegen (Datei anlegen, falls nicht vorhanden) — mit Lauf-Datum und je einer Zeile: Körperimpuls (Di/Do-Region), wahre Sätze (Winkel), Leiser Take, Spür-Checks, Frage-Box, BTS, Funnel-Ziele. Kurz und stichpunktartig — nur damit der nächste Lauf weiß, was zu meiden ist.
+
 **Danach:** kurz fragen, ob ein Tag angepasst werden soll.
 
 ---
@@ -165,4 +183,6 @@ An Einladungs-Tagen den Link klar nennen (Ziel + URL/„Link in Bio") und — be
 - **Nicht** nach Notion archivieren — nur wenn Katja ausdrücklich abnimmt („passt so" / „perfekt"). Dann in die Datenbank „Story Highlights & Stories" (`150c2b99-75fe-4478-94c4-ed52407136ae`), Typ „Story (Einzel)".
 - **Nicht** das Freebie-Angebot falsch verlinken (Freebie → Opt-in/Bio · Angebot → Verkaufsseite, nie Kasse · 7-€-Tripwire nie öffentlich).
 - **Nicht** mehr als 2–3 Polls pro Woche. **Nicht** zwei Funnel-Ziele in einen Tag.
+- **Nicht** dasselbe Körperthema, denselben wahren Satz oder Take wie in den letzten Wochen (laut `verlauf.md`) — auch nicht leicht umformuliert.
+- **Nicht** vergessen, am Ende den Verlauf-Eintrag zu schreiben.
 - **Nicht** generisch, nicht belehrend, nicht antreibend.
