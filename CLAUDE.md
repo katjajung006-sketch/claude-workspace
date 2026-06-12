@@ -159,6 +159,17 @@ Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbe
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hauptziel: Speichern · kalter bis warmer Traffic
 
+### /reel-yoga-wirkung [haltung]
+
+**Zweck:** Yoga-Reel wie `/reel-yoga`, aber **ergebnis-geführter** Einstieg — der Hook startet mit der spürbaren Wirkung statt mit dem Problem/Situations-Moment. Danach gleicher Open Loop (Auflösung in der Caption). Contentsäule: Yoga ohne Leistungsdruck.
+
+- `/reel-yoga-wirkung` → Claude wählt Haltung selbst
+- `/reel-yoga-wirkung Liegende Drehung` → Haltung vorgeben
+
+**A/B-Test-Schwester von `/reel-yoga`** (eingerichtet 2026-06-12): Beide laufen gegeneinander, um zu sehen, welcher Einstieg die Zielgruppe besser stoppt. Der EINZIGE Unterschied ist der Hook-Ansatz — `/reel-yoga` öffnet mit dem Problem (sie erkennt sich), `/reel-yoga-wirkung` mit dem Ergebnis (sie will wissen, was sie davon hat). Cover, Caption-Aufbau, Hashtags, Story, Keyword (3MINUTEN) bleiben parallel.
+Hook-Pool ergebnis-geführt (Insider/Advocacy · Autorität · Tempo · Machbarkeit), z. B. „Ich wünschte, mehr Frauen wüssten, dass …" · „Wenn ich dir nur eine Übung zeigen dürfte …" · „Du machst diese eine Übung drei Minuten, und …". Eingebaute Leitplanken: versprochenes Ergebnis ist immer gespürt-körperlich, nie Leistung/Optimierung (schützt vor Transformations-Sound); kein Körperteil als Schlagzeile, wenn es nach Schmerz klingt (über den Zustand führen). Gut für Test-Reels, um die Hooks durchzutesten.
+Output identisch zu `/reel-yoga`.
+
 ### /reel-spiegel [thema]
 
 **Zweck:** Minimalistisches Spiegel-Reel — ruhiges Video, der Text trägt alles. Ziel: sofortige Wiedererkennung („Das bin ich.") bei Frauen 40+. Contentsäule: Der Körper im Funktionsmodus.

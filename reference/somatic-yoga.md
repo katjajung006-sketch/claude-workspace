@@ -69,6 +69,15 @@ Keine Fachbegriffe, keine Pose-Namen ohne Erklärung, nichts vorausgesetzt (auch
 
 Auslöser (2026-06-11): Ein Story-Impuls „Hände lösen — öffne die Hände, lass die Finger lang werden und fallen" war zu vage (wo sind die Hände? welche Haltung? wohin?). Diese Regel verhindert das überall.
 
+## Körperteil nie als Schlagzeile (Pflicht in ALLEM Content — Kanon)
+
+Ein medizinisch besetztes Körperteil (Rücken, Nacken, Knie, Hüfte, Schulter) darf **nicht den Hook / die Schlagzeile tragen**, wenn es bei einer Yoga-Anfängerin sofort an Schmerz/Diagnose denken lässt. Sonst zieht der Content das falsche, kleinere Publikum an (Leute mit Beschwerden) statt Katjas Zielgruppe (die Frau im Funktionsmodus, die den ganzen Tag alles trägt).
+
+- **Im Hook über den Zustand führen** — tragen, halten, anspannen, alles stemmen — nicht über das Körperteil. Statt „…den Rücken loslassen, der alles getragen hat" → „…was drei Minuten mit dir machen, wenn du den ganzen Tag alles gehalten hast."
+- **Das Körperteil erst innen nennen** — in der Spür-Auflösung der Caption, wo die Wörter drumherum (lässt los · Atem wird weit · Schultern sinken) eindeutig Entspannung signalisieren, nicht Schmerz. Dort ist „dein unterer Rücken lässt los" völlig okay.
+
+Auslöser (2026-06-12): „den Rücken loslassen" als Hook hätte eine Yoga-Anfängerin in die Rückenschmerz-Schublade geschickt. Gilt für alle Übungs-Skills.
+
 ## Für wen — und warum es Katjas Zielgruppe so trifft
 
 Besonders für Menschen mit Dauerstress, Erschöpfung, „immer in Bereitschaft", Verspannung, Schlafproblemen, dem Gefühl nicht abschalten zu können — und für alle, die **kein leistungsorientiertes, akrobatisches Yoga** wollen. Das ist exakt Katjas Soulclient: Frauen 40+, die funktioniert und sich übergangen haben, die ihren Körper erst hören, wenn er laut wird. Somatic Yoga ist der körperliche Weg zurück aus dem Funktionsmodus — nicht noch ein To-do, sondern Erlaubnis zum Spüren.
