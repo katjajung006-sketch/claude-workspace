@@ -230,6 +230,7 @@ Claude wählt die Inhalte **selbst** (frisch je Lauf, nie wiederholt, immer spez
 - Mo: Wahrer Satz + Spür-Check (Poll) · Di: Mini-Körperimpuls + Anstoß (Recycling) · Mi: Leiser Take · Do: Mini-Körperimpuls + Frage-Box · Fr: Wahrer Satz + Einladung (Freebie) · Sa: Behind-the-Scenes + Spür-Check · So: Wahrer Satz + Einladung (Telegram/Audio-Teaser)
 
 Eingebaute Regeln (aus Marktrecherche): ein Story-Run = ein Ziel · Polls max. 2–3×/Woche · kurz halten, Bestes zuerst · abends 18–22 Uhr posten · Link-Disziplin (Freebie → Opt-in/Bio · Angebot „10-Minuten-Rückkehr" → `10-minuten-rueckkehr.katjajung.com`, **nie zur Kasse**, 7-€-Tripwire nie öffentlich). Volle Format-Bausteine (A–H) + Pipeline in `.claude/commands/story-woche.md`.
+Geschärft 2026-06-12: verbotene Wörter nie per Verneinung (auch „nicht mehr Disziplin" raus → „mehr Druck") · Körperimpuls-Frame-1 führt über den Zustand, nie über einen Körperteil als Schlagzeile · Wahrer Satz rotiert die Form (Vielleicht-Paar / leise Frage / stiller Spiegel-Satz), nie 3× dieselbe/Woche · Frame 1 trägt täglich einen Slider (zählt nicht als Poll, Algo-Schub) · 1 bewusster Weiterleitungs-Moment/Woche (Sends) · Mittwochs-Take endet immer auf DM-Öffner.
 
 ### /story [typ | typ anzahl]
 

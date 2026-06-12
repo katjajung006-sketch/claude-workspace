@@ -35,7 +35,7 @@ Lies zuerst, damit Stimme und Nische sitzen:
 
 **Harte Leitplanken (nicht verhandelbar):**
 - Nur **Funktionsmodus** + **einfache Yoga-/Atemimpulse**. NIEMALS „Nervensystem", „Vagusnerv", „Regulation", Fachsprache.
-- Verbotene Marken-Wörter: High Performance, Disziplin (außer in Verneinung), Challenge, Transformation, Selbstoptimierung, Selfcare, „du musst nur", „Zeit für dich nehmen" u. Ä. (siehe brand-voice).
+- Verbotene Marken-Wörter: High Performance, Disziplin, Challenge, Transformation, Selbstoptimierung, Selfcare, „du musst nur", „Zeit für dich nehmen" u. Ä. (siehe brand-voice). **Auch nicht per Verneinung** verwenden („nicht mehr Disziplin", „kein Workout") — direkt positiv formulieren (z. B. „mehr Druck", „noch ein Plan").
 - **Kein Satz darf nach KI klingen.** Keine Floskeln, kein gleichförmiger Rhythmus, keine „Das ist nicht X, sondern Y"-Masche.
 - Geduzt, nie gesiezt. Kein Emoji im Frame-Text, außer Katja gibt eines vor (Emojis nur in Sticker-/Hinweis-Zeilen erlaubt).
 
@@ -47,6 +47,8 @@ Lies zuerst, damit Stimme und Nische sitzen:
 - **Polls/This-or-That max. 2–3×/Woche** (Mo, Sa und ggf. einmal spontan) — sonst stumpft es ab.
 - **Kurz halten, Bestes zuerst.** Pro Tag selten mehr als 3 Frames. Der erste Frame entscheidet, ob jemand bleibt.
 - **Interaktion ist der Hebel:** Sticker (Poll, Frage-Box, Emoji-Slider) bringen mehr Antworten → Algorithmus zeigt Katjas Stories danach weiter vorne. Mindestens jeden Tag *ein* Interaktions- oder Bindungs-Element.
+- **Frame 1 trägt täglich einen niedrigschwelligen Sticker** (Emoji-Slider „Trifft dich das?" o. Ä.). Ein Slider zählt NICHT als Poll → reißt die „max. 2–3 Polls"-Grenze nicht und gibt laut Research direkt auf Frame 1 einen Algo-Schub. Niedrigste Hürde für die müde Frau.
+- **Ein bewusster Weiterleitungs-Moment pro Woche:** „Sends per reach" ist ein Top-3-Signal (Mosseri). Mindestens 1×/Woche einen Frame klar aufs Weiterleiten bauen — „Schick das einer Frau, die gerade auch nur funktioniert." (meist am Wahren Satz).
 - **Faceless ist gewollt:** ruhige B-Roll + Text-Overlay. Bildsprache in Katjas Sandbeige/Creme-Welt (#D8C7B2 / #F4EFE7), Tageslicht, ruhige Settings.
 - **Posten am besten abends 18–22 Uhr** (die Feierabend-Frau). Diesen Hinweis am Ende einmal mitgeben.
 
@@ -57,7 +59,7 @@ Lies zuerst, damit Stimme und Nische sitzen:
 Jede Woche muss sich frisch anfühlen — nie das Gefühl „das hatte ich letzte Woche schon". Konkret:
 
 - **Mini-Körperimpuls (C):** Die beiden Körperimpuls-Tage (Di + Do) decken **immer zwei verschiedene Körperregionen** ab — nie zweimal dieselbe in einer Woche. Und: **keine Region, die in den letzten 2 Wochen** (laut `verlauf.md`) schon dran war. Durch den Pool rotieren, nicht beim Lieblingsthema (Schultern/Nacken) hängen bleiben.
-- **Wahrer Satz (A), Leiser Take (D), Frage-Box (E), BTS (H):** Jeweils ein **neuer Winkel/Moment**, der so in den letzten 2 Einträgen nicht vorkam. Kein wahrer Satz, kein Take zweimal — auch nicht leicht umformuliert.
+- **Wahrer Satz (A), Leiser Take (D), Frage-Box (E), BTS (H):** Jeweils ein **neuer Winkel/Moment**, der so in den letzten 2 Einträgen nicht vorkam. Kein wahrer Satz, kein Take zweimal — auch nicht leicht umformuliert. Beim Wahren Satz zusätzlich die **Form** abwechseln (a/b/c aus Baustein A) — nie 3× dieselbe in einer Woche.
 - **Spür-Check / Umfrage (B):** Neue Fragestellung, nicht dieselbe This-or-That wie zuletzt.
 - **Tageszeit/Setting der Momente** abwechseln: nicht jede Woche „abends auf dem Sofa". Mal Morgen (Küche, Auto vor der Arbeit), mal Mittag (Schreibtisch, Telefonat), mal Abend (Bett, Bad).
 - **Test vor dem Abschicken:** Würde Katja beim Lesen denken „das hatte ich so ähnlich erst"? Wenn ja → neu.
@@ -72,7 +74,12 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 ### A — Wahrer Satz
 - **1 Frame.** Ein wahrer Satz auf ruhigem Hintergrund (Sandbeige-Fläche oder stille B-Roll).
-- **Framing — „Vielleicht"-Denkanstoß (Standard, von Katja 2026-06-04):** Wahre Sätze in Stories als sanften Denkanstoß formulieren, nicht als Feststellung. Doppeltes „Vielleicht … Vielleicht …" lädt die Frau zum Selbst-Erkennen ein und spielt mit dem Slider „Trifft dich das?" zusammen. Beispiel: „Vielleicht bist du nicht zu empfindlich. Vielleicht hast du nur lange genug überhört, was dein Körper dir längst sagt." Die direkte Urteils-Stimme („Du bist nicht …") gehört NICHT in dieses Format — die ist für laute Momente (Reel-Hook, Baustein D „Leiser Take").
+- **Framing — sanfter Denkanstoß, nie Feststellung (Standard, von Katja 2026-06-04):** Wahre Sätze in Stories laden zum Selbst-Erkennen ein, sie urteilen nicht. Die direkte Urteils-Stimme („Du bist nicht …") gehört NICHT hierher — die ist für laute Momente (Reel-Hook, Baustein D „Leiser Take").
+- **Form abwechseln — NIE 3× dieselbe in einer Woche:** Mo/Fr/So sind alle „Wahrer Satz". Das doppelte „Vielleicht … Vielleicht …" ist *eine* starke Form, nicht die einzige — sonst Muster-Gefühl (gegen die „nichts klingt nach KI"-Regel). Rotieren zwischen:
+  - (a) **Vielleicht … Vielleicht …** — „Vielleicht bist du nicht zu empfindlich. Vielleicht hast du nur lange überhört, was dein Körper dir längst sagt."
+  - (b) **leise Frage** — „Wann hast du heute zuletzt gemerkt, dass du auch noch da bist?"
+  - (c) **ein einzelner stiller Satz, der spiegelt statt urteilt** — „Den ganzen Tag erreichbar — und der eine Mensch, der wartet, bist du."
+  Immer Denkanstoß-Ton, nie Urteil. Welche Form pro Tag — im Verlauf festhalten, damit sich die Form nicht wiederholt.
 - Frisch schreiben, im Ton des „Wahre Sätze"-Fundus. Nicht denselben Satz zweimal.
 - **Sticker:** Emoji-Slider „Trifft dich das?" *oder* schlichte Textzeile „Speicher dir das – oder schick's einer Frau, die das gerade auch braucht."
 - **Job:** Vertrauen + Teilen.
@@ -84,7 +91,7 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 ### C — Mini-Körperimpuls
 - **2–3 Frames.** Mikro-Übung zum Sofort-Mitmachen (B-Roll: Hände, Füße, Schultern, Fenster).
-- Aufbau: Frame 1 = der Moment („Wenn dein Nacken fest ist und dein Kopf voll …"). Frame 2 = die Übung **Schritt für Schritt aus Anfängerinnen-Sicht** (siehe Erklär-Regel). Frame 3 (optional) = innere Frage oder Signal-Satz („Ich bin wieder da.").
+- Aufbau: Frame 1 = der Moment **über die Situation/den Zustand, nie über einen Körperteil als Schlagzeile** („Abends, und dein Kopf kommt einfach nicht runter …" — nicht „Wenn dein Nacken fest ist …"; Körperteil klingt sonst nach Schmerz/Diagnose). Frame 2 = die Übung **Schritt für Schritt aus Anfängerinnen-Sicht** (siehe Erklär-Regel) — hier taucht der Körperteil auf, in der Bewegung. Frame 3 (optional) = innere Frage oder Signal-Satz („Ich bin wieder da.").
 - **Erklär-Regel (Pflicht — absolute Anfängerin):** Jede Übung so erklären, dass eine Frau, die **noch NIE** Yoga/Körperarbeit gemacht hat, allein mit dem Text genau weiß, was zu tun ist. Immer nennen:
   1. **Ausgangshaltung** — wo ist der Körperteil, wie sitzt/liegt/steht sie (z. B. „Hände locker im Schoß, Handflächen nach oben").
   2. **Genaue Bewegung** — wohin, wie weit, in welche Richtung (nicht „lös die Schultern", sondern „zieh die Schultern einmal hoch zu den Ohren und lass sie dann fallen").
@@ -98,8 +105,9 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 ### D — Leiser Take (Klartext)
 - **1–2 Frames.** Ein klarer Standpunkt, der einen neuen Standard setzt (Manifestor-Energie: benennen, nicht überzeugen).
-- Aufbau: Frame 1 = der Take („Mehr Disziplin ist selten die Antwort."). Frame 2 = die Brücke („Was du oft brauchst, ist kein neuer Plan – sondern ein Moment, in dem du aufhörst, gegen dich zu leben.").
+- Aufbau: Frame 1 = der Take („Mehr Druck ist selten die Antwort."). Frame 2 = die Brücke („Was du oft brauchst, ist kein neuer Plan – sondern ein Moment, in dem du aufhörst, gegen dich zu leben.").
 - **Sticker:** Frage-Sticker „Wie siehst du das?" / Antwort-Aufruf.
+- **Mittwoch-Pflicht:** Der Take endet IMMER auf einen echten DM-Öffner (Frage-Sticker / „Antworte mir, wenn …"), nicht nur als Statement — Mittwoch ist der dünne Tag, der lebt von der Antwort.
 - **Job:** Autorität + DMs.
 
 ### E — Was brauchst du? (Frage-Box)
@@ -178,7 +186,7 @@ An Einladungs-Tagen den Link klar nennen (Ziel + URL/„Link in Bio") und — be
 
 **Am Ende des ganzen Laufs:** der Wochen-Überblick (Tabelle Tag → Ziel) + der Hinweis „Am besten abends 18–22 Uhr posten."
 
-**Verlauf festhalten (Pflicht):** Einen neuen Eintrag **oben** in `outputs/story-woche/verlauf.md` anlegen (Datei anlegen, falls nicht vorhanden) — mit Lauf-Datum und je einer Zeile: Körperimpuls (Di/Do-Region), wahre Sätze (Winkel), Leiser Take, Spür-Checks, Frage-Box, BTS, Funnel-Ziele. Kurz und stichpunktartig — nur damit der nächste Lauf weiß, was zu meiden ist.
+**Verlauf festhalten (Pflicht):** Einen neuen Eintrag **oben** in `outputs/story-woche/verlauf.md` anlegen (Datei anlegen, falls nicht vorhanden) — mit Lauf-Datum und je einer Zeile: Körperimpuls (Di/Do-Region), wahre Sätze (Winkel **+ Form a/b/c**), Leiser Take, Spür-Checks, Frage-Box, BTS, Funnel-Ziele. Kurz und stichpunktartig — nur damit der nächste Lauf weiß, was zu meiden ist.
 
 **Danach:** kurz fragen, ob ein Tag angepasst werden soll.
 

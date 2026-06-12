@@ -37,7 +37,7 @@ Kurz. Ruhig. Mit Pausen. Keine langen Erklärungsschleifen. Wirkt durch Erkennen
 - „Vielleicht brauchst du keine neue Routine. Vielleicht brauchst du einen Moment, in dem du dich wieder bemerkst."
 - „Yoga darf der Ort sein, an dem du nicht funktionieren musst."
 - „Du bist nicht falsch. Du bist nur zu lange über dich hinweggegangen."
-- „Nicht jede Erschöpfung braucht mehr Disziplin. Manche braucht Ehrlichkeit."
+- „Nicht jede Erschöpfung braucht mehr Druck. Manche braucht Ehrlichkeit."
 - „Du musst nicht beweglich sein. Du musst nur bereit sein, dich wieder zu spüren."
 - „Es geht nicht darum, perfekt auf der Matte auszusehen. Es geht darum, dich nicht länger zu verlassen."
 - „Fang nicht mit 60 Minuten Yoga an. Fang mit einem ehrlichen Atemzug an."
