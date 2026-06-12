@@ -149,13 +149,13 @@ Nutzt `reel.md` (Funktionsmodus) bzw. `reel-yoga.md` (Yoga) als Single Source of
 
 ### /reel-yoga [haltung]
 
-**Zweck:** Reel im Open-Loop-Format — einfache Yoga-Haltung zeigen, Neugier-Text im Reel, Auflösung erst in der Caption. Contentsäule: Yoga ohne Leistungsdruck.
+**Zweck:** Reel im Open-Loop-Format — einfache Yoga-Haltung zeigen, On-Screen-Text in 3 Beats (Situations-Anker → Haltung + Zeit → offener Spür-Satz), Auflösung erst in der Caption. Contentsäule: Yoga ohne Leistungsdruck.
 
 - `/reel-yoga` → Claude wählt Haltung selbst
 - `/reel-yoga Kindhaltung` → Haltung selbst vorgeben
 
-Output: Reel-Hook · Reelcover (Kicker „3-MINUTEN-ÜBUNG" fest + variabler Neugier-Zusatz) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
-Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe).
+Output: Reel-Text (3 Beats, ~10–12 Sek) · Reelcover (Kicker „3-MINUTEN-ÜBUNG" fest + Neugier-Zusatz, der den Situations-Anker trägt) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
+Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe). Pflicht-Schritt Situations-Anker: jedes Reel hängt an EINEM konkreten Soulclient-Moment — trägt Hook, Cover und Weiterleitungs-Wirkung. Kein Caption-Verweis im Video, CTAs nur in der Caption, Keyword fest **3MINUTEN** (ManyChat-Flow).
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hauptziel: Speichern · kalter bis warmer Traffic
 

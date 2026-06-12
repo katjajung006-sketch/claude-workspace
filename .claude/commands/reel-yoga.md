@@ -56,6 +56,25 @@ Bei Haltungen mit Beinen nach oben (Beine an der Wand, Figur-4 liegend) werden d
 
 ---
 
+## Schritt 2.6 — Situations-Anker wählen (PFLICHT)
+
+**Bevor du den Hook schreibst: Wähle EINEN konkreten Moment aus dem Soulclient-Profil, in dem diese Frau genau diese Haltung braucht.**
+
+Nicht „Stress allgemein", sondern ein Moment, den sie gestern hatte:
+- Abends auf dem Sofa — Körper müde, Kopf schreibt noch Listen
+- Der Tag, an dem alle etwas von ihr wollten — Job, Kinder, Handy
+- Sonntagabend, wenn die Woche sie schon wieder ganz nehmen will
+- Nach dem letzten Call, wenn der Körper sitzt, aber innerlich weiterrennt
+- Nachts wach liegen, weil der Kopf nicht ausmacht
+
+**Regeln:**
+- Der Anker muss zur Haltung passen (Kindhaltung = nicht erreichbar sein → „alle wollen etwas" · Beine an der Wand = Feierabend-Runterkommen → „Kopf schreibt Listen").
+- Jede Zeile des Reels gehört zu diesem einen Moment — nicht zu drei verschiedenen.
+- Der Anker trägt die Weiterleitungs-Wirkung: Eine Frau, die sich in der ersten Zeile erkennt, denkt von selbst an ihre Schwester/Freundin. Deshalb: so spezifisch, dass sie sich gemeint fühlt — nicht so allgemein, dass es auf jede passt.
+- Anker variieren — nicht zweimal hintereinander denselben Moment nehmen.
+
+---
+
 ## Was dieses Format tut
 
 Zeigt Frauen 40+, dass Yoga kein weiterer Leistungsbereich sein muss.
@@ -69,36 +88,41 @@ Die Zuschauerin soll denken:
 
 ---
 
-## Output 1 — Reel-Hook / On-Screen-Text
+## Output 1 — Reel-Text (On-Screen, 3 Beats)
 
 **PFLICHT: Immer das Open-Loop-Prinzip. Nie die Auflösung im Reel.**
 
+Reel-Länge: **10–12 Sekunden**. Die Haltung bleibt statisch (oder ein langsames Ankommen), der On-Screen-Text wechselt in **3 Beats** — so gibt es nach dem Hook einen Grund weiterzuschauen (Watch-Time).
+
 Formel:
 ```
-[Zeit] + [Haltung beschreiben]
-und dein Körper [macht / zeigt / sagt] [kurze Neugier-Phrase]:
+Beat 1 (0–3 Sek):  [Situations-Anker aus Schritt 2.6 — sie erkennt sich]
+Beat 2 (3–7 Sek):  [Haltung + Zeit — konkret und machbar]
+Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, der zum Anker zurückführt]
 ```
 
-Bewährte Varianten:
-> 3 Minuten mit den Füßen an der Wand
-> und dein Körper macht plötzlich das:
+Beispiel (Beine an der Wand, Anker „Kopf schreibt Listen"):
+> **Beat 1:** Dein Körper ist müde. / Aber dein Kopf schreibt noch Listen.
+> **Beat 2:** Leg die Beine 3 Minuten an die Wand.
+> **Beat 3:** Und dann hör hin, was leiser wird.
 
-> Bleib 3 Minuten in der Kindhaltung
-> und dein Körper zeigt dir das:
+Beispiel (Kindhaltung, Anker „alle wollen etwas"):
+> **Beat 1:** Alle wollten heute etwas von dir. / Den ganzen Tag.
+> **Beat 2:** Knie breit. Stirn auf den Boden. / Bleib 3 Minuten.
+> **Beat 3:** Und dann spür, was passiert, / wenn endlich niemand etwas will.
 
-> Bleib 2 Minuten so liegen
-> und dein Körper zeigt dir, wie gestresst du bist:
+**Beat-3-Pool (offene Spür-Sätze — je Haltung den wählen, der zum Anker zurückführt):**
+> Und dann hör hin, was leiser wird.
+> Und dann pass auf, was dein Körper macht.
+> Fühl selbst, was dann passiert.
+> Und dein Körper macht plötzlich das:
+> Und dann spür, was passiert, wenn [Gegenteil des Ankers].
 
-> Wenn dein Körper nicht mehr entspannen kann,
-> mach das 3 Minuten:
-
-> 3 Minuten in dieser Haltung
-> und dein Körper wird dir das sagen:
-
-**Stilregel:**
-- Kurz. Zwei Zeilen reichen.
-- Die Neugier-Phrase bleibt offen — kein Ergebnis nennen.
-- Nie im Reel: „Dein Atem wird tiefer" / „Deine Schultern sinken" → Das kommt in der Caption.
+**Stilregeln:**
+- Beat 1 muss in den ersten 1–2 Sekunden stoppen — Spezifik schlägt Eingängigkeit. Kein „Stress allgemein", sondern der konkrete Moment.
+- Beat 3 bleibt offen — kein Ergebnis nennen. Nie im Reel: „Dein Atem wird tiefer" / „Deine Schultern sinken" → Das kommt in der Caption.
+- **NIE auf die Caption verweisen** („steht in der Caption" / „Auflösung unten") — wirkt veraltet, die Leute kennen die Mechanik.
+- **Kein CTA im Video** (kein „schick's ihr", kein „speicher dir das") — CTAs leben ausschließlich in der Caption. Die Weiterleitung löst Beat 1 über Wiedererkennung aus.
 
 ---
 
@@ -135,14 +159,14 @@ Slot 2 (Neugier-Zusatz — variabel): [kurzer offener Hook]
 
 **Slot 2 — Neugier-Zusatz:**
 - **Extrem kurz** — maximal 3–5 Wörter, eine offene Schleife.
-- **Maximale Neugier** — kein fertiger Gedanke, keine Auflösung, kein Ergebnis nennen.
-- Die Übung NICHT verraten — die Neugier trägt das Cover, der Name lebt im Reel.
+- **Trägt den Situations-Anker** aus Schritt 2.6 — kein generischer Neugier-Satz, der auf jedes Reel passen würde. Test: Würde dieser Zusatz auch über jedem anderen Reel funktionieren? Dann ist er zu allgemein.
+- Keine Auflösung, kein Ergebnis nennen. Die Übung NICHT verraten — der Anker trägt das Cover, die Haltung lebt im Reel.
 
-Beispiele für Slot 2:
-> Was dein Körper dann macht
-> Spür den Unterschied
-> Mach das heute Abend
-> Dein Körper wartet darauf
+Beispiele für Slot 2 (mit Anker):
+> Wenn dein Kopf nicht aufhört
+> Wenn alle etwas wollen
+> Für den Sonntagabend-Knoten
+> Wenn Feierabend nicht ankommt
 > Bevor dein Kopf weiterrennt
 
 ---
@@ -185,15 +209,12 @@ Und manchmal merkst du erst dann, wie angespannt du eigentlich warst.
 Sprache: spüren · merken · weich werden · leichter werden · schwer werden · loslassen · festhalten · runterkommen
 
 **3. Verbindung zum Funktionsmodus**
-Kurze Einordnung — warum diese Haltung für diese Frau relevant ist:
+Kurze Einordnung — warum diese Haltung für diese Frau relevant ist. **Je Post frisch formulieren, am Situations-Anker entlang — nie einen festen Block wörtlich wiederverwenden** (sonst klingen die Captions über mehrere Reels gleich).
 
-```
-Wenn du den ganzen Tag funktionierst, bleibt dein Körper oft im Modus:
-halten · reagieren · kontrollieren · weitermachen
+Beispiele für den Geist dieses Absatzes (nicht kopieren):
+> Den ganzen Tag hält dein Körper dich aufrecht — im Termin, am Herd, im Auto. Das hier ist die erste Position des Tages, in der er nichts halten muss. Nicht mal dich.
 
-Das ist ein kleiner Moment, in dem dein Körper wieder merken darf:
-Ich muss gerade nichts leisten.
-```
+> Den ganzen Tag bist du nach außen gerichtet — antworten, reagieren, erreichbar sein. Diese Haltung dreht dich zum ersten Mal am Tag nach innen.
 
 **Nicht** über das Verbotene definieren („Diese Haltung ist kein Workout/Training") — „Workout" ist ein verbotenes Wort und wird auch durch Verneinung im Kopf gepflanzt. Direkt mit „Das ist ein kleiner Moment, in dem …" einsteigen.
 
@@ -229,9 +250,10 @@ Niedrigschwellig. Genau einen wählen — passend zum Ziel des Posts:
 Speichern (Hauptziel dieses Formats):
 > Speicher dir das für heute Abend, wenn dein Körper müde ist, aber dein Kopf noch weiterrennt.
 
-Kommentieren (für Freebie oder Serie):
-> Kommentiere „[Keyword]", wenn du eine weitere einfache 3-Minuten-Übung für nach einem langen Tag möchtest.
-> Mögliche Keywords: RUHE · 3MIN · KÖRPER · PAUSE · YOGA · ZURÜCK
+Kommentieren (fürs Freebie — **immer das registrierte ManyChat-Keyword, nie frei erfinden**):
+> Kommentiere **3MINUTEN** und ich schicke dir meinen 3-Minuten-Körpercheck — für die Abende, an denen du nicht weißt, wo du anfangen sollst.
+
+Übungs-/Spür-Content (dieses Format) → Keyword **3MINUTEN** (Flow „Auto-DM 3MINUTEN (Körpercheck)"). Erkennungs-/Funktionsmodus-Content → **CHECK**. Vor dem Posten daran erinnern: ManyChat-Trigger auf genau dieses Reel setzen + einschalten, sonst läuft die DM nicht.
 
 Folgen:
 > Folge mir, wenn du Yoga ohne Leistungsdruck nutzen willst, um aus dem Funktionsmodus zurück in deinen Körper zu kommen.
@@ -246,8 +268,8 @@ Folgen:
 
 ## Output 7 — DM-Antwort (nur wenn der Post eine DM-/Keyword-Mechanik nutzt)
 
-Nur wenn der CTA über Kommentar/Keyword in die DM führt (z. B. „Kommentiere RUHE"). Eine warme, kurze Antwort für alle, die kommentieren:
-> Schön, dass du dir die 3 Minuten nehmen willst. Hier ist deine Übung — fang klein an, nicht perfekt, nur da sein.
+Nur wenn der CTA über Kommentar/Keyword in die DM führt (z. B. „Kommentiere 3MINUTEN"). Eine warme, kurze Antwort für alle, die kommentieren:
+> Schön, dass du dir die 3 Minuten nehmen willst. Hier ist dein 3-Minuten-Körpercheck: [Link aus dem Flow]. Fang heute Abend an — nicht perfekt, nur ehrlich.
 
 Wenn der Post keine DM-Mechanik hat (reines Speichern/Folgen): diesen Output weglassen.
 
@@ -257,10 +279,16 @@ Wenn der Post keine DM-Mechanik hat (reines Speichern/Folgen): diesen Output weg
 
 ```
 ---
-REEL-HOOK (On-Screen-Text)
+SITUATIONS-ANKER (intern)
 
-[Zeile 1]
-[Zeile 2]:
+[Der gewählte Moment aus Schritt 2.6 — eine Zeile]
+
+---
+REEL-TEXT (On-Screen, 3 Beats, ~10–12 Sek)
+
+Beat 1 (0–3 Sek):  [Situations-Anker — sie erkennt sich]
+Beat 2 (3–7 Sek):  [Haltung + Zeit]
+Beat 3 (7–12 Sek): [offener Spür-Satz]
 
 ---
 REELCOVER (einheitliche Serien-Vorlage)
@@ -313,7 +341,9 @@ Nach der Ausgabe: kurz fragen ob Haltung, Hook oder Caption angepasst werden sol
 
 ## Stilregeln
 
-- Reel: Open Loop IMMER — Auflösung gehört in die Caption, nie ins Reel
+- Reel: Open Loop IMMER — Auflösung gehört in die Caption, nie ins Reel. Aber NIE auf die Caption verweisen („steht in der Caption") — die Mechanik kennt jeder.
+- Beat 1 trägt den Situations-Anker (Schritt 2.6) — Spezifik schlägt Eingängigkeit; ein Hook, der auf jede Haltung passt, ist zu generisch
+- CTAs nur in der Caption, nie im Video (bewusst entschieden 2026-06-12; On-Screen-Send-Zeile evtl. später mal testen)
 - Kein Fitness-Vibe · kein Yoga-Jargon · keine Fachbegriffe
 - Wirkung der Haltung IMMER vorher prüfen (Schritt 2.5) — nur echte, wahre Resultate beschreiben, nie erfinden
 - Wirkung in Katjas Sprache übersetzen — das Resultat, das sie will, nicht der Mechanismus (kein Cortisol, Lymphfluss, Parasympathikus)
