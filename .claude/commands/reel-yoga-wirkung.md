@@ -119,6 +119,8 @@ Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, hält die Details zurüc
 > Eine Wand, drei Minuten — mehr braucht dein Körper nicht, um [Ergebnis].
 > Du brauchst nur den Boden und drei Minuten, damit [Ergebnis].
 
+**Verfeinerung — Demonstrativ statt unbestimmt (empfohlener Standard):** Wo der Hook auf die Übung/Zeit zeigt, lieber **„diese drei Minuten" / „diese eine Übung"** statt der unbestimmten Form („drei Minuten" / „eine Übung"). Das Wörtchen „diese" zeigt mit dem Finger auf genau das, was sie im Video sieht — bindet das Versprechen an die konkrete Übung und erzeugt einen Mini-Sog (*welche* drei Minuten? die da). Konkret schlägt allgemein. Beispiel: „Ich wünschte, mehr Frauen wüssten, was **diese** drei Minuten so machen, wenn …"
+
 **Beat-3-Pool (offene Spür-Sätze — halten die Details zurück):**
 > Und dann spür selbst, was passiert.
 > Und dann pass auf, was sich löst.
@@ -126,7 +128,7 @@ Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, hält die Details zurüc
 > Und dein Körper macht plötzlich das:
 
 **Beispiel (liegende Drehung, Ergebnis „der Tag fällt vom Körper ab", Anker „den ganzen Tag alles gehalten"):**
-> **Beat 1:** Ich wünschte, mehr Frauen wüssten, was drei Minuten am Boden mit dir machen, / wenn du den ganzen Tag alles gehalten hast.
+> **Beat 1:** Ich wünschte, mehr Frauen wüssten, was diese drei Minuten am Boden mit dir machen, / wenn du den ganzen Tag alles gehalten hast.
 > **Beat 2:** Knie zur Seite fallen lassen, drei Minuten.
 > **Beat 3:** Und dann spür selbst, was passiert.
 
