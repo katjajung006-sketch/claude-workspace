@@ -114,7 +114,8 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 ### E — Was brauchst du? (Frage-Box)
 - **1 Frame.** Offene Frage-Box an die Frauen 40+.
-- **Sticker:** Frage-Box, z. B. „Was übergehst du gerade an dir – ganz ehrlich?" / „Was würdest du tun, wenn heute 10 Minuten nur dir gehören?".
+- **Beantwortbar für die Aufwachende (Pflicht):** Die Frau merkt gerade ERST, dass sie funktioniert — sie hat noch keine Körper-Selbstwahrnehmung und reflektiert sich nicht tief. Die Frage muss sie **sofort aus dem konkreten Alltag** beantworten können, ohne Spür- oder Innenschau-Fähigkeit. NICHT „Was hat dein Körper dir diese Woche gesagt, das du überhört hast?" oder „Was übergehst du gerade an dir?" (beides zu fortgeschritten — kann sie noch nicht). Stattdessen konkrete Alltags-Fragen.
+- **Sticker:** Frage-Box, z. B. „Was lässt du als Erstes liegen, wenn der Tag zu voll wird?" / „Für wen warst du heute schon alles da?" / „Wann hattest du heute das erste Mal kurz Ruhe?".
 - **Job:** Nähe + Zielgruppen-Wissen. Antworten kann Katja später als Reel-/Karussell-Stoff nutzen.
 
 ### F — Anstoß (Recycling)

@@ -20,7 +20,7 @@
 - **Wahrer Satz (Form rotiert):** Mo = Form c (stiller Spiegel) „du funktionierst, bis du dich hinsetzt — dann holt dich der Tag ein" · Fr = Form a (Vielleicht-Paar) „nicht zu unruhig für Stille — nur lange in Bewegung gewesen" · So = Form b (leise Frage) „wann warst du diese Woche zuletzt einfach nur du"
 - **Leiser Take (Mi):** „du musst nicht erst leer sein, um dir eine Pause zu erlauben" (DM-Öffner: fühlt sich eine Pause an wie etwas, das man sich erst verdienen muss)
 - **Spür-Check (Mo/Sa):** Mo = „gerade ehrlich: angespannt / einigermaßen ruhig" · Sa = „Samstag gehört heute: den anderen / auch dir"
-- **Frage-Box (Do):** „Was hat dein Körper dir diese Woche gesagt, das du überhört hast?"
+- **Frage-Box (Do):** „Was lässt du als Erstes liegen, wenn der Tag zu voll wird?"
 - **BTS (Sa):** Samstagnachmittag, kleine Übung fürs Reel filmen, Stativ am Fenster
 - **Funnel:** Fr = Freebie Funktionsmodus-Check (CHECK / check.katjajung.com) · So = Telegram „Zurück zu dir" + Audio-Teaser
 - **Settings/Tageszeiten:** Mo abends Sofa · Di morgens Küche · Mi Mittag Schreibtisch · Do abends Esstisch · Fr abends Bett/Bad · Sa Nachmittag Matte · So Abend Fenster
