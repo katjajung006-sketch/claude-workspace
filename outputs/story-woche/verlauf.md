@@ -18,7 +18,7 @@
 ## Lauf 2026-06-15 (Standard-Woche Mo–So, 15.–21.06)
 - **Körperimpuls:** Di = Füße auf dem Boden spüren (morgens, Küche barfuß) · Do = Hand auf den Bauch, Atem heben (abends, Esstisch)
 - **Wahrer Satz (Form rotiert):** Mo = Form c (stiller Spiegel) „du funktionierst, bis du dich hinsetzt — dann holt dich der Tag ein" · Fr = Form a (Vielleicht-Paar) „nicht zu unruhig für Stille — nur lange in Bewegung gewesen" · So = Form b (leise Frage) „wann warst du diese Woche zuletzt einfach nur du"
-- **Leiser Take (Mi):** „du musst nicht erst leer sein, um dir eine Pause zu erlauben" (DM-Öffner: worauf wartest du)
+- **Leiser Take (Mi):** „du musst nicht erst leer sein, um dir eine Pause zu erlauben" (DM-Öffner: fühlt sich eine Pause an wie etwas, das man sich erst verdienen muss)
 - **Spür-Check (Mo/Sa):** Mo = „gerade ehrlich: angespannt / einigermaßen ruhig" · Sa = „Samstag gehört heute: den anderen / auch dir"
 - **Frage-Box (Do):** „Was hat dein Körper dir diese Woche gesagt, das du überhört hast?"
 - **BTS (Sa):** Samstagnachmittag, kleine Übung fürs Reel filmen, Stativ am Fenster
