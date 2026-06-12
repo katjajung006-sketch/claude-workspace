@@ -37,6 +37,7 @@ Lies zuerst, damit Stimme und Nische sitzen:
 - Nur **Funktionsmodus** + **einfache Yoga-/Atemimpulse**. NIEMALS „Nervensystem", „Vagusnerv", „Regulation", Fachsprache.
 - Verbotene Marken-Wörter: High Performance, Disziplin, Challenge, Transformation, Selbstoptimierung, Selfcare, „du musst nur", „Zeit für dich nehmen" u. Ä. (siehe brand-voice). **Auch nicht per Verneinung** verwenden („nicht mehr Disziplin", „kein Workout") — direkt positiv formulieren (z. B. „mehr Druck", „noch ein Plan").
 - **Kein Satz darf nach KI klingen.** Keine Floskeln, kein gleichförmiger Rhythmus, keine „Das ist nicht X, sondern Y"-Masche.
+- **Einfache, normale Alltagssprache — nicht poetisch, nicht verkopft.** So schreiben, wie eine Frau normal spricht. NICHT „dein Atem ist den ganzen Tag oben geblieben" → SONDERN „du hast den ganzen Tag kaum richtig durchgeatmet". Gilt auch für Wahre Sätze und Moment-Frames: lieber schlicht und klar als schön. Test: Würde sie den Satz so auch zu einer Freundin sagen?
 - Geduzt, nie gesiezt. Kein Emoji im Frame-Text, außer Katja gibt eines vor (Emojis nur in Sticker-/Hinweis-Zeilen erlaubt).
 
 ---
