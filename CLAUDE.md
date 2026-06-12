@@ -177,8 +177,9 @@ Output identisch zu `/reel-yoga`.
 - `/reel-spiegel` → Claude wählt den Winkel selbst aus dem Soulclient-Profil
 - `/reel-spiegel Ruhe fühlt sich fremd an` → Winkel selbst vorgeben
 
-Output: Text im Video (Hook-Titel + 3–5 Punkte + Schlusssatz) · Thumbnail-Hook · Caption (Hook → Spiegel → Erkenntnis+Brücke → CTA) · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
+Output: Text im Video (Hook-Titel + 3–5 Punkte + Schlusssatz) · Thumbnail-Hook · Caption (Hook → Spiegel → **leise Wendung, kein Yoga-Erklärteil** → CTA) · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Format: Listen-Hook (KEINE Grundformel-Pflicht) · stille Erkenntnis · kalter Traffic · Problem-Bewusstsein
+Eingebaute Regeln (2026-06-12 geschärft): Hook-Schärfer „… und du merkst/hörst es nicht" (über *Hören*, nicht „merken") · ist die Liste aus inneren Sätzen, schließt der Video-Text mit dem EINEN Satz, den sie sich nie sagt · Schlusssatz nie als Analyse/Vorwurf über sie · Caption ohne Yoga-Verkaufsabsatz, wirkt durch Erkennen · keine sich selbst widersprechenden Sätze (kleiner erster Schritt = die Veränderung selbst) · Speichern als Hauptziel, optional EIN Freebie-CTA dazu (Spür-/Rückkehr-Auflösung → 3MINUTEN, reine Erkennung → CHECK).
 Hauptziel: Speichern · Teilen · Folgen
 
 ### /zielgruppe [thema | update]

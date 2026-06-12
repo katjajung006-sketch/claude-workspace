@@ -50,9 +50,12 @@ Im Video passiert wenig — der Text trägt alles. Das Video sagt: *Hier musst d
 
 **Struktur:**
 
-**1. Hook-Titel** — benennt das Muster, oft als Liste:
+**1. Hook-Titel** — benennt das Muster, oft als Liste. Bei Zahl-Listen ein Verstärker-Adjektiv zwischen Zahl und Substantiv („4 *leise* Sätze" statt „4 Sätze"):
 > 5 Anzeichen, dass du nicht faul bist — sondern im Funktionsmodus lebst
 > 3 Dinge, die passieren, wenn du dich jahrelang selbst übergehst
+
+**Schärfer-Trick (oft stärker):** Häng ans Muster den Nicht-Merk-Zusatz, der *sie* mit reinzieht — „… und du merkst es nicht mal". Wenn der Hook „leise" enthält, geh über das *Hören* statt über „merken" (klingt ehrlicher, körpernäher). Eine Zeile halten, nicht ausfransen:
+> 4 leise Sätze, die dich seit Jahren funktionieren lassen — und die du nicht mal mehr hörst
 
 **2. Liste mit 3–5 Punkten** — sofort verständlich, je eine Zeile, körpernah und alltäglich:
 > Du machst weiter, obwohl du längst müde bist.
@@ -61,12 +64,17 @@ Im Video passiert wenig — der Text trägt alles. Das Video sagt: *Hier musst d
 > Du bist für alle verfügbar — nur für dich nicht.
 > Ruhe fühlt sich eher ungewohnt als erholsam an.
 
-**3. Schlusssatz** — erklärt nicht, bleibt hängen. Die Brücke zur Yoga-Brand:
-> Vielleicht brauchst du nicht noch mehr Disziplin. Vielleicht brauchst du einen Moment, in dem du dich wieder spürst.
+**3. Schlusssatz** — bleibt in der Erkennung, erklärt NICHT. Konkret, in Katjas Sprache, landet die Sehnsucht, ohne sie zu benennen.
+
+**Wenn die Liste aus inneren Sätzen besteht (Sätze, die sie sich sagt): schließ mit dem EINEN Satz, den sie sich nie sagt** — gleiches Format, in Anführungszeichen. Stärkster Abschluss, weil er den Trick des Reels selbst nutzt:
+> Den einen Satz sagst du dir fast nie: „Ich bin auch noch da."
+
+Sonst eine leise Wendung als Brücke zur Brand (kein Yoga-Verkauf, keine Diagnose):
+> Vielleicht brauchst du nicht noch mehr Druck. Vielleicht brauchst du einen Moment, in dem du dich wieder spürst.
 > Vielleicht ist dein Körper nicht empfindlich. Vielleicht ist er nur der erste Teil von dir, der ehrlich wurde.
-> Du brauchst nicht noch mehr Kontrolle. Du brauchst einen Weg zurück in deinen Körper.
-> Yoga ist nicht noch etwas, das du schaffen musst. Es kann der Moment sein, in dem du endlich aufhörst zu funktionieren.
 > Du bist nicht falsch. Du bist nur zu lange über dich hinweggegangen.
+
+**Tabu beim Schlusssatz:** kein Kommentar/keine Analyse *über* sie („Du hast nur zu lange Sätze geglaubt …") und keine Vorwürfe reinbringen, an die sie gar nicht gedacht hat („nicht zu anspruchsvoll und nicht zu schwach"). Das bricht die Erkennung — sie will gespiegelt, nicht erklärt werden.
 
 **Filmhinweis:** Minimalistisch, ruhig. Mögliche Szenen: still auf der Matte sitzen · am Fenster stehen · langsam durch den Raum gehen · auf dem Stuhl sitzen und bewusst atmen · Beine an der Wand · Schultern langsam rollen · Hand auf den Brustkorb · barfuß auf der Matte · einfache Alltagsszene (Küche, Fenster, Sofa, Spaziergang). Kein Pose-Perfektionismus. Viel Leerraum, ruhige Schrift, klare Lesbarkeit, keine hektischen Schnitte.
 
@@ -91,54 +99,48 @@ Beispiele:
 
 ## Output 3 — Caption
 
-**Wichtig:** Andere Hook als im Reel. Nicht wiederholen — vertiefen.
+**Wichtig:** Andere Hook als im Reel. Nicht wiederholen — vertiefen. Nicht mit der Auflösung öffnen (erst Mini-Spannung halten, dann auflösen). Kurz halten und eng am Reel-Thema — die Zielgruppe liest gestresst und steigt bei Abschweifen aus.
 
 ### Caption-Struktur (Reihenfolge halten):
 
-**1. Caption-Hook** — anderer, tieferer Einstieg:
+**1. Caption-Hook** — anderer, tieferer Einstieg, hält Spannung:
+> Du würdest nie zu jemandem sagen: „Du kommst zuletzt dran." Zu dir selbst sagst du es jeden Tag.
 > Viele Frauen merken erst sehr spät, dass sie nicht nur müde sind — sondern sich selbst im eigenen Alltag kaum noch spüren.
-> Du brauchst vielleicht keine neue Morgenroutine. Vielleicht brauchst du zum ersten Mal seit Langem einen Moment, der nicht von dir verlangt, weiterzumachen.
 
-**2. Spiegel** — kurze Beschreibung des Zustands, Rhythmus mit „Du …":
+**2. Spiegel** — kurze Beschreibung des Zustands, Rhythmus mit „Du …", auf den Winkel anpassen (nicht 1:1 kopieren):
 ```
 Von außen läuft alles.
-Job.
-Familie.
-Termine.
-Verantwortung.
+Du bist verlässlich.
+Du denkst an alles.
+Du hältst den Laden zusammen.
 
-Aber innerlich fühlt es sich an, als wärst du ständig einen Schritt hinter dir selbst.
-Du machst.
-Du organisierst.
-Du hältst durch.
-Und irgendwann merkst du:
-Ich bin überall — nur nicht mehr bei mir.
+Und innen läuft so ein Satz mit:
+„Erst die anderen, dann ich."
+Du hörst ihn gar nicht mehr.
+Du tust einfach, was er sagt.
 ```
-Auf den Winkel anpassen — nicht 1:1 kopieren.
 
-**3. Erkenntnis + Brücke zu Yoga** — die Brand-Logik, körpernah, ohne Diagnose:
+**3. Leise Wendung** — EIN körpernaher Satz, der die Brücke schlägt, ohne zu erklären. **Kein Yoga-Erklär- oder Verkaufsabsatz** (kein „Genau hier beginnt Yoga für mich …", kein „Vielleicht ist deine Müdigkeit kein Zeichen …"). Die Caption wirkt durch Erkennen, nicht durch Erklären:
 ```
-Dein Körper versucht nicht, dich aufzuhalten. Er versucht, dich zurückzuholen.
+Bis dein Körper irgendwann lauter wird als der Satz.
 
-Vielleicht ist diese Müdigkeit nicht dein Versagen. Vielleicht ist sie ein Zeichen, dass du viel zu lange über dich hinweggegangen bist.
-
-Genau hier beginnt Yoga für mich. Nicht als Sport. Nicht als Leistung. Sondern als kleiner Moment, in dem du wieder spürst: Ich bin noch da.
+Vielleicht fängt es genau damit an — einmal merken, dass du auch noch da bist.
 ```
-Nie: „Dein Nervensystem ist dysreguliert." Stattdessen körpernah und in Alltagssprache.
+**Ehrlichkeits-Regel:** Keine Sätze, die sich selbst widersprechen. „Du musst dafür nichts ändern" ist gut gemeint, aber unehrlich — wenn sie eine Veränderung will, muss sie ja etwas tun. Mach stattdessen den kleinen ersten Schritt selbst zur Veränderung („… fängt es genau damit an: einmal merken …").
 
-**4. CTA** — genau einen wählen, passend zum Ziel:
+**4. CTA** — Speichern ist Hauptziel; optional EIN Freebie-CTA dazu (max. zwei, klar getrennt, je eine Zeile). Bei zwei: erst die leise Speicher-Zeile, dann der aktive Keyword-CTA zuletzt.
 
-Speichern (Hauptziel):
-> Speichere dir das, wenn du dich daran erinnern willst: Du musst nicht noch mehr leisten, um wieder bei dir anzukommen.
+Speichern (Hauptziel — als Wiederkehr-Geste, Mehrzahl):
+> Speicher dir das hier — für die Abende, an denen du dich wieder ganz hinten anstellst.
 
 Folgen:
-> Folge mir, wenn du Yoga nicht als Selbstoptimierung suchst — sondern als Weg raus aus dem Funktionsmodus.
+> Folge mir, wenn du Yoga nicht als noch ein To-do suchst — sondern als Weg raus aus dem Funktionsmodus.
 
-Kommentieren:
-> Kommentiere „[Keyword]", wenn du eine einfache 3-Minuten-Übung möchtest, mit der du wieder bei dir ankommst.
+Freebie über Keyword:
+> Und wenn du heute drei Minuten für dich willst: Kommentier **3MINUTEN**, dann schick ich dir meinen kleinen Körpercheck. Drei Minuten, in denen du nichts musst, außer wieder bei dir anzukommen.
 
-Freebie:
-> Ich zeige dir einfache, kurze Yoga-Momente für Tage, an denen du nur noch funktionierst. Kommentiere „[Keyword]" und ich schicke sie dir.
+**Freebie-Wahl:** Bei diesem Spiegel-Format löst das Reel oft auf einem Spür-/Rückkehr-Moment auf — dann passt der **3-Minuten-Körpercheck (Keyword 3MINUTEN, Drive-Link, direkt geliefert)** emotional besser als der Funktionsmodus-Check. Bei reinem Erkennungs-/Muster-Content ohne Spür-Auflösung passt der **Funktionsmodus-Check (CHECK)**. Im Zweifel: das, was zur letzten Zeile des Reels passt.
+⚠️ Sobald ein Keyword-CTA drin ist: DM-Antwort mitliefern (Output 6) und daran erinnern, dass der ManyChat-Flow zum Keyword live geschaltet + dem Reel als Trigger zugewiesen sein muss (der 3MINUTEN-Flow steht standardmäßig auf Draft).
 
 ---
 
@@ -154,12 +156,16 @@ Beispiele: #funktionsmodus · #frauenab40 · #yogafüranfängerinnen · #zurück
 
 **Immer mitliefern.** 3–5 kurze Stories, die das Thema antippen und zum Reel führen — je Story ein Gedanke + Verweis („neues Reel oben") oder ein Sticker (Frage/Umfrage). Niedrigschwellig, gleiche Stimme wie der Post.
 
+**Wenn die Caption einen Keyword-CTA hat:** häng als letzten Frame einen an, der aufs Keyword führt (z. B. „Kommentier **3MINUTEN** unterm Reel …") — so gehen Reel, Caption und Story denselben Weg.
+
 ---
 
 ## Output 6 — DM-Antwort (nur wenn der Post eine DM-/Keyword-Mechanik nutzt)
 
-Nur wenn der CTA über Kommentar/Keyword in die DM führt (z. B. „Kommentiere [Keyword]"). Eine warme, kurze Antwort für alle, die kommentieren:
-> So schön, dass du dich gemeldet hast. Hier ist deine einfache 3-Minuten-Übung — fang klein an, nicht perfekt, nur ehrlich.
+Nur wenn der CTA über Kommentar/Keyword in die DM führt. Eine warme, kurze Antwort, die das Freebie liefert (Link einsetzen):
+> Schön, dass du dich gemeldet hast. 🤍 Hier ist dein 3-Minuten-Körpercheck: [Drive-Link] — drei Minuten, in denen du nichts leisten musst, nur kurz spüren, dass du auch noch da bist. Fang klein an, nicht perfekt. Nur ehrlich.
+
+Daran erinnern: Der passende ManyChat-Flow muss live + dem Reel als Trigger zugewiesen sein.
 
 Wenn der Post keine DM-Mechanik hat (reines Speichern/Teilen/Folgen): diesen Output weglassen.
 
@@ -195,9 +201,9 @@ CAPTION
 
 [Spiegel]
 
-[Erkenntnis + Brücke zu Yoga]
+[Leise Wendung — kein Yoga-Erklärteil]
 
-[CTA]
+[CTA — Speichern, optional + Freebie-Keyword]
 
 ---
 HASHTAGS
