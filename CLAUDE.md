@@ -294,6 +294,8 @@ Nie: „Hier ist, womit…" — „Das ist nicht X, sondern Y" — „Zusammenfa
 
 Jeder Satz ist eine Entscheidung, kein generiertes Muster.
 
+**Immer einfache, normale Alltagssprache — nicht poetisch, nicht verkopft.** Gilt für ALLES, was wir erstellen (Reels, Karussells, Stories, Captions, E-Mails, Telegram, Antworten). So schreiben, wie Katja zu einer Freundin spricht. NICHT „dein Atem ist den ganzen Tag oben geblieben" → SONDERN „du hast den ganzen Tag kaum richtig durchgeatmet". Lieber schlicht und klar als schön. Test je Satz: Würde sie das genau so laut zu jemandem sagen?
+
 ---
 
 ## Somatic Yoga — Methode hinter allem Content
