@@ -47,7 +47,8 @@ Lies zuerst, damit Stimme und Nische sitzen:
 - **Polls/This-or-That max. 2–3×/Woche** (Mo, Sa und ggf. einmal spontan) — sonst stumpft es ab.
 - **Kurz halten, Bestes zuerst.** Pro Tag selten mehr als 3 Frames. Der erste Frame entscheidet, ob jemand bleibt.
 - **Interaktion ist der Hebel:** Sticker (Poll, Frage-Box, Emoji-Slider) bringen mehr Antworten → Algorithmus zeigt Katjas Stories danach weiter vorne. Mindestens jeden Tag *ein* Interaktions- oder Bindungs-Element.
-- **Frame 1 trägt täglich einen niedrigschwelligen Sticker** (Emoji-Slider „Trifft dich das?" o. Ä.). Ein Slider zählt NICHT als Poll → reißt die „max. 2–3 Polls"-Grenze nicht und gibt laut Research direkt auf Frame 1 einen Algo-Schub. Niedrigste Hürde für die müde Frau.
+- **Frame 1 trägt täglich einen niedrigschwelligen Sticker** (Emoji-Slider). Ein Slider zählt NICHT als Poll → reißt die „max. 2–3 Polls"-Grenze nicht und gibt laut Research direkt auf Frame 1 einen Algo-Schub. Niedrigste Hürde für die müde Frau.
+- **Slider-Frage je Tag NEU + zum Frame passend — nie dieselbe 2× in einer Woche** (auch nicht „Trifft dich das?"/„Kennst du das?" mehrfach, und nicht 3× dieselbe Struktur „Wie … gerade?"). Mischen: Wiedererkennung („Kennst du das?"), Grad/Intensität („Wie viel Akku ist heute noch da?"), warme Reaktion am BTS-Tag („Sag kurz Hallo 🤍"). Die Frage immer aus dem Frame-1-Inhalt des Tages ziehen.
 - **Ein bewusster Weiterleitungs-Moment pro Woche:** „Sends per reach" ist ein Top-3-Signal (Mosseri). Mindestens 1×/Woche einen Frame klar aufs Weiterleiten bauen — „Schick das einer Frau, die gerade auch nur funktioniert." (meist am Wahren Satz).
 - **Faceless ist gewollt:** ruhige B-Roll + Text-Overlay. Bildsprache in Katjas Sandbeige/Creme-Welt (#D8C7B2 / #F4EFE7), Tageslicht, ruhige Settings.
 - **Posten am besten abends 18–22 Uhr** (die Feierabend-Frau). Diesen Hinweis am Ende einmal mitgeben.
@@ -61,6 +62,7 @@ Jede Woche muss sich frisch anfühlen — nie das Gefühl „das hatte ich letzt
 - **Mini-Körperimpuls (C):** Die beiden Körperimpuls-Tage (Di + Do) decken **immer zwei verschiedene Körperregionen** ab — nie zweimal dieselbe in einer Woche. Und: **keine Region, die in den letzten 2 Wochen** (laut `verlauf.md`) schon dran war. Durch den Pool rotieren, nicht beim Lieblingsthema (Schultern/Nacken) hängen bleiben.
 - **Wahrer Satz (A), Leiser Take (D), Frage-Box (E), BTS (H):** Jeweils ein **neuer Winkel/Moment**, der so in den letzten 2 Einträgen nicht vorkam. Kein wahrer Satz, kein Take zweimal — auch nicht leicht umformuliert. Beim Wahren Satz zusätzlich die **Form** abwechseln (a/b/c aus Baustein A) — nie 3× dieselbe in einer Woche.
 - **Spür-Check / Umfrage (B):** Neue Fragestellung, nicht dieselbe This-or-That wie zuletzt.
+- **Slider-Fragen (Frame 1):** je Tag eine andere, zum Frame passende Frage — nie dieselbe Slider-Frage 2× in einer Woche, auch nicht 3× dieselbe Struktur. Über Wochen hinweg auch nicht beim selben Lieblings-Slider hängen bleiben.
 - **Tageszeit/Setting der Momente** abwechseln: nicht jede Woche „abends auf dem Sofa". Mal Morgen (Küche, Auto vor der Arbeit), mal Mittag (Schreibtisch, Telefonat), mal Abend (Bett, Bad).
 - **Test vor dem Abschicken:** Würde Katja beim Lesen denken „das hatte ich so ähnlich erst"? Wenn ja → neu.
 
