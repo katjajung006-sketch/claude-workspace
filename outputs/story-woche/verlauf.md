@@ -6,12 +6,12 @@
 
 ---
 
-## Persönliche Tür (Samstag-Rotation, Baustein H)
+## Persönliche Türen (täglich, Baustein H)
 
-> Welche der 6 Türen (`reference/persoenlicher-content.md`) zuletzt im Samstags-Slot lief. Jede Woche eine andere — durch alle 6 rotieren, nicht in den letzten ~3 Wochen wiederholen. Neueste oben.
-> Türen: 1 Ehrlicher Zwischenstand · 2 Rückkehr in den Körper · 3 Die Ausbildung · 4 Echtes Leben drumherum · 5 Das Warum (Häppchen) · 6 Gesicht & Stimme.
+> Wie die Türen (`reference/persoenlicher-content.md`) zuletzt verteilt waren. Jede Woche: die 5 Alltags-Türen (1, 2, 3, 4, 6) auf Mo/Di/Mi/Do/Sa — Tag-Zuordnung wöchentlich variieren; Tür 5 (Das Warum) auf Fr + So als Funnel-Einstieg + 1×/Woche im Feed (`/persoenlich`). Tür-5-Häppchen über Story + Feed nie wiederholen. Neueste oben.
+> Türen: 1 Ehrlicher Zwischenstand · 2 Rückkehr in den Körper · 3 Die Ausbildung · 4 Echtes Leben drumherum · 5 Das Warum · 6 Gesicht & Stimme.
 
-- (noch keine bewusste Tür-Rotation gelaufen — die früheren BTS-Samstage lagen thematisch bei Tür 1 „Aufbau neben dem Job". Nächster Lauf: andere Tür wählen, z. B. 2, 4 oder 5.)
+- (noch kein Lauf mit der täglichen Tür-Verteilung — die früheren BTS-Samstage lagen thematisch bei Tür 1. Erster Lauf: die 5 Alltags-Türen frei auf Mo/Di/Mi/Do/Sa verteilen, je ein Tür-5-Häppchen für Fr, So und das Feed-Piece wählen.)
 
 ---
 

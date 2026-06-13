@@ -237,7 +237,8 @@ Claude wählt die 7 Themen **selbst** (Trend via Instagram-Späher + WebSearch +
 **Zweck:** Komplette Wochen-Produktion für **tägliche Instagram-Stories** — 7 Tage (Mo–So) copy-fertige Frames: Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. Faceless: B-Roll + Text-Overlay, kein In-die-Kamera-Sprechen nötig.
 
 Claude wählt die Inhalte **selbst** (frisch je Lauf, nie wiederholt, immer spezifisch), nach festem Rhythmus, der an Katjas Telegram-Tage andockt:
-- Mo: Wahrer Satz + Spür-Check (Poll) · Di: Mini-Körperimpuls + Anstoß (Recycling) · Mi: Leiser Take · Do: Mini-Körperimpuls + Frage-Box · Fr: Wahrer Satz + Einladung (Freebie) · Sa: **Persönliche Tür (rotierend, 1 von 6 — die Frau hinter der Marke)** + Spür-Check · So: Wahrer Satz + Einladung (Telegram/Audio-Teaser)
+- Mo: Wahrer Satz + Spür-Check (Poll) · Di: Mini-Körperimpuls + Anstoß (Recycling) · Mi: Leiser Take · Do: Mini-Körperimpuls + Frage-Box · Fr: persönl. Einstieg (Tür 5) → Einladung (Freebie) · Sa: Spür-Check · So: persönl. Einstieg (Tür 5) → Einladung (Telegram/Audio-Teaser)
+- **Persönlicher Moment an ALLEN 7 Tagen (fest im Skill hinterlegt, kommt automatisch):** Mo/Di/Mi/Do/Sa je eine der 5 Alltags-Türen (1, 2, 3, 4, 6 — rotierend, alle 5/Woche); Fr + So Tür 5 (Das Warum) als Einstieg, der in den Funnel überleitet. So sind alle 6 Türen jede Woche in der Story. Details im Abschnitt „Persönlicher Content".
 
 Eingebaute Regeln (aus Marktrecherche): ein Story-Run = ein Ziel · Polls max. 2–3×/Woche · kurz halten, Bestes zuerst · abends 18–22 Uhr posten · Link-Disziplin (Freebie → Opt-in/Bio · Angebot „10-Minuten-Rückkehr" → `10-minuten-rueckkehr.katjajung.com`, **nie zur Kasse**, 7-€-Tripwire nie öffentlich). Volle Format-Bausteine (A–H) + Pipeline in `.claude/commands/story-woche.md`.
 Geschärft 2026-06-12: verbotene Wörter nie per Verneinung (auch „nicht mehr Disziplin" raus → „mehr Druck") · Körperimpuls-Frame-1 führt über den Zustand, nie über einen Körperteil als Schlagzeile · Wahrer Satz rotiert die Form (Vielleicht-Paar / leise Frage / stiller Spiegel-Satz), nie 3× dieselbe/Woche · Frame 1 trägt täglich einen Slider (zählt nicht als Poll, Algo-Schub) · 1 bewusster Weiterleitungs-Moment/Woche (Sends) · Mittwochs-Take endet immer auf DM-Öffner.
@@ -323,8 +324,9 @@ Damit Katja als Mensch sichtbar wird, ohne die Nische zu verwässern, gibt es ei
 
 - **Single Source of Truth:** `reference/persoenlicher-content.md` — die 6 Türen, Leitplanken (immer „zurück zu ihr", kein Oversharing, keine Guru-Story), CTA-Logik (Beziehung statt Funnel) und Rhythmus/Format-Verteilung. Alle Persönlich-Skills lesen daraus.
 - **Die 6 Türen:** (1) Ehrlicher Zwischenstand · (2) Eigene Rückkehr in den Körper · (3) Die Ausbildung · (4) Echtes Leben drumherum · (5) Das Warum (in Häppchen) · (6) Gesicht & Stimme.
-- **Wo es läuft:** Feed-Pieces über `/persoenlich` (Reel/Karussell). Stories über den festen Samstags-Slot in `/story-woche` (rotierende Tür, getrackt in `outputs/story-woche/verlauf.md`, Abschnitt „Persönliche Tür") und spontan über `/story persoenlich`.
-- **Verteilung:** ~75–80 % Nische, ~20–25 % menschlich — der menschliche Teil mit Abstand am meisten in Stories, kaum im Feed (das Grid bleibt sauber). Über alle 6 Türen rotieren, nicht bei einer hängen bleiben.
+- **Stories (jeden Tag):** `/story-woche` baut an ALLEN 7 Tagen einen kleinen persönlichen Moment ein (fest hinterlegt, kommt automatisch). Mo/Di/Mi/Do/Sa = je eine der 5 Alltags-Türen (1, 2, 3, 4, 6 — Zuordnung rotiert wöchentlich); Fr + So = Tür 5 (Das Warum) als Einstieg in den Funnel. Spontan zusätzlich über `/story persoenlich`. Getrackt in `outputs/story-woche/verlauf.md` (Abschnitt „Persönliche Türen").
+- **Feed (1×/Woche):** Tür 5 (Das Warum / Geschichte) als Reel oder Karussell über `/persoenlich` — ~1 von 7 Feed-Posts, das Grid bleibt Nische-dominiert.
+- **Variation:** Jedes Mal ein anderer Moment/Häppchen; Tür 5 über Story (Fr/So) + Feed nie doppelt. Tag→Tür-Zuordnung der 5 Alltags-Türen wöchentlich variieren.
 
 ## Content-Ablage (Notion)
 

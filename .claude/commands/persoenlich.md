@@ -45,6 +45,8 @@ Memory mitnehmen: `feedback_no_generic`, `feedback_einfach_verstaendlich`, `feed
 
 Katja kann beides vorgeben: `/persoenlich karussell warum`.
 
+**Wochen-Rhythmus:** **Tür 5 (Das Warum / die Geschichte) ist die feste Feed-Tür — 1× pro Woche** ein Reel oder Karussell. Das ist der Default, wenn keine Tür genannt wird. Andere Türen baut der Skill auf Wunsch auch als Feed-Piece, aber der wöchentliche Standard ist Tür 5. Achtung Variation: Tür 5 läuft zusätzlich als Story-Einstieg an Fr/So in `/story-woche` — also hier **ein anderes Häppchen** der Geschichte wählen als zuletzt in den Stories (Stand: `outputs/story-woche/verlauf.md`, Abschnitt „Persönliche Türen").
+
 ---
 
 ## Schritt 3 — Bauen

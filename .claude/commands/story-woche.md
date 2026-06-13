@@ -27,7 +27,7 @@ Lies zuerst, damit Stimme und Nische sitzen:
 - `context/soulclient.md` — die funktionierende Frau 40+
 - `context/brand-voice.md` — Tonalität, Power-Words, **verbotene Wörter**, Satzrhythmus
 - `reference/story-aufbau.md` — **was eine gute Story trägt** (Abbruch-Kurve, Frame-1-Regel, Sticker-Hebel, DM-vor-Link) + Zielgruppen-Übersetzung (müde Abend-Frau 40+). Das *Warum* hinter den Bausteinen A–H.
-- `reference/persoenlicher-content.md` — **die 6 Türen + Leitplanken** für den Samstags-Slot (Baustein H = Persönliche Tür, rotierend). Welche Tür diese Woche dran ist, steht im Verlauf.
+- `reference/persoenlicher-content.md` — **die 6 Türen + Leitplanken + Tür-Verteilung** für den täglichen persönlichen Moment (Baustein H, an ALLEN 7 Tagen). Welche Türen wie über die Woche verteilt werden, steht im Verlauf (Abschnitt „Persönliche Türen").
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_content_niche.md` — Nische
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_no_generic.md` — nichts darf generisch klingen
 - `~/.claude/projects/-Users-katjajung-claude-workspace-vorlage/memory/feedback_content_story_dm.md` — DM-Antwort, wo Keyword/DM-Mechanik
@@ -63,7 +63,7 @@ Jede Woche muss sich frisch anfühlen — nie das Gefühl „das hatte ich letzt
 
 - **Mini-Körperimpuls (C):** Die beiden Körperimpuls-Tage (Di + Do) decken **immer zwei verschiedene Körperregionen** ab — nie zweimal dieselbe in einer Woche. Und: **keine Region, die in den letzten 2 Wochen** (laut `verlauf.md`) schon dran war. Durch den Pool rotieren, nicht beim Lieblingsthema (Schultern/Nacken) hängen bleiben.
 - **Wahrer Satz (A), Leiser Take (D), Frage-Box (E):** Jeweils ein **neuer Winkel/Moment**, der so in den letzten 2 Einträgen nicht vorkam. Kein wahrer Satz, kein Take zweimal — auch nicht leicht umformuliert. Beim Wahren Satz zusätzlich die **Form** abwechseln (a/b/c aus Baustein A) — nie 3× dieselbe in einer Woche.
-- **Persönliche Tür (H):** Jede Woche eine **andere der 6 Türen** als in den letzten ~3 Wochen (laut `verlauf.md`, Abschnitt „Persönliche Tür") — sauber durch alle 6 rotieren, nicht bei einer hängen bleiben. Innerhalb der Tür ein neuer, konkreter Moment.
+- **Persönlicher Moment (H):** Jede Woche kommen **alle 6 Türen** dran (5 Alltags-Türen auf Mo/Di/Mi/Do/Sa, Tür 5 auf Fr/So). Die **Tag→Tür-Zuordnung** der 5 Alltags-Türen jede Woche **anders** verteilen als zuletzt (laut `verlauf.md`, Abschnitt „Persönliche Türen") — nicht jede Woche dieselbe Tür auf demselben Tag. Innerhalb jeder Tür ein **neuer, konkreter Moment**; **Tür 5 nie dasselbe Häppchen** wie zuletzt in Story oder Feed.
 - **Spür-Check / Umfrage (B):** Neue Fragestellung, nicht dieselbe This-or-That wie zuletzt.
 - **Slider-Fragen (Frame 1):** je Tag eine andere, zum Frame passende Frage — nie dieselbe Slider-Frage 2× in einer Woche, auch nicht 3× dieselbe Struktur. Über Wochen hinweg auch nicht beim selben Lieblings-Slider hängen bleiben. Und **nicht jeder Tag braucht einen Slider** (siehe Mechanik) — auch das Vorkommen variieren, welche Tage Slider tragen, von Woche zu Woche wechseln.
 - **Tageszeit/Setting der Momente** abwechseln: nicht jede Woche „abends auf dem Sofa". Mal Morgen (Küche, Auto vor der Arbeit), mal Mittag (Schreibtisch, Telefonat), mal Abend (Bett, Bad).
@@ -136,12 +136,16 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 - **DM-Antwort:** Wenn die Einladung mit Keyword-Mechanik läuft („Schreib mir ANKOMMEN"), eine kurze, warme DM-Antwort mitliefern (Begrüßung → Link → ein ehrlicher Satz). Nie generisch.
 - **Job:** Conversion.
 
-### H — Persönliche Tür (rotierend) — die Frau hinter der Marke
-- **1–2 Frames.** Der feste Persönlich-Slot der Woche. Zieht jede Woche **eine der 6 Türen** aus `reference/persoenlicher-content.md` — rotierend, nie zwei Wochen dieselbe (Stand im Verlauf, Abschnitt „Persönliche Tür").
-- **Die 6 Türen:** (1) Der ehrliche Zwischenstand (Job bis 14:30, baut den Ausweg noch nebenbei) · (2) Eigene Rückkehr in den Körper (ihr Morgen, Laufband im Gehen, Abend-Catch) · (3) Die Ausbildung (Somatic Yoga, „ich lern das selbst gerade") · (4) Das echte Leben drumherum (alleine leben, Tochter, Feierabend, Buch) · (5) Das Warum in Häppchen (ein Moment aus `founder-story.md`) · (6) Gesicht & Stimme (Audio-/Sprach-Frame, bewusst unperfekt).
+### H — Persönlicher Moment (täglich) — die Frau hinter der Marke
+- **Läuft an ALLEN 7 Tagen** als kleine menschliche Schicht zusätzlich zum Tagesbaustein. Meist **1 Frame, klein** — oft ein einziger ehrlicher Satz + ruhiges B-Roll. Quelle: `reference/persoenlicher-content.md` (die 6 Türen + Leitplanken).
+- **Die 6 Türen:** (1) Der ehrliche Zwischenstand (Job bis 14:30, baut den Ausweg noch nebenbei) · (2) Eigene Rückkehr in den Körper (ihr Morgen, Laufband im Gehen, Abend-Catch) · (3) Die Ausbildung (Somatic Yoga, „ich lern das selbst gerade") · (4) Das echte Leben drumherum (alleine leben, Tochter, Feierabend, Buch) · (5) Das Warum (ein Häppchen aus `founder-story.md`) · (6) Gesicht & Stimme (Audio-/Sprach-Frame, bewusst unperfekt).
+- **Verteilung über die Woche (Pflicht — alle 6 Türen jede Woche):**
+  - **Mo, Di, Mi, Do, Sa** → je eine der **5 Alltags-Türen (1, 2, 3, 4, 6)**, ein eigener kleiner Moment. Welche Tür auf welchen Tag → wöchentlich variieren (sinnvoll fitten, z. B. die Morgen-Tür 2 auf einen Morgen-Tag), aber jede der 5 kommt **genau 1× pro Woche** dran.
+  - **Fr (Freebie) + So (Telegram)** → **Tür 5 (Das Warum / deine Geschichte)** als persönlicher Einstieg, der in den Funnel überleitet: ein anderes Häppchen je Tag, gewoben in den **ersten Frame der Einladung (G)**, der dann zum CTA führt. Ersetzt an diesen Tagen den Wahren-Satz-Opener — das Tagesziel bleibt der eine Funnel-CTA.
+- **Frame-Disziplin:** Den persönlichen Moment klein halten. An Tagen mit vielen Frames (Körperimpuls C) entweder als kurzen Eröffnungs-Frame setzen oder auf einen einzigen Satz beschränken, damit der Tag nicht überlädt (Richtwert weiter: selten mehr als 3 Frames).
 - **Pflicht — zurück zu ihr:** Jeder persönliche Frame endet bei der Soul-Client („… und vielleicht kennst du das auch"), nie reines Tagebuch. Leise Wahrheit, kein Oversharing, keine perfekte Guru-Story. Volle Türen + Leitplanken: `reference/persoenlicher-content.md`.
-- **Sticker:** optional Slider/Frage — am Persönlich-Tag eher eine warme Reaktion („Sag kurz Hallo 🤍") als ein Poll.
-- **Job:** Nähe, Menschlichkeit, Vertrauen — die Person hinter der Nische.
+- **Sticker:** an den 5 Alltags-Tagen optional eine warme Reaktion (Slider / „Sag kurz Hallo 🤍"); an den Funnel-Tagen trägt der Tag schon den CTA.
+- **Job:** Nähe, Menschlichkeit, Vertrauen — die Person hinter der Nische, jeden Tag spürbar.
 
 ---
 
@@ -149,17 +153,21 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 Telegram läuft Mo (wahrer Satz), Do (Körperimpuls), So (Audio) — die Stories stützen das, statt doppelt zu erfinden.
 
-| Tag | Bausteine | Ziel |
-|---|---|---|
-| **Montag** | A (Wahrer Satz) + B (Spür-Check) | Vertrauen + Engagement-Signal |
-| **Dienstag** | C (Mini-Körperimpuls) + F (Anstoß, wenn Feed-Post da) | Wert + Reichweite |
-| **Mittwoch** | D (Leiser Take) | Autorität + DMs |
-| **Donnerstag** | C (Mini-Körperimpuls) + E (Frage-Box) | Wert + Zielgruppen-Wissen |
-| **Freitag** | A (Wahrer Satz) + G (Einladung → Freebie) | Vertrauen + Conversion |
-| **Samstag** | H (Persönliche Tür, rotierend) + B (Spür-Check) | Nähe + Engagement |
-| **Sonntag** | A (Wahrer Satz) + G (Einladung → Telegram, Audio-Teaser) | Vertrauen + Community |
+Jeder Tag trägt zusätzlich den **persönlichen Moment (H)** — Mo/Di/Mi/Do/Sa eine Alltags-Tür, Fr/So Tür 5 als Einstieg.
 
-Grobe Mischung über die Woche: ~70 % Wert/Vertrauen, ~20 % Nähe/Interaktion, ~10 % Conversion. Höchstens 1–2 Funnel-Tage pro Woche.
+| Tag | Bausteine (inkl. täglichem H) | Ziel |
+|---|---|---|
+| **Montag** | A (Wahrer Satz) + B (Spür-Check) + **H (Alltags-Tür)** | Vertrauen + Nähe |
+| **Dienstag** | C (Mini-Körperimpuls) + F (Anstoß, wenn Feed-Post da) + **H (Alltags-Tür)** | Wert + Nähe |
+| **Mittwoch** | D (Leiser Take) + **H (Alltags-Tür)** | Autorität + DMs + Nähe |
+| **Donnerstag** | C (Mini-Körperimpuls) + E (Frage-Box) + **H (Alltags-Tür)** | Wert + Nähe |
+| **Freitag** | **H (Tür 5 als Einstieg)** → G (Einladung → Freebie) | Nähe + Conversion |
+| **Samstag** | **H (Alltags-Tür)** + B (Spür-Check) | Nähe + Engagement |
+| **Sonntag** | **H (Tür 5 als Einstieg)** → G (Einladung → Telegram, Audio-Teaser) | Nähe + Community |
+
+Die 5 Alltags-Türen (1, 2, 3, 4, 6) verteilen sich auf Mo/Di/Mi/Do/Sa (jede 1×/Woche, Zuordnung wöchentlich variieren). Fr + So tragen Tür 5 als Funnel-Einstieg.
+
+Grobe Mischung über die Woche: ~70 % Wert/Vertrauen, ~20 % Nähe/Interaktion, ~10 % Conversion — wobei die **menschliche Schicht (H) jetzt durch jeden Tag läuft**, nicht nur an einem Nähe-Tag. Höchstens 1–2 Funnel-Tage pro Woche.
 
 Argumente passen das an: „ohne angebot" → Freitag/Sonntag-Einladung weicher (nur Telegram/Speichern); „start am dienstag" → Reihenfolge verschieben.
 
@@ -195,7 +203,7 @@ An Einladungs-Tagen den Link klar nennen (Ziel + URL/„Link in Bio") und — be
 
 **Am Ende des ganzen Laufs:** der Wochen-Überblick (Tabelle Tag → Ziel) + der Hinweis „Am besten abends 18–22 Uhr posten."
 
-**Verlauf festhalten (Pflicht):** Einen neuen Eintrag **oben** in `outputs/story-woche/verlauf.md` anlegen (Datei anlegen, falls nicht vorhanden) — mit Lauf-Datum und je einer Zeile: Körperimpuls (Di/Do-Region), wahre Sätze (Winkel **+ Form a/b/c**), Leiser Take, Spür-Checks, Frage-Box, **Persönliche Tür (welche Nr/Name + Moment)**, Funnel-Ziele. Kurz und stichpunktartig — nur damit der nächste Lauf weiß, was zu meiden ist. Zusätzlich oben im Abschnitt „Persönliche Tür" die diese Woche genutzte Tür eintragen (für die Rotation).
+**Verlauf festhalten (Pflicht):** Einen neuen Eintrag **oben** in `outputs/story-woche/verlauf.md` anlegen (Datei anlegen, falls nicht vorhanden) — mit Lauf-Datum und je einer Zeile: Körperimpuls (Di/Do-Region), wahre Sätze (Winkel **+ Form a/b/c**), Leiser Take, Spür-Checks, Frage-Box, **Persönliche Türen (welche Alltags-Tür 1/2/3/4/6 auf welchem Tag + welches Tür-5-Häppchen auf Fr/So)**, Funnel-Ziele. Kurz und stichpunktartig — nur damit der nächste Lauf weiß, was zu meiden ist. Zusätzlich oben im Abschnitt „Persönliche Türen" die Tag→Tür-Zuordnung dieser Woche + das genutzte Tür-5-Häppchen eintragen, damit nächste Woche die Zuordnung variiert und Tür 5 sich nicht wiederholt.
 
 **Danach:** kurz fragen, ob ein Tag angepasst werden soll.
 

@@ -39,7 +39,7 @@ Volle Format-Definitionen, Story-Mechanik und Link-Disziplin stehen in `.claude/
 - `frage` / `box` → **E** Frage-Box (1 Frame, offene Frage)
 - `anstoss` / `recycling` / `teilen` → **F** Anstoß (Reel/Karussell als Story teilen)
 - `einladung` / `freebie` / `angebot` / `telegram` → **G** Einladung (2–3 Frames, EIN Ziel, Link-Sticker)
-- `bts` / `aufbau` / `persoenlich` / `persönlich` / `tür` → **H** Persönliche Tür (1–2 Frames) — **eine der 6 Türen** aus `reference/persoenlicher-content.md` wählen (rotierend gegen den Verlauf-Abschnitt „Persönliche Tür"; nicht die zuletzt genutzte). Pflicht: endet bei ihr, kein Tagebuch, kein Oversharing.
+- `bts` / `aufbau` / `persoenlich` / `persönlich` / `tür` → **H** Persönlicher Moment (1–2 Frames) — **eine der 6 Türen** aus `reference/persoenlicher-content.md` wählen (etwas Frisches gegen den Verlauf-Abschnitt „Persönliche Türen"; nicht die zuletzt genutzte). Spontaner Einzel-Post — die feste tägliche Verteilung über die Woche liegt in `/story-woche`. Pflicht: endet bei ihr, kein Tagebuch, kein Oversharing.
 
 **Zahl dahinter** (z. B. `satz 3`): so viele Varianten erstellen.
 
@@ -72,7 +72,7 @@ Den gewählten Baustein exakt nach der Definition in `story-woche.md` schreiben.
 
 Bei Einladung mit Keyword: DM-Antwort separat darunter.
 
-**Verlauf festhalten:** Bei Typen mit rotierbarem Inhalt (`impuls`, `satz`, `take`, `check`, `frage`, `bts`, `persoenlich`) **eine kurze Zeile** in die Liste „Einzel-Stories (laufend)" in `outputs/story-woche/verlauf.md` anfügen — Datum · Typ · Kernthema (z. B. „2026-06-12 · impuls · Füße"). Nur eine Zeile, kein voller Block. Bei `persoenlich`/`bts` zusätzlich die genutzte Tür oben im Abschnitt „Persönliche Tür" vermerken (für die Rotation). Bei reinem `anstoss`/`einladung` ohne neues Thema entfällt der Eintrag.
+**Verlauf festhalten:** Bei Typen mit rotierbarem Inhalt (`impuls`, `satz`, `take`, `check`, `frage`, `bts`, `persoenlich`) **eine kurze Zeile** in die Liste „Einzel-Stories (laufend)" in `outputs/story-woche/verlauf.md` anfügen — Datum · Typ · Kernthema (z. B. „2026-06-12 · impuls · Füße"). Nur eine Zeile, kein voller Block. Bei `persoenlich`/`bts` zusätzlich die genutzte Tür oben im Abschnitt „Persönliche Türen" vermerken (für die Rotation). Bei reinem `anstoss`/`einladung` ohne neues Thema entfällt der Eintrag.
 
 **Nach der Ausgabe:** kurz fragen, ob Anpassungen gewünscht sind.
 
