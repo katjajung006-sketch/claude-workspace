@@ -11,7 +11,8 @@
 > Wie die Türen (`reference/persoenlicher-content.md`) zuletzt verteilt waren. Jede Woche: die 5 Alltags-Türen (1, 2, 3, 4, 6) auf Mo/Di/Mi/Do/Sa — Tag-Zuordnung wöchentlich variieren; Tür 5 (Das Warum) auf Fr + So als Funnel-Einstieg + 1×/Woche im Feed (`/persoenlich`). Tür-5-Häppchen über Story + Feed nie wiederholen. Neueste oben.
 > Türen: 1 Ehrlicher Zwischenstand · 2 Rückkehr in den Körper · 3 Die Ausbildung · 4 Echtes Leben drumherum · 5 Das Warum · 6 Gesicht & Stimme.
 
-- (noch kein Lauf mit der täglichen Tür-Verteilung — die früheren BTS-Samstage lagen thematisch bei Tür 1. Erster Lauf: die 5 Alltags-Türen frei auf Mo/Di/Mi/Do/Sa verteilen, je ein Tür-5-Häppchen für Fr, So und das Feed-Piece wählen.)
+- **Woche 15.–21.06 (Lauf 2026-06-15):** Mo = Tür 4 (Stille, Tochter ausgezogen) · Di = Tür 2 (6 Uhr Küche, durchatmen) · Mi = Tür 1 (Mittagspause Schreibtisch, halber Vormittag funktioniert) · Do = Tür 3 (Ausbildung, Langsam-Machen fällt schwer) · Sa = Tür 6 (Audio beim Filmen, „muss perfekt sein") · Fr = Tür 5 → Freebie („funktionieren fühlte sich normal an") · So = Tür 5 → Telegram („Wendepunkt war leise, nicht mehr allein"). → Nächste Woche: Tag→Tür-Zuordnung der 5 Alltags-Türen anders verteilen, neue Tür-5-Häppchen.
+- (davor: noch kein Lauf mit der täglichen Verteilung; frühere BTS-Samstage lagen thematisch bei Tür 1.)
 
 ---
 
@@ -34,6 +35,7 @@
 - **Funnel:** Fr = Freebie Funktionsmodus-Check (CHECK / check.katjajung.com) · So = Telegram „Zurück zu dir" + Audio-Teaser
 - **Settings/Tageszeiten:** Mo abends Sofa · Di morgens Küche · Mi Mittag Schreibtisch · Do abends Esstisch · Fr abends Bett/Bad · Sa Nachmittag Matte · So Abend Fenster
 - **Send-Moment:** Mo (Weiterleiten am Wahren Satz)
+- **Persönliche Türen (H, nachträglich ergänzt 2026-06-13):** Mo=4 · Di=2 · Mi=1 · Do=3 · Sa=6 · Fr=5→Freebie · So=5→Telegram (Frames stehen in Notion „Story Highlights & Stories")
 
 ## Lauf 2026-06-11 (Standard-Woche Mo–So)
 - **Körperimpuls:** Di = Schultern sinken lassen · Do = Kiefer/Zähne weich (Zunge vom Gaumen)
