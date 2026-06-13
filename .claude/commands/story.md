@@ -80,7 +80,7 @@ Bei Einladung mit Keyword: DM-Antwort separat darunter.
 ## Stilregeln
 
 - Brand Voice aus `brand-voice.md`. Nur Funktionsmodus + einfache Yoga-/Atemimpulse. NIE „Nervensystem"/Fachsprache.
-- Verbotene Wörter (Disziplin/Selbstoptimierung/Selfcare/„du musst nur" …) — außer Disziplin in Verneinung.
+- Verbotene Wörter (Disziplin/Selbstoptimierung/Selfcare/„du musst nur" …) — **auch nicht per Verneinung**; direkt positiv formulieren (z. B. „mehr Druck"). Außerdem: immer einfache, normale Alltagssprache, nicht poetisch/verkopft.
 - Kein KI-Klang, keine Floskeln, kein gleichförmiger Rhythmus. Geduzt.
 - Kein Emoji im Frame-Text (nur in Sticker-/Hinweis-Zeilen). Einladend, erinnernd, körpernah — nie belehrend oder antreibend.
 - Polls sparsam (max. 2–3/Woche im Gesamtbild). Ein Story-Run = ein Ziel.
