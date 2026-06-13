@@ -1,0 +1,115 @@
+# Persönlicher Content — die Frau hinter der Marke
+
+> Single Source of Truth dafür, wie Katja Persönliches in ihren Content bringt — ohne die saubere Nische zu verwässern.
+> Gelesen von `/persoenlich` (Feed), `/story-woche` (Samstags-Slot) und `/story persoenlich` (Einzel-Story).
+> Eingerichtet 2026-06-13, nachdem das Konzept + die Beispielposts abgenommen wurden.
+
+---
+
+## Der Kern-Gedanke (nie vergessen)
+
+Persönliches ist **keine dritte Content-Säule** neben „Yoga ohne Leistungsdruck" und „Der Körper im Funktionsmodus". Es ist die **menschliche Schicht darunter.** Katja ist der lebende Beweis für genau das, was sie lehrt: eine Frau 40+, die noch mitten im Funktionsmodus steckt (Job bis 14:30) und sich Stück für Stück rausholt.
+
+Warum das ihre Stärke ist — nicht nur „nett":
+- **Human Design Linie 6 (Role Model):** Sie wirkt, indem sie Dinge *verkörpert*, nicht erklärt. „Wenn sie das kann, kann ich das auch." Ihre Geschichte IST die Methode.
+- **Recherche-Fakt:** Personen-/Creator-Accounts schlagen Marken-Accounts in den meisten Nischen um das 5–10-fache — Menschen bauen Beziehung zu einem Menschen auf, nicht zu einem Konzept.
+- Ihr Profil ist gerade fast faceless. Genau hier liegt das ungenutzte Wachstum.
+
+**Wichtig (Linie 2 / Hermit):** Persönlich heißt NICHT „jeden Tag in die Kamera". Es heißt: ab und zu zeigen, dass da ein echter Mensch ist. Dosiert, batchbar, energieschonend.
+
+---
+
+## Die eine Regel über allem: zurück zu ihr
+
+**Jeder persönliche Post endet bei der Soul-Client.** Ein Häkchen wie „… und vielleicht kennst du das auch." / „Wenn du beim Lesen genickt hast — dann bist du hier richtig."
+
+- Persönlich **ohne** Anschluss = Tagebuch (verboten).
+- Persönlich **mit** Anschluss = Spiegel (das Ziel).
+
+Test vor jedem Post: Sieht die richtige Frau sich darin? Oder erzählt Katja nur über sich?
+
+---
+
+## Die 6 Türen
+
+Jede Tür hängt an dem, was die Soul-Client gerade selbst durchlebt. Keine zufälligen Privat-Schnipsel.
+
+### Tür 1 — Der ehrliche Zwischenstand
+**Was:** Katja ist nicht „oben angekommen und winkt runter". Sie baut den Ausweg, während sie noch im Job sitzt.
+**Warum es zieht:** Glaubwürdiger als jede Coachin, die so tut, als hätte sie's gelöst. Lernende neben ihr, nicht über ihr.
+**Beispiel-Winkel:** „Halb drei, ich komm aus dem Büro und merke: Ich hab den halben Tag funktioniert, ohne einmal richtig durchzuatmen. Ich bin da selbst noch nicht raus."
+**Format:** Story (ideal) · Reel (als ehrlicher Einblick)
+
+### Tür 2 — Die eigene Rückkehr in den Körper
+**Was:** Ihr Morgen (6 Uhr, Dehnen, Laufband im Gehen — nicht laufen), der Abend-Moment „ich hab wieder den ganzen Tag funktioniert". Klein, unglamourös, wahr.
+**Warum es zieht:** Zeigt die Methode im echten Leben statt als Lehre. Macht sie nahbar.
+**Beispiel-Winkel:** „6 Uhr. Kein Sport, kein Programm. Ich geh einfach — damit mein Körper wach wird, bevor der Tag mich greift."
+**Format:** Story (ideal) · Reel
+
+### Tür 3 — Die Ausbildung
+**Was:** Sie macht gerade die Somatic-Yoga-Ausbildung. „Ich lerne das selbst gerade."
+**Warum es zieht:** Schützt vor Guru-Ton, perfektes Role-Model-Material. Sie ist auf demselben Weg, nur ein paar Schritte weiter.
+**Beispiel-Winkel:** „Ich mach gerade meine Yoga-Ausbildung. Und das Komische: Der schwerste Teil ist nicht die Bewegung — es ist, langsam zu machen. Nichts zu leisten."
+**Format:** Story (ideal) · Karussell (was sie lernt, in Slides)
+
+### Tür 4 — Das echte Leben drumherum
+**Was:** Alleine leben (die Ruhe UND die leisen Momente, beides ehrlich), die Tochter (25, ausgezogen), ein Buch, der Kino-Abend, der Feierabend, an dem sie endlich gestoppt hat. Die Textur eines echten Lebens mit 48.
+**Warum es zieht:** Frauen 40+ mit ausgezogenen Kindern, die die Stille mit Aufgaben füllen, erkennen sich sofort.
+**Beispiel-Winkel:** „Meine Tochter ist ausgezogen, die Wohnung ist still. Früher hab ich die Stille sofort mit irgendeiner Aufgabe vollgemacht. Heute hab ich's einfach mal ausgehalten."
+**Format:** Story (ideal) · Reel
+
+### Tür 5 — Das Warum (in Häppchen)
+**Was:** Ihre Gründungsgeschichte (`context/founder-story.md`) — nicht als ein Monolog, getropft. Ein Moment hier, ein Satz da, über Wochen.
+**Warum es zieht:** Die stärkste Wiedererkennung. Die Geschichte ist deckungsgleich mit dem Leben der Soul-Client.
+**Beispiel-Winkel (Reel-Hook):** „Von außen sah mein Leben immer gut aus. Zuverlässig. Belastbar. Organisiert. Bis ich irgendwann nicht mehr wusste, wer ich ohne das alles bin."
+**Format:** Reel (ideal — story-getrieben) · Karussell (Geschichte über Slides) · Story (ein Häppchen)
+
+### Tür 6 — Gesicht & Stimme (dosiert)
+**Was:** Eine Sprachnachricht-Story, eine Audio (macht sie bei Telegram eh), ab und zu kurz in die Kamera. Aufbauend, in ihrem Tempo — nie als Pflicht.
+**Warum es zieht:** Stimme + Gesicht bauen am schnellsten Vertrauen. Bewusst unperfekt = sie verkörpert genau ihre Botschaft.
+**Beispiel-Winkel (Audio):** „Ich nehm das hier gerade auf, und mein erster Impuls war, es zehnmal neu zu machen, bis es perfekt ist. Genau das hat mich jahrelang erschöpft. Also lass ich's jetzt einfach so."
+**Format:** Audio-/Sprach-Story (ideal) · Reel mit Gesicht. **Primär ein Story-Format** — im Feed nur, wenn sie ein Gesicht-/Stimme-Reel wirklich will.
+
+---
+
+## Leitplanken (damit's nicht kippt)
+
+- **Immer zurück zu ihr** (siehe oben — die wichtigste Regel).
+- **Kein Oversharing, keine Drama-Beichte.** Leise Wahrheit, kein emotionaler Striptease. Keine Details über Dritte ohne deren Zustimmung.
+- **Keine perfekte Guru-Story.** Ihr Vorsprung ist, dass sie noch unterwegs ist. Genau das behalten — nie „ich hab's gelöst, mach es mir nach".
+- **Energie zuerst** (Hermit-Linie 2). Batchen statt täglich erzwingen. An Tagen ohne Energie reicht ein einziger Story-Satz.
+- **Einfache Alltagssprache** — wie zu einer Freundin. Nicht poetisch, nicht verkopft. Test je Satz: Würde sie das genau so laut sagen? (Brand-Voice-Grundregel gilt voll.)
+- **Kein KI-Klang**, keine Floskeln, geduzt.
+- **Nische bleibt sauber.** Persönliches läuft mit Abstand am meisten über Stories, kaum über den Feed — das Grid bleibt das, was es ist.
+
+---
+
+## Rhythmus & Format-Verteilung
+
+Aus der Recherche, jedes Format hat eine Aufgabe:
+
+| Format | Aufgabe | Persönlich-Anteil | Rhythmus |
+|---|---|---|---|
+| **Stories** | Beziehung & Nähe (verschwindet nach 24 h → niedriger Druck, ideal für die Hermit-Linie) | **Hier lebt das Persönliche.** | Fester Slot: 1×/Woche (Samstag in `/story-woche`, rotierende Tür). Mehr spontan über `/story persoenlich`, wie die Energie es zulässt. |
+| **Reels** | Reichweite / neue Leute lernen sie kennen | gelegentlich ein persönliches/Story-Reel (`/persoenlich`) | ~1× alle 1–2 Wochen, kein Soll |
+| **Karussells** | Speichern / Tiefe | ein persönliches Karussell (`/persoenlich karussell`) | ~1–2×/Monat |
+| **Gesicht/Stimme** | Schnellster Vertrauensaufbau | Audio-/Sprach-Story, ab und zu Gesicht | 1–2×/Monat, wächst mit Komfort — nie als Quote |
+
+**Gesamt-Verhältnis:** grob **75–80 % Nische/Lehren, 20–25 % menschlich** — der menschliche Teil mit Abstand am meisten in Stories.
+
+**Tür-Rotation:** Über Stories + Feed hinweg sauber durch alle 6 Türen rotieren, nicht bei einer Lieblings-Tür hängen bleiben. Stand der Story-Rotation steht in `outputs/story-woche/verlauf.md` (Abschnitt „Persönliche Tür").
+
+---
+
+## CTA bei persönlichem Content
+
+Die Aufgabe von Persönlichem ist **Beziehung**, nicht Funnel. Also:
+- Default: **leiser Folgen-Grund** („bleib hier, wenn du auch leise rauswillst") · **Reaktions-Sticker** (Slider, Frage-Box) · oder **gar kein CTA**.
+- **Kein reflexhaftes „Speichern".** CTA bewusst wählen (siehe Memory `feedback_cta_passend_freebie`).
+- **Freebie-Push nur ausnahmsweise** — persönlicher Content soll nicht verkaufen. Wenn überhaupt, dann ganz leise und nur, wenn der Moment es trägt.
+
+---
+
+## Notion-Ablage
+
+Persönliche Feed-Pieces (Reels/Karussells) gehen — **nur auf Abnahme** — in die DB „Feed" (wie aller Feed-Content, siehe Memory `notion_content_workflow`). Da es keine eigene „Persönlich"-Säule gibt, der Content-Säule die nächstliegende zuordnen (meist „Der Körper im Funktionsmodus", weil es um Katjas eigenen Weg aus dem Funktionieren geht). Wie immer die **zwei Alt-Hooks** mit ablegen. Persönliche Stories nur ablegen, wenn Katja sie ausdrücklich abnimmt (DB „Story Highlights & Stories").

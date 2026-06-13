@@ -6,6 +6,15 @@
 
 ---
 
+## Persönliche Tür (Samstag-Rotation, Baustein H)
+
+> Welche der 6 Türen (`reference/persoenlicher-content.md`) zuletzt im Samstags-Slot lief. Jede Woche eine andere — durch alle 6 rotieren, nicht in den letzten ~3 Wochen wiederholen. Neueste oben.
+> Türen: 1 Ehrlicher Zwischenstand · 2 Rückkehr in den Körper · 3 Die Ausbildung · 4 Echtes Leben drumherum · 5 Das Warum (Häppchen) · 6 Gesicht & Stimme.
+
+- (noch keine bewusste Tür-Rotation gelaufen — die früheren BTS-Samstage lagen thematisch bei Tür 1 „Aufbau neben dem Job". Nächster Lauf: andere Tür wählen, z. B. 2, 4 oder 5.)
+
+---
+
 ## Einzel-Stories (laufend, von `/story`)
 
 - 2026-06-11 · take · „Du musst dir Ruhe nicht verdienen" (Frage-Sticker, DMs)

@@ -182,6 +182,16 @@ Format: Listen-Hook (KEINE Grundformel-Pflicht) · stille Erkenntnis · kalter T
 Eingebaute Regeln (2026-06-12 geschärft): Hook-Schärfer „… und du merkst/hörst es nicht" (über *Hören*, nicht „merken") · ist die Liste aus inneren Sätzen, schließt der Video-Text mit dem EINEN Satz, den sie sich nie sagt · Schlusssatz nie als Analyse/Vorwurf über sie · Caption ohne Yoga-Verkaufsabsatz, wirkt durch Erkennen · keine sich selbst widersprechenden Sätze (kleiner erster Schritt = die Veränderung selbst) · Speichern als Hauptziel, optional EIN Freebie-CTA dazu (Spür-/Rückkehr-Auflösung → 3MINUTEN, reine Erkennung → CHECK).
 Hauptziel: Speichern · Teilen · Folgen
 
+### /persoenlich [tür | format | thema]
+
+**Zweck:** Persönliches Feed-Piece — **Reel ODER Karussell** — aus einer der 6 „Türen", damit Follower Katja als Mensch kennenlernen, ohne dass die Nische verwässert. Persönliches ist die menschliche Schicht UNTER den zwei Content-Säulen, keine dritte Säule.
+
+- `/persoenlich` → Claude wählt Tür (rotierend) + passendes Format
+- `/persoenlich warum` → Tür vorgeben (Das Warum — Gründungsgeschichte in Häppchen)
+- `/persoenlich karussell ausbildung` → Format + Tür vorgeben
+
+Die 6 Türen: (1) Ehrlicher Zwischenstand · (2) Eigene Rückkehr in den Körper · (3) Die Ausbildung · (4) Echtes Leben drumherum · (5) Das Warum · (6) Gesicht & Stimme. Nutzt `reference/persoenlicher-content.md` als Single Source of Truth (Türen, Leitplanken, CTA-Logik) und die bestehenden `reel.md`/Karussell-Skills nur fürs Format-Gerüst — kein Doppeln. Pflicht-Regel: jeder Post endet bei der Soul-Client („… und vielleicht kennst du das auch"), nie Tagebuch; CTA bewusst (default leiser Folgen-Grund, kein reflexhaftes Speichern, Freebie nur ausnahmsweise). Output inkl. 2 Alt-Hooks zum Tauschen.
+
 ### /zielgruppe [thema | update]
 
 **Zweck:** Mit dem Soulclient-Profil arbeiten — entweder ein Thema aus Sicht der Zielgruppe analysieren oder ein neues Insight dokumentieren.
@@ -227,7 +237,7 @@ Claude wählt die 7 Themen **selbst** (Trend via Instagram-Späher + WebSearch +
 **Zweck:** Komplette Wochen-Produktion für **tägliche Instagram-Stories** — 7 Tage (Mo–So) copy-fertige Frames: Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. Faceless: B-Roll + Text-Overlay, kein In-die-Kamera-Sprechen nötig.
 
 Claude wählt die Inhalte **selbst** (frisch je Lauf, nie wiederholt, immer spezifisch), nach festem Rhythmus, der an Katjas Telegram-Tage andockt:
-- Mo: Wahrer Satz + Spür-Check (Poll) · Di: Mini-Körperimpuls + Anstoß (Recycling) · Mi: Leiser Take · Do: Mini-Körperimpuls + Frage-Box · Fr: Wahrer Satz + Einladung (Freebie) · Sa: Behind-the-Scenes + Spür-Check · So: Wahrer Satz + Einladung (Telegram/Audio-Teaser)
+- Mo: Wahrer Satz + Spür-Check (Poll) · Di: Mini-Körperimpuls + Anstoß (Recycling) · Mi: Leiser Take · Do: Mini-Körperimpuls + Frage-Box · Fr: Wahrer Satz + Einladung (Freebie) · Sa: **Persönliche Tür (rotierend, 1 von 6 — die Frau hinter der Marke)** + Spür-Check · So: Wahrer Satz + Einladung (Telegram/Audio-Teaser)
 
 Eingebaute Regeln (aus Marktrecherche): ein Story-Run = ein Ziel · Polls max. 2–3×/Woche · kurz halten, Bestes zuerst · abends 18–22 Uhr posten · Link-Disziplin (Freebie → Opt-in/Bio · Angebot „10-Minuten-Rückkehr" → `10-minuten-rueckkehr.katjajung.com`, **nie zur Kasse**, 7-€-Tripwire nie öffentlich). Volle Format-Bausteine (A–H) + Pipeline in `.claude/commands/story-woche.md`.
 Geschärft 2026-06-12: verbotene Wörter nie per Verneinung (auch „nicht mehr Disziplin" raus → „mehr Druck") · Körperimpuls-Frame-1 führt über den Zustand, nie über einen Körperteil als Schlagzeile · Wahrer Satz rotiert die Form (Vielleicht-Paar / leise Frage / stiller Spiegel-Satz), nie 3× dieselbe/Woche · Frame 1 trägt täglich einen Slider (zählt nicht als Poll, Algo-Schub) · 1 bewusster Weiterleitungs-Moment/Woche (Sends) · Mittwochs-Take endet immer auf DM-Öffner.
@@ -236,7 +246,7 @@ Geschärft 2026-06-12: verbotene Wörter nie per Verneinung (auch „nicht mehr 
 
 **Zweck:** Ein einzelner Story-Post für zwischendurch — der spontane Bruder von `/story-woche`. Copy-fertig: Frame-Text, Sticker, B-Roll-Hinweis, Link wo nötig.
 
-- `/story satz` → Wahrer Satz · `/story check` → Spür-Check (Umfrage) · `/story impuls` → Mini-Körperimpuls · `/story take` → Leiser Take · `/story frage` → Frage-Box · `/story anstoss` → Reel/Karussell teilen · `/story einladung` → Funnel (Freebie/Telegram/Angebot) · `/story bts` → Behind-the-Scenes
+- `/story satz` → Wahrer Satz · `/story check` → Spür-Check (Umfrage) · `/story impuls` → Mini-Körperimpuls · `/story take` → Leiser Take · `/story frage` → Frage-Box · `/story anstoss` → Reel/Karussell teilen · `/story einladung` → Funnel (Freebie/Telegram/Angebot) · `/story bts` → Behind-the-Scenes · `/story persoenlich` → Persönliche Tür (1 von 6)
 - `/story satz 3` → mehrere Varianten · ohne Argument: fragt nach dem Typ
 
 ### /shutdown
@@ -306,6 +316,15 @@ Katja macht eine **Somatic-Yoga-Lehrerausbildung** (deutsch, komplett online, se
 - **Sprach-Regel:** Die Methode ist im Kern Nervensystem-Arbeit — im Content aber NIE Fachsprache (kein „Nervensystem", „Vagus", „somatisch" als Schlagwort). Tiefe intern, Sprache körpernah. Verstärkt die bestehende Nischen-Leitplanke.
 
 ---
+
+## Persönlicher Content (die Frau hinter der Marke)
+
+Damit Katja als Mensch sichtbar wird, ohne die Nische zu verwässern, gibt es ein festes Persönlich-System (eingerichtet 2026-06-13). **Persönliches ist keine dritte Content-Säule, sondern die menschliche Schicht UNTER den beiden Säulen** — Katja als lebender Beweis für „raus aus dem Funktionsmodus" (Human Design Linie 6 / Role Model). Dosiert und energieschonend (Linie 2 / Hermit).
+
+- **Single Source of Truth:** `reference/persoenlicher-content.md` — die 6 Türen, Leitplanken (immer „zurück zu ihr", kein Oversharing, keine Guru-Story), CTA-Logik (Beziehung statt Funnel) und Rhythmus/Format-Verteilung. Alle Persönlich-Skills lesen daraus.
+- **Die 6 Türen:** (1) Ehrlicher Zwischenstand · (2) Eigene Rückkehr in den Körper · (3) Die Ausbildung · (4) Echtes Leben drumherum · (5) Das Warum (in Häppchen) · (6) Gesicht & Stimme.
+- **Wo es läuft:** Feed-Pieces über `/persoenlich` (Reel/Karussell). Stories über den festen Samstags-Slot in `/story-woche` (rotierende Tür, getrackt in `outputs/story-woche/verlauf.md`, Abschnitt „Persönliche Tür") und spontan über `/story persoenlich`.
+- **Verteilung:** ~75–80 % Nische, ~20–25 % menschlich — der menschliche Teil mit Abstand am meisten in Stories, kaum im Feed (das Grid bleibt sauber). Über alle 6 Türen rotieren, nicht bei einer hängen bleiben.
 
 ## Content-Ablage (Notion)
 
