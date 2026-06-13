@@ -18,6 +18,15 @@ Woche 2:  Montag → Wahrer Satz + Reflexionsfrage
           Sonntag → Audio-Rückkehr
 ```
 
+**Warum bewusst nur 2× pro Woche — nicht 3× (entschieden 2026-06-13):**
+- Telegram ist Push — jeder Post ist eine Benachrichtigung. Bei der überreizten funktionierenden Frau 40+ wäre ein dritter wöchentlicher Ping schnell „noch eine Sache, die was von mir will" → stummschalten/verlassen. 2× passt zur Marken-Botschaft „weniger, nicht mehr".
+- Telegram ist der ruhige Nurture-Kanal hinten im Funnel, nicht die Bühne (täglich läuft schon Feed + Stories). Verlässliche 2× schlagen wacklige 3×.
+- Weniger Posts machen jeden einzelnen wichtiger; die Formate nutzen sich langsamer ab. Die Audio nur alle 14 Tage ist gewollt — intimstes/aufwändigstes Format, darf besonders bleiben.
+
+**Warum der Tage-Wechsel (Mo+Do / Mo+So):** Montag ist jede Woche fest (Wochenstart-Anker). Der zweite Post wechselt zwischen den beiden Körper-Formaten — aktiver Donnerstags-Impuls (Mitmachen mitten in der Woche) ↔ ruhige Sonntags-Audio (Runterkommen vor der neuen Woche). So nutzt sich keins ab.
+
+**Mehr Präsenz nur über den Tagesimpuls (Typ D)** — spontan, ohne festen Slot, kein Pflichttermin. Hält die Gruppe lebendig, ohne einen dritten Wochen-Zwang einzuführen.
+
 ---
 
 ## Schritt 1 — Kontext laden

@@ -50,10 +50,11 @@ Freebie 2: **5 Tage zurück in deinen Körper** (⏳ NOCH NICHT FERTIG — zähl
 
 **Kostenlose Telegram-Gruppe: „Zurück zu dir"**
 - CTA aus beiden Freebies (Platzhalter-Seiten werden noch befüllt)
-- 2–3x/Woche Inhalte:
-  - Montag: Wahrer Satz + Reflexionsfrage
-  - Donnerstag: 3-Minuten-Körperimpuls
-  - Sonntag: Kurzes Audio (1–2 Min, eingesprochen von Katja)
+- Bewusst 2×/Woche im Wechsel-Rhythmus (entschieden 2026-06-13, Begründung im `/telegram`-Skill):
+  - Montag (fix jede Woche): Wahrer Satz + Reflexionsfrage
+  - Woche 1 zusätzlich Donnerstag: 3-Minuten-Körperimpuls
+  - Woche 2 zusätzlich Sonntag: Kurzes Audio (1–2 Min, eingesprochen von Katja)
+  - Mehr Präsenz nur über spontane Tagesimpulse, kein dritter Pflicht-Slot
 - Inhalte für Wochen 1 & 2 bereits ausgearbeitet
 
 **Erstes Mini-Produkt: „10 Minuten zurück zu dir" / „Die 10-Minuten-Rückkehr"** (LIVE, Stand 2026-06-04)
