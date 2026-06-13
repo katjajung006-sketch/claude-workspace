@@ -242,11 +242,32 @@ Referenzbeispiel:
 
 ## Typ D — Tagesimpuls (spontan / ad hoc)
 
-**Länge:** 2–4 Sätze
+**Länge:** Kurz, aber mit Substanz — ca. 6–9 Zeilen. Kein Zweizeiler.
 **Ton:** Ruhig, erinnernend. Nicht motivierend.
-**Ziel:** Die Frau fühlt sich gesehen. Kein Druck.
+**Ziel:** Die Frau fühlt sich gesehen UND bekommt etwas Konkretes zum Mitmachen.
 
-Aufbau: Direkt rein — kein Intro. Physischen Anker einbauen (Hand auf Körper, Füße, Atem). Letzter Satz darf offen enden.
+### Aufbau (so will Katja den Tagesimpuls — festgelegt 2026-06-13):
+
+1. **Situations-Anker / Spiegel-Einstieg** — gern als „Vielleicht ist heute…" + „Und vielleicht…"-Paar. Benennt ihren Zustand, ohne Vorwurf.
+2. **Klares Innehalten-Signal** — eine direkte Zeile, z. B. „Halte jetzt kurz inne."
+3. **Konkrete, anfängerinnen-taugliche Körper-Anleitung** Schritt für Schritt — Ausgangshaltung + genaue Bewegung + Spüren. NICHT nur ein einzelner Anker-Satz, sondern wirklich mitmachbar (Kanon: `reference/somatic-yoga.md`).
+4. **Ergebnis mit reinweben** — sie soll spüren, was die Übung bringt, z. B. „Schon das holt dich für einen Moment aus dem Kopf zurück in deinen Körper." Ergebnis immer gespürt-körperlich (zurück in den Körper / aus dem Kopf), nie Leistung/Optimierung.
+5. **Offener, druckfreier Schlusssatz** — z. B. „Du musst gerade nirgendwo hin."
+
+Physischer Anker (Hand auf Körper, Füße, Atem) ist Pflicht. Wenn an einem Tag schon ein anderer Post das Atmen trägt (z. B. Audio am Sonntag), den Tagesimpuls bewusst über einen anderen Anker führen (Füße, Schultern, Hände).
+
+Referenzbeispiel (Ton und Struktur):
+> Vielleicht ist heute der Tag, der eigentlich frei sein sollte.
+> Und vielleicht ist dein Kopf trotzdem schon wieder bei dem, was noch erledigt werden muss.
+>
+> Halte jetzt kurz inne.
+> Stell beide Füße fest auf den Boden.
+> Spür, wie sie aufliegen — die Fersen, die Zehen, der ganze Fuß.
+> Drück sie einen Moment bewusst nach unten und lass dann wieder locker.
+> Bleib ein paar Sekunden einfach so sitzen oder stehen.
+> Schon das holt dich für einen Moment aus dem Kopf zurück in deinen Körper.
+>
+> Du musst gerade nirgendwo hin.
 
 ---
 
