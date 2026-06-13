@@ -22,6 +22,8 @@
 - 2026-06-12 · impuls · Hände öffnen + langer Ausatem (Freitagabend, „Woche abfallen lassen")
 - 2026-06-13 · satz · Wochenend-Crash — erst am Wochenende merkst du, wie müde du bist (Slider „Kennst du das?")
 - 2026-06-14 · satz + einladung · Sonntagabend gehört noch dir → Telegram-Audio „Zurück zu dir"
+- 2026-06-13 · persoenlich (Tür 4) · Samstag, freien Tag vollpacken → einen Punkt streichen (Frage-Box „Was würdest du dir streichen?")
+- 2026-06-14 · persoenlich (Tür 5) · Sonntagabend „schwerster Moment der Woche" → Einstieg in die Telegram-Audio „Zurück zu dir"
 
 ---
 
