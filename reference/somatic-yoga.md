@@ -63,7 +63,7 @@ Jede Übung, Haltung oder jeder Körperimpuls — egal ob in Reel, Karussell, St
 1. **Ausgangshaltung** — wo ist der Körperteil, wie sitzt/liegt/steht sie (z. B. „Hände locker im Schoß, Handflächen nach oben"; „im Bett liegend, Arme neben dir").
 2. **Genaue Bewegung** — wohin, wie weit, in welche Richtung. Nicht „lös die Schultern", sondern „zieh die Schultern bewusst hoch Richtung Ohren und lass sie dann schwer nach unten fallen".
 3. **Atemrichtung** — was beim Einatmen, was beim Ausatmen (sofern Atem geführt wird).
-4. **Wiederholung / Dauer** — wie oft oder wie lange („zwei-, dreimal so"; „bleib ein paar Atemzüge").
+4. **Wiederholung / Dauer** — wie oft oder wie lange. **Immer eine feste Zahl, nie ein Range** — also „mach das dreimal", nicht „mach das drei- bis viermal". Das „entweder oder" lässt die Anfängerin selbst entscheiden, statt sie klar zu führen. Bei Dauer das Gleiche: „bleib drei Atemzüge", nicht „zwei bis vier Atemzüge". (Katja-Regel 2026-06-13.)
 
 Keine Fachbegriffe, keine Pose-Namen ohne Erklärung, nichts vorausgesetzt (auch nicht „Erdung", „Zentrum", „in die Mitte kommen"). **Test vor dem Abschicken:** Könnte sie es nur mit diesem Text richtig machen, ohne nachzufragen? Wenn nein → konkreter.
 
