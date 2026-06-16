@@ -1,63 +1,47 @@
 # Reelcover-Vorlage — Yoga-Serie
 
-> Einheitliches Cover für alle Reels aus dem Skill `/reel-yoga`. Einmal in Canva als Vorlage bauen, danach pro Reel nur die untere Zeile tauschen. Macht die Yoga-Reels im Profil-Grid als Serie erkennbar → mehr Speichern.
+> Einheitliches Cover für die Reels aus `/reel-yoga` + `/reel-yoga-wirkung`. **Neu seit 2026-06-16:** großer Neugier-Hook als Blickfang, „3 MIN" nur als kleines Eck-Badge. Grund: Bei vielen Übungs-Reels las sich das Profil-Grid sonst als Wand aus „3-MINUTEN-ÜBUNG". Der Skill liefert pro Reel nur den Neugier-Hook; das Badge ist fest in der Vorlage.
 
 ---
 
-## Aufbau — zwei feste Textfelder
+## Look
 
-```
-┌─────────────────┐
-│                 │
-│ 3-MINUTEN-ÜBUNG │   ← Kicker, IMMER GLEICH
-│ ─────────────── │
-│  Was dein Körper│   ← Neugier-Zusatz, pro Reel neu
-│   dann macht    │
-│                 │
-└─────────────────┘
-```
+- **Blickfang:** der **Neugier-Hook**, groß, Libre Baskerville. Trägt den Situations-Anker. 3–6 Wörter, offene Schleife, verrät die Übung nicht.
+- **Badge „3 MIN":** klein, mit Uhr-Symbol, DM Sans. **Frei verschiebbar** — Katja zieht es hin, wo sie will (Ecke ihrer Wahl). Ersetzt den alten fixen Kicker „3-MINUTEN-ÜBUNG". Hält die Machbarkeit sichtbar (Kauftrigger Nr. 1), ohne das Grid zu dominieren.
+- **Handle:** @yoga.statt.funktionieren, klein, unten.
+- **Farben/Schrift:** Sandbeige `#D8C7B2` · Cream `#F4EFE7` · Clay `#9A7461` · Espresso `#3A2D28`. Libre Baskerville (Hook) + DM Sans (Badge/Handle).
+- **Format:** 1080×1920.
+- **Serien-Wiedererkennung** läuft über den Look (Sandbeige-Welt, Serifenschrift, Badge) — nicht über ein wiederholtes Wort. Foto/Hintergrund bewusst variieren, dann ist auch optisch jede Kachel anders.
 
-**Slot 1 — Kicker:** `3-MINUTEN-ÜBUNG` — bleibt konstant, nie ändern. Das ist der Wiedererkennungs-Anker.
-**Slot 2 — Neugier-Zusatz:** 3–5 Wörter, offene Schleife, verrät die Übung nicht. Liefert der Skill.
+## Zwei Varianten (Canva-Vorlage, 2 Seiten)
 
----
+1. **Foto + Verlauf** (Seite 1): Hintergrund = Standbild der Haltung, dunkler Verlauf unten für Lesbarkeit, Hook + Badge + Handle in Cream.
+2. **Einfarbig Sandbeige** (Seite 2): schlichter Sandbeige-Hintergrund, Hook + Handle in Espresso, Badge als Espresso-Pille. Kein Foto nötig.
 
-## Gespeicherte Canva-Vorlagen
+## Canva-Ablage
 
-Zwei fertige Cover-Vorlagen liegen im Canva-Konto (Brand Kit „yoga.statt.funktionieren"), beide mit großem „3-MINUTEN-ÜBUNG" und Textfeld für den Zusatz:
+- **Design:** „Reelcover-Vorlagen — yoga.statt.funktionieren", ID `DAHMwUMzKLg` — 2 Seiten, editierbar (Hook als Text, Badge als verschiebbares Element).
+  - Edit: https://www.canva.com/d/VI-HYlYWyy7HxhT
+- **Ordner:** „Reelcover" `FAHMwbZ1N_w`.
 
-- **Vorlage A:** https://www.canva.com/d/yPOWac47z3pyjTl
-- **Vorlage B:** https://www.canva.com/d/6mdn7tR6aTn-OvM
+## Produktion
 
-Pro Reel: Vorlage öffnen → nur den Zusatz im unteren Textfeld eintragen (liefert `/reel-yoga`) → Hintergrundbild der Haltung einsetzen → exportieren → als Reelcover hochladen.
-
----
-
-## Canva-Setup (einmalig)
-
-- **Format:** 1080 × 1920 px (Reel-Hochformat). Das Cover füllt das ganze Bild.
-- **Bild:** ruhiges Standbild der Haltung oder weicher, einfarbiger Hintergrund. Kein Fitness-Vibe, kein performatives Zeigen.
-- **Textbereich:** mittig oder unteres Drittel, mit leichter Abdunklung/Verlauf hinter dem Text, damit er auf jedem Bild lesbar bleibt.
-- **Kicker (Slot 1):** kleiner, in Großbuchstaben, gesperrt (Buchstabenabstand), dezent. Wirkt wie ein Label.
-- **Neugier-Zusatz (Slot 2):** größer, der Blickfang. Maximal zwei Zeilen.
-- **Trennlinie** zwischen beiden optional — schafft Ruhe und Struktur.
-
-### Schrift & Farben
-- Eine ruhige Serifenlose oder weiche Serifenschrift — passend zur Brand (Ruhe, Klarheit, Wärme).
-- Markenfarben aus `context/business-info.md` verwenden. Heller Text auf dezent abgedunkeltem Bild.
-- **Gleiche Schriftgröße, Position und Farbe bei jedem Cover** — sonst geht der Serien-Look verloren.
-
----
+- **Generator:** `outputs/reelcover-yoga/build.py` — rendert die zwei Varianten als PNG-Previews + 2-seitiges PDF (HTML/CSS → headless Chrome). Output in `outputs/reelcover-yoga/final/`.
+- **Pipeline neue/geänderte Vorlage** (wie Highlight-Cover):
+  1. `build.py` anpassen → `python3 build.py`.
+  2. PDF temporär hosten: Wegwerf-Cloudflare-Projekt (`reelcover-import-temp`, **nicht** die Live-Funnel-Projekte); Token/Account aus `secrets.local.md`. Erst `wrangler pages project create`, dann `pages deploy`. **Produktions-URL** (`https://<projekt>.pages.dev/<datei>.pdf`) für den Import nehmen — die Preview-Hash-URL wird von Canva nicht zuverlässig geladen.
+  3. `import-design-from-url` (PDF-URL, `intended_design_type = your_story`).
+  4. `move-item-to-folder` → `FAHMwbZ1N_w`.
+  5. Wegwerf-Projekt löschen (`wrangler pages project delete … --yes`), lokales `_host/` aufräumen.
 
 ## Workflow pro Reel
 
-1. `/reel-yoga [haltung]` ausführen.
-2. Aus dem Output `REELCOVER` den Neugier-Zusatz nehmen.
-3. In der Canva-Vorlage nur die untere Zeile (Slot 2) ersetzen. Kicker bleibt stehen.
-4. Hintergrundbild der Haltung tauschen, exportieren, bei Instagram als Reelcover hochladen.
-
----
+1. `/reel-yoga [haltung]` oder `/reel-yoga-wirkung [haltung]` ausführen.
+2. Aus dem Output `REELCOVER` den **Neugier-Hook** nehmen.
+3. Canva-Design `DAHMwUMzKLg` öffnen, passende Variante (Foto / einfarbig) wählen.
+4. Hook-Text ersetzen; bei der Foto-Variante das Haltungs-Foto als Hintergrund einsetzen; Badge bei Bedarf an die gewünschte Ecke schieben.
+5. Exportieren (1080×1920) → bei Instagram als Reelcover hochladen.
 
 ## Merksatz
 
-Der Kicker schafft Wiedererkennung. Der Zusatz schafft Neugier. Das Layout bleibt immer gleich — nur die untere Zeile und das Bild ändern sich.
+Der Neugier-Hook macht neugierig und trägt das Cover. Das „3 MIN"-Badge bleibt klein und beweglich. Variiere Foto/Hintergrund — so wird das Grid abwechslungsreich statt zur Wand aus „3 Minuten".

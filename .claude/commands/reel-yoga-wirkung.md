@@ -161,21 +161,14 @@ Kein Fitness-Vibe. Nur ruhige Präsenz.
 
 ## Output 3 — Thumbnail-Hook (Reelcover)
 
-**Identisch zu `/reel-yoga` — gleiche Serien-Vorlage, damit beide Formate als eine Serie erkennbar bleiben.** Feste Vorlage mit zwei Textfeldern; der Skill liefert nur die beiden Zeilen. Specs: `reference/reelcover-yoga.md`.
+**Identisch zu `/reel-yoga` — gleiche neue Serien-Vorlage (seit 2026-06-16), damit beide Formate als eine Serie erkennbar bleiben.** Großer Blickfang = der **Neugier-Hook**; „3 MIN" nur als kleines, frei verschiebbares Eck-Badge. Zwei Hintergrund-Varianten (Foto + Verlauf · einfarbig Sandbeige). Der Skill liefert nur den Neugier-Hook (großer Satz); das „3 MIN"-Badge ist fest in der Vorlage. Specs: `reference/reelcover-yoga.md`.
 
-```
-Slot 1 (Kicker — IMMER GLEICH):   3-MINUTEN-ÜBUNG
-Slot 2 (Neugier-Zusatz — variabel): [kurzer offener Hook]
-```
+**Neugier-Hook:**
+- **Kurz** — 3–6 Wörter, eine offene Schleife.
+- **Trägt den Anker** aus Schritt 2.6 — kein generischer Satz. Körperteil-Regel beachten.
+- Keine Auflösung, kein Ergebnis-Detail nennen.
 
-**Slot 1 — Kicker:** Bleibt konstant `3-MINUTEN-ÜBUNG`. Nie ändern.
-
-**Slot 2 — Neugier-Zusatz:**
-- **Extrem kurz** — maximal 3–5 Wörter, eine offene Schleife.
-- **Trägt den Anker** aus Schritt 2.6 — kein generischer Neugier-Satz. Test: Würde der Zusatz auch über jedem anderen Reel funktionieren? Dann zu allgemein.
-- Keine Auflösung, kein Ergebnis-Detail. Körperteil-Regel beachten.
-
-Beispiele für Slot 2:
+Beispiele (mit Anker):
 > Wenn du den ganzen Tag alles hältst
 > Wenn dein Kopf nicht aufhört
 > Für den Sonntagabend-Knoten
@@ -292,10 +285,9 @@ Beat 2 (3–7 Sek):  [Haltung + Zeit]
 Beat 3 (7–12 Sek): [offener Spür-Satz]
 
 ---
-REELCOVER (einheitliche Serien-Vorlage)
+REELCOVER (Serien-Vorlage — Neugier-Hook groß, „3 MIN"-Badge fest)
 
-Kicker (fest):   3-MINUTEN-ÜBUNG
-Neugier-Zusatz:  [3–5 Wörter, trägt den Anker]
+Neugier-Hook:  [3–6 Wörter, trägt den Anker]
 
 ---
 HALTUNG & FILMHINWEIS

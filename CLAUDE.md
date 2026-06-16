@@ -154,7 +154,7 @@ Nutzt `reel.md` (Funktionsmodus) bzw. `reel-yoga.md` (Yoga) als Single Source of
 - `/reel-yoga` → Claude wählt Haltung selbst
 - `/reel-yoga Kindhaltung` → Haltung selbst vorgeben
 
-Output: Reel-Text (3 Beats, ~10–12 Sek) · Reelcover (Kicker „3-MINUTEN-ÜBUNG" fest + Neugier-Zusatz, der den Situations-Anker trägt) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
+Output: Reel-Text (3 Beats, ~10–12 Sek) · Reelcover (Neugier-Hook groß als Blickfang + „3 MIN" als kleines, frei verschiebbares Eck-Badge; trägt den Situations-Anker — neu seit 2026-06-16) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe). Pflicht-Schritt Situations-Anker: jedes Reel hängt an EINEM konkreten Soulclient-Moment — trägt Hook, Cover und Weiterleitungs-Wirkung. Kein Caption-Verweis im Video, CTAs nur in der Caption, Keyword fest **3MINUTEN** (ManyChat-Flow).
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hauptziel: Speichern · kalter bis warmer Traffic
@@ -337,7 +337,7 @@ Katjas fertiger Content wird in ihrer Notion-Datenbank **„Feed"** gesammelt �
 - **Feld-Mapping:** Titel/Überschrift (Thema) · Format (Reels/Carousel/Post/Video/IG Live) · Thumbnail-Hook (Cover-Text) · Content Säule · Erstellt = `__YES__` · Gepostet + Datum/Tag leer (plant Katja selbst) · kompletter Content im Seiteninhalt.
 - **Immer mitablegen:** Im Seiteninhalt **immer die zwei Alternativ-Hooks** („zum Tauschen") mit aufnehmen — nicht nur den finalen Hook (Katja-Wunsch 2026-06-13, gilt dauerhaft). Außerdem den CTA pro Piece **bewusst** wählen, nie reflexhaft „Speichern" als Default.
 - **Content-Säulen (in Notion gepflegt):** „Yoga ohne Leistungsdruck" · „Der Körper im Funktionsmodus".
-- **Hinweis:** Der Reelcover-Kicker „3-MINUTEN-ÜBUNG" gehört nur zu `/reel-yoga`, nicht zu anderen Reel-Formaten.
+- **Hinweis:** Das Reelcover der Yoga-Serie (`/reel-yoga` + `/reel-yoga-wirkung`) zeigt seit 2026-06-16 den großen Neugier-Hook als Blickfang + „3 MIN" als kleines, frei verschiebbares Eck-Badge (ersetzt den alten fixen Kicker „3-MINUTEN-ÜBUNG"). Zwei Varianten (Foto+Verlauf · einfarbig), Canva-Vorlage `DAHMwUMzKLg` im Ordner „Reelcover" — Details in `reference/reelcover-yoga.md`. Gehört nur zu diesen Yoga-Reels, nicht zu anderen Reel-Formaten.
 
 **Zweite Datenbank — „Story Highlights & Stories"** (auf derselben Seite „yoga.statt.funktionieren", `data_source_id` `150c2b99-75fe-4478-94c4-ed52407136ae`): Bibliothek für Instagram Story Highlights und einzelne Stories. Spalten: Highlight/Story (Titel) · Typ (Highlight / Story (Einzel)) · Status · Content-Säule (+ „Orientierung / Account") · Slides · CTA/Link-Sticker · Reihenfolge · Notiz. Slide-Texte stehen copy-fertig im Seiteninhalt (Quote-Blöcke). Die 7 Highlights (Starte hier · Über mich · Funktionsmodus · Yoga 40+ · 3-Minuten-Yoga · Wahre Sätze · Angebot) liegen dort fertig. Stories nur ablegen, wenn Katja sie ausdrücklich abnimmt.
 

@@ -146,23 +146,16 @@ Kein Fitness-Vibe. Nur ruhige Präsenz.
 
 ## Output 3 — Thumbnail-Hook (Reelcover)
 
-**Einheitliches Serien-Cover.** Alle Yoga-Reels nutzen dasselbe Cover-Layout — das macht sie im Profil-Grid als Serie erkennbar und erhöht das Speichern. In Canva liegt eine feste Vorlage mit zwei Textfeldern; der Skill liefert nur die beiden Zeilen. Specs der Vorlage: `reference/reelcover-yoga.md`.
+**Einheitliche Serien-Vorlage (neu seit 2026-06-16).** Großer Blickfang = der **Neugier-Hook**; „3 MIN" steht nur als kleines, frei verschiebbares Eck-Badge (mit Uhr-Symbol). So bleibt das Profil-Grid abwechslungsreich (kein wiederholtes „3-MINUTEN-ÜBUNG" mehr), die Machbarkeit aber sichtbar. Wiedererkennung läuft über den Look (Sandbeige-Welt, Libre Baskerville, Badge). Zwei Hintergrund-Varianten in der Canva-Vorlage: Foto + dunkler Verlauf · schlicht einfarbig Sandbeige. Specs + Vorlage: `reference/reelcover-yoga.md`.
 
-**Aufbau — zwei feste Slots:**
+Der Skill liefert nur den **Neugier-Hook** (den großen Satz). Das „3 MIN"-Badge ist fest in der Vorlage (frei verschiebbar).
 
-```
-Slot 1 (Kicker — IMMER GLEICH):   3-MINUTEN-ÜBUNG
-Slot 2 (Neugier-Zusatz — variabel): [kurzer offener Hook]
-```
-
-**Slot 1 — Kicker:** Bleibt konstant `3-MINUTEN-ÜBUNG`. Nie ändern — das ist der Wiedererkennungs-Anker der Serie. (Reel-Hooks deshalb möglichst auch bei 3 Minuten halten, damit Cover und Video zusammenpassen.)
-
-**Slot 2 — Neugier-Zusatz:**
-- **Extrem kurz** — maximal 3–5 Wörter, eine offene Schleife.
-- **Trägt den Situations-Anker** aus Schritt 2.6 — kein generischer Neugier-Satz, der auf jedes Reel passen würde. Test: Würde dieser Zusatz auch über jedem anderen Reel funktionieren? Dann ist er zu allgemein.
+**Neugier-Hook:**
+- **Kurz** — 3–6 Wörter, eine offene Schleife.
+- **Trägt den Situations-Anker** aus Schritt 2.6 — kein generischer Satz, der über jedem Reel funktionieren würde. Test: Würde er auch über jedem anderen Reel passen? Dann ist er zu allgemein.
 - Keine Auflösung, kein Ergebnis nennen. Die Übung NICHT verraten — der Anker trägt das Cover, die Haltung lebt im Reel.
 
-Beispiele für Slot 2 (mit Anker):
+Beispiele (mit Anker):
 > Wenn dein Kopf nicht aufhört
 > Wenn alle etwas wollen
 > Für den Sonntagabend-Knoten
@@ -291,10 +284,9 @@ Beat 2 (3–7 Sek):  [Haltung + Zeit]
 Beat 3 (7–12 Sek): [offener Spür-Satz]
 
 ---
-REELCOVER (einheitliche Serien-Vorlage)
+REELCOVER (Serien-Vorlage — Neugier-Hook groß, „3 MIN"-Badge fest)
 
-Kicker (fest):   3-MINUTEN-ÜBUNG
-Neugier-Zusatz:  [3–5 Wörter, maximale Neugier]
+Neugier-Hook:  [3–6 Wörter, trägt den Anker]
 
 ---
 HALTUNG & FILMHINWEIS
