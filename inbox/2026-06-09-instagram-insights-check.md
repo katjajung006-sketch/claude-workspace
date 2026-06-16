@@ -3,6 +3,7 @@
 **Erfasst:** 2026-06-09
 **Fällig:** ab ca. 2026-06-19 (nach 7–10 Tagen konsequentem Posten)
 **Status:** offen, wartet auf Daten
+**Update 2026-06-16:** Teil-Antwort schon da — nach 10 Test-Reels zieht klar die Säule „Yoga ohne Leistungsdruck" (3-Minuten-Übungen): mehr Aufrufe, läuft auf IG + Facebook, bringt als Einzige Follower. Daraus folgt das 5:2-Feed-Verhältnis (siehe `context/strategy.md`). Offen bleibt nur noch der Insights-Blick auf die aktivsten Zeiten.
 
 ## Worum es geht
 Erst 7–10 Tage konsequent posten, **dann** zusammen in die Instagram-Insights schauen und die echten Zahlen rausziehen — statt auf generische „beste Posting-Zeit"-Daten zu vertrauen.

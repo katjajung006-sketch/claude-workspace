@@ -93,6 +93,7 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 
 **Content-Strategie:**
 - Frequenz: täglich 1 Reel oder Carousel + täglich Stories
+- **Content-Mix der 7 Feed-Posts/Woche (festgelegt 2026-06-16, ab sofort):** 5× Übungscontent (Yoga ohne Leistungsdruck / 3-Minuten-Übungen) + 2× Funktionsmodus. Grund: nach 10 Test-Reels war eindeutig, dass die Übungs-Reels deutlich mehr Aufrufe holen, auf Instagram UND Facebook laufen und als Einzige neue Follower bringen — die Funktionsmodus-Reels ziehen v. a. über Facebook. Funktionsmodus bleibt drin (Markenkern + E-Mail-Opt-in via CHECK), wandert aber verstärkt in die Stories. Übungs-Reels weiter `/reel-yoga` (problem-geführt) vs. `/reel-yoga-wirkung` (ergebnis-geführt) im A/B — sauberes A/B = dieselbe Übung 2×, nur der Hook unterscheidet.
 - 2 Content-Säulen:
   1. **Yoga ohne Leistungsdruck** — kurze Yoga- & Atemimpulse (Referenz: @entspannungsstudio_anila, Stil: Pose halten + was passiert)
   2. **Der Körper im Funktionsmodus** — Awareness, Wiedererkennung, Identitäts-Content
