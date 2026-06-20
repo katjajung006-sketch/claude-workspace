@@ -157,6 +157,7 @@ Nutzt `reel.md` (Funktionsmodus) bzw. `reel-yoga.md` (Yoga) als Single Source of
 Output: Reel-Text (3 Beats, ~10–12 Sek) · Reelcover (Neugier-Hook groß als Blickfang + „3 MIN" als kleines, frei verschiebbares Eck-Badge; trägt den Situations-Anker — neu seit 2026-06-16) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe). Pflicht-Schritt Situations-Anker: jedes Reel hängt an EINEM konkreten Soulclient-Moment — trägt Hook, Cover und Weiterleitungs-Wirkung. Kein Caption-Verweis im Video, CTAs nur in der Caption. Freebie-CTA: je Reel das passende der zwei Freebies wählen — **3MINUTEN** (3-Minuten-Körpercheck) bei Übungs-/Spür-Fokus · **CHECK** (Funktionsmodus-Check) bei Erkennen-/Funktionsmodus-Fokus; nie beide in einem Post mischen (ManyChat-Flow).
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
+Hook-Grundregel & Formel (was viral lief, ~90k): `reference/hook-formel.md` — Hook immer am konkreten, wiedererkennbaren Moment (sie kennt ihr Problem), nie „du merkst es nicht"-Diagnose. Gilt für beide Yoga-Reel-Skills.
 Hauptziel: Speichern · kalter bis warmer Traffic
 
 ### /reel-yoga-wirkung [haltung]

@@ -92,6 +92,9 @@ Die Zuschauerin soll denken:
 
 **PFLICHT: Immer das Open-Loop-Prinzip. Nie die Auflösung im Reel.**
 
+**Grundregel Hook (Pflicht — Quelle: `reference/hook-formel.md`):** Der erste Satz (Beat 1 / Situations-Anker) setzt IMMER an einem konkreten, gelebten, sofort wiedererkennbaren Moment an — sie kennt ihr Problem („den ganzen Tag alles zusammengehalten" · „Feierabend, aber der Kopf läuft"). Nie eine Diagnose über etwas, das sie „nicht merkt" — darin erkennt sie sich nicht. Konkret schlägt abstrakt, Erkennen = Scroll-Stop.
+Zwei bewährte Muster: **Zwei-Takt-Kontrast** „Es ist still. Aber dein Kopf macht nicht aus." (problem-geführt, passt hier am stärksten) · **Insider + konkreter Anker** „Ich wünschte, mehr Frauen wüssten, was diese [kurze Zeit] machen, wenn du [konkreter Moment]." (viral, ~90k). Details & Beispiele: `reference/hook-formel.md`.
+
 Reel-Länge: **10–12 Sekunden**. Die Haltung bleibt statisch (oder ein langsames Ankommen), der On-Screen-Text wechselt in **3 Beats** — so gibt es nach dem Hook einen Grund weiterzuschauen (Watch-Time).
 
 Formel:

@@ -98,6 +98,9 @@ Beat 2 (3–7 Sek):  [Haltung + Zeit — konkret und machbar]
 Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, hält die Details zurück]
 ```
 
+**Grundregel Hook (Pflicht — Quelle: `reference/hook-formel.md`):** Der erste Satz setzt IMMER an einem konkreten, gelebten, sofort wiedererkennbaren Moment an — sie kennt ihr Problem („den ganzen Tag alles zusammengehalten" · „Feierabend, aber der Kopf läuft"). Nie eine Diagnose über etwas, das sie „nicht merkt" — darin erkennt sie sich nicht. Konkret schlägt abstrakt, Erkennen = Scroll-Stop.
+Bewährte Formel: **„Ich wünschte, mehr Frauen wüssten, was diese [kurze Zeit] machen, wenn du [konkreter Moment]."** (viral, ~90k Aufrufe). Details, Begründung & Beispiele: `reference/hook-formel.md`.
+
 ### Hook-Pool (Beat 1 — ergebnis-geführt, gruppiert nach Mechanismus)
 
 **Insider / Advocacy** *(Leit-Hooks — passen am stärksten zur leisen Autorität):*
