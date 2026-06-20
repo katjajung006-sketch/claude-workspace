@@ -211,7 +211,7 @@ An Einladungs-Tagen den Link klar nennen (Ziel + URL/„Link in Bio") und — be
 
 ## Nicht tun
 
-- **Nicht** nach Notion archivieren — nur wenn Katja ausdrücklich abnimmt („passt so" / „perfekt"). Dann in die Datenbank „Story Highlights & Stories" (`150c2b99-75fe-4478-94c4-ed52407136ae`), Typ „Story (Einzel)".
+- **Nicht** nach Notion archivieren — nur wenn Katja ausdrücklich abnimmt („passt so" / „perfekt"). Dann in die Datenbank „Story Highlights & Stories" (`150c2b99-75fe-4478-94c4-ed52407136ae`) als **EINE einzige Seite pro Woche**: Titel „Story-Woche TT.–TT.MM.JJJJ" (Datumsspanne), Typ „Story (Einzel)", Status „Fertig", Slides/Content-Säule leer. Im Seiteninhalt alle 7 Tage Mo→So untereinander als **ganz normaler Text zum Rauskopieren** (Tag-Überschrift + Frame-Label + Frame-Text als Fließtext + 🟫/🎯-Hinweise). **NIE** 7 Einzel-Zeilen, **NIE** als Tabelle (echte Zeilenumbrüche nutzen — literale `\n` + Tabelle zerschießen die Seite). Notion-Connector kann nicht löschen → Aufräumen macht Katja. Details im Memory `feedback_story_woche_notion_format`.
 - **Nicht** das Freebie-Angebot falsch verlinken (Freebie → Opt-in/Bio · Angebot → Verkaufsseite, nie Kasse · 7-€-Tripwire nie öffentlich).
 - **Nicht** mehr als 2–3 Polls pro Woche. **Nicht** zwei Funnel-Ziele in einen Tag.
 - **Nicht** dasselbe Körperthema, denselben wahren Satz oder Take wie in den letzten Wochen (laut `verlauf.md`) — auch nicht leicht umformuliert.
