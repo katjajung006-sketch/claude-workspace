@@ -11,6 +11,7 @@
 > Wie die Türen (`reference/persoenlicher-content.md`) zuletzt verteilt waren. Jede Woche: die 5 Alltags-Türen (1, 2, 3, 4, 6) auf Mo/Di/Mi/Do/Sa — Tag-Zuordnung wöchentlich variieren; Tür 5 (Das Warum) auf Fr + So als Funnel-Einstieg + 1×/Woche im Feed (`/persoenlich`). Tür-5-Häppchen über Story + Feed nie wiederholen. Neueste oben.
 > Türen: 1 Ehrlicher Zwischenstand · 2 Rückkehr in den Körper · 3 Die Ausbildung · 4 Echtes Leben drumherum · 5 Das Warum · 6 Gesicht & Stimme.
 
+- **Woche 22.–28.06 (Lauf 2026-06-20):** Mo = Tür 2 (6 Uhr Laufband im Gehen, morgens) · Di = Tür 6 (Sprach-Story „manche Sachen sagt man besser laut") · Mi = Tür 4 (Abend, Buch, dieselbe Zeile 3× gelesen) · Do = Tür 1 (halb drei aus dem Büro, baut Ausweg nebenbei) · Sa = Tür 3 (Ausbildung: nicht „richtig können", sondern merken was es macht) · Fr = Tür 5 → Freebie („überall dabei, schöne Momente nicht genießen können") · So = Tür 5 → Telegram („dachte es sei Stärke, war Anpassung"). → Nächste Woche: Zuordnung wieder anders verteilen, neue Tür-5-Häppchen.
 - **Woche 15.–21.06 (Lauf 2026-06-15):** Mo = Tür 4 (Stille, Tochter ausgezogen) · Di = Tür 2 (6 Uhr Küche, durchatmen) · Mi = Tür 1 (Mittagspause Schreibtisch, halber Vormittag funktioniert) · Do = Tür 3 (Ausbildung, Langsam-Machen fällt schwer) · Sa = Tür 6 (Audio beim Filmen, „muss perfekt sein") · Fr = Tür 5 → Freebie („funktionieren fühlte sich normal an") · So = Tür 5 → Telegram („Wendepunkt war leise, nicht mehr allein"). → Nächste Woche: Tag→Tür-Zuordnung der 5 Alltags-Türen anders verteilen, neue Tür-5-Häppchen.
 - **Einzel-Stories:** 2026-06-20 Tür 2 (Samstagmorgen am Fenster) · 2026-06-14 Tür 5 · 2026-06-13 Tür 4 → nächste Einzel-`persoenlich` möglichst Tür 1, 3 oder 6.
 - (davor: noch kein Lauf mit der täglichen Verteilung; frühere BTS-Samstage lagen thematisch bei Tür 1.)
@@ -29,6 +30,17 @@
 - 2026-06-20 · persoenlich (Tür 2) · Samstagmorgen, zwei Minuten am Fenster atmen bevor die Liste startet (Slider „Sag kurz Hallo")
 
 ---
+
+## Lauf 2026-06-20 (Standard-Woche Mo–So, 22.–28.06)
+- **Körperimpuls:** Di = Nacken lang werden lassen (morgens, Küche, Kopf zur Seite sinken) · Do = Augen/Blick weich, warme Handflächen über die Augen (abends, bildschirm-müde)
+- **Wahrer Satz:** Mo = Form a (Vielleicht-Paar) „montags nicht unmotiviert — übers Wochenende nie wirklich frei" (nur Mo; Fr/So tragen Tür 5)
+- **Leiser Take (Mi):** „du funktionierst nicht, weil du stark bist — sondern weil dir nie jemand gezeigt hat, wann genug ist" (DM-Öffner: woran merkst du, dass es zu viel wird)
+- **Spür-Check (Mo/Sa):** Mo = „Akku schon halb leer / noch voll da" · Sa = „keiner will was von dir → Erleichterung / komisch unruhig"
+- **Frage-Box (Do):** „Wann hattest du heute das erste Mal kurz für dich Ruhe?"
+- **Funnel:** Fr = Freebie Funktionsmodus-Check (CHECK / check.katjajung.com) · So = Telegram „Zurück zu dir" + Audio-Teaser
+- **Settings/Tageszeiten:** Mo früher Morgen (Laufband) · Di morgens Küche · Mi Abend Sofa/Buch · Do früher Nachmittag nach Büro + Abend · Fr Abend · Sa Samstag tagsüber (Lernen) · So Sonntagabend
+- **Slider-Tage:** nur Di (Frame 1 „Wie wach bist du heute schon?") · Send-Moment Mo (Wahrer Satz „Schick das einer Frau, die montags auch platt ist")
+- **Persönliche Türen:** Mo=2 · Di=6 · Mi=4 · Do=1 · Sa=3 · Fr=5→Freebie · So=5→Telegram
 
 ## Lauf 2026-06-15 (Standard-Woche Mo–So, 15.–21.06)
 - **Körperimpuls:** Di = Füße auf dem Boden spüren (morgens, Küche barfuß) · Do = Hand auf den Bauch, Atem heben (abends, Esstisch)
