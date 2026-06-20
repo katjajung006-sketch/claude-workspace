@@ -39,17 +39,24 @@ Ziel: Noch dieses Jahr den Job kündigen und vollständig vom Business leben.
 
 **Phase 1 — Jetzt (Aufbau):**
 
-Freebie 1: **Der Funktionsmodus-Check** (live, in Instagram-Bio verlinkt — Stand 2026-06-04)
-- 7 Zeichen, dass du nur noch funktionierst + 1-Minuten-Körperanker
-- CTA am Ende → Telegram (Mini Produkt, Placeholder noch leer)
+**DREI nutzbare Freebies (Stand 2026-06-20) — bei Content/Stories das passende wählen UND abwechseln. Mapping/Details: Memory `feedback_cta_passend_freebie` + `project_freebie_inventory`.**
 
-Freebie 2: **5 Tage zurück in deinen Körper** (⏳ NOCH NICHT FERTIG — zählt aktuell NICHT, nicht in Content-/Freebie-CTAs verwenden, bis Katja Bescheid gibt; Stand 2026-06-04)
-- 5 Tage, 3–5 Minuten/Tag, kein Equipment nötig
-- Struktur pro Tag: 1 Impuls + 1 Übung + 1 Satz + 1 Mini-Reflexion
-- CTA am Ende → Telegram + Upsell (Placeholder noch leer)
+Freebie 1: **Der Funktionsmodus-Check** (live, in Instagram-Bio verlinkt) — Keyword **CHECK**
+- 7 Zeichen, dass du nur noch funktionierst + 1-Minuten-Körperanker; Opt-in → check.katjajung.com
+- Einsatz: Erkennungs-/Funktionsmodus-Content. CTA am Ende → Telegram.
+
+Freebie 2: **3-Minuten-Körpercheck** (live, Direkt-Geschenk via Drive-Link) — Keyword **3MINUTEN**
+- Kurze Spür-/Wahrnehmungs-Übung für mitten am Tag. ManyChat-Flow steht auf Draft.
+- Einsatz: kurze Übungs-/Spür-Auflösung tagsüber. CTA am Ende → Telegram.
+
+Freebie 3: **5-Minuten-Körper-Reset** (erstellt 2026-06-20, Direkt-Geschenk via Drive-Link) — Keyword **RESET**
+- Kleine Übungsfolge zum Abschalten nach einem Funktionier-Tag (Abend/Feierabend). **ManyChat-Flow muss noch gebaut werden.**
+- Einsatz: Abend-/Feierabend-/„abends nicht runterkommen"-Content. CTA am Ende → Telegram.
+
+⏳ „5 Tage zurück in deinen Körper" — weiterhin NICHT fertig, zählt nicht, nicht in CTAs verwenden, bis Katja Bescheid gibt.
 
 **Kostenlose Telegram-Gruppe: „Zurück zu dir"**
-- CTA aus beiden Freebies (Platzhalter-Seiten werden noch befüllt)
+- CTA aus allen Freebies (jedes endet mit der Telegram-Einladung)
 - Bewusst 2×/Woche im Wechsel-Rhythmus (entschieden 2026-06-13, Begründung im `/telegram`-Skill):
   - Montag (fix jede Woche): Wahrer Satz + Reflexionsfrage
   - Woche 1 zusätzlich Donnerstag: 3-Minuten-Körperimpuls
