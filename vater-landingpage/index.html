@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gisbert Jung – Sachverständiger für Fußbodentechnik, Bodenbeläge und Parkett</title>
+<meta name="description" content="Gisbert Jung – unabhängiger Sachverständiger für Fußbodentechnik, Bodenbeläge und Parkett. Gutachten, Schadensbewertung und Beratung bei Parkett, Laminat, Vinyl, Teppich und Estrich.">
+<style>
+  :root {
+    --primary: #1a5fa8;
+    --primary-dark: #134680;
+    --primary-light: #eaf2fb;
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --text: #2b2b2b;
+    --muted: #6b7280;
+    --border: #e2e6ec;
+    --radius: 14px;
+    --shadow: 0 6px 24px rgba(19, 70, 128, 0.08);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+  .container { width: 100%; max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+  /* ---------- Header ---------- */
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 68px;
+  }
+  .brand { display: flex; flex-direction: column; line-height: 1.2; }
+  .brand strong { font-size: 1.15rem; color: var(--primary-dark); letter-spacing: .2px; }
+  .brand span { font-size: .78rem; color: var(--muted); }
+  .nav-links { display: flex; align-items: center; gap: 28px; }
+  .nav-links a { font-size: .95rem; color: var(--text); transition: color .15s; }
+  .nav-links a:hover { color: var(--primary); }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--primary);
+    color: #fff;
+    padding: 11px 22px;
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: .95rem;
+    transition: background .15s, transform .15s;
+    border: none;
+    cursor: pointer;
+  }
+  .btn:hover { background: var(--primary-dark); transform: translateY(-1px); }
+  .btn-ghost {
+    background: transparent;
+    color: var(--primary-dark);
+    border: 1.5px solid var(--primary);
+  }
+  .btn-ghost:hover { background: var(--primary-light); color: var(--primary-dark); }
+
+  /* ---------- Hero ---------- */
+  .hero {
+    background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+    color: #fff;
+    padding: 88px 0 96px;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::after {
+    content: "";
+    position: absolute;
+    right: -120px;
+    top: -120px;
+    width: 380px;
+    height: 380px;
+    background: rgba(255,255,255,0.06);
+    border-radius: 50%;
+  }
+  .hero .eyebrow {
+    display: inline-block;
+    background: rgba(255,255,255,0.15);
+    padding: 6px 16px;
+    border-radius: 999px;
+    font-size: .82rem;
+    letter-spacing: .4px;
+    margin-bottom: 22px;
+  }
+  .hero h1 { font-size: 2.6rem; line-height: 1.18; font-weight: 700; max-width: 760px; }
+  .hero p.lead {
+    margin-top: 20px;
+    font-size: 1.15rem;
+    max-width: 620px;
+    color: rgba(255,255,255,0.92);
+  }
+  .hero-actions { margin-top: 36px; display: flex; gap: 14px; flex-wrap: wrap; }
+  .hero-actions .btn { background: #fff; color: var(--primary-dark); }
+  .hero-actions .btn:hover { background: #eef4fb; }
+  .hero-actions .btn-line {
+    background: transparent;
+    color: #fff;
+    border: 1.5px solid rgba(255,255,255,0.6);
+  }
+  .hero-actions .btn-line:hover { background: rgba(255,255,255,0.1); }
+
+  /* ---------- Section base ---------- */
+  section.block { padding: 80px 0; }
+  .section-head { max-width: 680px; margin-bottom: 48px; }
+  .section-head h2 { font-size: 1.95rem; color: var(--primary-dark); }
+  .section-head p { margin-top: 12px; color: var(--muted); font-size: 1.05rem; }
+
+  /* ---------- Leistungen ---------- */
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 30px 26px;
+    box-shadow: var(--shadow);
+    transition: transform .18s, box-shadow .18s;
+  }
+  .card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(19,70,128,0.13); }
+  .card .icon {
+    width: 48px; height: 48px;
+    border-radius: 12px;
+    background: var(--primary-light);
+    color: var(--primary);
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 18px;
+  }
+  .card .icon svg { width: 26px; height: 26px; }
+  .card h3 { font-size: 1.15rem; margin-bottom: 8px; color: var(--text); }
+  .card p { color: var(--muted); font-size: .96rem; }
+
+  /* ---------- Über ---------- */
+  .about-wrap {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 48px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 44px;
+    align-items: center;
+  }
+  .about-wrap h2 { font-size: 1.8rem; color: var(--primary-dark); margin-bottom: 16px; }
+  .about-wrap p { color: var(--muted); margin-bottom: 14px; }
+  .checklist { list-style: none; margin-top: 8px; }
+  .checklist li {
+    display: flex; align-items: flex-start; gap: 12px;
+    margin-bottom: 14px; color: var(--text); font-size: 1rem;
+  }
+  .checklist li .check {
+    flex: none;
+    width: 24px; height: 24px; border-radius: 50%;
+    background: var(--primary-light); color: var(--primary);
+    display: flex; align-items: center; justify-content: center;
+    font-size: .8rem; margin-top: 3px;
+  }
+
+  /* ---------- Kontakt ---------- */
+  .contact { background: var(--primary-light); }
+  .contact-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: 44px; }
+  .contact-cards { display: flex; flex-direction: column; gap: 18px; }
+  .contact-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 22px 24px;
+    display: flex; align-items: center; gap: 18px;
+    box-shadow: var(--shadow);
+    transition: transform .15s;
+  }
+  a.contact-card:hover { transform: translateY(-2px); }
+  .contact-card .ci {
+    flex: none;
+    width: 46px; height: 46px; border-radius: 12px;
+    background: var(--primary); color: #fff;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .contact-card .ci svg { width: 22px; height: 22px; }
+  .contact-card .label { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; }
+  .contact-card .value { font-size: 1.08rem; color: var(--text); font-weight: 600; }
+
+  form.contact-form {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 32px;
+  }
+  form.contact-form h3 { font-size: 1.25rem; color: var(--primary-dark); margin-bottom: 6px; }
+  form.contact-form p.fineprint { color: var(--muted); font-size: .9rem; margin-bottom: 22px; }
+  .field { margin-bottom: 16px; }
+  .field label { display: block; font-size: .88rem; margin-bottom: 6px; color: var(--text); font-weight: 600; }
+  .field input, .field textarea {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-family: inherit;
+    font-size: .98rem;
+    background: #fbfcfe;
+    transition: border-color .15s, box-shadow .15s;
+  }
+  .field input:focus, .field textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(26,95,168,0.12);
+  }
+  .field textarea { resize: vertical; min-height: 120px; }
+  form.contact-form .btn { width: 100%; justify-content: center; }
+
+  /* ---------- Footer ---------- */
+  footer {
+    background: var(--primary-dark);
+    color: rgba(255,255,255,0.85);
+    padding: 48px 0 32px;
+    font-size: .92rem;
+  }
+  footer .foot-grid { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
+  footer strong { color: #fff; font-size: 1.05rem; }
+  footer a:hover { color: #fff; text-decoration: underline; }
+  footer .copy { margin-top: 32px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.15); font-size: .85rem; color: rgba(255,255,255,0.6); }
+
+  /* ---------- Responsive ---------- */
+  @media (max-width: 880px) {
+    .grid { grid-template-columns: 1fr; }
+    .about-wrap { grid-template-columns: 1fr; padding: 32px; }
+    .contact-grid { grid-template-columns: 1fr; }
+    .nav-links a:not(.btn) { display: none; }
+    .hero h1 { font-size: 2rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ HEADER ============ -->
+<header>
+  <div class="container nav">
+    <div class="brand">
+      <strong>Gisbert Jung</strong>
+      <span>Sachverständiger für Fußbodentechnik</span>
+    </div>
+    <nav class="nav-links">
+      <a href="#leistungen">Leistungen</a>
+      <a href="#ueber">Über mich</a>
+      <a href="#kontakt" class="btn">Kontakt aufnehmen</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="container">
+    <span class="eyebrow">Unabhängig · Neutral · Erfahren</span>
+    <h1>Sachverständiger für Fußbodentechnik, Bodenbeläge und Parkett</h1>
+    <p class="lead">
+      Klare, fundierte Gutachten bei Schäden, Mängeln und Fragen rund um Parkett,
+      Laminat, Vinyl, Teppich und Estrich – verständlich erklärt und neutral bewertet.
+    </p>
+    <div class="hero-actions">
+      <a href="#kontakt" class="btn">Jetzt Anfrage stellen</a>
+      <a href="tel:+49000000000" class="btn btn-line">📞 Anrufen</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ LEISTUNGEN ============ -->
+<section class="block" id="leistungen">
+  <div class="container">
+    <div class="section-head">
+      <h2>Meine Leistungen</h2>
+      <p>Von der ersten Einschätzung bis zum schriftlichen Gutachten – sachlich, gründlich und auf den Punkt.</p>
+    </div>
+    <div class="grid">
+
+      <div class="card">
+        <div class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
+        </div>
+        <h3>Gutachten & Schadensbewertung</h3>
+        <p>Neutrale Bewertung von Schäden und Mängeln an Bodenbelägen – als Grundlage für Reklamationen oder rechtliche Klärungen.</p>
+      </div>
+
+      <div class="card">
+        <div class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        </div>
+        <h3>Mängel- & Ursachenanalyse</h3>
+        <p>Verlegefehler, Feuchtigkeitsschäden, Wölbungen oder Verfärbungen – ich finde die Ursache und halte sie nachvollziehbar fest.</p>
+      </div>
+
+      <div class="card">
+        <div class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+        </div>
+        <h3>Begutachtung aller Bodenarten</h3>
+        <p>Parkett, Laminat, Vinyl/Designboden, Teppich, Linoleum und Estrich – fachgerecht geprüft und beurteilt.</p>
+      </div>
+
+      <div class="card">
+        <div class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></svg>
+        </div>
+        <h3>Privat- & Gerichtsgutachten</h3>
+        <p>Schriftliche Gutachten für Privatpersonen, Unternehmen sowie zur Beweissicherung und für gerichtliche Verfahren.</p>
+      </div>
+
+      <div class="card">
+        <div class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+        </div>
+        <h3>Beratung & Einschätzung</h3>
+        <p>Unabhängige Beratung bei Materialwahl, Verlegung und der Frage: Liegt überhaupt ein Mangel vor?</p>
+      </div>
+
+      <div class="card">
+        <div class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <h3>Neutral & weisungsfrei</h3>
+        <p>Als unabhängiger Sachverständiger bewerte ich allein nach Fakten – ohne Bindung an Hersteller oder Handwerksbetriebe.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============ ÜBER ============ -->
+<section class="block" id="ueber">
+  <div class="container">
+    <div class="about-wrap">
+      <div>
+        <h2>Über mich</h2>
+        <p>
+          Mein Name ist Gisbert Jung. Seit vielen Jahren beschäftige ich mich mit
+          Fußbodentechnik, Bodenbelägen und Parkett – heute als unabhängiger
+          Sachverständiger.
+        </p>
+        <p>
+          Wenn am Boden etwas nicht stimmt, geht es oft um viel Geld und viel Ärger.
+          Ich schaue mir die Sache vor Ort genau an, prüfe sachlich und halte das
+          Ergebnis so fest, dass es für alle Beteiligten verständlich und belastbar ist.
+        </p>
+      </div>
+      <ul class="checklist">
+        <li><span class="check">✓</span> Langjährige Praxiserfahrung mit Bodenbelägen aller Art</li>
+        <li><span class="check">✓</span> Neutrale, herstellerunabhängige Beurteilung</li>
+        <li><span class="check">✓</span> Verständliche Gutachten – auch für Laien nachvollziehbar</li>
+        <li><span class="check">✓</span> Begutachtung direkt vor Ort, zeitnah und zuverlässig</li>
+        <li><span class="check">✓</span> Klare Kommunikation von der Anfrage bis zum Ergebnis</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============ KONTAKT ============ -->
+<section class="block contact" id="kontakt">
+  <div class="container">
+    <div class="section-head">
+      <h2>Kontakt aufnehmen</h2>
+      <p>Sie haben ein Anliegen rund um Ihren Bodenbelag? Schreiben Sie mir oder rufen Sie an – ich melde mich zeitnah bei Ihnen.</p>
+    </div>
+
+    <div class="contact-grid">
+      <!-- Kontaktkarten -->
+      <div class="contact-cards">
+        <a class="contact-card" href="tel:+49000000000">
+          <div class="ci"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.8 19.8 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.8 19.8 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.13.96.36 1.9.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0122 16.92z"/></svg></div>
+          <div>
+            <div class="label">Telefon</div>
+            <div class="value">[Telefonnummer eintragen]</div>
+          </div>
+        </a>
+
+        <a class="contact-card" href="mailto:info@example.de">
+          <div class="ci"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16a2 2 0 012 2v12a2 2 0 01-2 2H4a2 2 0 01-2-2V6a2 2 0 012-2z"/><path d="M22 6l-10 7L2 6"/></svg></div>
+          <div>
+            <div class="label">E-Mail</div>
+            <div class="value">[E-Mail-Adresse eintragen]</div>
+          </div>
+        </a>
+
+        <div class="contact-card">
+          <div class="ci"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+          <div>
+            <div class="label">Einzugsgebiet</div>
+            <div class="value">[Region / Ort eintragen]</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Kontaktformular -->
+      <form class="contact-form" action="mailto:info@example.de" method="post" enctype="text/plain">
+        <h3>Anfrage senden</h3>
+        <p class="fineprint">Beschreiben Sie kurz Ihr Anliegen – ich melde mich so schnell wie möglich zurück.</p>
+        <div class="field">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="Name" placeholder="Ihr Name" required>
+        </div>
+        <div class="field">
+          <label for="email">E-Mail</label>
+          <input type="email" id="email" name="E-Mail" placeholder="ihre@email.de" required>
+        </div>
+        <div class="field">
+          <label for="phone">Telefon (optional)</label>
+          <input type="tel" id="phone" name="Telefon" placeholder="Für einen Rückruf">
+        </div>
+        <div class="field">
+          <label for="message">Ihr Anliegen</label>
+          <textarea id="message" name="Nachricht" placeholder="Worum geht es? Z. B. Parkett wirft Wellen, Verfärbungen im Vinyl …" required></textarea>
+        </div>
+        <button type="submit" class="btn">Anfrage absenden</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="container">
+    <div class="foot-grid">
+      <div>
+        <strong>Gisbert Jung</strong><br>
+        Sachverständiger für Fußbodentechnik,<br>
+        Bodenbeläge und Parkett
+      </div>
+      <div>
+        [Telefonnummer]<br>
+        <a href="mailto:info@example.de">[E-Mail-Adresse]</a><br>
+        [Anschrift]
+      </div>
+      <div>
+        <a href="#impressum">Impressum</a> · <a href="#datenschutz">Datenschutz</a>
+      </div>
+    </div>
+    <div class="copy">
+      © 2026 Gisbert Jung – Sachverständiger für Fußbodentechnik. Alle Rechte vorbehalten.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
