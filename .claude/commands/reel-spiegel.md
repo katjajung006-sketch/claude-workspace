@@ -139,8 +139,8 @@ Folgen:
 Freebie über Keyword:
 > Und wenn du heute drei Minuten für dich willst: Kommentier **3MINUTEN**, dann schick ich dir meinen kleinen Körpercheck. Drei Minuten, in denen du nichts musst, außer wieder bei dir anzukommen.
 
-**Freebie-Wahl:** Bei diesem Spiegel-Format löst das Reel oft auf einem Spür-/Rückkehr-Moment auf — dann passt der **3-Minuten-Körpercheck (Keyword 3MINUTEN, Drive-Link, direkt geliefert)** emotional besser als der Funktionsmodus-Check. Bei reinem Erkennungs-/Muster-Content ohne Spür-Auflösung passt der **Funktionsmodus-Check (CHECK)**. Im Zweifel: das, was zur letzten Zeile des Reels passt.
-⚠️ Sobald ein Keyword-CTA drin ist: DM-Antwort mitliefern (Output 6) und daran erinnern, dass der ManyChat-Flow zum Keyword live geschaltet + dem Reel als Trigger zugewiesen sein muss (der 3MINUTEN-Flow steht standardmäßig auf Draft).
+**Freebie-Wahl (drei Freebies, je nach Auflösung wählen und über Reels abwechseln):** Löst das Reel auf einem kurzen Spür-/Rückkehr-Moment tagsüber auf → **3-Minuten-Körpercheck (Keyword 3MINUTEN, Drive-Link, direkt)**. Geht es um Abend/Feierabend/abends nicht runterkommen → **5-Minuten-Körper-Reset (Keyword RESET, Drive-Link, direkt)**. Bei reinem Erkennungs-/Muster-Content ohne Spür-Auflösung → **Funktionsmodus-Check (CHECK)**. Im Zweifel: das, was zur letzten Zeile des Reels passt — und nicht immer dasselbe.
+⚠️ Sobald ein Keyword-CTA drin ist: DM-Antwort mitliefern (Output 6) und daran erinnern, dass der ManyChat-Flow zum Keyword live geschaltet + dem Reel als Trigger zugewiesen sein muss (3MINUTEN-Flow steht auf Draft; **RESET-Flow muss erst noch gebaut werden, Stand 2026-06-20**).
 
 ---
 

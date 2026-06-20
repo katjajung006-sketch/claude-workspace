@@ -155,7 +155,7 @@ Nutzt `reel.md` (Funktionsmodus) bzw. `reel-yoga.md` (Yoga) als Single Source of
 - `/reel-yoga Kindhaltung` → Haltung selbst vorgeben
 
 Output: Reel-Text (3 Beats, ~10–12 Sek) · Reelcover (Neugier-Hook groß als Blickfang + „3 MIN" als kleines, frei verschiebbares Eck-Badge; trägt den Situations-Anker — neu seit 2026-06-16) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
-Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe). Pflicht-Schritt Situations-Anker: jedes Reel hängt an EINEM konkreten Soulclient-Moment — trägt Hook, Cover und Weiterleitungs-Wirkung. Kein Caption-Verweis im Video, CTAs nur in der Caption. Freebie-CTA: je Reel das passende der zwei Freebies wählen — **3MINUTEN** (3-Minuten-Körpercheck) bei Übungs-/Spür-Fokus · **CHECK** (Funktionsmodus-Check) bei Erkennen-/Funktionsmodus-Fokus; nie beide in einem Post mischen (ManyChat-Flow).
+Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe). Pflicht-Schritt Situations-Anker: jedes Reel hängt an EINEM konkreten Soulclient-Moment — trägt Hook, Cover und Weiterleitungs-Wirkung. Kein Caption-Verweis im Video, CTAs nur in der Caption. Freebie-CTA: je Reel das passende der drei Freebies wählen und über Pieces hinweg abwechseln — **3MINUTEN** (3-Minuten-Körpercheck) bei kurzem Übungs-/Spür-Fokus tagsüber · **RESET** (5-Minuten-Körper-Reset) bei Abend-/Feierabend-/Abschalten-Fokus · **CHECK** (Funktionsmodus-Check) bei Erkennen-/Funktionsmodus-Fokus; nie zwei Keywords in einem Post mischen (ManyChat-Flow). RESET-Flow muss noch gebaut werden (Stand 2026-06-20).
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hook-Grundregel & Formel (was viral lief, ~90k): `reference/hook-formel.md` — Hook immer am konkreten, wiedererkennbaren Moment (sie kennt ihr Problem), nie „du merkst es nicht"-Diagnose. Gilt für beide Yoga-Reel-Skills.
 Hauptziel: Speichern · kalter bis warmer Traffic
@@ -167,7 +167,7 @@ Hauptziel: Speichern · kalter bis warmer Traffic
 - `/reel-yoga-wirkung` → Claude wählt Haltung selbst
 - `/reel-yoga-wirkung Liegende Drehung` → Haltung vorgeben
 
-**A/B-Test-Schwester von `/reel-yoga`** (eingerichtet 2026-06-12): Beide laufen gegeneinander, um zu sehen, welcher Einstieg die Zielgruppe besser stoppt. Der EINZIGE Unterschied ist der Hook-Ansatz — `/reel-yoga` öffnet mit dem Problem (sie erkennt sich), `/reel-yoga-wirkung` mit dem Ergebnis (sie will wissen, was sie davon hat). Cover, Caption-Aufbau, Hashtags, Story und die CTA-/Freebie-Logik (je Reel das passende Freebie wählen — 3MINUTEN oder CHECK) bleiben parallel.
+**A/B-Test-Schwester von `/reel-yoga`** (eingerichtet 2026-06-12): Beide laufen gegeneinander, um zu sehen, welcher Einstieg die Zielgruppe besser stoppt. Der EINZIGE Unterschied ist der Hook-Ansatz — `/reel-yoga` öffnet mit dem Problem (sie erkennt sich), `/reel-yoga-wirkung` mit dem Ergebnis (sie will wissen, was sie davon hat). Cover, Caption-Aufbau, Hashtags, Story und die CTA-/Freebie-Logik (je Reel das passende der drei Freebies wählen und abwechseln — 3MINUTEN, RESET oder CHECK) bleiben parallel.
 Hook-Pool ergebnis-geführt (Insider/Advocacy · Autorität · Tempo · Machbarkeit), z. B. „Ich wünschte, mehr Frauen wüssten, dass …" · „Wenn ich dir nur eine Übung zeigen dürfte …" · „Du machst diese eine Übung drei Minuten, und …". Eingebaute Leitplanken: versprochenes Ergebnis ist immer gespürt-körperlich, nie Leistung/Optimierung (schützt vor Transformations-Sound); kein Körperteil als Schlagzeile, wenn es nach Schmerz klingt (über den Zustand führen). Gut für Test-Reels, um die Hooks durchzutesten.
 Output identisch zu `/reel-yoga`.
 
@@ -180,7 +180,7 @@ Output identisch zu `/reel-yoga`.
 
 Output: Text im Video (Hook-Titel + 3–5 Punkte + Schlusssatz) · Thumbnail-Hook · Caption (Hook → Spiegel → **leise Wendung, kein Yoga-Erklärteil** → CTA) · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
 Format: Listen-Hook (KEINE Grundformel-Pflicht) · stille Erkenntnis · kalter Traffic · Problem-Bewusstsein
-Eingebaute Regeln (2026-06-12 geschärft): Hook-Schärfer „… und du merkst/hörst es nicht" (über *Hören*, nicht „merken") · ist die Liste aus inneren Sätzen, schließt der Video-Text mit dem EINEN Satz, den sie sich nie sagt · Schlusssatz nie als Analyse/Vorwurf über sie · Caption ohne Yoga-Verkaufsabsatz, wirkt durch Erkennen · keine sich selbst widersprechenden Sätze (kleiner erster Schritt = die Veränderung selbst) · Speichern als Hauptziel, optional EIN Freebie-CTA dazu (Spür-/Rückkehr-Auflösung → 3MINUTEN, reine Erkennung → CHECK).
+Eingebaute Regeln (2026-06-12 geschärft): Hook-Schärfer „… und du merkst/hörst es nicht" (über *Hören*, nicht „merken") · ist die Liste aus inneren Sätzen, schließt der Video-Text mit dem EINEN Satz, den sie sich nie sagt · Schlusssatz nie als Analyse/Vorwurf über sie · Caption ohne Yoga-Verkaufsabsatz, wirkt durch Erkennen · keine sich selbst widersprechenden Sätze (kleiner erster Schritt = die Veränderung selbst) · Speichern als Hauptziel, optional EIN Freebie-CTA dazu (Spür-/Rückkehr-Auflösung → 3MINUTEN, Abend-/Feierabend-Auflösung → RESET, reine Erkennung → CHECK).
 Hauptziel: Speichern · Teilen · Folgen
 
 ### /persoenlich [tür | format | thema]
@@ -363,10 +363,11 @@ Live-Domains: `check.katjajung.com` (Landingpage + €7-Seite) und `10-minuten-r
 ManyChat steuert die **Instagram-Auto-DMs**: Kommentar mit Keyword **CHECK** unter einem Reel → automatische DM mit Freebie-Link (`check.katjajung.com`). Verbindet Instagram-Kommentar → Freebie → Landingpage → systeme.io.
 
 - **Account:** @yoga.statt.funktionieren, **Free-Plan** (Limit 25 Kontakte). Kein MCP/API-Connector → Bedienung über die **Claude-Chrome-Extension** (eingeloggte Session) oder copy-fertige Texte.
-- **Zwei Flows (Stand 2026-06-10):**
+- **Flows (Stand 2026-06-20):**
   - **„Auto-DM Funktionsmodus-Check"** — Keyword **CHECK** → Opening-DM → Link-DM `check.katjajung.com`. **LIVE** auf dem Reel „Der Körper sagt selten laut Nein…".
   - **„Auto-DM 3MINUTEN (Körpercheck)"** — Keyword **3MINUTEN** → Opening-DM → Link-DM mit Google-Drive-Link (3-Minuten-Körpercheck, Direkt-Lieferung) + Telegram-Button. Status **DRAFT/Off**, Trigger-Post bei Bedarf aufs Promo-Reel setzen.
-- **Keyword-Konsistenz (jetzt pro Freebie):** Erkennungs-/Funktionsmodus-Content → **CHECK** · Übungs-/Spür-Content → **3MINUTEN**. Keyword im Post muss exakt zum jeweiligen Trigger passen. Keywords distinktiv halten (siehe Memory `project_manychat_keyword_strategy`). **Gotcha:** Archiviertes/neu hochgeladenes Reel bricht den Trigger („Post not found") → neu zuweisen; Trigger-Schalter muss ON sein.
+  - **„Auto-DM RESET (5-Minuten-Körper-Reset)"** — Keyword **RESET** → Link-DM mit Google-Drive-Link (`docs.google.com/document/d/1e4bbzXMVQ3ZuNh8GfTPEkFQr9bD93lwCmf18ksXiIoA`, Direkt-Lieferung) + Telegram-Button. **NOCH NICHT GEBAUT (Stand 2026-06-20)** — muss noch angelegt werden, bevor RESET als Keyword-CTA live gehen darf.
+- **Keyword-Konsistenz (jetzt pro Freebie):** Erkennungs-/Funktionsmodus-Content → **CHECK** · kurzer Übungs-/Spür-Content tagsüber → **3MINUTEN** · Abend-/Feierabend-/Abschalten-Content → **RESET**. Über Pieces/Stories hinweg bewusst abwechseln. Keyword im Post muss exakt zum jeweiligen Trigger passen. Keywords distinktiv halten (siehe Memory `project_manychat_keyword_strategy`). **Gotcha:** Archiviertes/neu hochgeladenes Reel bricht den Trigger („Post not found") → neu zuweisen; Trigger-Schalter muss ON sein.
 - **Konnektor = Stufe 2:** Eigener MCP-Server um die ManyChat-API erst bei **Pro** (API ist Pro-only) + Volumen, v. a. für systeme.io-Sync. Jetzt nicht nötig — Browser-Weg reicht.
 - **Details & Konnektor-Fähigkeiten:** `reference/manychat-konnektor.md`.
 

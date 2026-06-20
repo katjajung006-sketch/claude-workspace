@@ -241,18 +241,20 @@ Beispiele:
 > Du musst nicht beweglicher werden. Du darfst erstmal wieder bei dir ankommen.
 
 **6. CTA**
-Niedrigschwellig. Genau einen wählen — beim Freebie-CTA **immer aktiv abwägen, welches der ZWEI Freebies besser zu genau diesem Reel passt**, dann das passende nehmen (nicht reflexhaft 3MINUTEN als Default).
+Niedrigschwellig. Genau einen wählen — beim Freebie-CTA **immer aktiv abwägen, welches der DREI Freebies besser zu genau diesem Reel passt**, dann das passende nehmen (nicht reflexhaft 3MINUTEN als Default) und über Reels hinweg abwechseln.
 
 Speichern (Hauptziel dieses Formats):
 > Speicher dir das für die Abende, an denen dein Körper müde ist, aber dein Kopf noch weiterrennt.
 
 Kommentieren — Freebie (**immer das registrierte ManyChat-Keyword, nie frei erfinden; das passende Freebie je Reel wählen**):
-- **3-Minuten-Körpercheck → Keyword 3MINUTEN** (Flow „Auto-DM 3MINUTEN (Körpercheck)", Direkt-Geschenk) — wenn das Reel auf die **Übung / das Spüren** zielt (eine konkrete 3-Minuten-Praxis als Geschenk):
-  > Kommentiere **3MINUTEN** und ich schicke dir meinen 3-Minuten-Körpercheck — für die Abende, an denen du nicht weißt, wo du anfangen sollst.
+- **3-Minuten-Körpercheck → Keyword 3MINUTEN** (Flow „Auto-DM 3MINUTEN (Körpercheck)", Direkt-Geschenk) — wenn das Reel auf eine **kurze Spür-/Wahrnehmungs-Übung mitten am Tag** zielt:
+  > Kommentiere **3MINUTEN** und ich schicke dir meinen 3-Minuten-Körpercheck — für mitten im Tag, wenn alles zu viel wird.
+- **5-Minuten-Körper-Reset → Keyword RESET** (Direkt-Geschenk, Drive-Link) — wenn das Reel auf **Abend/Feierabend, abschalten nach dem Funktionier-Tag, abends nicht runterkommen** zielt:
+  > Kommentiere **RESET** und ich schicke dir meinen 5-Minuten-Körper-Reset — für die Abende, an denen du nach allem nicht runterkommst.
 - **Funktionsmodus-Check → Keyword CHECK** (check.katjajung.com, Opt-in) — wenn Hook/Anker stärker auf das **Erkennen des Funktionierens** zielt (wie tief steckst du drin):
   > Kommentiere **CHECK** und ich schicke dir meinen Funktionsmodus-Check — er zeigt dir in wenigen Minuten, wie tief du im Funktionieren steckst, plus eine 3-Minuten-Rückkehr.
 
-**Welches Freebie?** Übung/Spür-Auflösung im Mittelpunkt → 3MINUTEN. Erkennen/Funktionsmodus-Bewusstsein im Mittelpunkt → CHECK. Im echten Zweifel das Freebie nehmen, das die Caption-Auflösung trägt — **nie beide Keywords in einem Post mischen**. Vor dem Posten: ManyChat-Trigger des gewählten Flows auf genau dieses Reel setzen + einschalten. (Hintergrund: `reference/kommentar-keyword-ctas.md`, Memory `feedback_cta_passend_freebie`.)
+**Welches Freebie?** Kurze Spür-Übung tagsüber → 3MINUTEN. Abend/Feierabend/abschalten → RESET. Erkennen/Funktionsmodus-Bewusstsein → CHECK. Über Reels hinweg bewusst abwechseln, nicht immer dasselbe. Im echten Zweifel das Freebie nehmen, das die Caption-Auflösung trägt — **nie zwei Keywords in einem Post mischen**. Vor dem Posten: ManyChat-Trigger des gewählten Flows auf genau dieses Reel setzen + einschalten (**RESET-Flow muss erst noch gebaut werden, Stand 2026-06-20**). (Hintergrund: `reference/kommentar-keyword-ctas.md`, Memory `feedback_cta_passend_freebie`.)
 
 Folgen:
 > Folge mir, wenn du Yoga ohne Leistungsdruck nutzen willst, um aus dem Funktionsmodus zurück in deinen Körper zu kommen.
@@ -270,7 +272,10 @@ Folgen:
 Nur wenn der CTA über Kommentar/Keyword in die DM führt — passend zum gewählten Freebie:
 
 Bei **3MINUTEN** (3-Minuten-Körpercheck):
-> Schön, dass du dir die 3 Minuten nehmen willst. Hier ist dein 3-Minuten-Körpercheck: [Link aus dem Flow]. Fang heute Abend an — nicht perfekt, nur ehrlich.
+> Schön, dass du dir die 3 Minuten nehmen willst. Hier ist dein 3-Minuten-Körpercheck: [Link aus dem Flow]. Fang heute an — nicht perfekt, nur ehrlich.
+
+Bei **RESET** (5-Minuten-Körper-Reset):
+> Schön, dass du dir die 5 Minuten heute Abend nehmen willst. Hier ist dein 5-Minuten-Körper-Reset: [Link aus dem Flow]. Setz den Tag damit ab — nicht perfekt, nur ehrlich.
 
 Bei **CHECK** (Funktionsmodus-Check):
 > Schön, dass du hinschaust. Hier ist dein Funktionsmodus-Check: [Link aus dem Flow]. Nimm dir kurz Zeit dafür — ehrlich, nicht perfekt.

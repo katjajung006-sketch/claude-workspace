@@ -50,10 +50,10 @@ Volle Format-Definitionen, Story-Mechanik und Link-Disziplin stehen in `.claude/
 Den gewählten Baustein exakt nach der Definition in `story-woche.md` schreiben. Frischer, spezifischer Inhalt — nichts Generisches, an einem konkreten Moment der Soul-Client.
 
 **Bei G (Einladung) die Link-Disziplin einhalten:**
-- Freebie „Funktionsmodus-Check" → Opt-in-Seite / „Link in meiner Bio".
+- Freebie — **über die drei abwechseln, passend zum Thema** (Mapping: Memory `feedback_cta_passend_freebie`): *Funktionsmodus-Check* (Erkennen) → Opt-in-Seite / „Link in meiner Bio" · *3-Minuten-Körpercheck* (kurze Spür-Übung tagsüber, Drive) → Link-Sticker aufs Doc / „Schreib mir 3MINUTEN" · *5-Minuten-Körper-Reset* (Abend/Feierabend, Drive) → Link-Sticker aufs Doc / „Schreib mir RESET" (RESET-Flow noch zu bauen).
 - Angebot „10-Minuten-Rückkehr" (17 €) → Link-Sticker „Ich will zurück zu mir" → `10-minuten-rueckkehr.katjajung.com` (**nie zur Kasse**, 7-€-Tripwire nie öffentlich).
 - Telegram-Gruppe „Zurück zu dir" → Einladung in die kostenlose Community.
-- Bei Keyword-Mechanik („Schreib mir ANKOMMEN") eine kurze, warme DM-Antwort mitliefern.
+- Bei Keyword-Mechanik („Schreib mir CHECK / 3MINUTEN / RESET" — je nach Freebie) eine kurze, warme DM-Antwort mitliefern.
 
 ---
 

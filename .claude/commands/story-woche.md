@@ -130,10 +130,13 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 ### G — Einladung (Funnel — EIN Ziel)
 - **2–3 Frames.** Kurze Sequenz: Frame 1 = Moment/Wiedererkennung. Frame 2 = Spiegelung/Empathie. Frame 3 = Handlung mit Link-Sticker.
 - **Drei Ziel-Varianten (pro Lauf nur passend einsetzen, nicht mischen):**
-  - **Freebie** „Funktionsmodus-Check" (live, in Bio verlinkt): Link-Sticker beschriftet „Funktionsmodus-Check holen" → Opt-in-Seite, oder „Link in meiner Bio".
+  - **Freebie (über die drei abwechseln, passend zum Story-Thema — nicht immer dasselbe; Mapping: Memory `feedback_cta_passend_freebie`):**
+    - *Funktionsmodus-Check* (Erkennen, Opt-in, in Bio verlinkt): Link-Sticker „Funktionsmodus-Check holen" → Opt-in-Seite, oder „Link in meiner Bio".
+    - *3-Minuten-Körpercheck* (kurze Spür-Übung tagsüber, Direkt/Drive): Link-Sticker direkt aufs Doc, oder „Schreib mir **3MINUTEN**".
+    - *5-Minuten-Körper-Reset* (Abend/Feierabend abschalten, Direkt/Drive): Link-Sticker direkt aufs Doc, oder „Schreib mir **RESET**" (**RESET-Flow muss erst noch gebaut werden, Stand 2026-06-20** — bis dahin Link-Sticker/manuell).
   - **Telegram-Gruppe** „Zurück zu dir" (kostenlos): Einladung in die Community. **Sonntags-Schluss richtet sich nach dem 14-Tage-Telegram-Rhythmus** (prüfen, welche Woche): am **Audio-Sonntag** (jeder 2., Anker So 28.06.2026) Teaser aufs Audio; am **Sonntag ohne Audio** KEIN Audio-Teaser, stattdessen „jetzt in die Gruppe kommen → Montag wartet der erste frische Post (Wahrer Satz)" — bewusst Montag, nicht Donnerstag. Siehe Memory `feedback_story_sonntag_telegram_rhythmus`.
   - **Angebot** „10-Minuten-Rückkehr" (17 €): Link-Sticker „Ich will zurück zu mir" → **`10-minuten-rueckkehr.katjajung.com`** (öffentliche Verkaufsseite). **NIE direkt zur Kasse.** Der 7-€-Tripwire bleibt Freebie-exklusiv und kommt **nicht** in Stories.
-- **DM-Antwort:** Wenn die Einladung mit Keyword-Mechanik läuft („Schreib mir ANKOMMEN"), eine kurze, warme DM-Antwort mitliefern (Begrüßung → Link → ein ehrlicher Satz). Nie generisch.
+- **DM-Antwort:** Wenn die Einladung mit Keyword-Mechanik läuft („Schreib mir CHECK / 3MINUTEN / RESET" — je nach gewähltem Freebie), eine kurze, warme DM-Antwort mitliefern (Begrüßung → Link → ein ehrlicher Satz). Nie generisch.
 - **Job:** Conversion.
 
 ### H — Persönlicher Moment (täglich) — die Frau hinter der Marke

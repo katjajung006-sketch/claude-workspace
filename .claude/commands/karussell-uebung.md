@@ -191,10 +191,9 @@ Niedrigschwellig. Genau einen wählen — passend zum Ziel des Posts.
 > Speichere dir diese Übung für den Moment, in dem du wieder über dich selbst hinweggehst.
 > Speichere dir das nicht für irgendwann. Speichere es für den Moment, in dem du wieder nur funktionierst.
 
-**Kommentar-Trigger (Freebie):**
-> Kommentiere „[Keyword]" und ich schicke dir den nächsten kleinen Schritt zurück in deinen Körper.
-> Wenn du mehr solcher kurzen, einfachen Übungen willst, kommentiere „[Keyword]".
-> Mögliche Keywords: RUHE · 3MIN · KÖRPER · PAUSE · ZURÜCK
+**Kommentar-Trigger (Freebie):** Eines der drei Freebies passend zur Übung wählen und über Karussells abwechseln — **immer das echte ManyChat-Keyword, nie frei erfinden** (Mapping: Memory `feedback_cta_passend_freebie`). Bei diesem Übungs-Format passen meist die zwei Direkt-Freebies: **3MINUTEN** (3-Minuten-Körpercheck, kurze Spür-Übung tagsüber) oder **RESET** (5-Minuten-Körper-Reset, Abend/Feierabend; Flow noch zu bauen). Reines Erkennen → **CHECK** (Funktionsmodus-Check).
+> Kommentiere **3MINUTEN** und ich schicke dir meinen 3-Minuten-Körpercheck — für mitten im Tag, wenn alles zu viel wird.
+> Kommentiere **RESET** und ich schicke dir meinen 5-Minuten-Körper-Reset — für die Abende, an denen du nicht runterkommst.
 
 **Folgen:**
 > Folge mir, wenn du Yoga nicht als Leistung sehen willst — sondern als Weg zurück zu dir.
