@@ -72,7 +72,7 @@ Claude sollte sich immer über `/prime` am Session-Start orientieren, dann mit v
 
 **Zweck:** Kompakter Status-Check zum Session-Start. Schneller als `/prime`.
 
-Liest `context/` und `CLAUDE.md`, zeigt einen kompakten Status-Block: wer der User ist, aktueller Fokus, offene Pläne, Inbox-Einträge, verfügbare Commands.
+Liest `context/` und `CLAUDE.md`, zeigt einen kompakten Status-Block: wer der User ist, aktueller Fokus, offene Pläne, Inbox-Einträge, **terminierte Erinnerungen (Scheduled Tasks)** und verfügbare Commands. Die aktiven Reminder (z. B. „Telegram-Posts fertig machen", „Insights-Check") erscheinen mit Fällig-Datum unter „Offene Pläne & Erinnerungen".
 
 ### /capture [notiz]
 
@@ -238,7 +238,7 @@ Claude wählt die 7 Themen **selbst** (Trend via Instagram-Späher + WebSearch +
 **Zweck:** Komplette Wochen-Produktion für **tägliche Instagram-Stories** — 7 Tage (Mo–So) copy-fertige Frames: Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. Faceless: B-Roll + Text-Overlay, kein In-die-Kamera-Sprechen nötig.
 
 Claude wählt die Inhalte **selbst** (frisch je Lauf, nie wiederholt, immer spezifisch), nach festem Rhythmus, der an Katjas Telegram-Tage andockt:
-- Mo: Wahrer Satz + Spür-Check (Poll) · Di: Mini-Körperimpuls + Anstoß (Recycling) · Mi: Leiser Take · Do: Mini-Körperimpuls + Frage-Box · Fr: persönl. Einstieg (Tür 5) → Einladung (Freebie) · Sa: Spür-Check · So: persönl. Einstieg (Tür 5) → Einladung (Telegram/Audio-Teaser)
+- Mo: Wahrer Satz + Spür-Check (Poll) · Di: Mini-Körperimpuls + Anstoß (Recycling) · Mi: Leiser Take · Do: Mini-Körperimpuls + Frage-Box · Fr: persönl. Einstieg (Tür 5) → Einladung (Freebie) · Sa: Spür-Check · So: persönl. Einstieg (Tür 5) → Einladung (Telegram; Audio-Teaser nur jeden 2. Sonntag im 14-Tage-Telegram-Rhythmus, sonst Verweis auf Montags-Post — siehe Memory `feedback_story_sonntag_telegram_rhythmus`)
 - **Persönlicher Moment an ALLEN 7 Tagen (fest im Skill hinterlegt, kommt automatisch):** Mo/Di/Mi/Do/Sa je eine der 5 Alltags-Türen (1, 2, 3, 4, 6 — rotierend, alle 5/Woche); Fr + So Tür 5 (Das Warum) als Einstieg, der in den Funnel überleitet. So sind alle 6 Türen jede Woche in der Story. Details im Abschnitt „Persönlicher Content".
 
 Eingebaute Regeln (aus Marktrecherche): ein Story-Run = ein Ziel · Polls max. 2–3×/Woche · kurz halten, Bestes zuerst · abends 18–22 Uhr posten · Link-Disziplin (Freebie → Opt-in/Bio · Angebot „10-Minuten-Rückkehr" → `10-minuten-rueckkehr.katjajung.com`, **nie zur Kasse**, 7-€-Tripwire nie öffentlich). Volle Format-Bausteine (A–H) + Pipeline in `.claude/commands/story-woche.md`.
