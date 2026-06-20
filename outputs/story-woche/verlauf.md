@@ -12,6 +12,7 @@
 > Türen: 1 Ehrlicher Zwischenstand · 2 Rückkehr in den Körper · 3 Die Ausbildung · 4 Echtes Leben drumherum · 5 Das Warum · 6 Gesicht & Stimme.
 
 - **Woche 15.–21.06 (Lauf 2026-06-15):** Mo = Tür 4 (Stille, Tochter ausgezogen) · Di = Tür 2 (6 Uhr Küche, durchatmen) · Mi = Tür 1 (Mittagspause Schreibtisch, halber Vormittag funktioniert) · Do = Tür 3 (Ausbildung, Langsam-Machen fällt schwer) · Sa = Tür 6 (Audio beim Filmen, „muss perfekt sein") · Fr = Tür 5 → Freebie („funktionieren fühlte sich normal an") · So = Tür 5 → Telegram („Wendepunkt war leise, nicht mehr allein"). → Nächste Woche: Tag→Tür-Zuordnung der 5 Alltags-Türen anders verteilen, neue Tür-5-Häppchen.
+- **Einzel-Stories:** 2026-06-20 Tür 2 (Samstagmorgen am Fenster) · 2026-06-14 Tür 5 · 2026-06-13 Tür 4 → nächste Einzel-`persoenlich` möglichst Tür 1, 3 oder 6.
 - (davor: noch kein Lauf mit der täglichen Verteilung; frühere BTS-Samstage lagen thematisch bei Tür 1.)
 
 ---
@@ -24,6 +25,8 @@
 - 2026-06-14 · satz + einladung · Sonntagabend gehört noch dir → Telegram-Audio „Zurück zu dir"
 - 2026-06-13 · persoenlich (Tür 4) · Samstag, freien Tag vollpacken → einen Punkt streichen (Frage-Box „Was würdest du dir streichen?")
 - 2026-06-14 · persoenlich (Tür 5) · Sonntagabend „schwerster Moment der Woche" → Einstieg in die Telegram-Audio „Zurück zu dir"
+- 2026-06-20 · satz (Form c) · „Wie geht's dir? – Gut" Autopilot-Antwort; die Einzige, die dich nie ehrlich fragt, bist du (Slider „Wie ehrlich war dein letztes ‚gut'?")
+- 2026-06-20 · persoenlich (Tür 2) · Samstagmorgen, zwei Minuten am Fenster atmen bevor die Liste startet (Slider „Sag kurz Hallo")
 
 ---
 
