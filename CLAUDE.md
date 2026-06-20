@@ -155,7 +155,7 @@ Nutzt `reel.md` (Funktionsmodus) bzw. `reel-yoga.md` (Yoga) als Single Source of
 - `/reel-yoga Kindhaltung` → Haltung selbst vorgeben
 
 Output: Reel-Text (3 Beats, ~10–12 Sek) · Reelcover (Neugier-Hook groß als Blickfang + „3 MIN" als kleines, frei verschiebbares Eck-Badge; trägt den Situations-Anker — neu seit 2026-06-16) · Haltung & Filmhinweis · Caption (6-teilig) · CTA · 5 Hashtags · Story-Sequenz · DM-Antwort (wenn Keyword/DM)
-Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe). Pflicht-Schritt Situations-Anker: jedes Reel hängt an EINEM konkreten Soulclient-Moment — trägt Hook, Cover und Weiterleitungs-Wirkung. Kein Caption-Verweis im Video, CTAs nur in der Caption, Keyword fest **3MINUTEN** (ManyChat-Flow).
+Wirkung jeder Haltung wird vorher geprüft (wahr, in Katjas Sprache, ohne Fachbegriffe). Pflicht-Schritt Situations-Anker: jedes Reel hängt an EINEM konkreten Soulclient-Moment — trägt Hook, Cover und Weiterleitungs-Wirkung. Kein Caption-Verweis im Video, CTAs nur in der Caption. Freebie-CTA: je Reel das passende der zwei Freebies wählen — **3MINUTEN** (3-Minuten-Körpercheck) bei Übungs-/Spür-Fokus · **CHECK** (Funktionsmodus-Check) bei Erkennen-/Funktionsmodus-Fokus; nie beide in einem Post mischen (ManyChat-Flow).
 Einheitliche Cover-Vorlagen in Canva gespeichert → Specs & Links in `reference/reelcover-yoga.md`.
 Hauptziel: Speichern · kalter bis warmer Traffic
 
@@ -166,7 +166,7 @@ Hauptziel: Speichern · kalter bis warmer Traffic
 - `/reel-yoga-wirkung` → Claude wählt Haltung selbst
 - `/reel-yoga-wirkung Liegende Drehung` → Haltung vorgeben
 
-**A/B-Test-Schwester von `/reel-yoga`** (eingerichtet 2026-06-12): Beide laufen gegeneinander, um zu sehen, welcher Einstieg die Zielgruppe besser stoppt. Der EINZIGE Unterschied ist der Hook-Ansatz — `/reel-yoga` öffnet mit dem Problem (sie erkennt sich), `/reel-yoga-wirkung` mit dem Ergebnis (sie will wissen, was sie davon hat). Cover, Caption-Aufbau, Hashtags, Story, Keyword (3MINUTEN) bleiben parallel.
+**A/B-Test-Schwester von `/reel-yoga`** (eingerichtet 2026-06-12): Beide laufen gegeneinander, um zu sehen, welcher Einstieg die Zielgruppe besser stoppt. Der EINZIGE Unterschied ist der Hook-Ansatz — `/reel-yoga` öffnet mit dem Problem (sie erkennt sich), `/reel-yoga-wirkung` mit dem Ergebnis (sie will wissen, was sie davon hat). Cover, Caption-Aufbau, Hashtags, Story und die CTA-/Freebie-Logik (je Reel das passende Freebie wählen — 3MINUTEN oder CHECK) bleiben parallel.
 Hook-Pool ergebnis-geführt (Insider/Advocacy · Autorität · Tempo · Machbarkeit), z. B. „Ich wünschte, mehr Frauen wüssten, dass …" · „Wenn ich dir nur eine Übung zeigen dürfte …" · „Du machst diese eine Übung drei Minuten, und …". Eingebaute Leitplanken: versprochenes Ergebnis ist immer gespürt-körperlich, nie Leistung/Optimierung (schützt vor Transformations-Sound); kein Körperteil als Schlagzeile, wenn es nach Schmerz klingt (über den Zustand führen). Gut für Test-Reels, um die Hooks durchzutesten.
 Output identisch zu `/reel-yoga`.
 
