@@ -131,7 +131,7 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 - **2–3 Frames.** Kurze Sequenz: Frame 1 = Moment/Wiedererkennung. Frame 2 = Spiegelung/Empathie. Frame 3 = Handlung mit Link-Sticker.
 - **Drei Ziel-Varianten (pro Lauf nur passend einsetzen, nicht mischen):**
   - **Freebie** „Funktionsmodus-Check" (live, in Bio verlinkt): Link-Sticker beschriftet „Funktionsmodus-Check holen" → Opt-in-Seite, oder „Link in meiner Bio".
-  - **Telegram-Gruppe** „Zurück zu dir" (kostenlos): Einladung in die Community.
+  - **Telegram-Gruppe** „Zurück zu dir" (kostenlos): Einladung in die Community. **Sonntags-Schluss richtet sich nach dem 14-Tage-Telegram-Rhythmus** (prüfen, welche Woche): am **Audio-Sonntag** (jeder 2., Anker So 28.06.2026) Teaser aufs Audio; am **Sonntag ohne Audio** KEIN Audio-Teaser, stattdessen „jetzt in die Gruppe kommen → Montag wartet der erste frische Post (Wahrer Satz)" — bewusst Montag, nicht Donnerstag. Siehe Memory `feedback_story_sonntag_telegram_rhythmus`.
   - **Angebot** „10-Minuten-Rückkehr" (17 €): Link-Sticker „Ich will zurück zu mir" → **`10-minuten-rueckkehr.katjajung.com`** (öffentliche Verkaufsseite). **NIE direkt zur Kasse.** Der 7-€-Tripwire bleibt Freebie-exklusiv und kommt **nicht** in Stories.
 - **DM-Antwort:** Wenn die Einladung mit Keyword-Mechanik läuft („Schreib mir ANKOMMEN"), eine kurze, warme DM-Antwort mitliefern (Begrüßung → Link → ein ehrlicher Satz). Nie generisch.
 - **Job:** Conversion.
@@ -151,7 +151,7 @@ Jeder Wochentag setzt sich aus diesen Bausteinen zusammen. Inhalte je Lauf neu.
 
 ## Der Wochen-Rhythmus (an Katjas Telegram angedockt)
 
-Telegram läuft Mo (wahrer Satz), Do (Körperimpuls), So (Audio) — die Stories stützen das, statt doppelt zu erfinden.
+Telegram läuft im **14-Tage-Wechsel**: Mo (wahrer Satz) fix jede Woche; im Wechsel zusätzlich Woche A = Do (Körperimpuls), Woche B = So (Audio-Rückkehr). **Audio also nur jeden zweiten Sonntag.** Die Stories stützen das, statt doppelt zu erfinden. (Details + Sonntags-Logik: Memory `feedback_story_sonntag_telegram_rhythmus`.)
 
 Jeder Tag trägt zusätzlich den **persönlichen Moment (H)** — Mo/Di/Mi/Do/Sa eine Alltags-Tür, Fr/So Tür 5 als Einstieg.
 
@@ -163,7 +163,7 @@ Jeder Tag trägt zusätzlich den **persönlichen Moment (H)** — Mo/Di/Mi/Do/Sa
 | **Donnerstag** | C (Mini-Körperimpuls) + E (Frage-Box) + **H (Alltags-Tür)** | Wert + Nähe |
 | **Freitag** | **H (Tür 5 als Einstieg)** → G (Einladung → Freebie) | Nähe + Conversion |
 | **Samstag** | **H (Alltags-Tür)** + B (Spür-Check) | Nähe + Engagement |
-| **Sonntag** | **H (Tür 5 als Einstieg)** → G (Einladung → Telegram, Audio-Teaser) | Nähe + Community |
+| **Sonntag** | **H (Tür 5 als Einstieg)** → G (Einladung → Telegram; Audio-Teaser nur am Audio-Sonntag, sonst Verweis auf Montags-Post) | Nähe + Community |
 
 Die 5 Alltags-Türen (1, 2, 3, 4, 6) verteilen sich auf Mo/Di/Mi/Do/Sa (jede 1×/Woche, Zuordnung wöchentlich variieren). Fr + So tragen Tür 5 als Funnel-Einstieg.
 
