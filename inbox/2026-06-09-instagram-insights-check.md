@@ -1,7 +1,7 @@
 # Instagram Insights-Check nach Posting-Phase
 
 **Erfasst:** 2026-06-09
-**Fällig:** ab ca. 2026-06-19 (nach 7–10 Tagen konsequentem Posten)
+**Fällig:** 2026-06-28 (verschoben am 2026-06-20; ursprünglich ab ca. 2026-06-19 nach 7–10 Tagen konsequentem Posten)
 **Status:** offen, wartet auf Daten
 **Update 2026-06-16:** Teil-Antwort schon da — nach 10 Test-Reels zieht klar die Säule „Yoga ohne Leistungsdruck" (3-Minuten-Übungen): mehr Aufrufe, läuft auf IG + Facebook, bringt als Einzige Follower. Daraus folgt das 5:2-Feed-Verhältnis (siehe `context/strategy.md`). Offen bleibt nur noch der Insights-Blick auf die aktivsten Zeiten.
 
