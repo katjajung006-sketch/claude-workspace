@@ -28,6 +28,7 @@
 - 2026-06-14 · persoenlich (Tür 5) · Sonntagabend „schwerster Moment der Woche" → Einstieg in die Telegram-Audio „Zurück zu dir"
 - 2026-06-20 · satz (Form c) · „Wie geht's dir? – Gut" Autopilot-Antwort; die Einzige, die dich nie ehrlich fragt, bist du (Slider „Wie ehrlich war dein letztes ‚gut'?")
 - 2026-06-20 · persoenlich (Tür 2) · Samstagmorgen, zwei Minuten am Fenster atmen bevor die Liste startet (Slider „Sag kurz Hallo")
+- 2026-06-21 · einladung (Tür 5 → Telegram, KEIN Audio-Sonntag) · „Alltag lief ohne mich, wusste nicht mehr was ich will" → Gruppe „Zurück zu dir", Verweis auf Montags-Wahren-Satz
 
 ---
 
