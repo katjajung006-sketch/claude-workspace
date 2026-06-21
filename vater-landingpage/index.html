@@ -222,6 +222,41 @@
   .badge strong { display: block; color: var(--primary-dark); font-size: 1.02rem; }
   .badge span { font-size: .86rem; color: var(--muted); }
 
+  /* ---------- Urteil ---------- */
+  .urteil-box {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-left: 5px solid var(--primary);
+    border-radius: var(--radius);
+    padding: 36px 40px;
+    box-shadow: var(--shadow);
+    max-width: 860px;
+    margin: 0 auto;
+  }
+  .urteil-head {
+    display: flex; align-items: center; gap: 16px; margin-bottom: 20px;
+  }
+  .urteil-icon {
+    flex: none;
+    width: 48px; height: 48px; border-radius: 12px;
+    background: var(--primary-light); color: var(--primary);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .urteil-icon svg { width: 26px; height: 26px; }
+  .urteil-box h3 { font-size: 1.15rem; color: var(--primary-dark); margin: 0; }
+  .urteil-box .urteil-sub { font-size: .85rem; color: var(--muted); margin-top: 2px; }
+  .urteil-box p { color: var(--muted); font-size: .97rem; margin-bottom: 10px; }
+  .urteil-box p:last-child { margin-bottom: 0; }
+  .urteil-box .highlight {
+    background: var(--primary-light);
+    border-radius: 8px;
+    padding: 14px 18px;
+    color: var(--primary-dark);
+    font-weight: 600;
+    font-size: .97rem;
+    margin-bottom: 16px;
+  }
+
   /* ---------- Kontakt ---------- */
   .contact { background: var(--primary-light); }
   .contact-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: 44px; }
@@ -448,6 +483,35 @@
       <div class="badge"><strong>DIN EN ISO/IEC 17024</strong><span>Zertifizierter SV</span></div>
       <div class="badge"><strong>TÜV Rheinland</strong><span>Personenzertifizierung</span></div>
       <div class="badge"><strong>Seit 2011</strong><span>Mitglied im BDSF e.V.</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ GERICHTSURTEIL ============ -->
+<section class="block" style="padding-top: 0; padding-bottom: 64px;">
+  <div class="container">
+    <div class="urteil-box">
+      <div class="urteil-head">
+        <div class="urteil-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg>
+        </div>
+        <div>
+          <h3>Gerichtlich bestätigt: Gleichwertigkeit der Zertifizierung</h3>
+          <div class="urteil-sub">Öffentliche Bestellung und Zertifizierung nach DIN ISO/IEC 17024 · Gerichtsurteil seit 2017</div>
+        </div>
+      </div>
+      <div class="highlight">
+        Die Gleichwertigkeit von öffentlicher Bestellung und Zertifizierung nach DIN ISO 17024 ist seit 2017 gerichtlich untermauert.
+      </div>
+      <p>
+        Im zugrundeliegenden Fall war zu klären, ob ein nach ISO 17024 zertifizierter – jedoch nicht öffentlich bestellter – Gutachter vom Gericht herangezogen werden kann. Das Gericht bejahte dies ausdrücklich: Die Zertifizierung nach DIN ISO 17024 stellt einen Nachweis der Sachkunde dar und steht der öffentlichen Bestellung in nichts nach.
+      </p>
+      <p>
+        Das Gericht stellte klar, dass eine fehlende öffentliche Bestellung kein Hinweis auf fehlende Sachkunde ist und dass jedes Gericht frei in der Benennung eines geeigneten Sachverständigen ist. Zwar ist laut § 404 Abs. 2 ZPO ein öffentlich bestellter Sachverständiger vorzuziehen – dabei handelt es sich jedoch lediglich um eine Ordnungsvorschrift.
+      </p>
+      <p>
+        Für als nach DIN ISO 17024 zertifizierte Sachverständige bedeutet dieses Urteil: Sie sind bezüglich der Anerkennung ihrer Qualifikation einem öffentlich bestellten Sachverständigen in jeder Hinsicht gleichzusetzen.
+      </p>
     </div>
   </div>
 </section>
