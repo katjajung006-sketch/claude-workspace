@@ -26,12 +26,12 @@ Hinweis: Cloudflare Pages nutzt „Clean URLs" — `/angebot.html` leitet per 30
 
 ## Deploy-Befehle
 
-Quelle bleibt `netlify-deploy/`. Vor dem Deploy die Ordner synchronisieren:
+Quelle bleibt `website-quelle/` (früher `netlify-deploy/` — umbenannt 2026-06-22). Vor dem Deploy die Ordner synchronisieren:
 
 ```bash
 cd /Users/katjajung/claude-workspace-vorlage
-cp netlify-deploy/index.html netlify-deploy/angebot.html netlify-deploy/optin.html netlify-deploy/katja.jpg cloudflare-deploy/check/
-cp netlify-deploy/kurs.html cloudflare-deploy/kurs/index.html
+cp website-quelle/index.html website-quelle/angebot.html website-quelle/optin.html website-quelle/katja.jpg cloudflare-deploy/check/
+cp website-quelle/kurs.html cloudflare-deploy/kurs/index.html
 
 # Token + Account-ID aus reference/secrets.local.md setzen (gitignored):
 export CLOUDFLARE_API_TOKEN=<siehe secrets.local.md>

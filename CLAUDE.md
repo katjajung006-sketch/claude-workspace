@@ -352,8 +352,8 @@ Details im Memory: `notion_content_workflow.md`.
 
 Die Verkaufs-/Landingpages liegen als statisches HTML im Workspace und werden auf **Cloudflare Pages** gehostet (umgezogen von Netlify, weil das Netlify-Konto wegen Credit-Limit pausiert wurde).
 
-- `netlify-deploy/` — **Quelldateien** (Name historisch): `index.html` (Landingpage), `angebot.html` (€7-Tripwire-Verkaufsseite), `kurs.html` (öffentliche €17-Kursseite), `optin.html`, `katja.jpg`. Änderungen hier vornehmen.
-- `cloudflare-deploy/check/` und `cloudflare-deploy/kurs/` — **Deploy-Ordner** für die zwei Cloudflare-Pages-Projekte. Vor jedem Deploy aus `netlify-deploy/` synchronisieren.
+- `website-quelle/` — **Quelldateien**: `index.html` (Landingpage), `angebot.html` (€7-Tripwire-Verkaufsseite), `kurs.html` (öffentliche €17-Kursseite), `optin.html`, `katja.jpg`. Änderungen hier vornehmen. (Früher `netlify-deploy/` — umbenannt 2026-06-22, weil der alte Name verwirrte; es geht nichts zu Netlify, das ist nur der Quell-Ordner für den Cloudflare-Deploy.)
+- `cloudflare-deploy/check/` und `cloudflare-deploy/kurs/` — **Deploy-Ordner** für die zwei Cloudflare-Pages-Projekte. Vor jedem Deploy aus `website-quelle/` synchronisieren.
 - `reference/cloudflare-config.md` — Token, Account-ID, Projektnamen, Deploy-Befehle, DNS-Einträge. **Single Source of Truth fürs Deployen.**
 
 Live-Domains: `check.katjajung.com` (Landingpage + €7-Seite) und `10-minuten-rueckkehr.katjajung.com` (€17-Kursseite). Bezahlung/Kurse/E-Mail-Marketing laufen weiterhin über **systeme.io** — Cloudflare ist nur die Anzeige-Hülle, die Kauf-Buttons verlinken auf systeme.io-Bezahlseiten (`minikurs1` = 7 € exklusiv am Freebie-Weg, `17minikurs1` = 17 € öffentlich).
