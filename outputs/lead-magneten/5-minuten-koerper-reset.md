@@ -4,8 +4,10 @@
 Auslieferung: Kommentar → ManyChat-DM mit Google-Drive-Link (direkt, ohne E-Mail).
 Keyword: **RESET** (eigenes Keyword, nicht 3MINUTEN/CHECK).
 Content-Säule: Yoga ohne Leistungsdruck.
+Zweiter CTA: 7-€-Minikurs „10-Minuten-Rückkehr" → check.katjajung.com/angebot (von Katja ergänzt 2026-06-22, zusätzlich zur Telegram-Einladung).
 Google Doc (final, im Ordner Freebies): https://docs.google.com/document/d/1e4bbzXMVQ3ZuNh8GfTPEkFQr9bD93lwCmf18ksXiIoA/edit
 Freigabe „Jeder mit dem Link"/Betrachter: muss Katja selbst setzen (Tool kann keine Rechte setzen).
+Stand: an Drive-Doc angeglichen 2026-06-22.
 
 ---
 
@@ -36,9 +38,16 @@ Du musstest nichts schaffen — du hast den Tag nur abgesetzt und bist wieder be
 
 —
 
-**Magst du mehr davon?**
+**Wenn du tiefer einsteigen willst**
+Diese drei Schritte sind der erste Anfang. In meinem kleinen Kurs „10-Minuten-Rückkehr" nehme ich dich in Ruhe an die Hand: wie du abends in zehn Minuten ganz aus dem Funktionsmodus aussteigst und wirklich bei dir ankommst — zum immer wieder Mitmachen. Für 7 € (nur hier über diesen Weg).
+→ [Mini-Kurs: 10-Minuten-Rückkehr](https://check.katjajung.com/angebot)
+
+**Und für die Zeit dazwischen**
 In meiner kostenlosen Telegram-Gruppe „Zurück zu dir" bekommst du regelmäßig kleine Impulse wie diesen — einen wahren Satz, einen kurzen Moment für deinen Körper, zum Innehalten zwischendurch. Kein Druck, keine Aufgaben. Nur ein ruhiger Ort, an dem du immer wieder bei dir ankommst.
-→ Komm dazu: https://t.me/+mJbsYV-tVkc3ZWYy
+→ Komm dazu: [Telegram-Gruppe „zurück zu dir!"](https://t.me/+mJbsYV-tVkc3ZWYy)
 
 Und wenn du magst, begleite ich dich auch hier weiter — ruhig, körpernah, ohne Leistungsdruck:
-Instagram: @yoga.statt.funktionieren
+Instagram: [@yoga.statt.funktionieren](https://www.instagram.com/yoga.statt.funktionieren?igsh=ZGpnazI1enUxZjB5&utm_source=qr)
+
+Ich freu mich auf dich
+Deine Katja
