@@ -2,7 +2,7 @@
 
 **Lead-Magnet #4 · Direkt-Geschenk (kein Opt-in) · erstellt 2026-06-22**
 Auslieferung: Kommentar → ManyChat-DM mit Google-Drive-Link (direkt, ohne E-Mail).
-Keyword: **noch festzulegen** (Vorschlag: NACHTRUHE; Alternativen: LEISE / WEGDÄMMERN) — eigenes Keyword, nicht CHECK/3MINUTEN/RESET.
+Keyword: **NACHTRUHE** (festgelegt 2026-06-22) — eigenes Keyword, nicht CHECK/3MINUTEN/RESET.
 Content-Säule: Yoga ohne Leistungsdruck.
 Zweiter CTA: 7-€-Minikurs „10-Minuten-Rückkehr" → https://check.katjajung.com/angebot (zusätzlich zur Telegram-Einladung).
 Google Doc (final, im Ordner Freebies): https://docs.google.com/document/d/1EKkAjrlYFzq_cMwmse97t558lXxV9T3-JYyNGXjBNbY/edit
