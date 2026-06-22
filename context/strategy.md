@@ -39,7 +39,7 @@ Ziel: Noch dieses Jahr den Job kündigen und vollständig vom Business leben.
 
 **Phase 1 — Jetzt (Aufbau):**
 
-**DREI nutzbare Freebies (Stand 2026-06-20) — bei Content/Stories das passende wählen UND abwechseln. Mapping/Details: Memory `feedback_cta_passend_freebie` + `project_freebie_inventory`.**
+**VIER nutzbare Freebies (Stand 2026-06-22) — bei Content/Stories das passende wählen UND abwechseln. Mapping/Details: Memory `feedback_cta_passend_freebie` + `project_freebie_inventory`.**
 
 Freebie 1: **Der Funktionsmodus-Check** (live, in Instagram-Bio verlinkt) — Keyword **CHECK**
 - 7 Zeichen, dass du nur noch funktionierst + 1-Minuten-Körperanker; Opt-in → check.katjajung.com
@@ -52,6 +52,10 @@ Freebie 2: **3-Minuten-Körpercheck** (live, Direkt-Geschenk via Drive-Link) —
 Freebie 3: **5-Minuten-Körper-Reset** (erstellt 2026-06-20, Direkt-Geschenk via Drive-Link) — Keyword **RESET**
 - Kleine Übungsfolge zum Abschalten nach einem Funktionier-Tag (Abend/Feierabend). **ManyChat-Flow muss noch gebaut werden.**
 - Einsatz: Abend-/Feierabend-/„abends nicht runterkommen"-Content. CTA am Ende → Telegram.
+
+Freebie 4: **Wenn der Kopf nicht ausmacht** (Einschlaf-Freebie, erstellt 2026-06-22, Direkt-Geschenk via Drive-Link) — Keyword **NACHTRUHE**
+- Drei kleine Übungen im Bett gegen das Gedankenkarussell beim Einschlafen. Erstes Freebie mit zweitem CTA: 7-€-Minikurs (`check.katjajung.com/angebot`) zusätzlich zur Telegram-Einladung. **ManyChat-Flow muss noch gebaut werden.**
+- Einsatz: Einschlaf-/im-Bett-/„Kopf macht abends nicht aus"-Content. CTA am Ende → Telegram.
 
 ⏳ „5 Tage zurück in deinen Körper" — weiterhin NICHT fertig, zählt nicht, nicht in CTAs verwenden, bis Katja Bescheid gibt.
 
@@ -138,12 +142,12 @@ Vollständige Konkurrenz-Übersicht: `reference/wettbewerber-instagram.md`
 | Tool | Zweck | Status |
 |---|---|---|
 | systeme.io | E-Mail-Marketing, Funnels, Automationen | Eingerichtet, Inhalte noch zu erstellen |
-| Netlify | Landingpages | Geplant, noch nicht gebaut |
+| Cloudflare Pages | Landingpages / Funnel-Seiten (Quelle: `website-quelle/`) | Live: check.katjajung.com + 10-minuten-rueckkehr.katjajung.com (umgezogen von Netlify) |
 | Instagram @yoga.statt.funktionieren | Hauptkanal / Traffic | Profil vorhanden, kein Content gepostet |
 | Telegram „Zurück zu dir" | Kostenlose Community | Gruppe erstellt ✓ |
 
 **Noch zu bauen:**
-- Landingpages für beide Freebies (Netlify)
+- Landingpages/Funnel-Seiten: **live** auf Cloudflare Pages (`check.katjajung.com` inkl. 7-€-Angebotsseite + `10-minuten-rueckkehr.katjajung.com`); Quelle `website-quelle/`, Deploy via `reference/cloudflare-config.md`.
 - E-Mail-Sequenzen nach Freebie-Download (systeme.io) — Texte unter `outputs/`:
   - Verkaufs-Kampagne (7 Mails) nach Funktionsmodus-Check → `outputs/email-kampagne-funktionsmodus.md`. Ziel: 10-Minuten-Rückkehr für 17 € verkaufen + Telegram-Beitritt. Reihenfolge: Lieferung → Story → Telegram → Pitch → Einwand → Abschluss → (optional) Frist-Mail. **Status: von Katja in systeme.io eingebaut (Stand 2026-06-09).**
   - Danach: dauerhaft leiser Newsletter (alle 2 Wochen) → `outputs/newsletter-grundgeruest.md` (Grundgerüst + erste 4 Ausgaben, 80 % Wert / 20 % Verkauf). Neue Kampagne erst bei echtem Anlass (neues Produkt/Freebie oder saisonaler Aufhänger), nicht direkt nachfeuern. **Status: alle 4 Ausgaben als Entwürfe in systeme.io angelegt (Newsletter-Bereich, klassischer Editor, Absender „Katja Jung @yoga.statt.funktionieren", `{first_name}`-Personalisierung, Links eingebaut) — Stand 2026-06-09. Offen pro Ausgabe: Empfänger-Tag wählen + Versanddatum planen + senden (macht Katja).**
