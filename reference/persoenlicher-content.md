@@ -19,6 +19,21 @@ Warum das ihre Stärke ist — nicht nur „nett":
 
 ---
 
+## Katjas Energie im persönlichen Content (aus dem Human Design)
+
+> Vollständiges Reading + Begründung: `context/human-design.md`. Diese sechs Prinzipien tragen JEDEN persönlichen Inhalt — Stories, **Reels, Karussells**, Captions.
+
+1. **Zeigen, nicht lehren** (Linie 6, mit ~48 „kommt vom Dach" → lebendes Vorbild): „So läuft das gerade bei mir", nie „so solltest du".
+2. **In den Prozess mitnehmen** (Manifestor → Informieren): erzählen, was sie gerade baut/lernt/entscheidet. Das ist nahbar UND energetisch korrekt.
+3. **Wünsche laut aussprechen** (Herz/Ego-Autorität): „Ich wollte…", „ich hatte keine Lust mehr auf…", „das war's mir wert". Sie geht Frauen mit offenem Ego voran, die sich das nicht trauen.
+4. **Immer im Frieden landen** (Signatur Frieden / Nicht-Selbst Wut): der Bogen darf in Anspannung starten, endet aber in Ruhe.
+5. **Aufgesogenen Druck benennen** (offene Zentren — Wurzel/Emotion/Milz): „Ich hab den Stress, die Anspannung, die Sorgen von allen mitgetragen." Echt, weil ihre offenen Zentren das wirklich tun — und genau das versteht ihre Frau 40+ sofort.
+6. **Dosiert, in Wellen, faceless** (Linie 2 Hermit): kein Always-on, Rückzug gehört dazu.
+
+Diese Energie ist der Grund, warum die 6 Türen unten funktionieren — sie sind die Form, das HD ist der Ton.
+
+---
+
 ## Die eine Regel über allem: zurück zu ihr
 
 **Jeder persönliche Post endet bei der Soul-Client.** Ein Häkchen wie „… und vielleicht kennst du das auch." / „Wenn du beim Lesen genickt hast — dann bist du hier richtig."
