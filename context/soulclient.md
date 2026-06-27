@@ -2,6 +2,8 @@
 
 > Pflichtlektüre vor jeder Content-Erstellung, jedem Angebots-Text, jeder Caption.
 > Jeder Text muss diese Frau ansprechen — nicht eine generische Frau.
+>
+> **Ergänzend:** Das kommerzielle „Was löse ich / was will sie / wie fühlt sich das gelöste Leben an" steht ausgearbeitet in `reference/zielgruppe-workbook.md` (Grundlage für allen Content + die Verkaufs-Stories).
 
 ---
 
