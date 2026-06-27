@@ -171,6 +171,15 @@ Hauptziel: Speichern · kalter bis warmer Traffic
 Hook-Pool ergebnis-geführt (Insider/Advocacy · Autorität · Tempo · Machbarkeit), z. B. „Ich wünschte, mehr Frauen wüssten, dass …" · „Wenn ich dir nur eine Übung zeigen dürfte …" · „Du machst diese eine Übung drei Minuten, und …". Eingebaute Leitplanken: versprochenes Ergebnis ist immer gespürt-körperlich, nie Leistung/Optimierung (schützt vor Transformations-Sound); kein Körperteil als Schlagzeile, wenn es nach Schmerz klingt (über den Zustand führen). Gut für Test-Reels, um die Hooks durchzutesten.
 Output identisch zu `/reel-yoga`.
 
+### /reel-gewinner [haltung]
+
+**Zweck:** Reel nach Katjas **nachgewiesenem Top-Format** — die eingedampfte, datenbelegte Siegerformel aus dem Reel vom 17.06.2026 (**84.192 Aufrufe FB + 5.347 IG, Distribution +2,9x**). Baut die Hebel fest ein, die den Algo-Schub ausgelöst haben. Contentsäule: Yoga ohne Leistungsdruck.
+
+- `/reel-gewinner` → Claude wählt eine einfache, bodennahe Haltung selbst
+- `/reel-gewinner Liegende Drehung` → Haltung vorgeben
+
+Die fünf Säulen des Gewinner-Musters (alle Pflicht): (1) **Insider-/Advocacy-Hook** („Ich wünschte, mehr Frauen wüssten, was diese 3 Minuten machen, wenn du den ganzen Tag alles zusammengehalten hast") · (2) **Erkennungs-Caption** („Die meisten Frauen…") · (3) Versprechen gespürt-körperlich, nie Leistung · (4) Übung super einfach + bodennah · (5) **Speicher- + Kommentar-Treiber fest eingebaut** (der eigentliche Reichweiten-Hebel — der Gewinner hatte 127 Speicherungen, 220 Reaktionen, 15 Kommentare → +2,9x Distribution). Abgrenzung zu `/reel-yoga-wirkung`: das ist das *offene* Wirkungs-Format zum Hook-Testen; `/reel-gewinner` ist die *enge, datenbelegte* Variante, immer auf Speichern/Kommentar/Distribution optimiert. Output wie `/reel-yoga-wirkung` plus 2 Alt-Hooks. (Name vorläufig — kann später umbenannt werden. Datenquelle: Memory `project_reel_gewinner_format`.)
+
 ### /reel-spiegel [thema]
 
 **Zweck:** Minimalistisches Spiegel-Reel — ruhiges Video, der Text trägt alles. Ziel: sofortige Wiedererkennung („Das bin ich.") bei Frauen 40+. Contentsäule: Der Körper im Funktionsmodus.

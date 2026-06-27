@@ -35,7 +35,7 @@ Nach dem Lesen liefere einen kompakten Status-Block — kein Fließtext, nur das
 **Letzte Outputs:** <die 3 neuesten Dateien in outputs/, oder "Keine">
 **Inbox:** <Anzahl Einträge in inbox/ gesamt + kurze Beschreibung, oder "Leer">
 
-**Verfügbare Commands:** /start · /capture · /plan · /create-plan · /implement · /shutdown · /prime · /zielgruppe · /telegram · /reel · /format-klammersätze · /reel-idee · /reel-yoga · /reel-yoga-wirkung · /reel-spiegel · /persoenlich · /karussell-uebung · /karussell-einstieg · /karussell-woche · /story · /story-woche
+**Verfügbare Commands:** /start · /capture · /plan · /create-plan · /implement · /shutdown · /prime · /zielgruppe · /telegram · /reel · /format-klammersätze · /reel-idee · /reel-yoga · /reel-yoga-wirkung · /reel-gewinner · /reel-spiegel · /persoenlich · /karussell-uebung · /karussell-einstieg · /karussell-woche · /story · /story-woche
 
 **Bereit.** Was möchtest du heute angehen?
 ```
