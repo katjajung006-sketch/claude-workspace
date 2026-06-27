@@ -2,7 +2,7 @@
 
 > Vollständiges Instagram-Reel nach Katjas **nachgewiesenem Top-Format** — der Reel vom 17.06.2026 hat damit **84.192 Aufrufe auf Facebook + 5.347 auf Instagram** geholt (Distribution **+2,9x** über normal). Dieses Skill dampft die Siegerformel ein und baut die Hebel fest ein, die den Algo-Schub ausgelöst haben. Contentsäule: Yoga ohne Leistungsdruck.
 >
-> **Abgrenzung:** `/reel-yoga-wirkung` ist das *offene* Wirkungs-Format zum Testen vieler Hook-Varianten. `/reel-gewinner` ist die *enge, datenbelegte* Variante — immer Insider-Hook, immer auf Speichern/Kommentar/Distribution optimiert. Wenn ihr später umbenennt: hier zentral ändern.
+> **Abgrenzung:** `/reel-yoga-wirkung` ist das *offene* Wirkungs-Format zum Testen vieler Hook-Varianten. `/reel-gewinner` ist die *enge, datenbelegte* Variante — durchgehende Körper-Metapher + rotierender Erkennungs-/Insider-Hook, immer auf Speichern/Kommentar/Distribution optimiert. Wenn ihr später umbenennt: hier zentral ändern.
 
 ## Variablen
 
@@ -24,7 +24,7 @@ Eine **durchgehende Körper-Metapher** trägt Hook → Caption → Übung. Thema
 
 **Die Säulen des Gewinner-Musters (alle Pflicht):**
 1. **Körper-Metapher = emotionale Botschaft** (das Herzstück, siehe oben): EINE Metapher zieht durch Hook, Übung und Caption-Reframe; die Übung verkörpert körperlich genau das Gefühl, von dem der Hook spricht.
-2. **Insider-/Advocacy-Hook** („Ich wünschte, mehr Frauen wüssten…") — ergebnis-geführt, leise Autorität.
+2. **Starker Beat-1-Hook, Einstieg rotierend** — Insider/Advocacy („Ich wünschte…"/„Das hätte ich gern früher gewusst…"), Zwei-Takt-Erkennung oder direkte Erkennung; ergebnis-geführt, leise Autorität, nie immer dieselbe Eröffnung.
 3. **Erkennungs-Caption** („Die meisten Frauen…") — benennt, was fast alle tun, ohne Vorwurf, und mündet in den Reframe.
 4. **Versprechen gespürt-körperlich** („was diese 3 Minuten machen"), nie ein Leistungs-Benefit.
 5. **Übung super einfach + bodennah** — sofort machbar, „das kann ich auch".
@@ -111,17 +111,30 @@ Beat 2 (3–7 Sek):  [Haltung + Zeit — konkret und machbar]
 Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, hält die Details zurück]
 ```
 
-**Bewährte Leit-Formel (viral, 84k — Standard für dieses Format):**
+**Bewährte Leit-Formel (viral, 84k):**
 > „Ich wünschte, mehr Frauen wüssten, was **diese** [kurze Zeit] machen, wenn du [konkreter Moment]."
 
 Das demonstrative **„diese"** zeigt mit dem Finger auf genau die Übung im Video — bindet das Versprechen an das Sichtbare und macht Sog. Konkret schlägt allgemein.
 
-### Insider-Hook-Pool (Beat 1 — leise Autorität, das ist die Gewinner-Familie)
+> **Pflicht — Einstieg rotieren (Katja-Feedback 2026-06-27):** NICHT jedes Reel mit „Ich wünschte, mehr Frauen wüssten…" öffnen — das nutzt sich ab. Pro Lauf einen anderen Beat-1-Einstieg aus dem Pool unten wählen und gegen die letzten `/reel-gewinner`-Reels (Notion „Feed" / `outputs/`) prüfen, damit zwei aufeinanderfolgende Reels nicht denselben Einstieg haben. „Ich wünschte…" bleibt eine starke Option, aber nur eine von mehreren. Was IMMER gleich bleibt: Beat 1 teasert nur Ergebnis + Anker (offene Schleife), die Übung kommt erst in Beat 2.
 
+### Beat-1-Einstieg-Pool (bewusst rotieren — jeder hält die Schleife offen)
+
+**a) Insider / leise Autorität** (die Gewinner-Familie, ergebnis-geführt):
 > Ich wünschte, mehr Frauen wüssten, was diese [Zeit] mit dir machen, wenn [Anker].
-> Das hätte ich gern mit 40 gewusst:
+> Das hätte ich gern früher gewusst: was diese [Zeit] machen, wenn [Anker].
 > Niemand sagt Frauen über 40, dass [Ergebnis] mit einer Übung anfängt.
 > Wenn ich dir nur eine einzige Übung zeigen dürfte, wäre es diese.
+
+**b) Zwei-Takt-Erkennung** (kurze Ist-Situation + „aber [X] hört nicht auf" — härtester Scroll-Stop, rein erkennend; vgl. „Es ist still. Aber dein Kopf macht nicht aus."):
+> Du machst Feierabend. Dein Körper [hört nicht auf / trägt trotzdem weiter].
+> Es ist [Moment]. Aber [X] macht nicht aus.
+
+**c) Direkte Erkennung / Frage** (am gelebten Moment, ohne Diagnose):
+> Wenn [konkreter Abend-/Alltagsmoment], ist das hier für dich.
+> Weißt du noch, wann du das letzte Mal [Gegenteil des Musters] hast?
+
+Bei jedem Einstieg gilt: Anker konkret + gelebt (Schritt 2.6), Ergebnis gespürt-körperlich (Schritt 2.5), Übung erst in Beat 2.
 
 **Beat-3-Pool (offene Spür-Sätze — halten die Details zurück):**
 > Und dann spür selbst, was passiert.
@@ -296,7 +309,7 @@ DM-ANTWORT (nur bei DM-/Keyword-Mechanik)
 
 ---
 ALTERNATIV-HOOKS (immer 2 zum Tauschen)
-[2 weitere Insider-Hook-Varianten für Beat 1]
+[2 weitere Beat-1-Varianten, bewusst anderer Einstieg als der Haupt-Hook]
 ```
 
 Nach der Ausgabe: kurz fragen, ob Haltung, Hook oder Caption angepasst werden sollen.
@@ -306,7 +319,7 @@ Nach der Ausgabe: kurz fragen, ob Haltung, Hook oder Caption angepasst werden so
 ## Stilregeln
 
 - **Herzstück zuerst: EINE Körper-Metapher zieht durch Hook, Übung und Caption-Reframe** (Schritt 2.4). Die körperliche Geste IST die emotionale Botschaft — ohne diese Deckung kein Gewinner-Reel.
-- Insider-Hook ist der Standard (Beat 1 = „Ich wünschte, mehr Frauen wüssten…"-Familie), Open Loop — Details erst in der Caption.
+- Beat-1-Einstieg bewusst rotieren (Insider / Zwei-Takt-Erkennung / direkte Erkennung) — NIE jedes Reel mit „Ich wünschte, mehr Frauen wüssten…" starten. Immer Open Loop: Beat 1 teasert nur Ergebnis + Anker, die Übung kommt erst in Beat 2.
 - Caption öffnet mit dem Erkennungs-Satz „Die meisten Frauen…" — das trägt Speichern + Kommentar.
 - Versprochenes Ergebnis IMMER gespürt-körperlich, nie Leistung/Optimierung (Schritt 2.5).
 - Kein Körperteil als Schlagzeile, wenn es nach Schmerz klingt — über den Zustand führen (Schritt 2.6).
