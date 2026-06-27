@@ -6,6 +6,28 @@
 
 ---
 
+## 70/30-Wochen (neues System ab 2026-06-27)
+
+> Format: 5 Verkauf + 2 Verbindung. Vor jedem Lauf die letzten 2–3 Wochen lesen und ANDERS bauen: anderer Wochenstart, andere Tag→Format-Zuordnung, andere Themen je Vorlage, andere Angebot-Zuordnung (kein Keyword 2×/Woche), andere Verbindungs-Formate, andere Sticker/Tageszeiten/Winkel. Neueste oben.
+
+### Lauf 2026-06-27 · Woche 06.–12.07.2026
+- **Tag→Format:** Mo Erzähl-Bogen · Mi Mythos · Do Q&A+Mini-Impuls · Sa Persönliche Story · So 1-teilige | **Verbindung:** Di + Fr
+- **Themen (nicht wiederholen):** Erzähl-Bogen „alles probiert für entspannten Morgen → Funktionsmodus" · Mythos „Pause erst wenn alles erledigt ist" · Q&A „abends abschalten, langer Ausatem" · Persönliche Story „samstags erst für mich, dann der Rest" · 1-teilige „Sonntagabend, Kopf spult durch"
+- **Angebote/Keywords:** Mo 7ZEICHEN · Mi 3MINUTEN · Do RESET · Sa RÜCKKEHR (Produkt, einziger harter Pitch) · So NACHTRUHE
+- **Verbindungs-Formate:** Di Stimmungs-Slider (Akku) + Frage-Box · Fr echtes Leben (Kerze/Buch) + Foto-Antwort
+- **Sticker:** Umfrage · Emoji-Slider · Frage-Box · Foto-Antwort · Link · **Tageszeiten:** morgens/Vormittag/Mittag/Feierabend/abends/Nachmittag/abends
+- **Türen:** Sa Persönliche Story = Tür 2 · Fr echtes Leben = Tür 4
+- → Nächste Woche: NICHT mit Erzähl-Bogen starten · Verbindung nicht Di+Fr · BTS und/oder Fallstudie mal einbauen · andere Themen + Angebot-Zuordnung.
+
+### Lauf 2026-06-27 · Woche 29.06.–05.07.2026 (erste 70/30-Woche)
+- **Tag→Format:** Mo Mythos · Di Q&A+Mini-Impuls · Do Behind the Scenes · Fr Persönliche Story · So 1-teilige | **Verbindung:** Mi + Sa
+- **Themen:** Mythos „runterkommen dauert keine Stunde" · Q&A „mittags 3 Min, Schultern hoch/fallen" · BTS „so entsteht ein Abend-Impuls, Frau im Standby" · Persönliche Story „freitags einen Punkt machen" · 1-teilige „Sonntagabend, Kopf geht die Woche durch"
+- **Angebote/Keywords:** Mo RESET · Di 3MINUTEN · Do 7ZEICHEN · Fr RÜCKKEHR (Produkt) · So NACHTRUHE
+- **Verbindungs-Formate:** Mi This-or-that (wie kommst du runter) · Sa echtes Leben + Quiz (Wochenende)
+- **Sticker:** Umfrage · This-or-that · Quiz · Link · **Tageszeiten:** morgens/Mittag/Vormittag/Nachmittag/abends/Wochenende/abends
+
+---
+
 ## Persönliche Türen (täglich, Baustein H)
 
 > Wie die Türen (`reference/persoenlicher-content.md`) zuletzt verteilt waren. Jede Woche: die 5 Alltags-Türen (1, 2, 3, 4, 6) auf Mo/Di/Mi/Do/Sa — Tag-Zuordnung wöchentlich variieren; Tür 5 (Das Warum) auf Fr + So als Funnel-Einstieg + 1×/Woche im Feed (`/persoenlich`). Tür-5-Häppchen über Story + Feed nie wiederholen. Neueste oben.
