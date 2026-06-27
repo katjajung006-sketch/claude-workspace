@@ -16,16 +16,23 @@ moment: $ARGUMENTS
 
 Der 30,5k-Reel im Detail:
 - **On-Screen (2 Beats):** „Es ist still, aber dein Kopf macht nicht aus" → „Leg dich auf die Seite, ein Kissen zwischen die Knie"
-- **Caption-Einstieg:** „Nachts ist es nicht der Körper, der dich wachhält…" (Reframe: nicht der Körper — der Kopf)
-- **Position:** Seitenlage mit Kissen zwischen den Knien — ruhige, bodennahe Abend-Position, sofort machbar.
+- **Caption-Einstieg (Reframe):** „Nachts ist es nicht der Körper, der dich wachhält… Es ist der Kopf, der noch nicht aufgehört hat."
+- **Caption-Metapher (der Kern):** „Den ganzen Tag bist du in Bereitschaft — erreichbar, aufmerksam, immer ein Ohr bei den anderen. Nachts merkt dein Körper als Erstes, dass er nie ganz aus diesem Standby raus ist. Diese Haltung gibt ihm das Signal: Du darfst jetzt loslassen."
+- **Position:** Seitenlage, Knie locker Richtung Bauch angezogen, Kissen zwischen den Knien — bodennah, geht sogar abends im Bett.
 - **Engagement:** 27 Speicherungen · 56 Reaktionen · 0 Kommentare · 1 geteilt. **Kein Algo-Schub (0 Kommentare), trotzdem 30k** — weil das Thema so genau trifft und die Übung sofort sichtbar ist.
 - **Retention:** 87 % im Schnitt angesehen, sehr niedrige Verbergen-Rate. Der Knick liegt bei 0:04 — der Einstieg muss sofort tragen.
 
-**Die vier Säulen des Stille-Musters (alle Pflicht):**
-1. **Erkennungs-Hook am stillen Moment** — benennt die Stille + den Kopf, der nicht aufhört.
-2. **Reframe** — „Es ist nicht [X], es ist dein Kopf, der nicht aufhört."
-3. **Ein konkreter körperlicher Anker, direkt im Video gezeigt** — der Weg zurück, wenn der Kopf nicht aufhört.
-4. **Stiller Moment variabel** — Nacht ist EIN Beispiel, nicht das Thema.
+**Das Herzstück (warum es WIRKLICH zieht — wichtiger als alles andere):**
+
+1. **Körper-Metapher: Dauer-Standby → Signal zum Loslassen.** Der Körper, der den ganzen Tag „in Bereitschaft / auf Standby" war (erreichbar, ein Ohr bei allen), bekommt über die Haltung die Erlaubnis runterzufahren. Dieselbe Bauart wie beim Gewinner-Reel: die körperliche Geste IST die emotionale Botschaft.
+2. **Über den Körper an den Kopf (die somatische Logik):** Man kann dem Kopf nicht befehlen aufzuhören. Der Reel führt deshalb über den **Körper** (gehalten, schwer, weich, langsamer Atem) — und der Kopf zieht erst danach nach („und irgendwann macht auch der Kopf langsam mit"). **Erst der Körper, dann folgt der Kopf.** Das ist der eigentliche Wirk-Mechanismus, nicht der Hook allein.
+
+**Die Säulen des Stille-Musters (alle Pflicht):**
+1. **Körper-Metapher + Körper-führt-Kopf** (das Herzstück, siehe oben): die Haltung gibt dem Dauer-Standby-Körper das Signal loszulassen; die Auflösung führt über Körper-Empfindungen, der Kopf folgt zuletzt.
+2. **Erkennungs-Hook am stillen Moment** — benennt die Stille + den Kopf, der nicht aufhört.
+3. **Reframe** — „Es ist nicht [X], es ist dein Kopf, der nicht aufgehört hat."
+4. **Ein konkreter körperlicher Anker, direkt im Video gezeigt** — der Weg zurück über den Körper.
+5. **Stiller Moment variabel** — Nacht ist EIN Beispiel, nicht das Thema.
 
 ---
 
@@ -54,7 +61,7 @@ Lies zuerst:
 
 ### Passende körperliche Anker (bodennah, sofort machbar, beruhigen den Kopf)
 
-- Seitenlage, Kissen zwischen den Knien (*der Original-Anker — nicht zweimal hintereinander*)
+- Seitenlage, Knie locker Richtung Bauch angezogen, Kissen zwischen den Knien (*der Original-Anker — nicht zweimal hintereinander*)
 - Beine an der Wand
 - Rücken auf dem Boden, eine Hand auf den Bauch, eine auf die Brust
 - Kindhaltung mit Stirn abgelegt
@@ -88,6 +95,18 @@ Beispiele:
 - Der Reframe nimmt ihr die Schuld („du kannst nicht abschalten" → „dein Kopf hat es nie gelernt"). Nie Vorwurf.
 - **Körperteil-Regel:** kein medizinisch besetztes Körperteil als Schlagzeile. Über den Zustand führen.
 - Reframe je Post frisch — nicht denselben Satz wiederverwenden (Form-Variation).
+
+---
+
+## Schritt 2.7 — Körper-Signal festlegen (PFLICHT — der Wirk-Mechanismus)
+
+**Bevor du die Caption schreibst, leg fest, welches Signal die Haltung dem Körper gibt.** Das ist der Motor dieses Formats: Man kann dem Kopf nicht befehlen aufzuhören — also führt der Reel über den Körper, und der Kopf folgt.
+
+1. **Das Dauer-Muster benennen:** In welchem „Standby" war der Körper den ganzen Tag? (in Bereitschaft · erreichbar · auf Empfang · angespannt halten · ein Ohr bei allen)
+2. **Das Signal der Haltung:** Was sagt die gewählte Position dem Körper körperlich? („Du darfst jetzt loslassen" · „du musst nichts mehr halten" · „du bist nicht mehr auf Empfang").
+3. **Reihenfolge merken — Körper führt, Kopf folgt:** zuerst Körper-Empfindungen (gehalten, schwer, weich, langsamer Atem), **zuletzt** der Kopf („und irgendwann macht auch der Kopf langsam mit"). Diese Reihenfolge ist Pflicht in der Caption-Auflösung.
+
+**Original als Vorlage:** Standby/Bereitschaft den ganzen Tag → Seitenlage gibt das Signal „du darfst jetzt loslassen" → Körper wird gehalten/schwer/weich → Kopf macht zuletzt mit.
 
 ---
 
@@ -167,14 +186,22 @@ Caption beginnt NICHT mit demselben Satz wie das Reel. **Pflicht-Einstieg: der R
 **2. Spiegelung des Moments**
 Kurz, körpernah: wie sich dieser stille Moment für sie anfühlt (sie liegt/sitzt, alles ist ruhig, nur innen nicht). Erkennen, nicht erklären.
 
-**3. Auflösung — was der Anker macht**
-Ruhig, als kleine Liste, an die in Schritt 2.5 geprüfte Wirkung angepasst:
+**3. Auflösung — Körper führt, Kopf folgt (Reihenfolge ist Pflicht)**
+Kleine Liste, an die in Schritt 2.5 geprüfte Wirkung angepasst. **Zuerst die Körper-Empfindungen, der Kopf kommt ZULETZT** (das ist der Wirk-Mechanismus aus Schritt 2.7 — über den Körper an den Kopf):
 > Und dann, nach ein paar Atemzügen, passiert das:
-> Dein Körper wird schwerer.
-> Dein Atem wird länger.
-> Und der Kopf wird langsam leiser.
+> Dein Körper fühlt sich gehalten.
+> Dein Gewicht wird schwer.
+> Dein Atem wird langsamer.
+> Und irgendwann macht auch der Kopf langsam mit.
 
-**4. Einfache Anleitung**
+**4. Das Standby-Signal (Pflicht — der Metapher-Kern aus Schritt 2.7)**
+Benennt das Dauer-Muster und die Haltung als das Signal zum Loslassen:
+> Den ganzen Tag bist du in Bereitschaft — erreichbar, aufmerksam, immer ein Ohr bei den anderen.
+> Diese Haltung gibt deinem Körper das Signal: Du darfst jetzt loslassen.
+
+Je Post frisch am gewählten Dauer-Muster entlang (auf Empfang · angespannt halten · nie ganz aus). Nie ein Vorwurf.
+
+**5. Einfache Anleitung**
 ```
 So machst du es:
 [Schritt 1 — Ausgangsposition]
@@ -184,10 +211,10 @@ Bleib [X] Minuten.
 Nicht perfekt. Nur da.
 ```
 
-**5. Erkenntnissatz**
+**6. Erkenntnissatz**
 > Dein Kopf hört nicht auf, weil mit dir was nicht stimmt. Er hat nur nie gelernt, einfach aufzuhören.
 
-**6. CTA — Speichern + EIN Freebie-Kommentar**
+**7. CTA — Speichern + EIN Freebie-Kommentar**
 Immer **beides** geben. Freebie **je Moment wählen** (nie zwei Keywords mischen, Keyword in „Anführungszeichen", nie fett, immer das registrierte ManyChat-Keyword):
 - stiller Moment = **Nacht / im Bett / einschlafen** → „NACHTRUHE"
 - stiller Moment = **Abend / Feierabend / abschalten** → „RESET"
@@ -229,10 +256,12 @@ Wenn der Post keine DM-Mechanik hat: weglassen.
 
 ```
 ---
-MOMENT + REFRAME (intern)
+MOMENT + REFRAME + SIGNAL (intern)
 Stiller Moment:  [wann / wo wird es still]
-Reframe:         [„Es ist nicht X, es ist dein Kopf, der nicht aufhört"]
+Reframe:         [„Es ist nicht X, es ist dein Kopf, der nicht aufgehört hat"]
 Anker:           [körperliche Position]
+Dauer-Muster:    [Standby/Bereitschaft des Tages]
+Körper-Signal:   [was die Haltung dem Körper sagt: „du darfst loslassen"]
 
 ---
 REEL-TEXT (On-Screen, 3 Beats, ~10–12 Sek)
@@ -253,7 +282,8 @@ Filmen: [kurze Beschreibung]
 CAPTION
 [Reframe-Hook]
 [Spiegelung des Moments]
-[Auflösung — was der Anker macht]
+[Auflösung — Körper führt, Kopf folgt zuletzt]
+[Standby-Signal — Dauer-Muster + „du darfst loslassen"]
 [Anleitung]
 [Erkenntnissatz]
 [Speicher-CTA + Freebie-Kommentar-CTA]
@@ -281,8 +311,9 @@ Nach der Ausgabe: kurz fragen, ob Moment, Hook oder Caption angepasst werden sol
 
 ## Stilregeln
 
+- **Herzstück: über den Körper an den Kopf.** Die Haltung gibt dem Dauer-Standby-Körper das Signal loszulassen; die Auflösung führt über Körper-Empfindungen, der Kopf folgt ZULETZT (Schritt 2.7). Das ist der Motor, nicht der Hook allein.
 - Thema ist **Stille + Kopf, der nicht aufhört** — NIE auf „Schlafen/Einschlafen" verengen. Stiller Moment rotieren.
-- Hook problem-geführt am stillen Moment (Erkennen = Scroll-Stop); Reframe ist das Herz (nimmt die Schuld).
+- Hook problem-geführt am stillen Moment (Erkennen = Scroll-Stop); Reframe nimmt die Schuld.
 - Übung wird im Video gezeigt (anders als `/reel-gewinner`), volle Spür-Auflösung erst in der Caption.
 - Ergebnis IMMER gespürt-körperlich, nie Leistung/Optimierung (Schritt 2.5).
 - Kein Körperteil als Schlagzeile, wenn es nach Schmerz/Diagnose klingt — über den Zustand führen.
