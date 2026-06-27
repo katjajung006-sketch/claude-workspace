@@ -180,6 +180,15 @@ Output identisch zu `/reel-yoga`.
 
 Die fünf Säulen des Gewinner-Musters (alle Pflicht): (1) **Insider-/Advocacy-Hook** („Ich wünschte, mehr Frauen wüssten, was diese 3 Minuten machen, wenn du den ganzen Tag alles zusammengehalten hast") · (2) **Erkennungs-Caption** („Die meisten Frauen…") · (3) Versprechen gespürt-körperlich, nie Leistung · (4) Übung super einfach + bodennah · (5) **Speicher- + Kommentar-Treiber fest eingebaut** (der eigentliche Reichweiten-Hebel — der Gewinner hatte 127 Speicherungen, 220 Reaktionen, 15 Kommentare → +2,9x Distribution). Abgrenzung zu `/reel-yoga-wirkung`: das ist das *offene* Wirkungs-Format zum Hook-Testen; `/reel-gewinner` ist die *enge, datenbelegte* Variante, immer auf Speichern/Kommentar/Distribution optimiert. Output wie `/reel-yoga-wirkung` plus 2 Alt-Hooks. (Name vorläufig — kann später umbenannt werden. Datenquelle: Memory `project_reel_gewinner_format`.)
 
+### /reel-stille [moment]
+
+**Zweck:** Reel nach Katjas **zweitstärkstem nachgewiesenem Format** — der Reel vom 19.06.2026 holte **30.537 Aufrufe FB + 1.260 IG** mit exzellenter Retention (87 % angesehen), und das OHNE Kommentar-Schub. Thema: **Sobald es still wird, hört der Kopf nicht auf** (Grübeln, nicht abschalten können). Contentsäule: Yoga ohne Leistungsdruck.
+
+- `/reel-stille` → Claude wählt selbst einen stillen Moment (rotierend)
+- `/reel-stille Endlich hingesetzt am Abend` → Moment/Position vorgeben
+
+**Wichtig — NICHT aufs Schlafen verengen** (Katja-Klärung 2026-06-27): Es geht um die **Stille und was der Kopf dann macht**, nicht ums Einschlafen. Die Nacht ist nur EIN stiller Moment (genauso: Kinder schlafen, im Auto, abends hinsetzen) — Moment rotieren. Vier Säulen (alle Pflicht): (1) **Erkennungs-Hook am stillen Moment** („Es ist still. Aber dein Kopf macht nicht aus.") · (2) **Reframe** („Es ist nicht [X], es ist dein Kopf, der nicht aufhört" — nimmt die Schuld) · (3) **konkreter körperlicher Anker, direkt im Video gezeigt** (anders als `/reel-gewinner`: Übung sofort sichtbar, nicht offener Loop) · (4) stiller Moment variabel. Freebie je Moment: Nacht/Bett → NACHTRUHE · Abend → RESET · Erkennen → CHECK · kurze Übung tagsüber → 3MINUTEN. Output wie `/reel-gewinner` plus 2 Alt-Hooks. (Name vorläufig. Datenquelle: Memory `project_reel_gewinner_format`.)
+
 ### /reel-spiegel [thema]
 
 **Zweck:** Minimalistisches Spiegel-Reel — ruhiges Video, der Text trägt alles. Ziel: sofortige Wiedererkennung („Das bin ich.") bei Frauen 40+. Contentsäule: Der Körper im Funktionsmodus.
