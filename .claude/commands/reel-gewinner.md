@@ -13,17 +13,22 @@ haltung: $ARGUMENTS
 ## Der Datenbeleg (warum dieses Format gewinnt — nicht ändern, nur verstehen)
 
 Der 84k-Reel im Detail:
-- **Hook im Video:** „Ich wünschte, mehr Frauen wüssten, was diese 3 Minuten machen, wenn du den ganzen Tag alles zusammengehalten hast"
+- **Hook im Video:** „Ich wünschte, mehr Frauen wüssten, was diese 3 Minuten machen, wenn du den ganzen Tag alles zusammengehalten hast" / On-Screen außerdem: „Fußsohlen aneinander, Knie fallen lassen. 3 Minuten."
 - **Caption-Einstieg:** „Die meisten Frauen halten den ganzen Tag alles zusammen, ohne es zu merken. Erst wenn die Knie zur Seite fallen, spüren sie, wie fest das war."
-- **Übung:** Liegende Drehung — auf dem Rücken, Knie zur Seite fallen lassen. Bodennah, kein Können nötig.
+- **Caption-Reframe (der Kern):** „Den ganzen Tag hältst du alles zusammen — den Plan, die Stimmung, dich selbst. Das hier ist der erste Moment am Tag, in dem du nichts zusammenhalten musst."
+- **Übung:** **Liegender Schmetterling** (Supta Baddha Konasana) — auf dem Rücken, Fußsohlen aneinander, beide Knie fallen nach außen auf. NICHT eine liegende Drehung (da kippen die Knie zu *einer* Seite). Bodennah, kein Können nötig.
 - **Engagement:** 127 Speicherungen · 220 Reaktionen · 15 Kommentare · 4 Mal geteilt → **dieses Engagement hat den +2,9x-Distribution-Schub ausgelöst.** Reichweite ist die FOLGE von Interaktion, nicht Zufall.
 
-**Die fünf Säulen des Gewinner-Musters (alle Pflicht):**
-1. **Insider-/Advocacy-Hook** („Ich wünschte, mehr Frauen wüssten…") — ergebnis-geführt, leise Autorität.
-2. **Erkennungs-Caption** („Die meisten Frauen…") — benennt, was fast alle tun, ohne Vorwurf.
-3. **Versprechen gespürt-körperlich** („was diese 3 Minuten machen"), nie ein Leistungs-Benefit.
-4. **Übung super einfach + bodennah** — sofort machbar, „das kann ich auch".
-5. **Speicher- + Kommentar-Treiber fest eingebaut** — der eigentliche Reichweiten-Hebel.
+**Das Herzstück (warum es WIRKLICH einschlug — wichtiger als alles andere):**
+Eine **durchgehende Körper-Metapher** trägt Hook → Caption → Übung. Thema „alles zusammenhalten": emotional (den Plan, die Stimmung, sich selbst) UND körperlich (die Knie, die den ganzen Tag zusammengehalten waren, dürfen aufgehen). **Die körperliche Geste IST die emotionale Erlaubnis** — Knie aufgehen lassen = nichts mehr zusammenhalten müssen. Diese Deckung zwischen Körper-Aktion und Gefühls-Wahrheit erzeugt die Wiedererkennung und die Speicherungen. Ohne sie ist es nur eine nette Übung mit einem guten Hook. **Das ist der eigentliche Motor, nicht der Hook allein.**
+
+**Die Säulen des Gewinner-Musters (alle Pflicht):**
+1. **Körper-Metapher = emotionale Botschaft** (das Herzstück, siehe oben): EINE Metapher zieht durch Hook, Übung und Caption-Reframe; die Übung verkörpert körperlich genau das Gefühl, von dem der Hook spricht.
+2. **Insider-/Advocacy-Hook** („Ich wünschte, mehr Frauen wüssten…") — ergebnis-geführt, leise Autorität.
+3. **Erkennungs-Caption** („Die meisten Frauen…") — benennt, was fast alle tun, ohne Vorwurf, und mündet in den Reframe.
+4. **Versprechen gespürt-körperlich** („was diese 3 Minuten machen"), nie ein Leistungs-Benefit.
+5. **Übung super einfach + bodennah** — sofort machbar, „das kann ich auch".
+6. **Speicher- + Kommentar-Treiber fest eingebaut** — der eigentliche Reichweiten-Hebel.
 
 ---
 
@@ -43,16 +48,34 @@ Lies zuerst:
 
 ### Haltungs-Pool (einfach, bodennah, für Anfängerinnen 40+ ohne Vorkenntnisse)
 
-- Liegende Drehung (Knie zur Seite fallen lassen) — *der Original-Gewinner, nicht zweimal hintereinander nehmen*
+- Liegender Schmetterling (Fußsohlen aneinander, Knie fallen nach außen auf) — *der Original-Gewinner, nicht zweimal hintereinander nehmen*
 - Beine an der Wand
 - Kindhaltung
 - Rücken auf dem Boden, Knie zur Brust
 - Savasana mit Hand auf dem Bauch
-- Schmetterling liegend
+- Liegende Drehung (Knie kippen zu einer Seite)
 - Liegende Hüftöffnung (Figur-4)
 - Seitliches Liegen mit Knie auf Bolster
 
-**Auswahlkriterium:** sofort machbar, keine Beweglichkeit nötig, keine Angst vor „falsch". Vor Wiederholung in `outputs/` und der bisherigen Reel-Historie prüfen — nicht dieselbe Haltung wie zuletzt.
+**Auswahlkriterium:** sofort machbar, keine Beweglichkeit nötig, keine Angst vor „falsch". **UND (Pflicht für dieses Format): Die Haltung muss zu einer Körper-Metapher taugen** (Schritt 2.4) — eine körperliche Geste, die ein Loslassen sichtbar macht (öffnen, aufgehen, sinken, schwer werden). Vor Wiederholung in `outputs/` und der bisherigen Reel-Historie prüfen — nicht dieselbe Haltung wie zuletzt.
+
+---
+
+## Schritt 2.4 — Körper-Metapher festlegen (PFLICHT — das Herzstück)
+
+**Bevor du irgendetwas schreibst: Finde die EINE Metapher, die diese Haltung körperlich verkörpert.** Das ist der Schritt, der den Gewinner zum Gewinner gemacht hat.
+
+Vorgehen:
+1. **Welche körperliche Geste macht die Haltung?** (öffnen / aufgehen lassen / sinken / schwer werden / abstützen / fallen lassen)
+2. **Welches emotionale Muster der Soul Client spiegelt genau diese Geste?** (zusammenhalten → loslassen · tragen → abgeben · oben halten → sinken lassen · festhalten → öffnen)
+3. **Eine Metapher festlegen, die durch ALLES läuft** — Hook, Übung und Caption-Reframe sagen dasselbe, einmal körperlich, einmal emotional.
+
+**Der Original-Gewinner als Vorlage:**
+- Geste: Knie, die zusammengehalten waren, fallen auf.
+- Emotionales Muster: „den ganzen Tag alles zusammenhalten" (Plan, Stimmung, sich selbst).
+- Durchgehende Metapher: **zusammenhalten → nichts mehr zusammenhalten müssen.** Hook („wenn du den ganzen Tag alles zusammengehalten hast") = Übung (Knie aufgehen lassen) = Reframe („der erste Moment, in dem du nichts zusammenhalten musst").
+
+**Test (Pflicht):** Wenn du Hook, Übung und Reframe nebeneinanderlegst — sagen sie dieselbe Sache, einmal im Körper, einmal im Gefühl? Wenn nicht, ist es noch nicht das Gewinner-Format. Erst weiterschreiben, wenn die Metapher steht.
 
 ---
 
@@ -105,10 +128,12 @@ Das demonstrative **„diese"** zeigt mit dem Finger auf genau die Übung im Vid
 > Und dann pass auf, was sich löst.
 > Fühl selbst, was dann passiert.
 
-**Beispiel (liegende Drehung — der Original-Gewinner):**
-> **Beat 1:** Ich wünschte, mehr Frauen wüssten, was diese drei Minuten am Boden mit dir machen, / wenn du den ganzen Tag alles gehalten hast.
-> **Beat 2:** Knie zur Seite fallen lassen, drei Minuten.
+**Beispiel (liegender Schmetterling — der Original-Gewinner):**
+> **Beat 1:** Ich wünschte, mehr Frauen wüssten, was diese drei Minuten am Boden mit dir machen, / wenn du den ganzen Tag alles zusammengehalten hast.
+> **Beat 2:** Fußsohlen aneinander, Knie fallen lassen. Drei Minuten.
 > **Beat 3:** Und dann spür selbst, was passiert.
+>
+> *(Die Metapher trägt durch: „alles zusammengehalten" im Hook ↔ die zusammengehaltenen Knie fallen auf in der Übung.)*
 
 **Stilregeln Reel-Text:**
 - Beat 1 nennt das Ergebnis-Versprechen, NIE die Spür-Details (kein „dein Atem wird weiter" im Video).
@@ -164,8 +189,12 @@ Was der Körper machen kann — ruhig, körpernah, als kleine Liste, **an die in
 > [weiter laut geprüfter Wirkung]
 > Und manchmal merkst du erst dann, wie angespannt du eigentlich warst.
 
-**3. Verbindung zum Funktionsmodus**
-Kurz, je Post frisch, am Anker entlang — nie ein fester Block. Nicht über Verbotenes definieren (auch nicht per Verneinung). Statt „kein Workout" → „Das ist ein kleiner Moment, in dem dein Körper merkt: Ich muss gerade nichts leisten."
+**3. Metapher-Reframe (Pflicht — der emotionale Höhepunkt, NICHT weglassen)**
+Hier wird die Körper-Metapher aus Schritt 2.4 explizit gemacht — die körperliche Geste der Übung als emotionale Erlaubnis benannt. Das ist der Satz, der im 84k-Reel die Speicherungen trug. Formel: erst das emotionale Muster benennen, dann die Übung als seinen Gegenpol setzen.
+> Den ganzen Tag hältst du alles zusammen — den Plan, die Stimmung, dich selbst.
+> Das hier ist der erste Moment am Tag, in dem du nichts zusammenhalten musst.
+
+Je Post frisch an der gewählten Metapher entlang (tragen → abgeben · oben halten → sinken lassen · festhalten → öffnen). Nie über Verbotenes definieren (auch nicht per Verneinung). Nie ein Vorwurf an die Frau.
 
 **4. Einfache Anleitung**
 ```
@@ -224,7 +253,8 @@ Wenn der Post keine DM-Mechanik hat: diesen Block weglassen.
 
 ```
 ---
-ERGEBNIS + ANKER (intern)
+METAPHER + ERGEBNIS + ANKER (intern)
+Metapher:  [die Körper-Geste = das Gefühl, z. B. „zusammenhalten → aufgehen lassen"]
 Ergebnis:  [gespürtes Körper-Resultat]
 Anker:     [für wen / wann]
 
@@ -247,7 +277,7 @@ Filmen:  [kurze Beschreibung]
 CAPTION
 [Erkennungs-Hook „Die meisten Frauen…"]
 [Auflösung des Open Loops]
-[Verbindung Funktionsmodus]
+[Metapher-Reframe — emotionales Muster + Übung als Gegenpol]
 [Anleitung]
 [Erkenntnissatz]
 [Speicher-CTA + Freebie-Kommentar-CTA]
@@ -275,6 +305,7 @@ Nach der Ausgabe: kurz fragen, ob Haltung, Hook oder Caption angepasst werden so
 
 ## Stilregeln
 
+- **Herzstück zuerst: EINE Körper-Metapher zieht durch Hook, Übung und Caption-Reframe** (Schritt 2.4). Die körperliche Geste IST die emotionale Botschaft — ohne diese Deckung kein Gewinner-Reel.
 - Insider-Hook ist der Standard (Beat 1 = „Ich wünschte, mehr Frauen wüssten…"-Familie), Open Loop — Details erst in der Caption.
 - Caption öffnet mit dem Erkennungs-Satz „Die meisten Frauen…" — das trägt Speichern + Kommentar.
 - Versprochenes Ergebnis IMMER gespürt-körperlich, nie Leistung/Optimierung (Schritt 2.5).
