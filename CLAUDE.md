@@ -263,10 +263,11 @@ Eingebaute Regeln: max. 2 Verkaufstage am Stück · max. 1–2 harte Produkt-Pit
 
 ### /story [typ | typ anzahl]
 
-**Zweck:** Ein einzelner Story-Post für zwischendurch — der spontane Bruder von `/story-woche`. Copy-fertig: Frame-Text, Sticker, B-Roll-Hinweis, Link wo nötig.
+**Zweck:** Ein einzelner Story-Post für zwischendurch — **ohne jeden Verkauf** (Beziehungs-Ebene: Wiedererkennung + Nähe). Rotierender Mix aus vier Sorten, warmer Grundton „mit dem Guten führen" (umgebaut 2026-06-27). Copy-fertig: Frame-Text, Sticker, B-Roll-Hinweis.
 
-- `/story satz` → Wahrer Satz · `/story check` → Spür-Check (Umfrage) · `/story impuls` → Mini-Körperimpuls · `/story take` → Leiser Take · `/story frage` → Frage-Box · `/story anstoss` → Reel/Karussell teilen · `/story einladung` → Funnel (Freebie/Telegram/Angebot) · `/story bts` → Behind-the-Scenes · `/story persoenlich` → Persönliche Tür (1 von 6)
-- `/story satz 3` → mehrere Varianten · ohne Argument: fragt nach dem Typ
+- `/story` → rotierender Mix (Spruch · persönlich · Impuls · Check; Spruch + persönlich sind das Herz)
+- `/story spruch` (· `spruch 3`) → wahrer Satz, 4 Formen rotierend (stiller Spiegel · Vielleicht-Paar · leise Frage · Alltagssatz) · `/story persoenlich` → warme persönliche Story (5 Themen: echte Praxis-Momente · die Ausbildung · mein Warum · Gesicht & Stimme · kleine Lebensfreude-Momente) · `/story impuls` → Mini-Körperimpuls · `/story check` → Spür-Check
+- **Kein Verkauf:** kein CTA/Keyword/Link/Funnel. Grundton aus dem Human Design (zeigen statt lehren, im Frieden landen, dosiert/faceless), keine negative Grundstimmung, Tochter kommt nicht vor. Persönlich-Themen + Ton: `reference/persoenlicher-content.md` + `context/human-design.md`. Rotation über `outputs/story-woche/verlauf.md`.
 
 ### /shutdown
 
