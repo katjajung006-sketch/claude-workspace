@@ -198,6 +198,10 @@ Niedrigschwellig. Genau einen wählen — passend zum Ziel des Posts.
 **Folgen:**
 > Folge mir, wenn du Yoga nicht als Leistung sehen willst — sondern als Weg zurück zu dir.
 
+**Senden/Teilen** (zusätzliche Option, ergänzt 2026-06-28 — größter Reichweiten-Hebel, DM-Sends 3–5× wertvoller als Likes für kalte Reichweite):
+> [content-spezifischer Sende-Satz — konkrete Person, die genau diese Übung gerade braucht, nie der Standardsatz]
+Rein additiv (ersetzt das Speichern nicht), nur wenn er zum Inhalt passt. Regel + Beispiele: `reference/senden-ctas.md`.
+
 ---
 
 ## Output 5 — Design-Hinweise pro Slide (optional)

@@ -259,6 +259,10 @@ Kommentieren — Freebie (**immer das registrierte ManyChat-Keyword, nie frei er
 Folgen:
 > Folge mir, wenn du Yoga ohne Leistungsdruck nutzen willst, um aus dem Funktionsmodus zurück in deinen Körper zu kommen.
 
+Senden/Teilen (zusätzliche Option, ergänzt 2026-06-28 — größter Reichweiten-Hebel, DM-Sends 3–5× wertvoller als Likes für kalte Reichweite; in der Caption, nie im Video):
+> [content-spezifischer Sende-Satz — konkrete Person aus genau diesem Reel-Moment, nie der Standardsatz]
+Rein additiv (ersetzt das Speichern nicht), nur wenn er zum Inhalt passt. Regel + Beispiele: `reference/senden-ctas.md`.
+
 ---
 
 ## Output 6 — Story-Sequenz (immer)

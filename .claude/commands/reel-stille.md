@@ -226,6 +226,8 @@ Speicher-CTA (Wiederkehr, Mehrzahl):
 
 **Kommentar bewusst anstoßen:** Wenn kein Freebie, dann eine leichte Erkennungsfrage stellen, damit Kommentare kommen (der Original-Reel hatte 0 Kommentare → Luft nach oben für den Algo-Schub).
 
+**Senden/Teilen zusätzlich anbieten** (ergänzt 2026-06-28 — neben Speichern + Kommentar, ersetzt keins davon): ein **content-spezifischer Sende-Satz** (konkrete Person aus genau diesem stillen Moment, nie der Standardsatz). DM-Sends sind 3–5× wertvoller als Likes für kalte Reichweite. Formel + Beispiele: `reference/senden-ctas.md`.
+
 ---
 
 ## Output 5 — Hashtags

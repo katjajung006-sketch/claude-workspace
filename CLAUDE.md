@@ -445,6 +445,7 @@ Pro Reel-Ziel eine fertige CTA-Vorlage in Brand Voice — zum Rauspicken beim Co
 - **Folgen** → `reference/folgen-ctas.md` — Regel: Grund statt Bitte („bleib hier, wenn…"), Identität/Zugehörigkeit am stärksten.
 - **Speichern** → `reference/speichern-ctas.md` — Regel: wiederkehrender Zukunftsmoment („für die Abende, an denen…").
 - **Kommentar/Keyword** → `reference/kommentar-keyword-ctas.md` — Keyword immer **CHECK** (Funnel), plus Erkennungs-Kommentar fürs Engagement.
+- **Senden/Teilen** → `reference/senden-ctas.md` — Regel: **immer content-spezifisch** (konkrete Person aus genau diesem Reel-Moment), nie der immergleiche Standardsatz. Größter Reichweiten-Hebel (DM-Sends 3–5× wertvoller als Likes für kalte Reichweite), ergänzt 2026-06-28 nach der Insights-Auswertung. Rein additiv neben den anderen CTAs, ersetzt das Speichern nicht.
 
 ## Notizen
 

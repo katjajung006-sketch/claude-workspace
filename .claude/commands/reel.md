@@ -223,6 +223,8 @@ Speichern:
 Teilen:
 > Schick das einer Frau, die immer funktioniert — aber viel zu selten gefragt wird, wie es ihr wirklich geht.
 
+> **Sende-Satz immer content-spezifisch** bauen (nicht den Beispielsatz stempeln): konkrete Person aus genau diesem Reel-Moment benennen. Senden ist der größte Reichweiten-Hebel (DM-Sends 3–5× wertvoller als Likes für kalte Reichweite) — als „freien" zweiten CTA bevorzugen, wenn er passt. Formel + Beispiele: `reference/senden-ctas.md` (ergänzt 2026-06-28).
+
 Kommentieren:
 > Kommentiere „ich kenne das", wenn du diesen Moment auch schon gespürt hast.
 

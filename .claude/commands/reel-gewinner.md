@@ -236,6 +236,8 @@ Dieses Format lebt von Speichern UND Kommentar (= der Distribution-Hebel). Immer
 
 **Kommentar bewusst anstoßen:** Der Kommentar-CTA ist hier kein Nebenziel — er löst den Algo-Schub aus. Wenn das Reel kein Freebie trägt, stattdessen eine **leichte Erkennungsfrage** stellen („Kennst du das? Schreib mir ein Wort drunter."), damit Kommentare kommen.
 
+**Senden/Teilen zusätzlich anbieten** (ergänzt 2026-06-28 — neben Speichern + Kommentar, ersetzt keins davon): ein **content-spezifischer Sende-Satz** (konkrete Person aus genau diesem Reel-Moment, nie der Standardsatz). DM-Sends sind 3–5× wertvoller als Likes für kalte Reichweite — verstärkt genau den Distribution-Effekt, von dem dieses Format lebt. Formel + Beispiele: `reference/senden-ctas.md`.
+
 ---
 
 ## Output 5 — Hashtags

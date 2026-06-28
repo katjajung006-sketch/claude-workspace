@@ -136,6 +136,10 @@ Speichern (Hauptziel — als Wiederkehr-Geste, Mehrzahl):
 Folgen:
 > Folge mir, wenn du Yoga nicht als noch ein To-do suchst — sondern als Weg raus aus dem Funktionsmodus.
 
+Senden/Teilen (zusätzliche Option, ergänzt 2026-06-28 — größter Reichweiten-Hebel, DM-Sends 3–5× wertvoller als Likes für kalte Reichweite; Spiegel-Reels werden besonders gern weitergeschickt: „das bist du"):
+> [content-spezifischer Sende-Satz — konkrete Person, die sich in genau diesem Spiegel erkennt, nie der Standardsatz]
+Rein additiv (ersetzt das Speichern nicht), nur wenn er zum Inhalt passt. Regel + Beispiele: `reference/senden-ctas.md`.
+
 Freebie über Keyword:
 > Und wenn du heute drei Minuten für dich willst: Kommentier **3MINUTEN**, dann schick ich dir meinen kleinen Körpercheck. Drei Minuten, in denen du nichts musst, außer wieder bei dir anzukommen.
 
