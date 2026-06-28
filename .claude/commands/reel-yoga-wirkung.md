@@ -95,7 +95,7 @@ Formel:
 ```
 Beat 1 (0–3 Sek):  [Ergebnis-Hook aus dem Pool — Wirkung + Anker, ohne Details]
 Beat 2 (3–7 Sek):  [Haltung + Zeit — konkret und machbar]
-Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, hält die Details zurück]
+Beat 3 (7–12 Sek): [Ergebnis-Teaser — macht neugierig, DASS etwas passiert, ohne das WAS zu verraten]
 ```
 
 **Grundregel Hook (Pflicht — Quelle: `reference/hook-formel.md`):** Der erste Satz setzt IMMER an einem konkreten, gelebten, sofort wiedererkennbaren Moment an — sie kennt ihr Problem („den ganzen Tag alles zusammengehalten" · „Feierabend, aber der Kopf läuft"). Nie eine Diagnose über etwas, das sie „nicht merkt" — darin erkennt sie sich nicht. Konkret schlägt abstrakt, Erkennen = Scroll-Stop.
@@ -124,11 +124,11 @@ Bewährte Formel: **„Ich wünschte, mehr Frauen wüssten, was diese [kurze Zei
 
 **Verfeinerung — Demonstrativ statt unbestimmt (empfohlener Standard):** Wo der Hook auf die Übung/Zeit zeigt, lieber **„diese drei Minuten" / „diese eine Übung"** statt der unbestimmten Form („drei Minuten" / „eine Übung"). Das Wörtchen „diese" zeigt mit dem Finger auf genau das, was sie im Video sieht — bindet das Versprechen an die konkrete Übung und erzeugt einen Mini-Sog (*welche* drei Minuten? die da). Konkret schlägt allgemein. Beispiel: „Ich wünschte, mehr Frauen wüssten, was **diese** drei Minuten so machen, wenn …"
 
-**Beat-3-Pool (offene Spür-Sätze — halten die Details zurück):**
-> Und dann spür selbst, was passiert.
-> Und dann pass auf, was sich löst.
-> Fühl selbst, was dann passiert.
+**Beat-3-Pool (Ergebnis-Teaser — teast, DASS etwas Konkretes passiert, ohne das WAS zu verraten → der Grund, die Caption zu lesen. Voll: `reference/watchtime-retention.md`):**
+> Und dann passiert das mit deinem Körper:
 > Und dein Körper macht plötzlich das:
+> Ich war selbst überrascht, was nach drei Minuten passiert.
+> Und dann passiert etwas, das du den ganzen Tag vermisst hast.
 
 **Beispiel (liegende Drehung, Ergebnis „der Tag fällt vom Körper ab", Anker „den ganzen Tag alles gehalten"):**
 > **Beat 1:** Ich wünschte, mehr Frauen wüssten, was diese drei Minuten am Boden mit dir machen, / wenn du den ganzen Tag alles gehalten hast.
@@ -141,6 +141,7 @@ Bewährte Formel: **„Ich wünschte, mehr Frauen wüssten, was diese [kurze Zei
 - Körperteil-Regel beachten (Schritt 2.6) — über den Zustand führen.
 - **NIE auf die Caption verweisen** („steht in der Caption" / „Auflösung unten") — wirkt veraltet.
 - **Kein CTA im Video** — CTAs leben ausschließlich in der Caption.
+- Beat 3 = **Ergebnis-Teaser** (Watch-Time): neugierig machen, DASS etwas passiert, ohne das WAS zu nennen — nicht bloß „spür mal". Das konkrete Was steht in der Caption. Regel: `reference/watchtime-retention.md`.
 
 ---
 

@@ -78,6 +78,8 @@ Sonst eine leise Wendung als Brücke zur Brand (kein Yoga-Verkauf, keine Diagnos
 
 **Filmhinweis:** Minimalistisch, ruhig. Mögliche Szenen: still auf der Matte sitzen · am Fenster stehen · langsam durch den Raum gehen · auf dem Stuhl sitzen und bewusst atmen · Beine an der Wand · Schultern langsam rollen · Hand auf den Brustkorb · barfuß auf der Matte · einfache Alltagsszene (Küche, Fenster, Sofa, Spaziergang). Kein Pose-Perfektionismus. Viel Leerraum, ruhige Schrift, klare Lesbarkeit, keine hektischen Schnitte.
 
+**Watch-Time:** Hook-Titel + Liste liegen ab Frame 1 (kein Vorlauf), kurz halten (hohe Completion), kein Dead-Air — der Text trägt stumm. Erkennungs-Reel **ohne** Übungs-Payoff: der Schlusssatz landet die Erkennung und macht zugleich leise neugierig auf die Wendung in der Caption, ohne sie zu verraten. Voll: `reference/watchtime-retention.md`.
+
 ---
 
 ## Output 2 — Thumbnail-Hook (Reelcover)

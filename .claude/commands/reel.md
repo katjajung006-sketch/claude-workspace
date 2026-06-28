@@ -53,6 +53,8 @@ Doppelpunkt am Ende
 
 **PFLICHT: Der Reel-Text MUSS mit einer der vier Grundformeln beginnen. Keine Ausnahme.**
 
+**Watch-Time (Funktionsmodus-/Erkennungs-Reel):** Hook-Text liegt ab Frame 1 (kein Vorlauf), kurz halten (hohe Completion), kein Dead-Air, stumm lesbar. Erkennungs-Content **ohne** Übungs-Payoff — der Schluss macht **neugierig auf die Auflösung in der Caption** (Ergebnis-Teaser-Logik, angepasst: dass da noch etwas kommt, ohne es zu verraten), nie die ganze Pointe ins Video. Voll: `reference/watchtime-retention.md`.
+
 Diese Formeln sind der Scroll-Stopper — sie erzeugen Aufmerksamkeit, weil sie sofort wiedererkennen lassen. Ohne diese Formel funktioniert der Hook nicht. Nie davon abweichen.
 
 Formel 1 — starke Aussage mit Reframe:

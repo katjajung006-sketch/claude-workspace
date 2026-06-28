@@ -117,7 +117,7 @@ Beispiele:
 ```
 Beat 1 (0–3 Sek):  [Erkennungs-Hook — stiller Moment + Kopf macht nicht aus]
 Beat 2 (3–7 Sek):  [konkreter Anker — was sie JETZT tun soll, sichtbar]
-Beat 3 (7–12 Sek): [leiser, offener Spür-Satz — was der Kopf dann darf]
+Beat 3 (7–12 Sek): [leiser Ergebnis-Teaser — neugierig auf das WAS, ohne es ganz zu verraten; das volle Warum kommt in der Caption]
 ```
 
 **Bewährter Hook (Original, Top-Performer — Quelle auch Memory `feedback_hook_konkreter_moment`):**
@@ -129,10 +129,10 @@ Beat 3 (7–12 Sek): [leiser, offener Spür-Satz — was der Kopf dann darf]
 > Du sitzt endlich. Und sofort fängt der Kopf an.
 > Endlich Ruhe. Und genau dann wird es in deinem Kopf laut.
 
-**Beat-3-Pool (leise, offen):**
+**Beat-3-Pool (leiser Ergebnis-Teaser — teast, DASS sich etwas löst, das volle Warum bleibt für die Caption; Quelle: `reference/watchtime-retention.md`):**
+> Und dann passiert etwas mit deinem Kopf:
 > Und dein Kopf darf langsam leiser werden.
-> Und irgendwann hört das Rattern auf.
-> Spür, wie es langsam ruhiger wird — von innen.
+> Ich war selbst überrascht, was sich nach drei Minuten ändert.
 
 **Beispiel (Original, Seitenlage):**
 > **Beat 1:** Es ist still. Aber dein Kopf macht nicht aus.
@@ -144,6 +144,7 @@ Beat 3 (7–12 Sek): [leiser, offener Spür-Satz — was der Kopf dann darf]
 - Beat 2 ist konkret + sichtbar — sie sieht die Position und kann sie sofort nachbauen.
 - **Retention (aus den Daten):** Knick bei 0:04 → Beat 2 muss sofort nach dem Hook kommen, kein Leerlauf.
 - **NIE auf die Caption verweisen, kein CTA im Video.**
+- Beat 3 = **leiser Ergebnis-Teaser** (Watch-Time): neugierig machen, DASS sich etwas löst, ohne das volle Warum zu verraten — das kommt in der Caption. Nicht bloß „spür mal". Regel: `reference/watchtime-retention.md`.
 
 ---
 

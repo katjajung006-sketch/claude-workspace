@@ -108,7 +108,7 @@ Der Anker trägt die Weiterleitungs-Wirkung — eine Frau, die sich erkennt, den
 ```
 Beat 1 (0–3 Sek):  [Insider-Hook — Wirkung + Anker, ohne Details]
 Beat 2 (3–7 Sek):  [Haltung + Zeit — konkret und machbar]
-Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, hält die Details zurück]
+Beat 3 (7–12 Sek): [Ergebnis-Teaser — macht neugierig, DASS etwas passiert, ohne das WAS zu verraten]
 ```
 
 **Bewährte Leit-Formel (viral, 84k):**
@@ -136,10 +136,10 @@ Das demonstrative **„diese"** zeigt mit dem Finger auf genau die Übung im Vid
 
 Bei jedem Einstieg gilt: Anker konkret + gelebt (Schritt 2.6), Ergebnis gespürt-körperlich (Schritt 2.5), Übung erst in Beat 2.
 
-**Beat-3-Pool (offene Spür-Sätze — halten die Details zurück):**
-> Und dann spür selbst, was passiert.
-> Und dann pass auf, was sich löst.
-> Fühl selbst, was dann passiert.
+**Beat-3-Pool (Ergebnis-Teaser — teast, DASS etwas Konkretes passiert, ohne das WAS zu verraten → der Grund, die Caption zu lesen. Voll: `reference/watchtime-retention.md`):**
+> Und dann passiert das mit deinem Körper:
+> Und dein Körper macht plötzlich das:
+> Und dann passiert etwas, das du den ganzen Tag vermisst hast.
 
 **Beispiel (liegender Schmetterling — der Original-Gewinner):**
 > **Beat 1:** Ich wünschte, mehr Frauen wüssten, was diese drei Minuten am Boden mit dir machen, / wenn du den ganzen Tag alles zusammengehalten hast.
@@ -150,6 +150,7 @@ Bei jedem Einstieg gilt: Anker konkret + gelebt (Schritt 2.6), Ergebnis gespürt
 
 **Stilregeln Reel-Text:**
 - Beat 1 nennt das Ergebnis-Versprechen, NIE die Spür-Details (kein „dein Atem wird weiter" im Video).
+- Beat 3 = **Ergebnis-Teaser** (Watch-Time): neugierig machen, DASS etwas passiert, ohne das WAS zu nennen — nicht bloß „spür mal" (kein Grund, die Caption zu lesen). Das Was steht in der Caption. Regel: `reference/watchtime-retention.md`.
 - Ergebnis immer gespürt-körperlich (Schritt 2.5), Körperteil-Regel (Schritt 2.6).
 - **NIE auf die Caption verweisen**, **kein CTA im Video** — CTAs leben nur in der Caption.
 - **Retention-Hinweis (aus den Daten):** Der Gewinner verlor die meisten bei 0:04. Beat 2 muss SOFORT nach dem Hook einen Grund zum Weiterschauen liefern — kein Leerlauf zwischen Hook und Übung.

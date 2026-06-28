@@ -101,7 +101,7 @@ Formel:
 ```
 Beat 1 (0–3 Sek):  [Situations-Anker aus Schritt 2.6 — sie erkennt sich]
 Beat 2 (3–7 Sek):  [Haltung + Zeit — konkret und machbar]
-Beat 3 (7–12 Sek): [Open Loop — offener Spür-Satz, der zum Anker zurückführt]
+Beat 3 (7–12 Sek): [Ergebnis-Teaser — macht neugierig, DASS etwas passiert, ohne das WAS zu verraten; führt zum Anker zurück]
 ```
 
 Beispiel (Beine an der Wand, Anker „Kopf schreibt Listen"):
@@ -114,16 +114,15 @@ Beispiel (Kindhaltung, Anker „alle wollen etwas"):
 > **Beat 2:** Knie breit. Stirn auf den Boden. / Bleib 3 Minuten.
 > **Beat 3:** Und dann spür, was passiert, / wenn endlich niemand etwas will.
 
-**Beat-3-Pool (offene Spür-Sätze — je Haltung den wählen, der zum Anker zurückführt):**
-> Und dann hör hin, was leiser wird.
-> Und dann pass auf, was dein Körper macht.
-> Fühl selbst, was dann passiert.
+**Beat-3-Pool (Ergebnis-Teaser — teast, DASS etwas Konkretes passiert, ohne das WAS zu verraten → genau das ist der Grund, die Caption zu lesen. Voll: `reference/watchtime-retention.md`):**
+> Und dann passiert das mit deinem Körper:
 > Und dein Körper macht plötzlich das:
-> Und dann spür, was passiert, wenn [Gegenteil des Ankers].
+> Ich war selbst überrascht, was nach drei Minuten passiert.
+> Und dann passiert etwas, das du den ganzen Tag vermisst hast.
 
 **Stilregeln:**
 - Beat 1 muss in den ersten 1–2 Sekunden stoppen — Spezifik schlägt Eingängigkeit. Kein „Stress allgemein", sondern der konkrete Moment.
-- Beat 3 bleibt offen — kein Ergebnis nennen. Nie im Reel: „Dein Atem wird tiefer" / „Deine Schultern sinken" → Das kommt in der Caption.
+- Beat 3 = **Ergebnis-Teaser** (Watch-Time): macht neugierig, DASS etwas passiert, nennt das WAS aber nicht — nicht bloß „spür mal" (das gibt keinen Grund, die Caption zu lesen). Die Spür-Details („Dein Atem wird tiefer" / „Deine Schultern sinken") stehen in der Caption, nie im Reel. Regel: `reference/watchtime-retention.md`.
 - **NIE auf die Caption verweisen** („steht in der Caption" / „Auflösung unten") — wirkt veraltet, die Leute kennen die Mechanik.
 - **Kein CTA im Video** (kein „schick's ihr", kein „speicher dir das") — CTAs leben ausschließlich in der Caption. Die Weiterleitung löst Beat 1 über Wiedererkennung aus.
 

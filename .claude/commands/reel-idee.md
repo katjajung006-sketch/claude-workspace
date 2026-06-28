@@ -105,7 +105,7 @@ Finaler Hook: [der gesetzte Hook]
 ---
 ```
 
-Danach das vollständige Reel im Ausgabe-Format des erkannten Formats (siehe `reel.md` bzw. `reel-yoga.md`): Reel-Text · Reelcover · Haltung/Filmhinweis bzw. B-Roll · Caption · Hashtags · Story-Sequenz · DM-Antwort (wenn nötig).
+Danach das vollständige Reel im Ausgabe-Format des erkannten Formats (siehe `reel.md` bzw. `reel-yoga.md`): Reel-Text · Reelcover · Haltung/Filmhinweis bzw. B-Roll · Caption · Hashtags · Story-Sequenz · DM-Antwort (wenn nötig). Dabei gelten die **Watch-Time-/Ergebnis-Teaser-Regeln** des erkannten Formats (Schluss-Beat = Ergebnis-Teaser, Frame-1-Text, kurz halten): `reference/watchtime-retention.md`.
 
 Nach der Ausgabe: kurz fragen, ob Hook, Caption oder ein anderer Teil angepasst werden soll — oder ob eine der Hook-Alternativen rein soll.
 
