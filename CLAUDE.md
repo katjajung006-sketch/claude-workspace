@@ -384,6 +384,8 @@ Live-Domains: `check.katjajung.com` (Landingpage + €7-Seite) und `10-minuten-r
 
 ManyChat steuert die **Instagram-Auto-DMs**: Kommentar mit Keyword **CHECK** unter einem Reel → automatische DM mit Freebie-Link (`check.katjajung.com`). Verbindet Instagram-Kommentar → Freebie → Landingpage → systeme.io.
 
+> **NEU seit 2026-06-28 — eigene Facebook-Seite:** Katja hat eine echte **Facebook-Seite** „Katja Jung - Yoga für Frauen 40+" erstellt (`facebook.com/profile.php?id=61591338606353`). Instagram ist mit der Seite verknüpft, das **Crossposting läuft jetzt auf die Seite** (nicht mehr aufs persönliche FB-Profil). Damit ist **ManyChat auf Facebook möglich** — die **Verbindung ManyChat ↔ Seite steht aber noch aus (nächster Schritt, Katja meldet sich dafür)**. Hintergrund/Details: Memory `project_facebook_crosspost`. Follower des alten Profils (214) lassen sich nicht automatisch übertragen → organisch über Reels + geplanter „Umzugs-Post".
+
 - **Account:** @yoga.statt.funktionieren, **Free-Plan** (Limit 25 Kontakte). Kein MCP/API-Connector → Bedienung über die **Claude-Chrome-Extension** (eingeloggte Session) oder copy-fertige Texte.
 - **Flows (Stand 2026-06-23):**
   - **„Auto-DM Funktionsmodus-Check"** — Keyword **CHECK** → Opening-DM → Link-DM `check.katjajung.com`. **LIVE** auf dem Reel „Der Körper sagt selten laut Nein…". „check" ist gängig → bleibt fest auf diesem Reel, NICHT auf „any post".
