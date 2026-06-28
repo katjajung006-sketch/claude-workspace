@@ -18,9 +18,11 @@ Token kann jederzeit im Cloudflare-Dashboard (My Profile → API Tokens) widerru
 | --- | --- | --- | --- |
 | `katjajung-check` | `cloudflare-deploy/check/` | check.katjajung.com | katjajung-check.pages.dev |
 | `kurs-10-minuten-rueckkehr` | `cloudflare-deploy/kurs/` | 10-minuten-rueckkehr.katjajung.com | kurs-10-minuten-rueckkehr.pages.dev |
+| `katjajung-start` | `cloudflare-deploy/start/` | start.katjajung.com | katjajung-start.pages.dev |
 
 **Projekt 1 (check):** index.html (Landingpage), angebot.html (€7-Tripwire-Verkaufsseite), optin.html, katja.jpg
 **Projekt 2 (kurs):** index.html (= die öffentliche €17-Kursseite, ursprünglich kurs.html)
+**Projekt 3 (start):** index.html (= der Instagram-Bio-Link-Hub, Quelle `website-quelle/start.html`), katja.jpg. Ersetzt Linktree als zweiten Bio-Link. Neue Miniprodukte = einfach als weitere Karte in `website-quelle/start.html` ergänzen und neu deployen — die Bio bleibt unverändert.
 
 Hinweis: Cloudflare Pages nutzt „Clean URLs" — `/angebot.html` leitet per 308 auf `/angebot`. Beides liefert 200. Kein host-basierter `_redirects`-Trick nötig (deshalb zwei Projekte statt einem).
 
@@ -39,7 +41,14 @@ export CLOUDFLARE_ACCOUNT_ID=<siehe secrets.local.md>
 
 npx --yes wrangler@latest pages deploy cloudflare-deploy/check --project-name=katjajung-check --branch=main --commit-dirty=true
 npx --yes wrangler@latest pages deploy cloudflare-deploy/kurs --project-name=kurs-10-minuten-rueckkehr --branch=main --commit-dirty=true
+
+# Bio-Link-Hub (vor Deploy synchronisieren):
+cp website-quelle/start.html cloudflare-deploy/start/index.html
+cp website-quelle/katja.jpg cloudflare-deploy/start/katja.jpg
+npx --yes wrangler@latest pages deploy cloudflare-deploy/start --project-name=katjajung-start --branch=main --commit-dirty=true
 ```
+
+Hinweis: Das Projekt `katjajung-start` wurde am 2026-06-28 neu angelegt (`wrangler pages project create katjajung-start --production-branch=main`, dann Custom Domain via API: `POST /accounts/{id}/pages/projects/katjajung-start/domains` mit `{"name":"start.katjajung.com"}`).
 
 ## DNS bei One.com (CNAME)
 
@@ -47,5 +56,6 @@ npx --yes wrangler@latest pages deploy cloudflare-deploy/kurs --project-name=kur
 | --- | --- |
 | `check` | `katjajung-check.pages.dev` |
 | `10-minuten-rueckkehr` | `kurs-10-minuten-rueckkehr.pages.dev` |
+| `start` | `katjajung-start.pages.dev` |
 
 Alte Netlify-Ziele (`celebrated-wisp-6ee073.netlify.app`) ersetzen. SSL stellt Cloudflare nach DNS-Verifizierung automatisch aus.
