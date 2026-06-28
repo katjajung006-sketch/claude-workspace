@@ -190,7 +190,7 @@ Genau **5 Hashtags**, die wirklich zu diesem Content passen — Mischung aus The
 
 ## Output 5 — Caption
 
-**Identischer Aufbau wie `/reel-yoga`** (parallel halten für den A/B-Test). Caption beginnt mit einem **eigenen Hook** — einem **anderen** als im Reel —, der **echte Neugier** macht (Grund zum Weiterlesen). Kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr"; kein langer Erklärsatz als Opener. (Memory `feedback_caption_eigener_hook`.)
+**Identischer Aufbau wie `/reel-yoga`** (parallel halten für den A/B-Test). Caption beginnt mit einem **eigenen Hook** — einem **anderen** als im Reel —, der **echte Neugier** macht (Grund zum Weiterlesen). Kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr"; kein langer Erklärsatz als Opener. (Memory `feedback_caption_eigener_hook`.) **Davor steht die Brücken-Zeile** (Pflicht in diesem Format): die allererste Caption-Zeile greift Beat 3 auf und zeigt nach unten — z. B. „Hier ist, was passiert 👇🏻", passend zum konkreten Beat 3 —, dann erst der eigene Hook (Memory `feedback_caption_bruecke`).
 
 ### Caption-Struktur (Reihenfolge einhalten):
 

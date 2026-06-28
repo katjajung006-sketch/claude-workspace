@@ -189,7 +189,7 @@ Beispiele:
 
 ## Output 4 — Caption (trägt das Engagement)
 
-Die **erste Zeile** ist ein **eigener Hook** (anderer als im Reel), der **echte Neugier** macht — kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr" (kein langer Erklärsatz als Opener; Memory `feedback_caption_eigener_hook`). Dieser Hook darf eine **zugespitzte Erkennungszeile** sein (z. B. „Du trägst den ganzen Tag alles. Allein."). **Danach der Pflicht-Einstieg im Gewinner-Stil: der Erkennungs-Satz „Die meisten Frauen…"** (oder gleichwertige Spiegelung) — das hat im 84k-Reel die Speicher-/Kommentar-Welle getragen.
+Die **erste Zeile** ist ein **eigener Hook** (anderer als im Reel), der **echte Neugier** macht — kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr" (kein langer Erklärsatz als Opener; Memory `feedback_caption_eigener_hook`). **Davor steht die Brücken-Zeile** (Pflicht): die allererste Caption-Zeile greift Beat 3 auf und zeigt nach unten — z. B. „Hier ist, was passiert 👇🏻", passend zum konkreten Beat 3 (Memory `feedback_caption_bruecke`). Dieser Hook darf eine **zugespitzte Erkennungszeile** sein (z. B. „Du trägst den ganzen Tag alles. Allein."). **Danach der Pflicht-Einstieg im Gewinner-Stil: der Erkennungs-Satz „Die meisten Frauen…"** (oder gleichwertige Spiegelung) — das hat im 84k-Reel die Speicher-/Kommentar-Welle getragen.
 
 ### Caption-Struktur (Reihenfolge einhalten):
 

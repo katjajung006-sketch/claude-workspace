@@ -179,7 +179,7 @@ Beispiele:
 
 ## Output 4 — Caption (trägt das Erkennen)
 
-Die **erste Zeile** ist ein **eigener Hook** (anderer als im Reel), der **echte Neugier** macht — kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr" (kein langer Erklärsatz als Opener; Memory `feedback_caption_eigener_hook`). **Danach der Pflicht-Einstieg: der Reframe aus Schritt 2.6** — das ist der Kern, der die Speicherungen bringt.
+Die **erste Zeile** ist ein **eigener Hook** (anderer als im Reel), der **echte Neugier** macht — kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr" (kein langer Erklärsatz als Opener; Memory `feedback_caption_eigener_hook`). **Davor steht die Brücken-Zeile** (Pflicht): die allererste Caption-Zeile greift Beat 3 auf und zeigt nach unten — z. B. „Hier ist, was passiert 👇🏻", passend zum konkreten Beat 3 (Memory `feedback_caption_bruecke`). **Danach der Pflicht-Einstieg: der Reframe aus Schritt 2.6** — das ist der Kern, der die Speicherungen bringt.
 
 ### Caption-Struktur (Reihenfolge einhalten):
 
