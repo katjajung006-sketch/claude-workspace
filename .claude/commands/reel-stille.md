@@ -179,7 +179,7 @@ Beispiele:
 
 ## Output 4 — Caption (trägt das Erkennen)
 
-Caption beginnt NICHT mit demselben Satz wie das Reel. **Pflicht-Einstieg: der Reframe aus Schritt 2.6** — das ist der Kern, der die Speicherungen bringt.
+Die **erste Zeile** ist ein **eigener Hook** (anderer als im Reel), der **echte Neugier** macht — kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr" (kein langer Erklärsatz als Opener; Memory `feedback_caption_eigener_hook`). **Danach der Pflicht-Einstieg: der Reframe aus Schritt 2.6** — das ist der Kern, der die Speicherungen bringt.
 
 ### Caption-Struktur (Reihenfolge einhalten):
 

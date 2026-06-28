@@ -139,7 +139,7 @@ Beispiele (Stil):
 
 ### Output 3 — Caption
 
-Wichtig: Caption beginnt NICHT mit demselben Satz wie das Reel.
+Wichtig: Caption beginnt mit einem **eigenen Hook** — einem **anderen** als im Reel —, der **echte Neugier** macht (Grund zum Weiterlesen). Kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr"; kein langer Erklärsatz als Opener. (Memory `feedback_caption_eigener_hook`.)
 
 **Kurz halten & am Hook bleiben (Grundregel).** Die Caption bezieht sich immer eng auf den Reel-Text/Hook und löst genau das ein, was er aufmacht — kein Abschweifen in Nebenthemen. Die Zielgruppe ist im Dauerstress: zu lang oder zu weit vom Hook weg = wird nicht zu Ende gelesen. Im Zweifel kürzen. Die Reihenfolge unten ist ein Baukasten, keine Pflicht-Checkliste — nimm nur, was den einen Gedanken des Reels trägt, und streiche, was ein zweites Thema aufmacht. Tiefe lieber auf mehrere Posts verteilen. (**Mini-Übung/Atem-Anker in der Caption ist hier KEIN Standard.** Funktionsmodus-/Klammersatz-Reels sind Erkennungs-Content & Lead-Magnet — der Wert ist das Gesehenwerden, nicht eine Anleitung. Den Körperanker also default weglassen; er lebt im Freebie und in den Yoga-3-Minuten-Reels. Nur einbauen, wenn Katja ihn ausdrücklich will UND kein Freebie-CTA trägt.)
 

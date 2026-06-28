@@ -176,7 +176,7 @@ Genau **5 Hashtags**, die wirklich zu diesem Content passen — Mischung aus The
 
 ## Output 5 — Caption
 
-**Wichtig:** Caption beginnt NICHT mit demselben Satz wie das Reel. Andere Hook — öffnet tiefer.
+**Wichtig:** Caption beginnt mit einem **eigenen Hook** — einem **anderen** als im Reel —, der **echte Neugier** macht (Grund zum Weiterlesen). Kurz und zugespitzt, denn nur die ersten Wörter stehen in der IG-Vorschau vor dem „… mehr"; kein langer Erklärsatz als Opener. (Memory `feedback_caption_eigener_hook`.)
 
 ### Caption-Struktur (Reihenfolge einhalten):
 
