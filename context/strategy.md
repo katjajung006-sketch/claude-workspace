@@ -89,9 +89,10 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 **Bio:** SEO-optimiert (Namensfeld 2026-06-06), Bio-Text geprüft & finalisiert 2026-06-28 (live). Grundprinzip: Instagram durchsucht nur Handle + Namensfeld → Namensfeld trägt das gesuchte Keyword, nicht den (nicht gesuchten) Markensatz „Selbstübergehen".
 - **Namensfeld:** `Katja Jung | Yoga für Frauen 40+` (auffindbar für „Yoga 40+ / Yoga Frauen 40")
 - **Bio-Text (live, Stand 2026-06-28):**
-  - 🤍 Immer stark. Immer da. Und abends wie leer.
+  - 🤍 Immer stark. Immer da. Und abends wie leer
   - 🌿 Yoga zum Spüren, ohne dich zu verrenken
   - 👇 Sanft zurück zu dir: hol dir den Funktionsmodus-Check
+  - _(Zeilen bewusst OHNE Schlusspunkt — Katja-Entscheidung 2026-06-28: ein Punkt auf nur einer Zeile sieht unruhig aus, einheitlich ohne ist sauberer. Komma statt Gedankenstrich in Zeile 2 ist gesetzt.)_
   - **Logik:** Zeile 1 = Körper-Erkennung (3-Sek.-Spiegel „das bin ich"). Zeile 2 = löst den Anfänger-Irrglauben „ich muss beweglich sein / mich verbiegen" auf; „Spüren" trägt die Somatik-Essenz (spüren statt leisten) sichtbar rein, OHNE Fachwort. Zeile 3 = Freebie-CTA mit dem Signatur-Wort „Funktionsmodus-Check" (statt beliebigem „Gratis-Check") + Zeiger 👇 zum Link. (Spüren-Swap final genommen; „Gratis-Check" → „Funktionsmodus-Check" am 2026-06-28 geschärft.)
 - **Bio-Links (2 native IG-Links, Stand 2026-06-28):**
   1. `check.katjajung.com` → Funktionsmodus-Check (Freebie, primär)
