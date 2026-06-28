@@ -333,6 +333,7 @@ Jeder Satz ist eine Entscheidung, kein generiertes Muster.
 Katja macht eine **Somatic-Yoga-Lehrerausbildung** (deutsch, komplett online, self-paced: 200h-Basis/RYT-200 + Somatic-60h-Spezialisierung; bewusst nicht die klassische Yogalehrer-Ausbildung). Somatic Yoga = **spüren statt leisten** — langsame, kleine, von innen geführte Bewegungen, Körperehrlichkeit statt Performance. Passt deckungsgleich zur Marke „raus aus dem Funktionsmodus, zurück in den Körper".
 
 - **Bei allem Content** (Reels, Karussells, Stories, Captions, Telegram, E-Mails) aus `reference/somatic-yoga.md` schöpfen — Single Source of Truth: Prinzipien, typische Übungen, Fachbegriff→Alltagssprache-Tabelle.
+- **Übungs-Datenbank** `reference/uebungs-datenbank.md` (angelegt 2026-06-28): 34 Übungen mit **von Katja validierten Wirkungen** („Was wirklich passiert"), Körper-Metapher, Problem/Anker, Moment und Freebie. **Bei jedem übungsbasierten Content zuerst hier nachschlagen** (Übung + echte Wirkung + Metapher rausziehen statt herleiten) — verankert im Schritt „Wirkung prüfen" aller Übungs-Skills. Steht eine Übung nicht drin: recherchieren UND Katja zur Wirkung fragen, dann eintragen (Wirkung kommt nur aus Katjas Hand). Details: Memory `project_uebungs_datenbank`.
 - **Sprach-Regel:** Die Methode ist im Kern Nervensystem-Arbeit — im Content aber NIE Fachsprache (kein „Nervensystem", „Vagus", „somatisch" als Schlagwort). Tiefe intern, Sprache körpernah. Verstärkt die bestehende Nischen-Leitplanke.
 
 ---

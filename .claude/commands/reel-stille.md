@@ -74,6 +74,8 @@ Lies zuerst:
 
 ## Schritt 2.5 — Wirkung des Ankers prüfen (PFLICHT)
 
+**Zuerst `reference/uebungs-datenbank.md`:** die gezeigte Übung, ihre validierte Wirkung („Was wirklich passiert") und die Körper-Metapher dort rausziehen — nicht selbst herleiten. Nur wenn die Übung dort fehlt: recherchieren UND Katja zur Wirkung fragen, dann eintragen (Memory `project_uebungs_datenbank`).
+
 **Prüfe, was der gewählte Anker im Körper WIRKLICH macht** (im Zweifel WebSearch). Kanon: `reference/somatic-yoga.md`.
 - Beschrieben wird nur das **gespürte Resultat, das sie will**: der Kopf wird langsam leiser · der Körper wird schwerer/ruhiger · die Anspannung fällt ab · sie kommt aus dem Kopf zurück in den Körper.
 - **Ergebnis IMMER gespürt-körperlich, nie Leistung/Optimierung.** Kein „besser schlafen als Versprechen" framen, wenn das Thema breiter ist — lieber „der Kopf darf leiser werden".

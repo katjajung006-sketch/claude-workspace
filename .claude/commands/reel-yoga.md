@@ -39,6 +39,8 @@ Lies zuerst:
 
 ## Schritt 2.5 — Wirkung der Haltung prüfen (PFLICHT)
 
+**Zuerst `reference/uebungs-datenbank.md`:** Übung, validierte Wirkung („Was wirklich passiert") und Körper-Metapher dort fertig rausziehen — nicht selbst herleiten. Nur wenn die Übung dort fehlt: recherchieren UND Katja zur Wirkung fragen, dann eintragen (Memory `project_uebungs_datenbank`).
+
 **Bevor du irgendetwas schreibst: Prüfe, was diese Haltung im Körper WIRKLICH bewirkt.**
 
 Regeln:

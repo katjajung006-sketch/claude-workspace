@@ -41,6 +41,8 @@ Lies zuerst:
 
 ## Schritt 2.5 — Wirkung der Haltung prüfen (PFLICHT — in diesem Format DOPPELT wichtig)
 
+**Zuerst `reference/uebungs-datenbank.md`:** Übung, validierte Wirkung („Was wirklich passiert") und Körper-Metapher dort fertig rausziehen — nicht selbst herleiten. Nur wenn die Übung dort fehlt: recherchieren UND Katja zur Wirkung fragen, dann eintragen (Memory `project_uebungs_datenbank`).
+
 **Bevor du irgendetwas schreibst: Prüfe, was diese Haltung im Körper WIRKLICH bewirkt.**
 
 In diesem Format **macht der Hook eine Behauptung** („eine Übung reicht, um …"). Deshalb muss die Wirkung hier besonders sauber stimmen — du versprichst ein Ergebnis, und das Ergebnis muss wahr sein.
