@@ -85,16 +85,18 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 ## Instagram-Kanal
 
 **Handle:** @yoga.statt.funktionieren
-**Status:** 324 Follower · 25 Beiträge · 141 Gefolgt (Stand 2026-06-06)
-**Bio:** SEO-optimiert (Namensfeld 2026-06-06), Bio-Text überarbeitet 2026-06-10 (live gesetzt). Grundprinzip: Instagram durchsucht nur Handle + Namensfeld → Namensfeld trägt das gesuchte Keyword, nicht den (nicht gesuchten) Markensatz „Selbstübergehen".
-- **Namensfeld:** `Katja Jung · Yoga für Frauen 40+` (auffindbar für „Yoga 40+ / Yoga Frauen 40")
-- **Bio-Text (live, Variante 1):**
+**Status:** 354 Follower · 30 Beiträge · 96 Gefolgt (Stand 2026-06-28) · 17.775 Aufrufe / 30 Tage
+**Bio:** SEO-optimiert (Namensfeld 2026-06-06), Bio-Text geprüft & finalisiert 2026-06-28 (live). Grundprinzip: Instagram durchsucht nur Handle + Namensfeld → Namensfeld trägt das gesuchte Keyword, nicht den (nicht gesuchten) Markensatz „Selbstübergehen".
+- **Namensfeld:** `Katja Jung | Yoga für Frauen 40+` (auffindbar für „Yoga 40+ / Yoga Frauen 40")
+- **Bio-Text (live, Stand 2026-06-28):**
   - 🤍 Immer stark. Immer da. Und abends wie leer.
-  - 🌿 Sanftes Yoga, ganz ohne dich zu verrenken
-  - ↓ Zurück zu dir: hol dir den Gratis-Check (CTA → Funktionsmodus-Check)
-  - **Logik:** Zeile 1 = Körper-Erkennung (3-Sek.-Spiegel „das bin ich"). Zeile 2 = löst den Anfänger-Irrglauben „ich muss beweglich sein / mich verbiegen" auf — „sanft" + „ohne verrenken" = sofort machbar; trägt die Somatik-Essenz (spüren statt leisten) in Alltagssprache OHNE Fachwort. Zeile 3 = Freebie-CTA. (Ersetzt die alte Bio mit „Für Frauen 40+, die für alle da sind …".)
-  - **Möglicher Zeile-2-Swap (Variante 3, von Katja offen gehalten 2026-06-10):** statt „Sanftes Yoga, ganz ohne dich zu verrenken" → **„🌿 Yoga zum Spüren, ohne dich zu verrenken"**. Bringt das Wort „Spüren" (Somatik-Ansatz) sichtbar rein; Trade-off: minimal weniger „sofort-beruhigend" als „sanft". Katja noch unsicher — ggf. später tauschen.
-- **Link:** linktr.ee/katjajung · Highlights angelegt ✓ · später ggf. eigener Markenlink (check.katjajung.com) statt Linktree
+  - 🌿 Yoga zum Spüren, ohne dich zu verrenken
+  - 👇 Sanft zurück zu dir: hol dir den Funktionsmodus-Check
+  - **Logik:** Zeile 1 = Körper-Erkennung (3-Sek.-Spiegel „das bin ich"). Zeile 2 = löst den Anfänger-Irrglauben „ich muss beweglich sein / mich verbiegen" auf; „Spüren" trägt die Somatik-Essenz (spüren statt leisten) sichtbar rein, OHNE Fachwort. Zeile 3 = Freebie-CTA mit dem Signatur-Wort „Funktionsmodus-Check" (statt beliebigem „Gratis-Check") + Zeiger 👇 zum Link. (Spüren-Swap final genommen; „Gratis-Check" → „Funktionsmodus-Check" am 2026-06-28 geschärft.)
+- **Bio-Links (2 native IG-Links, Stand 2026-06-28):**
+  1. `check.katjajung.com` → Funktionsmodus-Check (Freebie, primär)
+  2. `start.katjajung.com` → eigener Link-Hub (ersetzt Linktree; gebaut 2026-06-28, Cloudflare-Projekt `katjajung-start`, Quelle `website-quelle/start.html`, enthält Check + 10-Min-Rückkehr 17 € + Telegram, erweiterbar um neue Produkte). **Offen: Linktree in der Bio gegen `start.katjajung.com` tauschen, sobald SSL aktiv (DNS gesetzt 2026-06-28).**
+  - Highlights angelegt ✓
 - **Aufgehoben für Content:** Reel-Hook „Du funktionierst. Du hältst durch. Und bist kaum noch bei dir."
 
 **Erste Reels-Performance (bereits gepostet, Funktionsmodus-Themen):**
