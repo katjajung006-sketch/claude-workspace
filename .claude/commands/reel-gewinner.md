@@ -222,6 +222,8 @@ Was der Körper machen kann — ruhig, körpernah, als kleine Liste, **an die in
 > [weiter laut geprüfter Wirkung]
 > Und manchmal merkst du erst dann, wie angespannt du eigentlich warst.
 
+> **PFLICHT — Beat-3-Loop schließen (Katja 2026-06-29, Memory `feedback_watchtime_retention`):** Die Caption muss **explizit auflösen, was Beat 3 anteasert.** Teasert Beat 3 z. B. „…etwas, von dem du nicht mal wusstest, dass du es vermisst", dann reicht die Körper-Spürliste NICHT — die Caption muss benennen, WAS genau sie vermisst/nicht gewusst hat (meist die emotionale Wahrheit der Metapher: „dass du gerade nichts halten musst … ein Moment, der nur dir gehört. Genau das hast du vermisst, ohne es zu wissen."). Brücken-Zeile + dieser Auflösungs-Block müssen dieselbe Frage stellen UND beantworten. Check vor dem Abschicken: Beantwortet die Caption wörtlich das, was Beat 3 verspricht?
+
 **3. Metapher-Reframe (Pflicht — der emotionale Höhepunkt, NICHT weglassen)**
 Hier wird die Körper-Metapher aus Schritt 2.4 explizit gemacht — die körperliche Geste der Übung als emotionale Erlaubnis benannt. Das ist der Satz, der im 84k-Reel die Speicherungen trug. Formel: erst das emotionale Muster benennen, dann die Übung als seinen Gegenpol setzen.
 > Den ganzen Tag hältst du alles zusammen — den Plan, die Stimmung, dich selbst.
