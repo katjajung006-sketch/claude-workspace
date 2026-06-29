@@ -104,6 +104,19 @@ Beispiel:
 
 → Caption löst auf: „Das sind die Signale, die du vielleicht übersiehst: die Schultern, die nie ganz runtergehen. Der Atem, der oben bleibt. Die Müdigkeit, die kein Schlaf mehr nimmt."
 
+**PFLICHT-CHECK vor der Ausgabe — beide Bedingungen, sonst neu bauen:**
+
+Der häufigste Fehler ist NICHT die Klammer selbst, sondern dass die Hauptzeile die Wahrheit schon ausspricht. Prüfe beides:
+
+1. **Die Hauptzeile(n) verraten das konkrete Was NICHT.** Sie dürfen den Gedanken nicht zu Ende bringen. Falsch: „dabei zeigt ihr Körper längst, dass sie schon lange nicht mehr richtig bei sich waren" — das ist die fertige Wahrheit, nichts bleibt offen. Richtig: die Hauptzeile stellt die Spannung auf, die Auflösung (die Liste, der Moment) bleibt ungenannt.
+2. **Der Klammersatz zeigt deiktisch** („diese Signale", „dieser Moment", „das hier") auf genau das ungenannte Was und endet mit Doppelpunkt — die Caption-Liste löst exakt diesen Zeiger ein.
+
+**Lies den Reel-Text laut und frag dich: „Welche Signale / welcher Moment genau?"**
+- Muss die Frau das nach dem Reel fragen und findet es erst in der Caption → Schleife offen ✅
+- Weiß sie es schon nach dem Reel → Schleife zu ❌ → Hauptzeile entschärfen, bis das konkrete Was wieder ungenannt ist.
+
+(Verankert in Memory `feedback_klammersatz_trigger` — Katja korrigiert das seit Tagen, nie wieder die Wahrheit in die Hauptzeile schreiben.)
+
 Klammer-Sätze (Pool — andeuten, nicht auflösen; deiktisch pointen wo möglich):
 - (und genau deshalb nimmst du es selbst so lange nicht ernst)
 - (weil es von außen so vernünftig aussieht)

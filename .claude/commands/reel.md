@@ -104,6 +104,15 @@ Beispiel:
 
 → Caption löst auf: „Das sind die Signale, die du vielleicht übersiehst: die Schultern, die nie ganz runtergehen. Der Atem, der oben bleibt. Die Müdigkeit, die kein Schlaf mehr nimmt."
 
+**PFLICHT-CHECK vor der Ausgabe — beide Bedingungen, sonst neu bauen:**
+
+Der häufigste Fehler ist NICHT die Klammer, sondern dass die Hauptzeilen die Wahrheit schon aussprechen. Prüfe beides:
+
+1. **Die 3 Hauptzeilen verraten das konkrete Was NICHT.** Sie dürfen den Gedanken nicht zu Ende bringen. Falsch: „dabei zeigt ihr Körper längst, dass sie schon lange nicht mehr richtig bei sich waren" (= fertige Wahrheit). Richtig: Spannung aufstellen, das konkrete Was (Liste/Moment) ungenannt lassen.
+2. **Der Klammersatz zeigt deiktisch** („diese Signale", „dieser Moment", „das hier") auf genau das ungenannte Was und endet mit Doppelpunkt — die Caption löst exakt diesen Zeiger ein.
+
+**Reel-Text laut lesen, dann fragen: „Welche Signale / welcher Moment genau?"** Muss die Frau das nach dem Reel fragen und findet es erst in der Caption → offen ✅. Weiß sie es schon → zu ❌ → Hauptzeilen entschärfen. (Memory `feedback_klammersatz_trigger` — Katja korrigiert das seit Tagen.)
+
 ---
 
 ## Output 2 — Thumbnail-Hook (Reelcover)

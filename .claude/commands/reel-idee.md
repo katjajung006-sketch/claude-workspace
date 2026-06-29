@@ -42,7 +42,7 @@ Das passende Format-Dokument liest du in Schritt 2, sobald die Säule feststeht.
 
 Bevor irgendetwas gebaut wird: Katjas Hook ehrlich prüfen — gegen die Mechanik des erkannten Formats.
 
-- **Funktionsmodus-Format:** Der Hook muss über eine der vier Grundformeln + einen Klammersatz tragen (siehe `reel.md`). Maßstab: sofortige Wiedererkennung, körpernahe Wahrheit — und der Klammersatz als **Trigger**: eine Neugier-Schleife, die erst die Caption auflöst (deutet die Sache an, z. B. „diese leisen Signale", nennt sie nicht; keine Großbuchstaben). Prüfe den Hook genau gegen dieses Klammersatz-Prinzip aus `reel.md`.
+- **Funktionsmodus-Format:** Der Hook muss über eine der vier Grundformeln + einen Klammersatz tragen (siehe `reel.md`). Maßstab: sofortige Wiedererkennung, körpernahe Wahrheit — und der Klammersatz als **Trigger**: eine Neugier-Schleife, die erst die Caption auflöst (deutet die Sache an, z. B. „diese leisen Signale", nennt sie nicht; keine Großbuchstaben). **Pflicht-Check (beide Bedingungen, siehe `reel.md`):** (1) die Hauptzeilen sprechen das konkrete Was NICHT schon aus — sonst ist die Schleife zu, egal wie die Klammer klingt; (2) der Klammersatz zeigt deiktisch auf das ungenannte Was, das die Caption auflöst. Selbst-Check: „Welche Signale / welcher Moment genau?" muss nach dem Reel offen sein. (Memory `feedback_klammersatz_trigger`.)
 - **Yoga-Format:** Der Hook muss Open-Loop sein — Neugier öffnen, die Auflösung NICHT im Reel verraten (siehe `reel-yoga.md`).
 
 **Ehrlich urteilen, nicht schmeicheln.** Drei mögliche Ausgänge:
