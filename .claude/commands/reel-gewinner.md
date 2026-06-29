@@ -24,7 +24,7 @@ Eine **durchgehende Körper-Metapher** trägt Hook → Caption → Übung. Thema
 
 **Die Säulen des Gewinner-Musters (alle Pflicht):**
 1. **Körper-Metapher = emotionale Botschaft** (das Herzstück, siehe oben): EINE Metapher zieht durch Hook, Übung und Caption-Reframe; die Übung verkörpert körperlich genau das Gefühl, von dem der Hook spricht.
-2. **Starker Beat-1-Hook, Einstieg rotierend** — Insider/Advocacy („Ich wünschte…"/„Das hätte ich gern früher gewusst…"), Zwei-Takt-Erkennung oder direkte Erkennung; ergebnis-geführt, leise Autorität, nie immer dieselbe Eröffnung.
+2. **Beat 1 = Identifikations-Hook auf IHR Problem** (der wichtigste Schritt) — die Frau erkennt sich in <1 Sek wieder („das bin ich, das guck ich mir an"). Quelle ist die Problem-Liste in `soulclient.md` Abschnitt 10 → maximale Abwechslung. Form rotieren (direkte Erkennung / Zwei-Takt / Insider), aber nie über Körper/Übung/Ergebnis führen — immer über ihr Problem.
 3. **Erkennungs-Caption** („Die meisten Frauen…") — benennt, was fast alle tun, ohne Vorwurf, und mündet in den Reframe.
 4. **Versprechen gespürt-körperlich** („was diese 3 Minuten machen"), nie ein Leistungs-Benefit.
 5. **Übung super einfach + bodennah** — sofort machbar, „das kann ich auch".
@@ -105,55 +105,72 @@ Der Anker trägt die Weiterleitungs-Wirkung — eine Frau, die sich erkennt, den
 
 ## Output 1 — Reel-Text (On-Screen, 3 Beats, ~10–12 Sek)
 
-**Insider-Hook + Open Loop. Versprechen anteasern, Details erst in der Caption.** Haltung statisch oder langsames Ankommen.
-
 ```
-Beat 1 (0–3 Sek):  [Insider-Hook — Wirkung + Anker, ohne Details]
+Beat 1 (0–3 Sek):  [Identifikations-Hook — IHR Problem, konkreter Moment, ohne Details]
 Beat 2 (3–7 Sek):  [Haltung + Zeit — konkret und machbar]
 Beat 3 (7–12 Sek): [Ergebnis-Teaser — macht neugierig, DASS etwas passiert, ohne das WAS zu verraten]
 ```
 
-**Bewährte Leit-Formel (viral, 84k):**
-> „Ich wünschte, mehr Frauen wüssten, was **diese** [kurze Zeit] machen, wenn du [konkreter Moment]."
+### Beat 1 ist (fast) alles — der Identifikations-Hook (WICHTIGSTER SCHRITT)
 
-Das demonstrative **„diese"** zeigt mit dem Finger auf genau die Übung im Video — bindet das Versprechen an das Sichtbare und macht Sog. Konkret schlägt allgemein.
+Beat 1 entscheidet, ob sie stehen bleibt oder weiterscrollt. Er muss **so stark sein, dass die Frau sich in der ersten Sekunde selbst erkennt** und denkt: **„Ja, genau DAS ist mein Problem — das guck ich mir an."** Wenn Beat 1 das nicht auslöst, ist der Rest egal.
+
+**Beat 1 führt IMMER über IHR Problem — nie über den Körper, nie über die Übung, nie zuerst über das Ergebnis** (Memory `feedback_hook_problem_nicht_koerper`). Die Übung ist nur das Vehikel. Sie bleibt nicht stehen, weil eine Übung kommt — sie bleibt stehen, weil ihr eigenes Leben auf dem Bildschirm steht.
+
+**Quelle für Beat 1 = die große Problem-Liste in `context/soulclient.md` Abschnitt 10** (plus Abschnitt 5 „ihr innerer Satz" + 9 „ihr Widerstand"). Dort stehen Dutzende echte Probleme in Katjas Worten — **das ist der Vorrat für maximale Abwechslung.** Such dir pro Reel ein **anderes, konkretes** Problem heraus (nicht immer „abends nicht runterkommen"): sich übergehen · keinen Abstand finden · alles an sich heranlassen · sich selbst verlieren · jede Pause verdienen müssen · nie ausfallen dürfen · immer die Starke sein · sich nicht spüren · Müdigkeit ignorieren · „ich bin ständig beschäftigt, aber kaum bei mir" usw. Jedes davon ist ein eigener Beat 1.
+
+**Der Identifikations-Test (Pflicht, bevor Beat 1 steht):**
+1. Erkennt sie sich in **unter 1 Sekunde** wieder? Ist es IHR Problem, nicht ein allgemeiner Zustand?
+2. Ist der Moment **konkret und gelebt** (ein Bild aus ihrem Alltag), nicht „Stress" oder „Anspannung" allgemein?
+3. Steht da **ihr Problem** — und nicht der Körper, die Übung oder schon das Ergebnis?
+4. Ist es ein **anderes** Problem als in den letzten `/reel-gewinner`-Reels (Notion „Feed" / `outputs/`)?
+
+Erst wenn alle vier ein Ja sind, weiterschreiben.
+
+**Bewährte Leit-Formel (viral, 84k) — eine starke Option, nicht der Default:**
+> „Ich wünschte, mehr Frauen wüssten, was **diese** [kurze Zeit] machen, wenn du [konkreter Moment aus IHREM Leben]."
+
+Das demonstrative **„diese"** zeigt auf genau die Übung im Video und macht Sog. Aber auch hier sitzt die Kraft im **„wenn du …"** — also in ihrem Problem. Eine reine Erkennungs-Eröffnung (siehe Pool b/c unten) ist oft der härtere Scroll-Stop, weil sie sofort identifiziert. Konkret schlägt allgemein, Problem schlägt Versprechen.
 
 > **Pflicht — Einstieg rotieren (Katja-Feedback 2026-06-27):** NICHT jedes Reel mit „Ich wünschte, mehr Frauen wüssten…" öffnen — das nutzt sich ab. Pro Lauf einen anderen Beat-1-Einstieg aus dem Pool unten wählen und gegen die letzten `/reel-gewinner`-Reels (Notion „Feed" / `outputs/`) prüfen, damit zwei aufeinanderfolgende Reels nicht denselben Einstieg haben. „Ich wünschte…" bleibt eine starke Option, aber nur eine von mehreren. Was IMMER gleich bleibt: Beat 1 teasert nur Ergebnis + Anker (offene Schleife), die Übung kommt erst in Beat 2.
 
-### Beat-1-Einstieg-Pool (bewusst rotieren — jeder hält die Schleife offen)
+### Beat-1-Einstieg-Pool (Erkennung zuerst — bewusst rotieren, jeder hält die Schleife offen)
 
-**a) Insider / leise Autorität** (die Gewinner-Familie, ergebnis-geführt):
-> Ich wünschte, mehr Frauen wüssten, was diese [Zeit] mit dir machen, wenn [Anker].
-> Das hätte ich gern früher gewusst: was diese [Zeit] machen, wenn [Anker].
-> Niemand sagt Frauen über 40, dass [Ergebnis] mit einer Übung anfängt.
-> Wenn ich dir nur eine einzige Übung zeigen dürfte, wäre es diese.
+Die Form rotieren, aber die ersten beiden (reine Erkennung) sind die Identifikations-stärksten — im Zweifel damit anfangen.
 
-**b) Zwei-Takt-Erkennung** (kurze Ist-Situation + „aber [X] hört nicht auf" — härtester Scroll-Stop, rein erkennend; vgl. „Es ist still. Aber dein Kopf macht nicht aus."):
-> Du machst Feierabend. Dein Körper [hört nicht auf / trägt trotzdem weiter].
+**a) Direkte Erkennung am gelebten Moment** (der härteste Scroll-Stop — benennt IHR Problem so konkret, dass sie sich sofort sieht; vgl. „Wenn du nicht einschlafen kannst, weil alles vom Tag noch ganz nah ist."):
+> Wenn [konkreter, gelebter Moment aus ihrem Alltag], [ist das hier für dich / kennst du das].
+> Du [konkretes Problem-Verhalten], obwohl [innerer Widerspruch].
+
+**b) Zwei-Takt-Erkennung** (kurze Ist-Situation + „aber [X] hört nicht auf"; vgl. „Es ist still. Aber dein Kopf macht nicht aus."):
+> Du machst Feierabend. Aber [innerlich/ihr Problem hört nicht auf].
 > Es ist [Moment]. Aber [X] macht nicht aus.
 
-**c) Direkte Erkennung / Frage** (am gelebten Moment, ohne Diagnose):
-> Wenn [konkreter Abend-/Alltagsmoment], ist das hier für dich.
-> Weißt du noch, wann du das letzte Mal [Gegenteil des Musters] hast?
+**c) Insider / leise Autorität** (die Gewinner-Familie — die Kraft sitzt im „wenn du …", also in IHREM Problem; nicht jedes Reel so öffnen):
+> Ich wünschte, mehr Frauen wüssten, was diese [Zeit] mit dir machen, wenn [Problem-Moment].
+> Das hätte ich gern früher gewusst: was diese [Zeit] machen, wenn [Problem-Moment].
+> Niemand sagt Frauen über 40, dass [Ergebnis] mit einer Übung anfängt.
 
-Bei jedem Einstieg gilt: Anker konkret + gelebt (Schritt 2.6), Ergebnis gespürt-körperlich (Schritt 2.5), Übung erst in Beat 2.
+Bei jedem Einstieg gilt: Beat 1 = IHR Problem (Identifikations-Test oben bestanden), Anker konkret + gelebt (Schritt 2.6), Übung erst in Beat 2. Das Ergebnis-Versprechen gehört NICHT in Beat 1 — Beat 1 spiegelt das Problem, Beat 3 öffnet die Schleife, die Caption löst auf.
 
-**Beat-3-Pool (Ergebnis-Teaser — teast, DASS etwas Konkretes passiert, ohne das WAS zu verraten → der Grund, die Caption zu lesen. Voll: `reference/watchtime-retention.md`):**
-> Und dann passiert das mit deinem Körper:
-> Und dein Körper macht plötzlich das:
-> Und dann passiert etwas, das du den ganzen Tag vermisst hast.
+**Beat-3-Pool (Open Loop — teast NUR, DASS etwas passiert, verrät NIE das Was, auch keinen emotionalen Payoff → der einzige Grund, die Caption zu lesen. Memory `feedback_watchtime_retention` + `feedback_beat3_unbewusst_vermisst`. Voll: `reference/watchtime-retention.md`):**
+> Und dann passiert etwas, von dem du nicht mal wusstest, dass du es vermisst.
+> Und dann passiert etwas, mit dem du nach so einem Tag gar nicht mehr rechnest.
+> Und dann passiert etwas, das diesen ganzen [Abend/Tag] noch mal verändert.
+>
+> **Verboten** (verrät schon die Lösung): „…darfst für nichts mehr zuständig sein" · „…du wirst endlich ruhig" · „…etwas fällt von dir ab" · „spür mal, was passiert" (kein Grund, die Caption zu lesen). Schnelltest: Steht in Beat 3 schon, WAS sie davon hat? → umschreiben.
 
 **Beispiel (liegender Schmetterling — der Original-Gewinner):**
-> **Beat 1:** Ich wünschte, mehr Frauen wüssten, was diese drei Minuten am Boden mit dir machen, / wenn du den ganzen Tag alles zusammengehalten hast.
+> **Beat 1:** Wenn du den ganzen Tag alles zusammengehalten hast — den Plan, die Stimmung, dich selbst.
 > **Beat 2:** Fußsohlen aneinander, Knie fallen lassen. Drei Minuten.
-> **Beat 3:** Und dann spür selbst, was passiert.
+> **Beat 3:** Und dann passiert etwas, von dem du nicht mal wusstest, dass du es vermisst.
 >
-> *(Die Metapher trägt durch: „alles zusammengehalten" im Hook ↔ die zusammengehaltenen Knie fallen auf in der Übung.)*
+> *(Beat 1 = ihr Problem „alles zusammenhalten". Die Metapher trägt durch: „alles zusammengehalten" im Hook ↔ die zusammengehaltenen Knie fallen auf in der Übung. Beat 3 verrät nichts.)*
 
 **Stilregeln Reel-Text:**
-- Beat 1 nennt das Ergebnis-Versprechen, NIE die Spür-Details (kein „dein Atem wird weiter" im Video).
-- Beat 3 = **Ergebnis-Teaser** (Watch-Time): neugierig machen, DASS etwas passiert, ohne das WAS zu nennen — nicht bloß „spür mal" (kein Grund, die Caption zu lesen). Das Was steht in der Caption. Regel: `reference/watchtime-retention.md`.
-- Ergebnis immer gespürt-körperlich (Schritt 2.5), Körperteil-Regel (Schritt 2.6).
+- Beat 1 = **Identifikations-Hook auf IHR Problem** (Identifikations-Test oben), nie der Körper/die Übung, nie das Ergebnis-Versprechen, nie Spür-Details. Quelle: `soulclient.md` Abschnitt 10 — bewusst variieren.
+- Beat 3 = **Open Loop** (Watch-Time): neugierig machen, DASS etwas passiert, ohne das WAS — und ohne jeden Payoff (auch keinen emotionalen). Nicht „spür mal". Das Was steht in der Caption. Regel: `reference/watchtime-retention.md`.
+- Spür-Details + Ergebnis immer gespürt-körperlich (Schritt 2.5) — aber erst in der Caption, nicht im Video; Körperteil-Regel (Schritt 2.6).
 - **NIE auf die Caption verweisen**, **kein CTA im Video** — CTAs leben nur in der Caption.
 - **Retention-Hinweis (aus den Daten):** Der Gewinner verlor die meisten bei 0:04. Beat 2 muss SOFORT nach dem Hook einen Grund zum Weiterschauen liefern — kein Leerlauf zwischen Hook und Übung.
 
@@ -278,9 +295,9 @@ Anker:     [für wen / wann]
 
 ---
 REEL-TEXT (On-Screen, 3 Beats, ~10–12 Sek)
-Beat 1 (0–3 Sek):  [Insider-Hook — Wirkung + Anker, ohne Details]
+Beat 1 (0–3 Sek):  [Identifikations-Hook — IHR Problem, konkreter Moment, ohne Details]
 Beat 2 (3–7 Sek):  [Haltung + Zeit]
-Beat 3 (7–12 Sek): [offener Spür-Satz]
+Beat 3 (7–12 Sek): [Open Loop — DASS etwas passiert, ohne Payoff]
 
 ---
 REELCOVER (Serien-Vorlage — Neugier-Hook groß, „3 MIN"-Badge fest)
@@ -324,7 +341,7 @@ Nach der Ausgabe: kurz fragen, ob Haltung, Hook oder Caption angepasst werden so
 ## Stilregeln
 
 - **Herzstück zuerst: EINE Körper-Metapher zieht durch Hook, Übung und Caption-Reframe** (Schritt 2.4). Die körperliche Geste IST die emotionale Botschaft — ohne diese Deckung kein Gewinner-Reel.
-- Beat-1-Einstieg bewusst rotieren (Insider / Zwei-Takt-Erkennung / direkte Erkennung) — NIE jedes Reel mit „Ich wünschte, mehr Frauen wüssten…" starten. Immer Open Loop: Beat 1 teasert nur Ergebnis + Anker, die Übung kommt erst in Beat 2.
+- Beat 1 ist (fast) alles: Identifikations-Hook auf IHR Problem, sie erkennt sich in <1 Sek („das bin ich"). Quelle = Problem-Liste `soulclient.md` Abschnitt 10, jedes Reel ein anderes Problem. Form rotieren (direkte Erkennung / Zwei-Takt / Insider), NIE jedes Reel mit „Ich wünschte…" starten, nie über Körper/Übung/Ergebnis führen. Open Loop: Übung erst in Beat 2.
 - Caption öffnet mit dem Erkennungs-Satz „Die meisten Frauen…" — das trägt Speichern + Kommentar.
 - Versprochenes Ergebnis IMMER gespürt-körperlich, nie Leistung/Optimierung (Schritt 2.5).
 - Kein Körperteil als Schlagzeile, wenn es nach Schmerz klingt — über den Zustand führen (Schritt 2.6).
