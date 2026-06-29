@@ -156,15 +156,17 @@ Wichtig: Caption beginnt mit einem **eigenen Hook** — einem **anderen** als im
 
 **Kurz halten & am Hook bleiben (Grundregel).** Die Caption bezieht sich immer eng auf den Reel-Text/Hook und löst genau das ein, was er aufmacht — kein Abschweifen in Nebenthemen. Die Zielgruppe ist im Dauerstress: zu lang oder zu weit vom Hook weg = wird nicht zu Ende gelesen. Im Zweifel kürzen. Die Reihenfolge unten ist ein Baukasten, keine Pflicht-Checkliste — nimm nur, was den einen Gedanken des Reels trägt, und streiche, was ein zweites Thema aufmacht. Tiefe lieber auf mehrere Posts verteilen. (**Mini-Übung/Atem-Anker in der Caption ist hier KEIN Standard.** Funktionsmodus-/Klammersatz-Reels sind Erkennungs-Content & Lead-Magnet — der Wert ist das Gesehenwerden, nicht eine Anleitung. Den Körperanker also default weglassen; er lebt im Freebie und in den Yoga-3-Minuten-Reels. Nur einbauen, wenn Katja ihn ausdrücklich will UND kein Freebie-CTA trägt.)
 
+**Emoji-Schema (Pflicht, automatisch so bauen):** Jede Zeile einer Aufzählung in der Caption (z. B. die „Körperliche Wahrheit"-Signalliste) bekommt **✨ am Zeilenanfang**. Jeder CTA (auch der zweite) beginnt mit **👉🏻**. Sonst bleibt die Caption emoji-frei. Gelistete Zeilen ohne Punkt am Ende ([[feedback_listen_kein_endpunkt]]). (Katja-Wunsch 2026-06-29, gilt für dieses Format dauerhaft — Memory `feedback_emoji_platzierung`.)
+
 Reihenfolge (Baukasten):
 
 1. **Neuer Caption-Hook** — anderer Einstieg, öffnet tiefer
 2. **Spiegelung** — kurze Zeilen, Rhythmus mit „Du ...", holt sie in ihrer Realität ab
 3. **Entlarvung** — das Muster benennen, ohne zu beschuldigen
-4. **Körperliche Wahrheit** — konkrete Körpersignale, keine Diagnose, kein Drama
+4. **Körperliche Wahrheit** — konkrete Körpersignale, keine Diagnose, kein Drama; als Liste mit **✨** vor jeder Zeile
 5. **Erkenntnis** — ein Satz, der hängen bleibt
 6. **Atem/Yoga-Übergang (optional, meist weglassen)** — nur wenn Katja ihn ausdrücklich will UND der CTA NICHT auf den Freebie führt. Default: überspringen (siehe Caption-Grundregel oben — diese Reels sind Lead-Magnet, nicht Anleitung)
-7. **CTA** — genau einen, passend zum Ziel des Posts:
+7. **CTA** — genau einen, passend zum Ziel des Posts, **mit 👉🏻 am Anfang**:
    - Speichern: „Speichere dir das, wenn du gerade lernst, wieder mehr bei dir anzukommen."
    - Teilen: „Schick das einer Frau, die immer funktioniert — aber viel zu selten gefragt wird, wie es ihr wirklich geht."
    - Kommentieren: „Kommentiere ‚ich kenne das', wenn du diesen Moment auch schon gespürt hast."
