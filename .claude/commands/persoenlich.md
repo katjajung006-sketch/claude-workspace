@@ -45,7 +45,13 @@ Memory mitnehmen: `feedback_no_generic`, `feedback_einfach_verstaendlich`, `feed
 
 Katja kann beides vorgeben: `/persoenlich karussell warum`.
 
-**Wochen-Rhythmus:** **Tür 5 (Das Warum / die Geschichte) ist die feste Feed-Tür — 1× pro Woche** ein Reel oder Karussell. Das ist der Default, wenn keine Tür genannt wird. Andere Türen baut der Skill auf Wunsch auch als Feed-Piece, aber der wöchentliche Standard ist Tür 5. Achtung Variation: Tür 5 läuft zusätzlich als Story-Einstieg an Fr/So in `/story-woche` — also hier **ein anderes Häppchen** der Geschichte wählen als zuletzt in den Stories (Stand: `outputs/story-woche/verlauf.md`, Abschnitt „Persönliche Türen").
+**Wochen-Rhythmus:** **Tür 5 (Das Warum / die Geschichte) ist die feste Feed-Tür — 1× pro Woche** ein Reel oder Karussell. Das ist der Default, wenn keine Tür genannt wird. Achtung Variation: Tür 5 läuft zusätzlich als Story-Einstieg an Fr/So in `/story-woche` — also hier **ein anderes Häppchen** der Geschichte wählen als zuletzt in den Stories (Stand: `outputs/story-woche/verlauf.md`, Abschnitt „Persönliche Türen").
+
+**HARTE REGEL für persönliche REELS (nicht aufweichen — Katja-Klärung 2026-06-29):** Ein persönliches **Feed-Reel** wird **NUR aus Tür 5 (Das Warum / Geschichte)** gebaut. Grund: Nur die story-getriebene Tür liefert ein Reel, das jemand wirklich anschaut. Die leisen Alltags-Türen **1, 2, 4, 6 sind Story-Material** (in der Vorlage als „Story ideal" markiert) — ein ehrlicher Murmel-Moment wie „halb drei, ich komm aus dem Büro" ist eine gute Story, aber **kein Feed-Reel**. Also:
+- Format **Reel** (Default oder von Katja gewünscht) → **immer Tür 5**, anderes Häppchen der Geschichte als zuletzt. Andere Tür + Reel niemals selbst wählen.
+- Eine der Alltags-Türen 1/2/4/6 als persönliches Reichweiten-Stück gewünscht → **nicht als Reel bauen**, sondern auf `/story persoenlich` bzw. `/story-woche` verweisen.
+- Tür 3 (Ausbildung) darf als **Karussell** ins Feed, nicht als Reel.
+- Mehrere persönliche Feed-Reels hintereinander = mehrere **verschiedene Tür-5-Häppchen** (nicht zu einer Alltags-Tür ausweichen, nur um „abzuwechseln" — das war der Fehler).
 
 ---
 
@@ -53,8 +59,10 @@ Katja kann beides vorgeben: `/persoenlich karussell warum`.
 
 ### Wenn Reel
 Folge der **Output-Struktur aus `.claude/commands/reel.md`** (Reel-Text · Thumbnail-Hook/Reelcover · Caption · B-Roll · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig) — **mit diesen Abweichungen für persönlichen Content:**
-- **KEINE Grundformel-Pflicht.** Die 4 Grundformeln aus `reel.md` gelten nur fürs Funktionsmodus-Erkennungs-Format. Hier trägt ein **persönlicher Hook** aus der gewählten Tür (ihre Wahrheit, ihr Moment) — siehe Beispiel-Winkel in `reference/persoenlicher-content.md`. Der Hook muss trotzdem ein Scroll-Stopper sein (erste 1–2 Sek., sofort klar worum's geht — Memory `feedback_hook_kalter_traffic`).
-- **Reel-Text:** 3 Beats, ehrlicher Ich-Einstieg statt Klammersatz. Faceless möglich (ruhige B-Roll), Gesicht optional.
+- **Nur Tür 5** (siehe harte Regel oben). Persönliche Feed-Reels sind immer die Geschichte, story-getrieben.
+- **KEINE Grundformel-Pflicht.** Die 4 Grundformeln aus `reel.md` gelten nur fürs Funktionsmodus-Erkennungs-Format. Hier trägt ein **persönlicher Hook** aus der Geschichte (ihre Wahrheit, ihr Moment) — siehe Beispiel-Winkel in `reference/persoenlicher-content.md`.
+- **Hook-Härtetest (Pflicht, sonst neu bauen):** Der erste Satz muss ein echter Scroll-Stopper sein — Spannung oder eine Aussage, die man auflösen WILL (z. B. „Von außen sah mein Leben perfekt aus, und genau das war das Problem"). **Ein ruhig-ehrlicher Alltagssatz reicht NICHT** (Negativbeispiel 2026-06-29: „Halb drei. Ich komm aus dem Büro." — wahr, aber niemand stoppt dafür). Frage dich: Würde diese erste Zeile mich anhalten lassen, wenn ich sie beim Scrollen sehe? Wenn nein → schärfen, bis Spannung drin ist.
+- **Reel-Text:** 3 Beats, ehrlicher Ich-Einstieg statt Klammersatz, aber der erste Beat IST der Stopper. Faceless möglich (ruhige B-Roll), Gesicht optional.
 - **Caption:** nicht mit derselben Zeile wie das Reel starten; kurz und am Hook bleiben; endet bei ihr (die „zurück zu ihr"-Regel). Kein Yoga-Verkaufsabsatz.
 - Kein On-Screen-CTA, kein „steht in der Caption" (Memory `feedback_reel_kein_caption_verweis_cta`).
 
