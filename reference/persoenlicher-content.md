@@ -1,8 +1,17 @@
 # Persönlicher Content — die Frau hinter der Marke
 
 > Single Source of Truth dafür, wie Katja Persönliches in ihren Content bringt — ohne die saubere Nische zu verwässern.
-> Gelesen von `/persoenlich` (Feed), `/story-woche` (Samstags-Slot) und `/story persoenlich` (Einzel-Story).
-> Eingerichtet 2026-06-13, nachdem das Konzept + die Beispielposts abgenommen wurden.
+> Gelesen von `/persoenlich` (**Feed — nur Tür 5**), `/story-woche` und `/story persoenlich` (**Stories — alle 6 Türen**).
+> Eingerichtet 2026-06-13, Feed/Story-Trennung geschärft 2026-06-30.
+
+---
+
+## Feed vs. Stories — die Grundaufteilung (zuerst lesen)
+
+Persönlicher Content läuft auf **zwei getrennten Wegen**, mit unterschiedlichem Umfang:
+
+- **Stories = alle 6 Türen.** Hier lebt das ganze System (die 6 Türen unten). Klein, dosiert, verschwindet nach 24 h. Skills: `/story persoenlich` (einzeln) + `/story-woche` (Woche).
+- **Feed = NUR Tür 5 (Deine Geschichte).** Nur die Geschichte ist stark genug, um im Grid zu stoppen. 1× pro Woche ein Reel oder Karussell über `/persoenlich`. Die leisen Alltags-Türen (1, 2, 4, 6) und die Ausbildung (3) sind **kein Feed-Material** — sie sind zu klein/behind-the-scenes fürs Grid. Bringt eine Ausbildungs-Erkenntnis echten Lehr-Wert, ist das kein persönliches Stück, sondern normaler Nische-Content (`/karussell-einstieg` / `/karussell-uebung`).
 
 ---
 
@@ -45,45 +54,45 @@ Test vor jedem Post: Sieht die richtige Frau sich darin? Oder erzählt Katja nur
 
 ---
 
-## Die 6 Türen
+## Die 6 Türen (das STORY-System)
 
-Jede Tür hängt an dem, was die Soul-Client gerade selbst durchlebt. Keine zufälligen Privat-Schnipsel.
+Die 6 Türen sind das System für die **Stories** — über die Woche kommen alle dran. **Fürs Feed zählt davon nur Tür 5.** Jede Tür hängt an dem, was die Soul-Client gerade selbst durchlebt. Keine zufälligen Privat-Schnipsel.
 
 ### Tür 1 — Der ehrliche Zwischenstand
 **Was:** Katja ist raus aus dem Funktionsmodus — aber nicht als ferne Coachin, die von oben runterwinkt. Sie kennt ihn von innen und zeigt ehrlich, **was sie heute draußen hält** (und dass auch ihr Leben echte, volle Tage hat).
 **Warum es zieht:** Sie hat es selbst gelebt und ist rausgekommen — das macht sie glaubwürdig UND nahbar. Keine Bühnen-Verwandlung, sondern eine Frau, die den Weg kennt, weil sie ihn gegangen ist, und ihn sich täglich hält.
 **Beispiel-Winkel:** „Früher bin ich aus dem Büro gekommen und hab gar nicht gemerkt, dass ich den halben Tag kaum richtig geatmet hab. Heute halt ich vorm Losfahren kurz inne. Drei Atemzüge. Genau das ist der Unterschied."
-**Format:** Story (ideal) · Reel (als ehrlicher Einblick)
+**Format:** **nur Stories** (kein Feed)
 
 ### Tür 2 — Die eigene Rückkehr in den Körper
 **Was:** Ihr Morgen (6 Uhr, Dehnen, Laufband im Gehen — nicht laufen), der Abend-Moment „ich hab wieder den ganzen Tag funktioniert". Klein, unglamourös, wahr.
 **Warum es zieht:** Zeigt die Methode im echten Leben statt als Lehre. Macht sie nahbar.
 **Beispiel-Winkel:** „6 Uhr. Kein Sport, kein Programm. Ich geh einfach — damit mein Körper wach wird, bevor der Tag mich greift."
-**Format:** Story (ideal) · Reel
+**Format:** **nur Stories** (kein Feed)
 
 ### Tür 3 — Die Ausbildung
-**Was:** Sie macht gerade die Somatic-Yoga-Ausbildung. „Ich lerne das selbst gerade."
-**Warum es zieht:** Schützt vor Guru-Ton, perfektes Role-Model-Material. Sie ist auf demselben Weg, nur ein paar Schritte weiter.
+**Was:** Sie macht gerade die Somatic-Yoga-Ausbildung. „Ich lerne das selbst gerade weiter."
+**Warum es zieht:** Schützt vor Guru-Ton, gutes Role-Model-Material. Ein nahbarer Behind-the-Scenes-Einblick.
 **Beispiel-Winkel:** „Ich mach gerade meine Yoga-Ausbildung. Und das Komische: Der schwerste Teil ist nicht die Bewegung — es ist, langsam zu machen. Nichts zu leisten."
-**Format:** Story (ideal) · Karussell (was sie lernt, in Slides)
+**Format:** **nur Stories** (kein Feed). Wird daraus eine echte Lehr-Erkenntnis (eine Übung/ein Aha, das der Frau hilft) → das ist Nische-Content, nicht persönlich: `/karussell-einstieg` / `/karussell-uebung`.
 
 ### Tür 4 — Das echte Leben drumherum
 **Was:** Alleine leben (die Ruhe UND die leisen Momente, beides ehrlich), die Tochter (25, ausgezogen), ein Buch, der Kino-Abend, der Feierabend, an dem sie endlich gestoppt hat. Die Textur eines echten Lebens mit 48.
 **Warum es zieht:** Frauen 40+ mit ausgezogenen Kindern, die die Stille mit Aufgaben füllen, erkennen sich sofort.
-**Beispiel-Winkel:** „Meine Tochter ist ausgezogen, die Wohnung ist still. Früher hab ich die Stille sofort mit irgendeiner Aufgabe vollgemacht. Heute hab ich's einfach mal ausgehalten."
-**Format:** Story (ideal) · Reel
+**Beispiel-Winkel:** „Die Wohnung ist still. Früher hab ich die Stille sofort mit irgendeiner Aufgabe vollgemacht. Heute hab ich's einfach mal ausgehalten." *(Tochter kommt im Content nicht vor — nur interner Kontext.)*
+**Format:** **nur Stories** (kein Feed)
 
 ### Tür 5 — Das Warum (in Häppchen)
 **Was:** Ihre Gründungsgeschichte (`context/founder-story.md`) — nicht als ein Monolog, getropft. Ein Moment hier, ein Satz da, über Wochen.
 **Warum es zieht:** Die stärkste Wiedererkennung. Die Geschichte ist deckungsgleich mit dem Leben der Soul-Client.
 **Beispiel-Winkel (Reel-Hook):** „Von außen sah mein Leben immer gut aus. Zuverlässig. Belastbar. Organisiert. Bis ich irgendwann nicht mehr wusste, wer ich ohne das alles bin."
-**Format:** Reel (ideal — story-getrieben) · Karussell (Geschichte über Slides) · Story (ein Häppchen)
+**Format:** **die einzige Feed-Tür** — Reel (story-getrieben) oder Karussell (Geschichte über Slides) über `/persoenlich`. Läuft zusätzlich als Story-Häppchen (Fr/So-Einstieg) — dann ein anderes Häppchen als im Feed.
 
-### Tür 6 — Gesicht & Stimme (dosiert)
-**Was:** Eine Sprachnachricht-Story, eine Audio (macht sie bei Telegram eh), ab und zu kurz in die Kamera. Aufbauend, in ihrem Tempo — nie als Pflicht.
-**Warum es zieht:** Stimme + Gesicht bauen am schnellsten Vertrauen. Bewusst unperfekt = sie verkörpert genau ihre Botschaft.
+### Tür 6 — Stimme (Audio)
+**Was:** Eine Sprachnachricht-Story, eine Audio (macht sie bei Telegram eh), sie spricht selbst — unperfekt, ungeschnitten. Aufbauend, in ihrem Tempo, nie als Pflicht. *(Früher „Gesicht & Stimme" — „Gesicht" ist raus, weil Katja eh in jedem Reel/jeder Story zu sehen ist; das Eigene an dieser Tür ist die gesprochene Stimme.)*
+**Warum es zieht:** Die Stimme baut am schnellsten Vertrauen. Bewusst unperfekt = sie verkörpert genau ihre Botschaft.
 **Beispiel-Winkel (Audio):** „Ich nehm das hier gerade auf, und mein erster Impuls war, es zehnmal neu zu machen, bis es perfekt ist. Genau das hat mich jahrelang erschöpft. Also lass ich's jetzt einfach so."
-**Format:** Audio-/Sprach-Story (ideal) · Reel mit Gesicht. **Primär ein Story-Format** — im Feed nur, wenn sie ein Gesicht-/Stimme-Reel wirklich will.
+**Format:** **nur Stories** (Audio-/Sprach-Frame).
 
 ---
 
@@ -111,7 +120,7 @@ Persönliches lebt in den Stories (verschwindet nach 24 h → niedriger Druck, i
 Gebaut über `/story-woche` — fest hinterlegt, kommt bei jedem Lauf automatisch in jedem Tag mit. Spontan zusätzlich über `/story persoenlich`.
 
 ### Feed — 1× pro Woche
-**Tür 5 (Das Warum / deine Geschichte)** ist die Feed-Tür: 1× pro Woche ein Reel oder Karussell über `/persoenlich`. (Der Skill kann auf Wunsch auch andere Türen als Feed-Piece bauen, aber der feste Wochen-Rhythmus ist Tür 5.) Vom Grid her bleibt es ~1 von 7 Feed-Posts persönlich → das Grid bleibt Nische-dominiert.
+**Tür 5 (Das Warum / deine Geschichte) ist die EINZIGE Feed-Tür:** 1× pro Woche ein Reel oder Karussell über `/persoenlich`. Keine andere Tür kommt ins Feed (die anderen sind Story-Material). Vom Grid her bleibt es ~1 von 7 Feed-Posts persönlich → das Grid bleibt Nische-dominiert.
 
 ### Variation
 Jedes Mal ein anderer Moment / ein anderes Häppchen. **Tür 5 darf sich über Story (Fr/So) + Feed nie wiederholen** — immer ein anderes Stück der Geschichte. Die Tag→Tür-Zuordnung der 5 Alltags-Türen wöchentlich variieren. Stand in `outputs/story-woche/verlauf.md` (Abschnitt „Persönliche Türen").
@@ -129,4 +138,4 @@ Die Aufgabe von Persönlichem ist **Beziehung**, nicht Funnel. Also:
 
 ## Notion-Ablage
 
-Persönliche Feed-Pieces (Reels/Karussells) gehen — **nur auf Abnahme** — in die DB „Feed" (wie aller Feed-Content, siehe Memory `notion_content_workflow`). Da es keine eigene „Persönlich"-Säule gibt, der Content-Säule die nächstliegende zuordnen (meist „Der Körper im Funktionsmodus", weil es um Katjas eigenen Weg aus dem Funktionieren geht). Wie immer die **zwei Alt-Hooks** mit ablegen. Persönliche Stories nur ablegen, wenn Katja sie ausdrücklich abnimmt (DB „Story Highlights & Stories").
+Persönliche Feed-Pieces (Tür-5-Reels/Karussells) gehen — **nur auf Abnahme** — in die DB „Feed" (wie aller Feed-Content, siehe Memory `notion_content_workflow`). **Content-Säule = „Persönlich"** (die eigene Säule existiert jetzt in der DB). Wie immer die **zwei Alt-Hooks** mit ablegen. Persönliche Stories nur ablegen, wenn Katja sie ausdrücklich abnimmt (DB „Story Highlights & Stories").

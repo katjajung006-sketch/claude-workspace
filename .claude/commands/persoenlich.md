@@ -1,57 +1,38 @@
 # Persönlich — die Frau hinter der Marke (Feed)
 
-> Baut ein persönliches **Feed-Piece** — Reel ODER Karussell — aus einer der 6 Türen. Ziel: Follower lernen Katja als Mensch kennen, ohne dass die Nische verwässert. Holt Inhalt, Stimme und Leitplanken aus `reference/persoenlicher-content.md`, die Format-Struktur aus den bestehenden Reel-/Karussell-Skills — kein Doppeln.
+> Baut ein persönliches **Feed-Piece** — Reel ODER Karussell — aus **Tür 5 (Deine Geschichte / Das Warum)**. Das ist die EINZIGE Tür fürs Feed: nur deine Geschichte ist stark genug, um im Grid zu stoppen. Die anderen 5 Türen sind Story-Material und laufen über `/story persoenlich` + `/story-woche`. Ziel: Follower lernen Katja als Mensch kennen, ohne dass die Nische verwässert. Holt Inhalt, Stimme und Leitplanken aus `reference/persoenlicher-content.md`, die Format-Struktur aus den bestehenden Reel-/Karussell-Skills — kein Doppeln.
 
 ## Variablen
 
-eingabe: $ARGUMENTS  *(optional — z. B. „warum", „karussell ausbildung", „reel zwischenstand", oder ein freies Thema)*
+eingabe: $ARGUMENTS  *(optional — `reel` / `karussell` fürs Format, dazu optional ein Häppchen/Winkel der Geschichte, z. B. „reel wendepunkt" oder „karussell von außen sah alles gut aus")*
 
 ---
 
 ## Schritt 1 — Kontext laden (Pflicht)
 
 Lies zuerst:
-- `reference/persoenlicher-content.md` — **die 6 Türen, Leitplanken, die Regel „zurück zu ihr", CTA-Logik, Rhythmus.** Das ist die Quelle für diesen Skill.
+- `reference/persoenlicher-content.md` — **Leitplanken, die Regel „zurück zu ihr", CTA-Logik, Positionierung (du bist RAUS).** Tür 5 + die Feed-Logik stehen dort. Das ist die Quelle für diesen Skill.
+- `context/founder-story.md` — **die Hauptquelle:** die echten Sätze/Momente deiner Geschichte. Daraus kommt das Häppchen.
 - `context/soulclient.md` — die funktionierende Frau 40+ (damit der Anschluss zu ihr sitzt)
 - `context/brand-voice.md` — Tonalität, Power-Words, **verbotene Wörter**, Satzrhythmus
-- `context/founder-story.md` — für Tür 5 (Das Warum) die echten Sätze/Momente
-- `context/personal-info.md` — echte Lebens-Details (Job bis 14:30, Tochter 25, alleine, Morgen-Routine) für Tür 1/2/4
-- `outputs/story-woche/verlauf.md` (Abschnitt „Persönliche Tür") — welche Tür zuletzt schon in Stories lief, damit Feed + Stories nicht dieselbe Tür gleichzeitig spielen
+- `context/personal-info.md` — echte Lebens-Details (Job bis 14:30, Tochter 25, alleine, Morgen-Routine), falls für die Geschichte gebraucht
+- `outputs/story-woche/verlauf.md` (Abschnitt „Persönliche Türen") + die Notion-DB „Feed" — welches Tür-5-Häppchen zuletzt schon lief (Story Fr/So **und** Feed), damit sich **kein Geschichts-Häppchen wiederholt**.
 
-Memory mitnehmen: `feedback_no_generic`, `feedback_einfach_verstaendlich`, `feedback_hook_kalter_traffic`, `feedback_caption_kurz_am_hook`, `feedback_cta_passend_freebie`, `feedback_reel_kein_caption_verweis_cta`, `feedback_notion_alt_hooks`.
+Memory mitnehmen: `feedback_katja_ist_raus`, `feedback_nicht_faceless`, `feedback_persoenlich_reel_tuer5`, `feedback_no_generic`, `feedback_einfach_verstaendlich`, `feedback_hook_kalter_traffic`, `feedback_caption_kurz_am_hook`, `feedback_cta_passend_freebie`, `feedback_reel_kein_caption_verweis_cta`, `feedback_notion_alt_hooks`, `feedback_alt_hooks_immer`.
 
 ---
 
-## Schritt 2 — Tür + Format bestimmen
+## Schritt 2 — Format + Häppchen bestimmen
 
-**Tür erkennen** (aus $ARGUMENTS, sonst Claude wählt — rotierend, nicht zuletzt verwendete Tür):
-- `zwischenstand` / `job` / `ehrlich` → **Tür 1** Der ehrliche Zwischenstand
-- `körper` / `rückkehr` / `morgen` / `routine` → **Tür 2** Eigene Rückkehr in den Körper
-- `ausbildung` / `lernen` → **Tür 3** Die Ausbildung
-- `leben` / `alltag` / `tochter` / `feierabend` → **Tür 4** Das echte Leben drumherum
-- `warum` / `geschichte` / `story` → **Tür 5** Das Warum (in Häppchen)
-- `gesicht` / `stimme` / `audio` → **Tür 6** Gesicht & Stimme
-- Freies Thema → die passendste Tür wählen und kurz benennen.
+**Tür ist immer Tür 5 (Deine Geschichte).** Keine andere Tür wählen — die leben in den Stories. Wenn Katja nach einer Alltags-Tür (ehrlicher Zwischenstand, Rückkehr in den Körper, echtes Leben, Stimme/Audio) für ein Feed-Stück fragt: **nicht als Feed-Piece bauen**, sondern auf `/story persoenlich` bzw. `/story-woche` verweisen. (Bringt eine Ausbildungs-/Yoga-Erkenntnis echten Lehr-Wert, ist das kein persönliches Stück, sondern normaler Nische-Content → `/karussell-einstieg` oder `/karussell-uebung`.)
 
-**Format erkennen** (`reel` / `karussell` in $ARGUMENTS, sonst Default je Tür):
-| Tür | Default-Format |
-|---|---|
-| 1 Zwischenstand | Reel |
-| 2 Rückkehr Körper | Reel |
-| 3 Ausbildung | Karussell |
-| 4 Echtes Leben | Reel |
-| 5 Das Warum | Reel (Karussell als starke Alternative) |
-| 6 Gesicht & Stimme | Reel mit Gesicht — **Hinweis:** Tür 6 lebt eigentlich in Stories. Im Feed nur bauen, wenn ausdrücklich ein Gesicht-/Stimme-Reel gewollt ist. Sonst auf `/story persoenlich` verweisen. |
+**Format erkennen** (aus $ARGUMENTS):
+- `reel` → Reel (Default, wenn nichts genannt ist)
+- `karussell` → Karussell (Geschichte über Slides — starke Alternative, gut für einen längeren Bogen)
 
-Katja kann beides vorgeben: `/persoenlich karussell warum`.
+**Häppchen wählen:** Deine Geschichte ist nicht ein Monolog, sondern wird **getropft** — ein Moment/Winkel pro Piece. Aus `context/founder-story.md` ein Häppchen ziehen, das **anders ist als zuletzt** (Feed + Story Fr/So abgleichen, siehe Verlauf + Notion). Beispiele für Winkel: der Wendepunkt · „von außen sah alles gut aus" · „ich dachte, ich brauch mehr Durchhalten" · der erste kleine Schritt raus · was sie heute draußen hält.
 
-**Wochen-Rhythmus:** **Tür 5 (Das Warum / die Geschichte) ist die feste Feed-Tür — 1× pro Woche** ein Reel oder Karussell. Das ist der Default, wenn keine Tür genannt wird. Achtung Variation: Tür 5 läuft zusätzlich als Story-Einstieg an Fr/So in `/story-woche` — also hier **ein anderes Häppchen** der Geschichte wählen als zuletzt in den Stories (Stand: `outputs/story-woche/verlauf.md`, Abschnitt „Persönliche Türen").
-
-**HARTE REGEL für persönliche REELS (nicht aufweichen — Katja-Klärung 2026-06-29):** Ein persönliches **Feed-Reel** wird **NUR aus Tür 5 (Das Warum / Geschichte)** gebaut. Grund: Nur die story-getriebene Tür liefert ein Reel, das jemand wirklich anschaut. Die leisen Alltags-Türen **1, 2, 4, 6 sind Story-Material** (in der Vorlage als „Story ideal" markiert) — ein ehrlicher Murmel-Moment wie „halb drei, ich komm aus dem Büro" ist eine gute Story, aber **kein Feed-Reel**. Also:
-- Format **Reel** (Default oder von Katja gewünscht) → **immer Tür 5**, anderes Häppchen der Geschichte als zuletzt. Andere Tür + Reel niemals selbst wählen.
-- Eine der Alltags-Türen 1/2/4/6 als persönliches Reichweiten-Stück gewünscht → **nicht als Reel bauen**, sondern auf `/story persoenlich` bzw. `/story-woche` verweisen.
-- Tür 3 (Ausbildung) darf als **Karussell** ins Feed, nicht als Reel.
-- Mehrere persönliche Feed-Reels hintereinander = mehrere **verschiedene Tür-5-Häppchen** (nicht zu einer Alltags-Tür ausweichen, nur um „abzuwechseln" — das war der Fehler).
+**Wochen-Rhythmus:** Tür 5 als Feed-Piece läuft **1× pro Woche**. Da sie zusätzlich an Fr/So als Story-Einstieg vorkommt, hier immer ein **anderes Häppchen** als zuletzt in den Stories.
 
 ---
 
@@ -59,64 +40,66 @@ Katja kann beides vorgeben: `/persoenlich karussell warum`.
 
 ### Wenn Reel
 Folge der **Output-Struktur aus `.claude/commands/reel.md`** (Reel-Text · Thumbnail-Hook/Reelcover · Caption · B-Roll · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig) — **mit diesen Abweichungen für persönlichen Content:**
-- **Nur Tür 5** (siehe harte Regel oben). Persönliche Feed-Reels sind immer die Geschichte, story-getrieben.
-- **KEINE Grundformel-Pflicht.** Die 4 Grundformeln aus `reel.md` gelten nur fürs Funktionsmodus-Erkennungs-Format. Hier trägt ein **persönlicher Hook** aus der Geschichte (ihre Wahrheit, ihr Moment) — siehe Beispiel-Winkel in `reference/persoenlicher-content.md`.
-- **Hook-Härtetest (Pflicht, sonst neu bauen):** Der erste Satz muss ein echter Scroll-Stopper sein — Spannung oder eine Aussage, die man auflösen WILL (z. B. „Von außen sah mein Leben perfekt aus, und genau das war das Problem"). **Ein ruhig-ehrlicher Alltagssatz reicht NICHT** (Negativbeispiel 2026-06-29: „Halb drei. Ich komm aus dem Büro." — wahr, aber niemand stoppt dafür). Frage dich: Würde diese erste Zeile mich anhalten lassen, wenn ich sie beim Scrollen sehe? Wenn nein → schärfen, bis Spannung drin ist.
+- **KEINE Grundformel-Pflicht.** Die 4 Grundformeln aus `reel.md` gelten nur fürs Funktionsmodus-Erkennungs-Format. Hier trägt ein **persönlicher Hook** aus der Geschichte (ihre Wahrheit, ihr Moment).
+- **Hook-Härtetest (Pflicht, sonst neu bauen):** Der erste Satz muss ein echter Scroll-Stopper sein — Spannung oder eine Aussage, die man auflösen WILL (z. B. „Ich war jahrelang die Starke. Und genau das hat mich fast kaputtgemacht." / „Von außen sah mein Leben perfekt aus, und genau das war das Problem."). **Ein ruhig-ehrlicher Alltagssatz reicht NICHT** (Negativbeispiel: „Halb drei. Ich komm aus dem Büro." — wahr, aber niemand stoppt dafür). Frage dich: Würde diese erste Zeile mich anhalten lassen, wenn ich sie beim Scrollen sehe? Wenn nein → schärfen, bis Spannung drin ist.
 - **Hook sichtbar machen (Pflicht, Katja-Wunsch 2026-06-30):** Den Hook **als Zeile 1 klar kennzeichnen** („HOOK (Zeile 1, der Stopper):"). Beide Reel-Versionen starten mit genau dieser Hook-Zeile; die 2 Alt-Hooks unten **ersetzen ebendiese Zeile 1** (zum Tauschen). Nicht den Hook unmarkiert im Fließtext verstecken — Katja muss auf einen Blick sehen, was der Scroll-Stopper ist.
 - **Reel-Text — IMMER ZWEI VERSIONEN liefern** (Katja-Wunsch 2026-06-29, Pflicht): eine **kurze Version** (knapp, ~3 Zeilen, „3-Beats"-Stil) UND eine **längere Version** (mehr von der Geschichte schon im Video). Beide mit demselben starken ersten Satz (Stopper). Katja wählt dann, welche sie postet. Ehrlicher Ich-Einstieg statt Klammersatz; keine feste Beat-Zahl (die „3 Beats" gelten nur fürs Funktionsmodus-Reel). **Katja ist im Bild** (Gesicht/sie selbst); ruhige B-Roll ergänzt, ersetzt sie aber nicht. **Nie „faceless" annehmen — Katja ist in jedem Reel und in den Stories zu sehen.**
+- **Positionierung (Pflicht):** Katja **ist raus** aus dem Funktionsmodus und führt von der anderen Seite — glaubwürdig, weil sie es gelebt hat UND sich ihren Weg täglich hält (Yoga, Atmen, Pausen). **Nie „ich bin selbst noch nicht raus / noch mittendrin"** (Memory `feedback_katja_ist_raus`).
 - **Caption:** nicht mit derselben Zeile wie das Reel starten; kurz und am Hook bleiben; endet bei ihr (die „zurück zu ihr"-Regel). Kein Yoga-Verkaufsabsatz.
 - Kein On-Screen-CTA, kein „steht in der Caption" (Memory `feedback_reel_kein_caption_verweis_cta`).
 
 ### Wenn Karussell
-Folge der **Slide-/Output-Struktur aus `.claude/commands/karussell-einstieg.md`** (Cover-Hook → Aufbau → Erkenntnis → CTA · Caption · 5 Hashtags · Story-Sequenz), aber **als persönliche Erzählung** statt Teach: Tür 5 = Geschichte über Slides, Tür 3 = „was ich gerade lerne". Kein Freebie-Zwang, kein ANKOMMEN-CTA per Default.
+Folge der **Slide-/Output-Struktur aus `.claude/commands/karussell-einstieg.md`** (Cover-Hook → Aufbau → Erkenntnis → CTA · Caption · 5 Hashtags · Story-Sequenz), aber **als persönliche Erzählung** statt Teach: deine Geschichte über die Slides, Häppchen für Häppchen, mit einer leisen Wendung/Erkenntnis hinten. Kein Freebie-Zwang, kein ANKOMMEN-CTA per Default. Gleiche Positionierung (du bist raus) und „zurück zu ihr" am Ende.
 
 ### Für beide Formate (Pflicht)
 - **Zurück zu ihr** am Ende — nie reines Tagebuch.
-- Leitplanken aus `reference/persoenlicher-content.md`: kein Oversharing, keine perfekte Guru-Story, leise Wahrheit, einfache Alltagssprache.
-- Kommt eine Übung/Haltung vor: anfängerinnen-tauglich erklären (Ausgangshaltung + genaue Bewegung + Atemrichtung + feste Wiederholung; Kanon `reference/somatic-yoga.md`).
+- Leitplanken aus `reference/persoenlicher-content.md`: kein Oversharing, keine abgehobene Guru-Story, leise Wahrheit, einfache Alltagssprache.
+- **Tochter kommt nicht vor** (Memory `feedback_tochter_kein_content`).
 
 ### CTA bewusst wählen
 Persönlicher Content baut Beziehung, nicht Funnel (siehe `reference/persoenlicher-content.md` → CTA-Logik):
-- Default: leiser **Folgen**-Grund („bleib hier / folg mir, wenn du auch leise rauswillst — ohne dich noch mehr zu optimieren") oder ein Reaktions-/Frage-Sticker in den Stories.
+- Default: leiser **Folgen**-Grund („bleib hier / folg mir, wenn du auch leise rauswillst — ohne dich noch mehr zu optimieren").
 - **Kein reflexhaftes „Speichern".** Freebie-CTA nur ausnahmsweise und ganz leise.
 
 ---
 
 ## Schritt 3.5 — Alt-Hooks (Pflicht)
 
-Immer **2 alternative Hooks** zum finalen mitliefern („zum Tauschen") — für die Notion-Ablage und zum Vergleichen (Memory `feedback_notion_alt_hooks`).
+Immer **2 alternative Hooks** zum finalen mitliefern („zum Tauschen") — für die Notion-Ablage und zum Vergleichen (Memory `feedback_notion_alt_hooks`, `feedback_alt_hooks_immer`).
 
 ---
 
 ## Ausgabe-Format
 
 ```
-ERKANNTE TÜR: [Nr + Name] · FORMAT: [Reel / Karussell]
+TÜR 5 (Deine Geschichte) · FORMAT: [Reel / Karussell] · HÄPPCHEN: [kurzer Winkel]
 
 — dann die vollständigen Outputs des gewählten Formats —
-(Reel: Reel-Text · Reelcover · Caption · B-Roll · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
+(Reel: HOOK (Zeile 1) · Reel-Text kurz · Reel-Text lang · Reelcover · Caption · B-Roll · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
 (Karussell: Slides · Caption · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
 
-ALT-HOOKS (zum Tauschen):
+ALT-HOOKS (ersetzen Zeile 1 zum Tauschen):
 1. [Alternative 1]
 2. [Alternative 2]
 ```
 
-Nach der Ausgabe: kurz fragen, ob Tür, Hook, Format oder Caption angepasst werden sollen.
+Nach der Ausgabe: kurz fragen, ob Hook, Format, Häppchen oder Caption angepasst werden sollen.
 
 ---
 
 ## Notion (nur auf Abnahme)
 
-Erst wenn Katja abnimmt („passt so" / „perfekt") → in DB „Feed" (`33a8aca2-e91e-81af-8577-000b691410f4`), wie aller Feed-Content (Memory `notion_content_workflow`). Content-Säule = nächstliegende (meist „Der Körper im Funktionsmodus"). **Die 2 Alt-Hooks mit in die Seite.** Nie ungefragt ablegen.
+Erst wenn Katja abnimmt („passt so" / „perfekt") → in DB „Feed" (`33a8aca2-e91e-81af-8577-000b691410f4`), wie aller Feed-Content (Memory `notion_content_workflow`). **Content-Säule = „Persönlich"** (die eigene Säule existiert jetzt). **Die 2 Alt-Hooks mit in die Seite.** Nie ungefragt ablegen.
 
 ---
 
 ## Nicht tun
 
+- **Nicht** eine andere Tür als Tür 5 fürs Feed bauen — die anderen 5 Türen sind Stories (`/story persoenlich`, `/story-woche`).
 - **Nicht** die Funktionsmodus-Grundformeln als Hook erzwingen — das ist hier das falsche Format.
 - **Nicht** reines Tagebuch ohne Anschluss zur Soul-Client.
 - **Nicht** „ich bin selbst noch nicht raus / noch mittendrin" — FALSCH und widerspricht dem Coachen/Verkaufen. Katja IST raus aus dem Funktionsmodus; sie führt von der anderen Seite und hält sich ihren Weg täglich (Yoga, Atmen, Pausen). Glaubwürdig durch gelebte Erfahrung, nicht durch Noch-Feststecken. Genauso wenig die abgehobene „bei mir ist alles für immer perfekt"-Guru-Story.
+- **Nicht** „faceless" annehmen — Katja ist im Bild.
 - **Nicht** Oversharing, nicht Details über Dritte ohne deren Okay.
 - **Nicht** reflexhaft „Speichern" als CTA, **nicht** ungefragt ein Freebie pushen.
 - **Nicht** nach KI klingen, **nicht** generisch, **nicht** poetisch/verkopft.

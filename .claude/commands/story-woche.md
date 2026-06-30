@@ -129,7 +129,7 @@ Jede Woche muss sich **komplett anders anfühlen** als die Vorwoche. Vor dem Bau
 
 Persönliches ist keine eigene Story, sondern läuft **durch die Woche** mit — vor allem über den **Persönliche-Story-Verkaufstag** und die **Verbindungstage**, dazu kleine persönliche Sätze, wo sie passen. Quelle: `reference/persoenlicher-content.md` (die 6 Türen).
 
-- Über die Woche **verschiedene Türen** anklingen lassen (ehrlicher Zwischenstand · eigene Rückkehr in den Körper · die Ausbildung · echtes Leben · das Warum · Gesicht & Stimme), rotierend, nie dasselbe Häppchen wie zuletzt.
+- Über die Woche **verschiedene Türen** anklingen lassen (ehrlicher Zwischenstand · eigene Rückkehr in den Körper · die Ausbildung · echtes Leben · das Warum · Stimme/Audio), rotierend, nie dasselbe Häppchen wie zuletzt.
 - **Pflicht — zurück zu ihr:** Jeder persönliche Moment endet bei der Soul-Client („… und vielleicht kennst du das auch"), nie reines Tagebuch, kein Oversharing, keine Guru-Story.
 - Nicht erzwungen-formelhaft auf alle 7 Tage stempeln — dort einbauen, wo es echt wirkt, und die Türen über die Wochen variieren.
 

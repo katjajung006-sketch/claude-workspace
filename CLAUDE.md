@@ -201,15 +201,17 @@ Format: Listen-Hook (KEINE Grundformel-Pflicht) · stille Erkenntnis · kalter T
 Eingebaute Regeln (2026-06-12 geschärft): Hook-Schärfer „… und du merkst/hörst es nicht" (über *Hören*, nicht „merken") · ist die Liste aus inneren Sätzen, schließt der Video-Text mit dem EINEN Satz, den sie sich nie sagt · Schlusssatz nie als Analyse/Vorwurf über sie · Caption ohne Yoga-Verkaufsabsatz, wirkt durch Erkennen · keine sich selbst widersprechenden Sätze (kleiner erster Schritt = die Veränderung selbst) · Speichern als Hauptziel, optional EIN Freebie-CTA dazu (Spür-/Rückkehr-Auflösung → 3MINUTEN, Abend-/Feierabend-Auflösung → RESET, Einschlaf-/Nacht-Auflösung → NACHTRUHE, reine Erkennung → CHECK).
 Hauptziel: Speichern · Teilen · Folgen
 
-### /persoenlich [tür | format | thema]
+### /persoenlich [reel | karussell | häppchen]
 
-**Zweck:** Persönliches Feed-Piece — **Reel ODER Karussell** — aus einer der 6 „Türen", damit Follower Katja als Mensch kennenlernen, ohne dass die Nische verwässert. Persönliches ist die menschliche Schicht UNTER den zwei Content-Säulen, keine dritte Säule.
+**Zweck:** Persönliches **Feed-Piece — Reel ODER Karussell — ausschließlich aus Tür 5 (Deine Geschichte / Das Warum)**, damit Follower Katja als Mensch kennenlernen, ohne dass die Nische verwässert. Persönliches ist die menschliche Schicht UNTER den zwei Content-Säulen, keine dritte Säule. **Nur Tür 5**, weil nur die Geschichte stark genug ist, um im Grid zu stoppen — die anderen 5 Türen sind Story-Material (→ `/story persoenlich`, `/story-woche`).
 
-- `/persoenlich` → Claude wählt Tür (rotierend) + passendes Format
-- `/persoenlich warum` → Tür vorgeben (Das Warum — Gründungsgeschichte in Häppchen)
-- `/persoenlich karussell ausbildung` → Format + Tür vorgeben
+- `/persoenlich` → Reel aus einem frischen Geschichts-Häppchen (Default)
+- `/persoenlich karussell` → Geschichte als Karussell
+- `/persoenlich wendepunkt` → Häppchen/Winkel der Geschichte vorgeben
 
-Die 6 Türen: (1) Ehrlicher Zwischenstand · (2) Eigene Rückkehr in den Körper · (3) Die Ausbildung · (4) Echtes Leben drumherum · (5) Das Warum · (6) Gesicht & Stimme. Nutzt `reference/persoenlicher-content.md` als Single Source of Truth (Türen, Leitplanken, CTA-Logik) und die bestehenden `reel.md`/Karussell-Skills nur fürs Format-Gerüst — kein Doppeln. Pflicht-Regel: jeder Post endet bei der Soul-Client („… und vielleicht kennst du das auch"), nie Tagebuch; CTA bewusst (default leiser Folgen-Grund, kein reflexhaftes Speichern, Freebie nur ausnahmsweise). Output inkl. 2 Alt-Hooks zum Tauschen.
+Nutzt `reference/persoenlicher-content.md` als Single Source of Truth (Feed/Story-Trennung, Leitplanken, CTA-Logik) + `context/founder-story.md` als Inhaltsquelle; Format-Gerüst aus `reel.md`/Karussell-Skills — kein Doppeln. Pflicht-Regeln: Hook **als Zeile 1 kennzeichnen** + Härtetest (echter Scroll-Stopper, kein leiser Alltagssatz); **zwei Reel-Versionen** (kurz + lang); **Katja ist raus** aus dem Funktionsmodus (nie „noch mittendrin/noch nicht raus") und **im Bild** (nie „faceless"); jeder Post endet bei der Soul-Client, nie Tagebuch; CTA bewusst (default leiser Folgen-Grund, kein reflexhaftes Speichern, Freebie nur ausnahmsweise); Output inkl. 2 Alt-Hooks zum Tauschen. Notion-Ablage (nur auf Abnahme) → DB „Feed", Content-Säule „Persönlich".
+
+> **Persönliche Stories** (alle 6 Türen) laufen NICHT hier, sondern über `/story persoenlich` + `/story-woche`. Feed = nur Tür 5; Stories = alle 6 Türen (Feed/Story-Trennung geschärft 2026-06-30).
 
 ### /zielgruppe [thema | update]
 
@@ -266,7 +268,7 @@ Eingebaute Regeln: max. 2 Verkaufstage am Stück · max. 1–2 harte Produkt-Pit
 **Zweck:** Ein einzelner Story-Post für zwischendurch — **ohne jeden Verkauf** (Beziehungs-Ebene: Wiedererkennung + Nähe). Rotierender Mix aus vier Sorten, warmer Grundton „mit dem Guten führen" (umgebaut 2026-06-27). Copy-fertig: Frame-Text, Sticker, B-Roll-Hinweis.
 
 - `/story` → rotierender Mix (Spruch · persönlich · Impuls · Check; Spruch + persönlich sind das Herz)
-- `/story spruch` (· `spruch 3`) → wahrer Satz, 4 Formen rotierend (stiller Spiegel · Vielleicht-Paar · leise Frage · Alltagssatz) · `/story persoenlich` → warme persönliche Story (5 Themen: echte Praxis-Momente · die Ausbildung · mein Warum · Gesicht & Stimme · kleine Lebensfreude-Momente) · `/story impuls` → Mini-Körperimpuls · `/story check` → Spür-Check
+- `/story spruch` (· `spruch 3`) → wahrer Satz, 4 Formen rotierend (stiller Spiegel · Vielleicht-Paar · leise Frage · Alltagssatz) · `/story persoenlich` → warme persönliche Story (5 Themen: echte Praxis-Momente · die Ausbildung · mein Warum · Stimme/Audio · kleine Lebensfreude-Momente) · `/story impuls` → Mini-Körperimpuls · `/story check` → Spür-Check
 - **Kein Verkauf:** kein CTA/Keyword/Link/Funnel. Grundton aus dem Human Design (zeigen statt lehren, im Frieden landen, dosiert/in Wellen), keine negative Grundstimmung, Tochter kommt nicht vor. Persönlich-Themen + Ton: `reference/persoenlicher-content.md` + `context/human-design.md`. Rotation über `outputs/story-woche/verlauf.md`.
 
 ### /shutdown
@@ -344,9 +346,10 @@ Damit Katja als Mensch sichtbar wird, ohne die Nische zu verwässern, gibt es ei
 
 - **Single Source of Truth:** `reference/persoenlicher-content.md` — die 6 Türen, Leitplanken (immer „zurück zu ihr", kein Oversharing, keine Guru-Story), CTA-Logik (Beziehung statt Funnel) und Rhythmus/Format-Verteilung. Alle Persönlich-Skills lesen daraus.
 - **Der Ton kommt aus dem Human Design** (vertieftes Reading 2026-06-27 in `context/human-design.md`): zeigen statt lehren (Linie 6) · in den Prozess mitnehmen (Manifestor/Informieren) · Wünsche laut aussprechen (Herz/Ego) · immer im Frieden landen (Signatur) · aufgesogenen Druck benennen (offene Zentren = ihre Empathie-Quelle) · dosiert/in Wellen (Linie 2, sichtbar aber nicht always-on). Gilt auch für persönliche Reels & Karussells. Die 6 Türen sind die Form, das HD ist der Ton.
-- **Die 6 Türen:** (1) Ehrlicher Zwischenstand · (2) Eigene Rückkehr in den Körper · (3) Die Ausbildung · (4) Echtes Leben drumherum · (5) Das Warum (in Häppchen) · (6) Gesicht & Stimme.
+- **Grundaufteilung (geschärft 2026-06-30): Stories = alle 6 Türen · Feed = nur Tür 5.** Die 6 Türen sind das **Story-System**; fürs Feed zählt davon nur Tür 5 (die Geschichte), weil nur sie stark genug fürs Grid ist.
+- **Die 6 Türen (Stories):** (1) Ehrlicher Zwischenstand · (2) Eigene Rückkehr in den Körper · (3) Die Ausbildung · (4) Echtes Leben drumherum · (5) Das Warum (in Häppchen) · (6) Stimme (Audio). *(Tür 6 früher „Gesicht & Stimme" — „Gesicht" raus, weil Katja eh immer sichtbar ist; das Eigene ist die gesprochene Stimme.)*
 - **Stories:** `/story-woche` webt die menschliche Schicht (6 Türen) **natürlich** durch die Woche ein — vor allem über den Persönliche-Story-Verkaufstag und die 2 Verbindungstage, plus kleine persönliche Sätze, wo sie passen (nicht mehr formelhaft auf alle 7 Tage gestempelt, seit Umbau 2026-06-27). Türen über die Wochen rotieren, nie dasselbe Häppchen wie zuletzt; jeder Moment endet zurück bei der Soul-Client. Spontan zusätzlich über `/story persoenlich`. Getrackt in `outputs/story-woche/verlauf.md`.
-- **Feed (1×/Woche):** Tür 5 (Das Warum / Geschichte) als Reel oder Karussell über `/persoenlich` — ~1 von 7 Feed-Posts, das Grid bleibt Nische-dominiert.
+- **Feed (1×/Woche):** NUR Tür 5 (Das Warum / Geschichte) als Reel oder Karussell über `/persoenlich` — ~1 von 7 Feed-Posts, das Grid bleibt Nische-dominiert. Andere Türen kommen nicht ins Feed; eine Ausbildungs-Erkenntnis mit echtem Lehr-Wert ist Nische-Content (`/karussell-einstieg`/`/karussell-uebung`), nicht persönlich.
 - **Variation:** Jedes Mal ein anderer Moment/Häppchen; Tür 5 über Story (Fr/So) + Feed nie doppelt. Tag→Tür-Zuordnung der 5 Alltags-Türen wöchentlich variieren.
 
 ## Content-Ablage (Notion)

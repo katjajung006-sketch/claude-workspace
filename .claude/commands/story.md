@@ -61,11 +61,11 @@ Lies zuerst:
 - **Sticker (optional):** Emoji-Slider „Trifft dich das?" *oder* schlichte Zeile „Speicher dir das, oder schick's einer Frau, der's gerade auch so geht."
 
 ### Persönliche Story — warm (5 Themen, rotierend)
-1–3 Frames; B-Roll + Text-Overlay okay als Frame-Format, aber Katja zeigt sich regelmäßig auch selbst (besonders bei „Gesicht & Stimme") — nie „faceless" als Default. **Immer mit dem Guten führen, im Warmen/Frieden landen.** Themen rotieren, nie dasselbe wie zuletzt:
+1–3 Frames; B-Roll + Text-Overlay okay als Frame-Format, aber Katja zeigt sich regelmäßig auch selbst (besonders bei der Stimme/Audio-Sorte) — nie „faceless" als Default. **Immer mit dem Guten führen, im Warmen/Frieden landen.** Themen rotieren, nie dasselbe wie zuletzt:
 1. **Echte Praxis-Momente** — der unperfekte Morgen/Mini-Moment, der ihr Lieblingsmoment ist („Mein Morgen sieht nicht aus wie auf schönen Yoga-Bildern …").
 2. **Die Ausbildung (Entdeckerfreude)** — was sie gerade lernt, begeistert, ohne Leistungsdruck.
 3. **Mein Warum (warm)** — was sie für sich gefunden hat, das ihr guttut, und jeder Frau gönnt.
-4. **Gesicht & Stimme** — sie zeigt/spricht sich, ungeschminkt, einladend (Sprach-/Audio-Frame).
+4. **Stimme (Audio)** — sie spricht sich selbst ein, ungeschminkt, einladend (Sprach-/Audio-Frame).
 5. **Kleine Lebensfreude-Momente** — zehn Minuten raus ohne Handy, und sie kommt anders zurück.
 - **Anschluss:** Jede persönliche Story endet mit einem **leichten** Bezug zur Frau („und das gönn ich dir auch" / „vielleicht magst du das auch") — über das Schöne, nie als Problem-Spiegel. Kein Tagebuch, kein Oversharing, keine Guru-Story.
 - **Sticker (optional):** warm und niedrigschwellig — Emoji-Slider „Sag kurz Hallo" / Frage-Box „Erzähl mir".
