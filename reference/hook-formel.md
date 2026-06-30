@@ -1,6 +1,40 @@
-# Hook-Formel — was Katjas viralen Reel-Hook trägt
+# Hook-Formel — was einen extrem starken Hook trägt
 
-> Single Source of Truth für starke Reel-Hooks. Beim Bau jedes Reels (besonders `/reel-yoga`, `/reel-yoga-wirkung`) hier nachschlagen. Grundprinzip auch in Memory `feedback_hook_konkreter_moment`.
+> Single Source of Truth für starke Hooks — **Reels, Karussells, Stories, Captions**. Bei JEDEM Content mit Hook hier nachschlagen. Grundprinzip auch in Memory `feedback_starker_hook`, `feedback_hook_konkreter_moment`.
+
+---
+
+## Was ein EXTREM starker Hook ist (gilt für ALLE Hooks)
+
+Ein Hook ist **kein schöner erster Satz, sondern ein psychologischer Auslöser**, der den Daumen gegen den Willen anhält. Die Scroll-Entscheidung fällt in **unter 2 Sekunden** — keine Zeit für „schön".
+
+**Die 3 Mechanismen — ein starker Hook trägt mindestens ZWEI davon gleichzeitig:**
+1. **Neugier-Lücke (Open Loop):** eine Info-Lücke öffnen, die Auflösung zurückhalten. Das Gehirn *muss* sie schließen. („…und genau das war das Problem." → warum?!)
+2. **Pattern Interrupt:** eine Erwartung brechen. Was nicht zusammenpasst, erzeugt einen unwillkürlichen Stopp. („Es ist still. Aber dein Kopf macht nicht aus.")
+3. **Emotionale Erkennung:** Überraschung, Wiedererkennung, leise Angst, Sehnsucht — „das bin ich" in 1 Sekunde.
+
+**Nicht verhandelbar:**
+- **Trifft in ~1 Sekunde** — der stärkste Reiz steht ganz vorne, nie im Nebensatz.
+- **Konkret schlägt vage (× 2,4):** eine Zahl, ein Bild, ein gefühlter Moment > eine allgemeine Wahrheit. „Überall dabei" = vage. „20 Jahre funktioniert" = konkret.
+- **Erzeugt eine Lücke, die man auflösen MUSS.**
+- **Hält das Versprechen** — kein Clickbait, sonst scrollt sie beim nächsten Mal sofort weg.
+- **Bild + Text als Doppelschlag** (erste Frame-Sekunde + erster Satz zusammen).
+
+### Der EINE Test (an jedem Hook, Pflicht)
+> Kann man den Satz lesen, innerlich „ja, stimmt" sagen und **weiterscrollen**? → **schwach, neu bauen.**
+> Muss man weiterschauen, um die Spannung **aufzulösen**? → **stark.**
+
+---
+
+## Die 3 Hook-Formen — für die 3 Hooks (Pflicht-System)
+
+Es werden bei jedem Content-Piece **immer 3 Hooks** geliefert (1 Haupt + 2 Alt). **Diese 3 nutzen je eine der drei Formen** — so sind sie automatisch verschieden UND jeder ist ein echter Stopper:
+
+1. **Confession** — eine ehrliche, überraschende, konkrete Beichte. Gern mit Zahl. *„20 Jahre war ich für alle da. Und hab dabei vergessen, wie ich mich selbst anfühle."* (Katjas viraler Insider-Hook „Ich wünschte, mehr Frauen wüssten…" ist diese Form.)
+2. **Widerspruch (Pattern Interrupt)** — zwei Dinge, die nicht zusammenpassen, hart nebeneinander. *„Ich hab nichts vergessen. Termine, Geburtstage, Einkäufe. Nur mich."* (Katjas „Es ist still. Aber dein Kopf macht nicht aus." ist diese Form.)
+3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit. *„Keiner sagt dir, dass du dich selbst verlieren kannst, während von außen alles läuft."*
+
+**Regel:** Jeder der 3 Hooks trägt ≥ 2 Mechanismen und besteht den Auflöse-Test. Die 3 Formen geben die Vielfalt — nie dreihen sich 3 Hooks derselben Form oder mit demselben Opener (z. B. nicht 3× „Komisch, oder?"). Beim Ausgeben **jeden Hook mit seiner Form labeln** (Confession / Widerspruch / Unausgesprochenes), damit Katja den Mechanismus sieht.
 
 ---
 

@@ -453,11 +453,15 @@ Pro Reel-Ziel eine fertige CTA-Vorlage in Brand Voice — zum Rauspicken beim Co
 - **Kommentar/Keyword** → `reference/kommentar-keyword-ctas.md` — Keyword immer **CHECK** (Funnel), plus Erkennungs-Kommentar fürs Engagement.
 - **Senden/Teilen** → `reference/senden-ctas.md` — Regel: **immer content-spezifisch** (konkrete Person aus genau diesem Reel-Moment), nie der immergleiche Standardsatz. Größter Reichweiten-Hebel (DM-Sends 3–5× wertvoller als Likes für kalte Reichweite), ergänzt 2026-06-28 nach der Insights-Auswertung. Rein additiv neben den anderen CTAs, ersetzt das Speichern nicht.
 
+## Hook-Handwerk (gilt für ALLEN Content mit Hook)
+
+**Ein Hook ist ein psychologischer Auslöser, kein schöner Satz** (Katja-Schärfung 2026-06-30). Pflicht bei JEDEM Hook — Reels, Karussells, Stories, Captions: ≥ 2 von 3 Mechanismen (**Neugier-Lücke · Pattern Interrupt · emotionale Erkennung**) + der **Auflöse-Test** („lesen, nicken, weiterscrollen → schwach; weiterschauen müssen → stark"). Konkret schlägt vage, Reiz ganz vorne (~1 Sek), Versprechen halten. **Die 3 gelieferten Hooks (Haupt + 2 Alt) = die 3 Formen: Confession · Widerspruch · Das Unausgesprochene** — je gelabelt, nie 3× dieselbe Form/derselbe Opener. Volldetail + Beispiele + Katjas virale Referenz-Hooks → `reference/hook-formel.md`, Memory `feedback_starker_hook`.
+
 ## Reel-Handwerk: Hook + Watch-Time
 
-Zwei Quelldateien steuern, wie Video-Reels gebaut werden (von den Reel-Skills mitgelesen, gilt nicht für Karussells/Stories):
+Zwei Quelldateien steuern, wie Video-Reels gebaut werden (von den Reel-Skills mitgelesen):
 
-- **Hook** (Einstieg, Scroll-Stop in 1–2 Sek) → `reference/hook-formel.md`.
+- **Hook** (Einstieg, Scroll-Stop in 1–2 Sek) → `reference/hook-formel.md` (Mechanismen + 3-Formen-System, siehe „Hook-Handwerk" oben).
 - **Watch-Time / Retention** (nach dem Hook: dranbleiben bis zum Ende + Replays) → `reference/watchtime-retention.md`. **Oberste Regel: Das Video hält offen, die Caption löst auf** — der letzte On-Screen-Satz (Beat 3) ist ein **Ergebnis-Teaser** (neugierig auf ein konkretes Was, ohne es zu verraten), nie die Auflösung/Übungs-Einladung im Video; die genaue Anleitung + das Warum stehen in der Caption. Dazu: Frame-1-Text, kurz halten (hohe Completion), kein Dead-Air. Kein Pfeil/Caption-Verweis im Video. Eingeführt 2026-06-28 nach der Insights-Auswertung (Memory `feedback_watchtime_retention`).
 
 ## Notizen

@@ -41,7 +41,7 @@ Memory mitnehmen: `feedback_katja_ist_raus`, `feedback_nicht_faceless`, `feedbac
 ### Wenn Reel
 Folge der **Output-Struktur aus `.claude/commands/reel.md`** (Reel-Text · Thumbnail-Hook/Reelcover · Caption · B-Roll · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig) — **mit diesen Abweichungen für persönlichen Content:**
 - **KEINE Grundformel-Pflicht.** Die 4 Grundformeln aus `reel.md` gelten nur fürs Funktionsmodus-Erkennungs-Format. Hier trägt ein **persönlicher Hook** aus der Geschichte (ihre Wahrheit, ihr Moment).
-- **Hook-Härtetest (Pflicht, sonst neu bauen):** Der erste Satz muss ein echter Scroll-Stopper sein — Spannung oder eine Aussage, die man auflösen WILL (z. B. „Ich war jahrelang die Starke. Und genau das hat mich fast kaputtgemacht." · ein Neugier-Opener wie „Komisch, oder? Das, was uns am meisten auslaugt, halten wir für ganz normal." · eine Frage wie „Seit wann ist eigentlich dauernd erschöpft sein normal geworden?"). **Ein ruhig-ehrlicher Alltagssatz reicht NICHT** (Negativbeispiel: „Halb drei. Ich komm aus dem Büro." — wahr, aber niemand stoppt dafür). Frage dich: Würde diese erste Zeile mich anhalten lassen, wenn ich sie beim Scrollen sehe? Wenn nein → schärfen, bis Spannung drin ist. **Die FORM des Hooks rotieren** (Neugier-Frage · Andeutung · Confession · Contrarian-Reframe) — nie jedes Reel mit demselben Opener (z. B. nicht immer „Komisch, oder?"), sonst nutzt sich die Formel ab (Memory `feedback_form_variation`).
+- **Hook = psychologischer Auslöser, kein netter Satz (Pflicht — `reference/hook-formel.md` + Memory `feedback_starker_hook`):** Jeder Hook trägt **≥ 2 von 3 Mechanismen** (Neugier-Lücke · Pattern Interrupt · emotionale Erkennung) und besteht den **Auflöse-Test**: Kann man ihn lesen, „ja stimmt" denken und weiterscrollen → schwach, neu bauen. Muss man weiterschauen, um die Spannung aufzulösen → stark. Konkret schlägt vage (Zahl/Bild/gefühlter Moment), Reiz ganz vorne (~1 Sek). Negativbeispiel: „Halb drei. Ich komm aus dem Büro." — wahr, aber kein Stopper.
 - **Hook sichtbar machen (Pflicht, Katja-Wunsch 2026-06-30):** Den Hook **als Zeile 1 klar kennzeichnen** („HOOK (Zeile 1, der Stopper):"). Beide Reel-Versionen starten mit genau dieser Hook-Zeile; die 2 Alt-Hooks unten **ersetzen ebendiese Zeile 1** (zum Tauschen). Nicht den Hook unmarkiert im Fließtext verstecken — Katja muss auf einen Blick sehen, was der Scroll-Stopper ist.
 - **IMMER ZWEI FORMAT-VARIANTEN liefern** (Katja-Wunsch 2026-06-30, Pflicht) — Katja wählt je nach Zeit/Energie spontan:
   - **Variante A — Text im Reel:** der Text trägt das Video auch stumm. Knappe, lesbare On-Screen-Beats (kurz, schnell produzierbar — Katjas Notfall-/Stresstag-Variante). Katja ist trotzdem im Bild (B-Roll mit ihr), Text als Overlay.
@@ -66,11 +66,15 @@ Persönlicher Content baut Beziehung, nicht Funnel (siehe `reference/persoenlich
 
 ---
 
-## Schritt 3.5 — Alt-Hooks (Pflicht)
+## Schritt 3.5 — Die 3 Hooks = die 3 Formen (Pflicht)
 
-Immer **2 alternative Hooks** zum finalen mitliefern („zum Tauschen") — für die Notion-Ablage und zum Vergleichen (Memory `feedback_notion_alt_hooks`, `feedback_alt_hooks_immer`).
+Immer **3 Hooks** liefern (1 Haupt als Zeile 1 + 2 Alt zum Tauschen) — und die **3 nutzen je eine der drei Formen** (Katja-System 2026-06-30, `reference/hook-formel.md` + Memory `feedback_starker_hook`):
 
-**Die Alt-Hooks müssen denselben Scroll-Stop-Härtetest bestehen wie der Haupt-Hook** (Katja-Wunsch 2026-06-30, ganz wichtig): jeder Alt-Hook ist selbst ein echter Stopper, kein braver Aussagesatz. Und in **anderer Form** als der Haupt-Hook (und als untereinander) — Frage · Andeutung · Confession · Contrarian-Reframe rotieren. Vor dem Ausgeben jeden Alt-Hook gegen „Würde mich diese Zeile beim Scrollen anhalten?" prüfen.
+1. **Confession** — ehrliche, überraschende, konkrete Beichte (gern mit Zahl).
+2. **Widerspruch** — zwei Dinge hart nebeneinander, die nicht zusammenpassen (Pattern Interrupt).
+3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit.
+
+Jeder der 3 trägt ≥ 2 Mechanismen und besteht den Auflöse-Test. **Beim Ausgeben jeden Hook mit seiner Form labeln** (Confession / Widerspruch / Unausgesprochenes), damit Katja den Mechanismus sieht. Nie 3× dieselbe Form oder derselbe Opener. Die 2 nicht gewählten kommen als Alt-Hooks mit in die Notion-Ablage (`feedback_notion_alt_hooks`, `feedback_alt_hooks_immer`).
 
 ---
 
@@ -83,9 +87,11 @@ TÜR 5 (Deine Geschichte) · FORMAT: [Reel / Karussell] · HÄPPCHEN: [kurzer Wi
 (Reel: HOOK (Zeile 1) · Variante A Text im Reel · Variante B Voiceover (+ Untertitel) · Reelcover · Caption · B-Roll · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
 (Karussell: Slides · Caption · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
 
-ALT-HOOKS (ersetzen Zeile 1 zum Tauschen):
-1. [Alternative 1]
-2. [Alternative 2]
+DIE 3 HOOKS (je eine Form, ersetzen Zeile 1 zum Tauschen):
+1. [Confession] …
+2. [Widerspruch] …
+3. [Das Unausgesprochene] …
+(Haupt-Hook = einer der drei, oben als Zeile 1 gesetzt)
 ```
 
 Nach der Ausgabe: kurz fragen, ob Hook, Format, Häppchen oder Caption angepasst werden sollen.
