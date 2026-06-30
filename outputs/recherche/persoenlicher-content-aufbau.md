@@ -10,7 +10,9 @@
 Zwei Fehler, die fast jeder persönliche Content macht — und genau die, die du beschrieben hast:
 
 1. **Zu konstruiert / wie eine vorbereitete Rede.** Das passiert, wenn der Text in ganzen, sauberen Sätzen geschrieben ist. Gesprochene Sprache ist abgehackt, springt, hat Halbsätze. Geschriebene Sprache ist rund — und genau das hört man als „gestellt".
-2. **Zu nah an der Hero Story.** „Ich war ganz unten, dann kam die Erkenntnis, heute bin ich frei." Das klingt nach Bühne, nicht nach Frau aus dem echten Leben. Dein Vorsprung ist, dass du noch mittendrin bist — die Hero Story wirft genau diesen Vorsprung weg.
+2. **Zu nah an der glatten Hero Story.** „Ich war ganz unten, dann kam die Erkenntnis, heute bin ich frei." Das klingt nach Bühne, nicht nach echtem Leben. Du BIST raus aus dem Funktionsmodus — das ist wahr und darf so klar stehen. Nur die Verpackung als große Erlösungs-Show kippt ins Unechte. Wirksamer: ein konkreter Moment aus deinem Weg, nahbar erzählt, statt der polierte Bogen.
+
+**Wichtig zur Positionierung (nie verwechseln):** Du bist raus aus dem Funktionsmodus und führst von der anderen Seite. Glaubwürdig, weil du es jahrelang gelebt hast UND dir den Weg heute täglich hältst (Yoga, Atmen, Pausen) — **nicht**, weil du „auch noch feststeckst" (das widerspricht dem Coachen). Nie „ich bin selbst noch nicht raus".
 
 **Die Lösung in einem Satz:** Schreib EINEN konkreten Moment, nicht deine ganze Reise. Und schreib ihn so, wie du ihn einer Freundin am Telefon erzählen würdest — mit allen Sprüngen.
 
@@ -25,9 +27,9 @@ Vier Beats, nie mehr. Der Reel ist 15–30 Sek, der Text läuft als Overlay mit 
 | Beat | Was passiert | Beispiel (Tür 1, ehrlicher Zwischenstand) |
 |------|-------------|--------------------------------------------|
 | **1. Moment / Szene** (Hook) | EIN konkreter Augenblick, kein Rückblick aufs Leben | „Halb drei. Ich komm aus dem Büro und merke, ich hab den halben Tag funktioniert." |
-| **2. Der Haken / das Unbequeme** | Was daran wehtut oder dich überrascht hat | „Und das Verrückte ist: Ich unterrichte das. Und steck selbst noch mittendrin." |
-| **3. Was du tust / der kleine Schritt** | Klein, unglamourös, konkret | „Also setz ich mich ins Auto und atme erst mal dreimal, bevor ich losfahre." |
-| **4. Zurück zu ihr + leiser Frieden** | Anschluss an die Soul-Client, im Ruhe-Ton landen | „Vielleicht kennst du das. Du musst es nicht gelöst haben. Anfangen reicht." |
+| **2. Der Haken / das Unbequeme** | Was daran wehtat oder dich überrascht hat | „Und das Verrückte: Ich hab das jahrelang für Stärke gehalten." |
+| **3. Was du tust / der kleine Schritt** | Klein, unglamourös, konkret — was dich heute draußen hält | „Heute setz ich mich ins Auto und atme erst mal dreimal, bevor ich losfahre." |
+| **4. Zurück zu ihr + leiser Frieden** | Anschluss an die Soul-Client, im Ruhe-Ton landen | „Vielleicht kennst du das. Und genau da zeig ich dir den Weg raus." |
 
 **Wichtig:** Beat 4 ist Pflicht (sonst Tagebuch). Der Bogen darf in Anspannung starten, **muss aber im Frieden landen** — das ist deine HD-Signatur, nicht nur Geschmack.
 
@@ -36,8 +38,8 @@ Vier Beats, nie mehr. Der Reel ist 15–30 Sek, der Text läuft als Overlay mit 
 - **Mische lange und kurze Sätze.** Ein langer Satz, dann ein Dreiwort-Satz. Das erzeugt den Sprech-Rhythmus, der echt klingt. Reiner Gleichtakt = Rede.
 - **2–4 Reels pro Woche schlagen täglich schwache Posts.** Lieber seltener und echt. (Passt zu deiner Hermit-Linie.)
 
-### Faceless-Variante (für dich relevant)
-- Ruhiges B-Roll (Auto, Küche 6 Uhr, Laufband im Gehen, Hände an der Teetasse) + Text-Overlay. Kein In-die-Kamera-Sprechen nötig.
+### Bild: du bist drin (B-Roll als Ergänzung)
+- **Du bist im Bild** — Gesicht, du selbst, wie in jedem deiner Reels und Stories. Ruhiges B-Roll (Auto, Küche 6 Uhr, Laufband im Gehen, Hände an der Teetasse) kommt dazu, ersetzt dich aber nicht.
 - Der gezeigte Moment soll **genau der Moment aus dem Text sein** — nicht irgendein hübsches Yoga-B-Roll. Auto-Moment im Text → Auto im Bild.
 
 ---
@@ -80,7 +82,7 @@ Ein Zeitstempel + eine Mini-Szene. Spezifisch schlägt immer allgemein.
 
 **B) Die leise Confession / „Darf ich ehrlich sein?"**
 Schafft Nähe in Sekunden — aber nur, wenn danach echte Ehrlichkeit kommt, nicht performt.
-- „Ehrlich? Ich unterrichte das gerade und steck selbst noch mittendrin."
+- „Ehrlich? Ich hab jahrelang das Falsche für Stärke gehalten."
 - „Keiner redet darüber, wie schwer es ist, einfach mal nichts zu leisten."
 
 **C) Der Außen-vs-Innen-Riss (deine Founder-Story, ohne Hero-Ton)**
@@ -121,15 +123,14 @@ Nicht auswendig lernen. **3–4 Stichpunkte + den Hook** festlegen, Rest frei re
 
 ## 5. Muster zum direkt Anwenden
 
-### Muster A — Persönliches Text-Reel (Tür 1, faceless)
+### Muster A — Persönliches Text-Reel (Tür 1, du im Bild)
 ```
-[B-Roll: Hände am Lenkrad, Auto steht]
-Beat 1: Halb drei. Ich komm aus dem Büro.
-Beat 2: Und merk — schon wieder den ganzen Tag funktioniert. Kein einziges Mal richtig durchgeatmet.
-        Und ja, ich unterrichte genau das.
-Beat 3: Also bleib ich kurz sitzen. Drei Atemzüge, bevor ich losfahre. Mehr nicht.
-Beat 4: Ich bin da selbst noch nicht raus. Vielleicht kennst du das.
-        Du musst nichts gelöst haben. Anfangen reicht.
+[Du im Auto, Blick raus; danach ein Moment in die Kamera]
+HOOK: Ich war jahrelang die Starke. Und genau das hat mich fast kaputtgemacht.
+Beat 2: Aus dem Büro raus, und nicht mal gemerkt, dass ich den ganzen Tag kaum geatmet hab.
+        Ich dachte echt, mir fehlt Durchhalten.
+Beat 3: Heute halt ich kurz inne, bevor ich losfahre. Drei Atemzüge. Klingt klein, ist es nicht.
+Beat 4: Ich bin da raus. Und genau den Weg zeig ich dir hier.
 ```
 
 ### Muster B — Persönliches Karussell (Tür 5, Häppchen aus dem Warum)
@@ -140,14 +141,14 @@ Slide 3: Ich hab funktioniert. Im Job, zuhause, für alle.
 Slide 4: Bis ich irgendwann nicht mehr wusste, wer ich ohne das alles bin.
 Slide 5: Niemand hat's gesehen. Von außen lief ja alles.
 Slide 6: Der erste Schritt raus war winzig. Morgens ein paar Minuten, nur für den Körper.
-Slide 7: Ich bin noch unterwegs. Kein fertiger Weg, kein Vorbild von oben.
+Slide 7: Heute bin ich da raus. Und ich halt mich da — mit ein paar Minuten für mich am Tag.
 Slide 8 (Anschluss): Wenn du beim Lesen genickt hast — dann bist du hier richtig.
 ```
 
 ### Muster C — Founder-Hook-Bank (zum Tauschen)
-- „Halb drei, und ich merk schon wieder…"
+- „Ich war jahrelang die Starke. Und genau das hat mich fast kaputtgemacht."
 - „Von außen sah alles gut aus. Innen war ich leer."
-- „Ehrlich? Ich steck selbst noch mittendrin."
+- „Ich dachte, mir fehlt Durchhalten. Dabei hatte ich davon zu viel."
 - „Das Komische an meiner Yoga-Ausbildung: Der schwerste Teil ist, langsam zu machen."
 - „Früher hab ich die Stille sofort mit Aufgaben vollgemacht. Heute halt ich sie aus."
 
@@ -158,7 +159,7 @@ Slide 8 (Anschluss): Wenn du beim Lesen genickt hast — dann bist du hier richt
 1. **Ein Moment, nicht die ganze Reise.** Zeitstempel + Mini-Szene.
 2. **Laut vorlesen** — was holpert, fliegt raus.
 3. **Sprech-Fragmente statt ganzer Sätze.** Sprünge erlaubt.
-4. **Nie Hero Story.** Du bist noch unterwegs — das ist der Vorsprung, nicht der Makel.
+4. **Keine glatte Bühnen-Hero-Story.** Du bist raus — erzähl es an einem echten Moment, nicht als große Erlösungs-Show. Glaubwürdig, weil du es gelebt hast, nicht weil du noch feststeckst.
 5. **Immer zurück zu ihr.** Jeder Post endet bei der Soul-Client, sonst Tagebuch.
 6. **Im Frieden landen.** Anspannung darf rein, Ruhe muss raus.
 

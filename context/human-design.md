@@ -123,7 +123,7 @@ Gilt für ALLE persönlichen Inhalte — Stories, **Reels, Karussells**, Caption
 3. **Wünsche laut aussprechen** (Herz/Ego-Autorität): „Ich wollte…", „ich hatte keine Lust mehr auf…", „das war's mir wert". Geht Frauen mit offenem Ego voran.
 4. **Immer im Frieden landen** (Signatur): der Bogen darf in Anspannung starten, endet aber in Ruhe, nie im Stress.
 5. **Aufgesogenen Druck benennen** (offene Zentren): „Ich hab den Stress/die Anspannung von allen mitgetragen" — echt, weil ihre offenen Zentren das wirklich tun.
-6. **Dosiert, in Wellen, faceless** (Linie 2 Hermit): kein Always-on, Rückzug gehört dazu, teilen wenn sie dran ist, nicht aus Pflicht. Batching > täglich.
+6. **Dosiert, in Wellen** (Linie 2 Hermit): kein Always-on, Rückzug gehört dazu, teilen wenn sie dran ist, nicht aus Pflicht. Batching > täglich. (Sichtbar ja — sie zeigt Gesicht/Stimme; nur nicht rund um die Uhr. Nicht „faceless".)
 
 ---
 

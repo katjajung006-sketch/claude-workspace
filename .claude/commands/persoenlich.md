@@ -62,7 +62,8 @@ Folge der **Output-Struktur aus `.claude/commands/reel.md`** (Reel-Text · Thumb
 - **Nur Tür 5** (siehe harte Regel oben). Persönliche Feed-Reels sind immer die Geschichte, story-getrieben.
 - **KEINE Grundformel-Pflicht.** Die 4 Grundformeln aus `reel.md` gelten nur fürs Funktionsmodus-Erkennungs-Format. Hier trägt ein **persönlicher Hook** aus der Geschichte (ihre Wahrheit, ihr Moment) — siehe Beispiel-Winkel in `reference/persoenlicher-content.md`.
 - **Hook-Härtetest (Pflicht, sonst neu bauen):** Der erste Satz muss ein echter Scroll-Stopper sein — Spannung oder eine Aussage, die man auflösen WILL (z. B. „Von außen sah mein Leben perfekt aus, und genau das war das Problem"). **Ein ruhig-ehrlicher Alltagssatz reicht NICHT** (Negativbeispiel 2026-06-29: „Halb drei. Ich komm aus dem Büro." — wahr, aber niemand stoppt dafür). Frage dich: Würde diese erste Zeile mich anhalten lassen, wenn ich sie beim Scrollen sehe? Wenn nein → schärfen, bis Spannung drin ist.
-- **Reel-Text — IMMER ZWEI VERSIONEN liefern** (Katja-Wunsch 2026-06-29, Pflicht): eine **kurze Version** (knapp, ~3 Zeilen, „3-Beats"-Stil) UND eine **längere Version** (mehr von der Geschichte schon im Video). Beide mit demselben starken ersten Satz (Stopper). Katja wählt dann, welche sie postet. Ehrlicher Ich-Einstieg statt Klammersatz; keine feste Beat-Zahl (die „3 Beats" gelten nur fürs Funktionsmodus-Reel). Faceless möglich (ruhige B-Roll), Gesicht optional.
+- **Hook sichtbar machen (Pflicht, Katja-Wunsch 2026-06-30):** Den Hook **als Zeile 1 klar kennzeichnen** („HOOK (Zeile 1, der Stopper):"). Beide Reel-Versionen starten mit genau dieser Hook-Zeile; die 2 Alt-Hooks unten **ersetzen ebendiese Zeile 1** (zum Tauschen). Nicht den Hook unmarkiert im Fließtext verstecken — Katja muss auf einen Blick sehen, was der Scroll-Stopper ist.
+- **Reel-Text — IMMER ZWEI VERSIONEN liefern** (Katja-Wunsch 2026-06-29, Pflicht): eine **kurze Version** (knapp, ~3 Zeilen, „3-Beats"-Stil) UND eine **längere Version** (mehr von der Geschichte schon im Video). Beide mit demselben starken ersten Satz (Stopper). Katja wählt dann, welche sie postet. Ehrlicher Ich-Einstieg statt Klammersatz; keine feste Beat-Zahl (die „3 Beats" gelten nur fürs Funktionsmodus-Reel). **Katja ist im Bild** (Gesicht/sie selbst); ruhige B-Roll ergänzt, ersetzt sie aber nicht. **Nie „faceless" annehmen — Katja ist in jedem Reel und in den Stories zu sehen.**
 - **Caption:** nicht mit derselben Zeile wie das Reel starten; kurz und am Hook bleiben; endet bei ihr (die „zurück zu ihr"-Regel). Kein Yoga-Verkaufsabsatz.
 - Kein On-Screen-CTA, kein „steht in der Caption" (Memory `feedback_reel_kein_caption_verweis_cta`).
 
@@ -115,7 +116,7 @@ Erst wenn Katja abnimmt („passt so" / „perfekt") → in DB „Feed" (`33a8ac
 
 - **Nicht** die Funktionsmodus-Grundformeln als Hook erzwingen — das ist hier das falsche Format.
 - **Nicht** reines Tagebuch ohne Anschluss zur Soul-Client.
-- **Nicht** die perfekte „ich hab's gelöst"-Story — sie ist noch unterwegs, das ist der Vorsprung.
+- **Nicht** „ich bin selbst noch nicht raus / noch mittendrin" — FALSCH und widerspricht dem Coachen/Verkaufen. Katja IST raus aus dem Funktionsmodus; sie führt von der anderen Seite und hält sich ihren Weg täglich (Yoga, Atmen, Pausen). Glaubwürdig durch gelebte Erfahrung, nicht durch Noch-Feststecken. Genauso wenig die abgehobene „bei mir ist alles für immer perfekt"-Guru-Story.
 - **Nicht** Oversharing, nicht Details über Dritte ohne deren Okay.
 - **Nicht** reflexhaft „Speichern" als CTA, **nicht** ungefragt ein Freebie pushen.
 - **Nicht** nach KI klingen, **nicht** generisch, **nicht** poetisch/verkopft.

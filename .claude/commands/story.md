@@ -1,6 +1,6 @@
 # Story
 
-> Ein einzelner Instagram-Story-Post für zwischendurch — copy-fertig: Frame-Text, Sticker, B-Roll-Hinweis. Faceless: B-Roll + Text-Overlay. **Ohne jeden Verkauf** — das ist die Beziehungs-Ebene (Wiedererkennung + Nähe). Verkauf lebt komplett in `/story-woche` + den Verkaufs-Stories.
+> Ein einzelner Instagram-Story-Post für zwischendurch — copy-fertig: Frame-Text, Sticker, B-Roll-Hinweis. Katja ist sichtbar (Foto/Video/Gesicht/Stimme); B-Roll + Text-Overlay ist ein Frame-Format, kein Ersatz für ihre Präsenz. **Ohne jeden Verkauf** — das ist die Beziehungs-Ebene (Wiedererkennung + Nähe). Verkauf lebt komplett in `/story-woche` + den Verkaufs-Stories.
 
 Ein **rotierender Mix** aus vier Sorten: **Spruch · persönlich · Mini-Impuls · Spür-Check.** Spruch + persönlich sind das Herz.
 
@@ -17,7 +17,7 @@ eingabe: $ARGUMENTS  *(optional — Sorte + ggf. Anzahl; leer = rotierender Mix)
 Lies zuerst:
 - `context/soulclient.md` — die funktionierende Frau 40+
 - `context/brand-voice.md` — Tonalität, **verbotene Wörter**, Satzrhythmus
-- `context/human-design.md` — **der Ton für Persönliches** (zeigen statt lehren · in den Prozess mitnehmen · Wünsche aussprechen · im Frieden landen · dosiert/faceless · Signatur Frieden)
+- `context/human-design.md` — **der Ton für Persönliches** (zeigen statt lehren · in den Prozess mitnehmen · Wünsche aussprechen · im Frieden landen · dosiert/in Wellen · Signatur Frieden)
 - `reference/persoenlicher-content.md` — bei Sorte `persoenlich`: die warmen Themen + Leitplanke „zurück zu ihr"
 - `reference/zielgruppe-workbook.md` — Winkel/Momente für Sprüche + Impulse (über morgens/mittendrin/abends)
 - `reference/story-aufbau.md` — was eine gute Story trägt (Frame-1-Regel, Sticker-Hebel)
@@ -61,7 +61,7 @@ Lies zuerst:
 - **Sticker (optional):** Emoji-Slider „Trifft dich das?" *oder* schlichte Zeile „Speicher dir das, oder schick's einer Frau, der's gerade auch so geht."
 
 ### Persönliche Story — warm (5 Themen, rotierend)
-1–3 Frames, faceless okay (außer „Gesicht & Stimme"). **Immer mit dem Guten führen, im Warmen/Frieden landen.** Themen rotieren, nie dasselbe wie zuletzt:
+1–3 Frames; B-Roll + Text-Overlay okay als Frame-Format, aber Katja zeigt sich regelmäßig auch selbst (besonders bei „Gesicht & Stimme") — nie „faceless" als Default. **Immer mit dem Guten führen, im Warmen/Frieden landen.** Themen rotieren, nie dasselbe wie zuletzt:
 1. **Echte Praxis-Momente** — der unperfekte Morgen/Mini-Moment, der ihr Lieblingsmoment ist („Mein Morgen sieht nicht aus wie auf schönen Yoga-Bildern …").
 2. **Die Ausbildung (Entdeckerfreude)** — was sie gerade lernt, begeistert, ohne Leistungsdruck.
 3. **Mein Warum (warm)** — was sie für sich gefunden hat, das ihr guttut, und jeder Frau gönnt.

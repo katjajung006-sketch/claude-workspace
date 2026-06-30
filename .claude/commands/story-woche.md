@@ -1,6 +1,6 @@
 # Story-Woche
 
-> Komplette Wochen-Produktion für Instagram-Stories: 7 Tage (Montag–Sonntag) fertige, copy-fertige Story-Frames — Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. Faceless: B-Roll + Text-Overlay, kein In-die-Kamera-Sprechen nötig.
+> Komplette Wochen-Produktion für Instagram-Stories: 7 Tage (Montag–Sonntag) fertige, copy-fertige Story-Frames — Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. **Katja ist sichtbar** (Foto/Video/Gesicht/Stimme); B-Roll + Text-Overlay sind ein zusätzliches Frame-Format, kein Ersatz für ihre Präsenz — nie „faceless" annehmen.
 
 Läuft auf Zuruf, nicht automatisch. Inhalte wählt Claude selbst — **frisch je Lauf, nie wiederholt, immer spezifisch** (nie generisch).
 
@@ -141,7 +141,7 @@ Persönliches ist keine eigene Story, sondern läuft **durch die Woche** mit —
 - **Kurz halten, Bestes zuerst.** Pro Tag selten mehr als 4 Frames (Verkaufsformate 4–5 Frames, Verbindung 1–2). Frame 1 entscheidet, ob jemand bleibt.
 - **Interaktion ist der Hebel:** jeden Tag genau ein klares Interaktions- oder Bindungs-Element (Sticker/CTA). Niedrigschwellige Sticker (Emoji-Slider) bringen früh Antworten → Algo-Schub.
 - **Ein bewusster Weiterleitungs-Moment pro Woche** (Sends sind ein Top-Signal) — „Schick das einer Frau, die gerade auch nur funktioniert."
-- **Faceless ist gewollt:** ruhige B-Roll + Text-Overlay, Katjas Sandbeige/Creme-Welt (#D8C7B2 / #F4EFE7), Tageslicht, ruhige Settings.
+- **Katjas Bildwelt:** ein Mix aus Frames mit ihr (Foto/Video/Gesicht/Stimme) und ruhiger B-Roll + Text-Overlay — sie ist sichtbar, B-Roll ist Ergänzung, nicht Ersatz. Katjas Sandbeige/Creme-Welt (#D8C7B2 / #F4EFE7), Tageslicht, ruhige Settings.
 - **Posten am besten abends 18–22 Uhr** (die Feierabend-Frau). Hinweis am Ende einmal mitgeben.
 
 ---

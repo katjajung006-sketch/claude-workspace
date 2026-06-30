@@ -56,8 +56,8 @@ Frame 5–7  → AUFLÖSUNG  Erkenntnis + EIN klarer nächster Schritt (CTA).
 3. **Likes per reach**
 → Halten + zur Interaktion bringen.
 
-### Faceless funktioniert
-B-Roll + Text-Overlay trägt eine Story komplett — *wenn* Frame 1 sofort einen klaren, lesbaren Gedanken liefert (stummer Blick muss reichen). Video hält besser als Standbild → wo möglich ruhiges B-Roll-Video.
+### B-Roll + Text-Frames funktionieren (als Baustein)
+Ein B-Roll-Frame mit Text-Overlay trägt für sich — *wenn* Frame 1 sofort einen klaren, lesbaren Gedanken liefert (stummer Blick muss reichen). Video hält besser als Standbild → wo möglich ruhiges B-Roll-Video. Aber: Katja **zeigt sich über ihre Stories hinweg auch selbst** (Foto/Video/Gesicht/Stimme) — diese B-Roll-Frames sind ein Baustein, kein Ersatz für ihre Präsenz. Nicht „faceless" als Default annehmen.
 
 ### Kurzformel
 > Bestes zuerst (Frame 1 mit Sticker) → ein Gedanke pro Frame, visuell abwechslungsreich → 1 interaktiver Sticker in der Mitte → ein einziges Ziel als CTA, über DM/Antwort statt nacktem Link. 3–7 Frames, je 3–15 Sek., stumm verständlich.

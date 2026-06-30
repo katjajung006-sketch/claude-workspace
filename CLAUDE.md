@@ -253,7 +253,7 @@ Claude wählt die 7 Themen **selbst** (Trend via Instagram-Späher + WebSearch +
 
 ### /story-woche [optional: anpassung]
 
-**Zweck:** Komplette Wochen-Produktion für **tägliche Instagram-Stories** — 7 Tage (Mo–So) copy-fertige Frames: Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. Faceless: B-Roll + Text-Overlay, kein In-die-Kamera-Sprechen nötig.
+**Zweck:** Komplette Wochen-Produktion für **tägliche Instagram-Stories** — 7 Tage (Mo–So) copy-fertige Frames: Text, Sticker, B-Roll-Hinweis, Link wo nötig. Einmal laufen lassen (z. B. Sonntagabend), ganze Woche fertig. **Katja ist sichtbar** (Foto/Video/Gesicht/Stimme); B-Roll + Text-Overlay sind ein zusätzliches Frame-Format, kein Ersatz für ihre Präsenz — nie „faceless" annehmen.
 
 **Tragendes Prinzip: 70/30** (umgebaut 2026-06-27). Pro Woche **5 Verkaufstage + 2 Verbindungstage**. Die Verkaufstage nutzen die ausgearbeiteten **Verkaufsstory-Vorlagen** (Mythos · Fragen & Antworten + Mini-Impuls · Behind the Scenes · Persönliche Story · 1-teilige · Erzähl-Bögen · Fallstudie) im **vollen Format** — Quelle `reference/stories-verkaufen.md` + Notion-DB „Verkaufs-Stories". **Struktur bleibt, Inhalt jede Woche komplett neu** (nie derselbe Mythos/dieselbe Q&A/derselbe BTS-Moment wie zuletzt). Die 2 Verbindungstage = reine Beziehung/Interaktion, **kein Verkauf** (This-or-that, echtes Leben, Frage-Box, Stimmungs-Slider, BTS-privat, Telegram-Einladung — auch rotierend).
 
@@ -267,7 +267,7 @@ Eingebaute Regeln: max. 2 Verkaufstage am Stück · max. 1–2 harte Produkt-Pit
 
 - `/story` → rotierender Mix (Spruch · persönlich · Impuls · Check; Spruch + persönlich sind das Herz)
 - `/story spruch` (· `spruch 3`) → wahrer Satz, 4 Formen rotierend (stiller Spiegel · Vielleicht-Paar · leise Frage · Alltagssatz) · `/story persoenlich` → warme persönliche Story (5 Themen: echte Praxis-Momente · die Ausbildung · mein Warum · Gesicht & Stimme · kleine Lebensfreude-Momente) · `/story impuls` → Mini-Körperimpuls · `/story check` → Spür-Check
-- **Kein Verkauf:** kein CTA/Keyword/Link/Funnel. Grundton aus dem Human Design (zeigen statt lehren, im Frieden landen, dosiert/faceless), keine negative Grundstimmung, Tochter kommt nicht vor. Persönlich-Themen + Ton: `reference/persoenlicher-content.md` + `context/human-design.md`. Rotation über `outputs/story-woche/verlauf.md`.
+- **Kein Verkauf:** kein CTA/Keyword/Link/Funnel. Grundton aus dem Human Design (zeigen statt lehren, im Frieden landen, dosiert/in Wellen), keine negative Grundstimmung, Tochter kommt nicht vor. Persönlich-Themen + Ton: `reference/persoenlicher-content.md` + `context/human-design.md`. Rotation über `outputs/story-woche/verlauf.md`.
 
 ### /shutdown
 
@@ -343,7 +343,7 @@ Katja macht eine **Somatic-Yoga-Lehrerausbildung** (deutsch, komplett online, se
 Damit Katja als Mensch sichtbar wird, ohne die Nische zu verwässern, gibt es ein festes Persönlich-System (eingerichtet 2026-06-13). **Persönliches ist keine dritte Content-Säule, sondern die menschliche Schicht UNTER den beiden Säulen** — Katja als lebender Beweis für „raus aus dem Funktionsmodus" (Human Design Linie 6 / Role Model). Dosiert und energieschonend (Linie 2 / Hermit).
 
 - **Single Source of Truth:** `reference/persoenlicher-content.md` — die 6 Türen, Leitplanken (immer „zurück zu ihr", kein Oversharing, keine Guru-Story), CTA-Logik (Beziehung statt Funnel) und Rhythmus/Format-Verteilung. Alle Persönlich-Skills lesen daraus.
-- **Der Ton kommt aus dem Human Design** (vertieftes Reading 2026-06-27 in `context/human-design.md`): zeigen statt lehren (Linie 6) · in den Prozess mitnehmen (Manifestor/Informieren) · Wünsche laut aussprechen (Herz/Ego) · immer im Frieden landen (Signatur) · aufgesogenen Druck benennen (offene Zentren = ihre Empathie-Quelle) · dosiert/faceless (Linie 2). Gilt auch für persönliche Reels & Karussells. Die 6 Türen sind die Form, das HD ist der Ton.
+- **Der Ton kommt aus dem Human Design** (vertieftes Reading 2026-06-27 in `context/human-design.md`): zeigen statt lehren (Linie 6) · in den Prozess mitnehmen (Manifestor/Informieren) · Wünsche laut aussprechen (Herz/Ego) · immer im Frieden landen (Signatur) · aufgesogenen Druck benennen (offene Zentren = ihre Empathie-Quelle) · dosiert/in Wellen (Linie 2, sichtbar aber nicht always-on). Gilt auch für persönliche Reels & Karussells. Die 6 Türen sind die Form, das HD ist der Ton.
 - **Die 6 Türen:** (1) Ehrlicher Zwischenstand · (2) Eigene Rückkehr in den Körper · (3) Die Ausbildung · (4) Echtes Leben drumherum · (5) Das Warum (in Häppchen) · (6) Gesicht & Stimme.
 - **Stories:** `/story-woche` webt die menschliche Schicht (6 Türen) **natürlich** durch die Woche ein — vor allem über den Persönliche-Story-Verkaufstag und die 2 Verbindungstage, plus kleine persönliche Sätze, wo sie passen (nicht mehr formelhaft auf alle 7 Tage gestempelt, seit Umbau 2026-06-27). Türen über die Wochen rotieren, nie dasselbe Häppchen wie zuletzt; jeder Moment endet zurück bei der Soul-Client. Spontan zusätzlich über `/story persoenlich`. Getrackt in `outputs/story-woche/verlauf.md`.
 - **Feed (1×/Woche):** Tür 5 (Das Warum / Geschichte) als Reel oder Karussell über `/persoenlich` — ~1 von 7 Feed-Posts, das Grid bleibt Nische-dominiert.
