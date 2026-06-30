@@ -68,7 +68,7 @@ Für jedes der 7 Karussells genau diese Felder füllen (Struktur wie in `outputs
 ```
 
 Schreib-Regeln:
-- **Cover-Hook:** kurz, körpernah, trifft sofort. Keine Frage als Hook, außer sie sitzt.
+- **Cover-Hook:** kurz, körpernah, trifft sofort — ein echter Scroll-Stopper, kein netter Satz. Aus der **Nische-Hook-Palette** bauen (`reference/hook-formel.md` → „Nische": Widerspruch · Das Unausgesprochene · Erkennung/Spiegel · Insider · Listen-Hook; **keine Confession**, die ist persönlich-exklusiv), ≥ 2 Mechanismen + Auflöse-Test. Über die 7 Karussells die Form variieren, nicht 7× dieselbe. Keine Frage als Hook, außer sie sitzt.
 - **Inhalts-Slides:** EIN Gedanke pro Slide, ruhig, in Libre-Baskerville-Länge (max. ~2 kurze Sätze). Die durchnummerierte Zahl ist Gestaltung, kein Aufzähl-Zwang — der Text trägt.
 - **Schluss:** `relief` = entlastender, wahrer Satz (kein Motivations-Spruch). `cta` passend zum Ziel; **Interaktions-Frage gehört NICHT auf die Schluss-Slide, sondern in die Caption.**
 - **Caption je Karussell** (für KARUSSELLS.md + Canva-Kommentar): 3 kurze Absätze + Interaktions-/CTA-Zeile, dann 5 Hashtags. Hashtags aus dem etablierten Set mischen: #funktionsmodus #yogastattfunktionieren #zurückzudir #erschöpfung #frauenab40 #selbstübergehen #atemübung #yogaamabend #loslassen #atempause — passend zum Thema, nicht stur dieselben fünf.

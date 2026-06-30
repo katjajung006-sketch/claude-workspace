@@ -26,15 +26,26 @@ Ein Hook ist **kein schöner erster Satz, sondern ein psychologischer Auslöser*
 
 ---
 
-## Die 3 Hook-Formen — für die 3 Hooks (Pflicht-System)
+## Die 3 Hooks — Pflicht-System (immer 3, je gelabelt)
 
-Es werden bei jedem Content-Piece **immer 3 Hooks** geliefert (1 Haupt + 2 Alt). **Diese 3 nutzen je eine der drei Formen** — so sind sie automatisch verschieden UND jeder ist ein echter Stopper:
+Bei jedem Content-Piece **immer 3 Hooks** liefern (1 Haupt + 2 Alt), und die **3 nutzen je eine andere Form** — so sind sie automatisch verschieden UND jeder ist ein echter Stopper. Jeder trägt ≥ 2 Mechanismen, besteht den Auflöse-Test und wird **mit seiner Form gelabelt**. Nie 3× dieselbe Form oder derselbe Opener (z. B. nicht 3× „Komisch, oder?").
 
-1. **Confession** — eine ehrliche, überraschende, konkrete Beichte. **IMMER mit einer Zahl / konkreten Größe** (Jahre, Häufigkeit, Anzahl) — die Zahl macht die Beichte greifbar und ist Pflicht für diese Form. *„20 Jahre war ich für alle da. Und hab dabei vergessen, wie ich mich selbst anfühle."* (Katjas viraler Insider-Hook „Ich wünschte, mehr Frauen wüssten…" ist diese Form.)
-2. **Widerspruch (Pattern Interrupt)** — zwei Dinge, die nicht zusammenpassen, hart nebeneinander. *„Ich hab nichts vergessen. Termine, Geburtstage, Einkäufe. Nur mich."* (Katjas „Es ist still. Aber dein Kopf macht nicht aus." ist diese Form.)
-3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit. **Den Einstieg variieren, NICHT immer „Keiner sagt dir…"** — gleiche Wirkung, anderer Auftakt: „Niemand warnt dich davor, dass…" · „Worüber keiner spricht: …" · „Das, was mir keiner gesagt hat: …" · „Es redet keiner darüber, aber …".
+**Welche 3 Formen — hängt vom Content-Typ ab (Palette):**
 
-**Regel:** Jeder der 3 Hooks trägt ≥ 2 Mechanismen und besteht den Auflöse-Test. Die 3 Formen geben die Vielfalt — nie dreihen sich 3 Hooks derselben Form oder mit demselben Opener (z. B. nicht 3× „Komisch, oder?"). Beim Ausgeben **jeden Hook mit seiner Form labeln** (Confession / Widerspruch / Unausgesprochenes), damit Katja den Mechanismus sieht.
+### Persönlich (Reel + Karussell, Tür 5)
+1. **Confession** — ehrliche, überraschende, konkrete Beichte, **IMMER mit einer Zahl** (Jahre/Häufigkeit/Anzahl — Pflicht, macht die Beichte greifbar). *„20 Jahre lang hab ich mich zusammengerissen. Und es Stärke genannt."*
+2. **Widerspruch (Pattern Interrupt)** — zwei Dinge hart nebeneinander, die nicht zusammenpassen. *„Ich hab nichts vergessen. Termine, Geburtstage, Einkäufe. Nur mich."*
+3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit. **Einstieg variieren, NICHT immer „Keiner sagt dir…"**: „Niemand warnt dich, dass…" · „Worüber keiner spricht: …" · „Das, was mir keiner gesagt hat: …".
+
+### Nische (Yoga-/Funktionsmodus-Karussells & -Reels)
+Aus dieser Palette **3 verschiedene** wählen. **Confession bleibt persönlich-exklusiv** (Ich-Beichte mit Zahl = Katja als Mensch, Tür 5) — hier NICHT nutzen, sonst verwässert die Nische-Säule Richtung persönlich:
+- **Widerspruch** — wie oben, funktioniert überall. *„Es ist still. Aber dein Kopf macht nicht aus."*
+- **Das Unausgesprochene** — wie oben, funktioniert überall.
+- **Erkennung / Spiegel** — ein gelebter Alltagsmoment, in dem sie sich sofort erkennt („Die meisten Frauen…", über den konkreten Moment, nie „du merkst es nicht"-Diagnose).
+- **Insider** — „Ich wünschte, mehr Frauen wüssten, was diese 3 Minuten machen, wenn du…" (teilen statt verkaufen, senkt die Abwehr; Katjas viraler ~90k-Hook).
+- **Listen-Hook** — Zahl + Verstärkerwort + Substantiv („5 stille Zeichen, dass…"); siehe Memory `feedback_listen_hook_verstaerkerwort`.
+
+**Brücke:** Widerspruch + Das Unausgesprochene gelten in beiden Welten — die Paletten sind also verwandt. Nur **Confession** ist persönlich-exklusiv; **Erkennung / Insider / Listen-Hook** sind die Nische-Spezialitäten.
 
 ---
 

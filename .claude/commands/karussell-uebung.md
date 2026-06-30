@@ -172,16 +172,11 @@ Nie: „Diese Übung reguliert dein Nervensystem." Stattdessen körpernah, in Al
 
 ---
 
-## Output 3 — Hook-Varianten
+## Output 3 — Hook-Varianten (3 Formen, gelabelt)
 
-Tutorial-Formate leben von konkreter Nutzbarkeit — liefere **3 Hook-Varianten** für Slide 1, damit Katja wählen kann. Bewährte Richtungen:
-- „Mach das, wenn …"
-- „3 Minuten für …" / „3 Yoga-Minuten, wenn …"
-- „Eine Übung gegen / wenn …"
-- „Wenn dein Kopf … aber dein Körper …"
-- „Nicht mehr durchhalten. Kurz zurückkommen."
+Liefere **3 Hooks für Slide 1**, je eine andere **Form aus der Nische-Palette** (`reference/hook-formel.md` → „Nische") und **mit der Form gelabelt**: **Widerspruch · Das Unausgesprochene · Erkennung/Spiegel · Insider · Listen-Hook** — daraus 3 verschiedene. **Confession (Ich-Beichte mit Zahl) NICHT** — die ist persönlich-exklusiv (Tür 5), würde die Nische verwässern.
 
-Jede Variante konkret und alltagsnah — kein Ergebnis-Versprechen, keine Floskel.
+Jeder Hook trägt ≥ 2 Mechanismen (Neugier-Lücke · Pattern Interrupt · Erkennung) und besteht den **Auflöse-Test** („lesen, nicken, weiterscrollen → schwach; weiterschauen müssen → stark"). Konkret + alltagsnah, kein Ergebnis-Versprechen, keine Floskel. Vollregeln: `reference/hook-formel.md`, Memory `feedback_starker_hook`.
 
 ---
 
@@ -257,9 +252,9 @@ Slide 8 (CTA): [Text]
 ---
 HOOK-VARIANTEN (für Slide 1)
 
-1. [Variante]
-2. [Variante]
-3. [Variante]
+1. [Form] [Variante]
+2. [Form] [Variante]
+3. [Form] [Variante]
 
 ---
 CAPTION

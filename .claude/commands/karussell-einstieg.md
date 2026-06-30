@@ -90,7 +90,7 @@ Slide 9 — CTA              (klarer Kommentar-Call: ANKOMMEN)
 
 Kürzer geht: Teach-Teil auf 3 Slides, Erkenntnis + Freebie-Brücke zusammenziehen → 6–7 Slides. Nie über 9.
 
-**Slide 1 — Hook.** Muss sofort Wiedererkennung auslösen UND die Brücke zu Yoga schlagen:
+**Slide 1 — Hook.** Muss sofort Wiedererkennung auslösen UND die Brücke zu Yoga schlagen. **Liefere dazu unten 3 Hook-Varianten in je einer anderen Form aus der Nische-Palette** (`reference/hook-formel.md` → „Nische": Widerspruch · Das Unausgesprochene · Erkennung/Spiegel · Insider · Listen-Hook; **keine Confession** — die ist persönlich-exklusiv), gelabelt, jeder ≥ 2 Mechanismen + Auflöse-Test. Beispiele:
 > Du brauchst kein perfektes Yoga. Du brauchst 3 Minuten, in denen du dich nicht wieder übergehst.
 > Wenn du den ganzen Tag funktionierst, braucht dein Körper keine Challenge. Er braucht ein Signal von Sicherheit.
 > 5 einfache Yoga-Impulse für Frauen, die abends nur noch funktionieren.
@@ -202,6 +202,13 @@ Slide 6 (Teach 4):  [Text]
 Slide 7 (Erkenntnis): [Text]
 Slide 8 (Freebie-Brücke): [Text]
 Slide 9 (CTA):      [Text]
+
+---
+HOOK-VARIANTEN (für Slide 1, je eine Form, gelabelt)
+
+1. [Form] [Variante]
+2. [Form] [Variante]
+3. [Form] [Variante]
 
 ---
 CAPTION
