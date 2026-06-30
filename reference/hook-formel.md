@@ -30,9 +30,9 @@ Ein Hook ist **kein schöner erster Satz, sondern ein psychologischer Auslöser*
 
 Es werden bei jedem Content-Piece **immer 3 Hooks** geliefert (1 Haupt + 2 Alt). **Diese 3 nutzen je eine der drei Formen** — so sind sie automatisch verschieden UND jeder ist ein echter Stopper:
 
-1. **Confession** — eine ehrliche, überraschende, konkrete Beichte. Gern mit Zahl. *„20 Jahre war ich für alle da. Und hab dabei vergessen, wie ich mich selbst anfühle."* (Katjas viraler Insider-Hook „Ich wünschte, mehr Frauen wüssten…" ist diese Form.)
+1. **Confession** — eine ehrliche, überraschende, konkrete Beichte. **IMMER mit einer Zahl / konkreten Größe** (Jahre, Häufigkeit, Anzahl) — die Zahl macht die Beichte greifbar und ist Pflicht für diese Form. *„20 Jahre war ich für alle da. Und hab dabei vergessen, wie ich mich selbst anfühle."* (Katjas viraler Insider-Hook „Ich wünschte, mehr Frauen wüssten…" ist diese Form.)
 2. **Widerspruch (Pattern Interrupt)** — zwei Dinge, die nicht zusammenpassen, hart nebeneinander. *„Ich hab nichts vergessen. Termine, Geburtstage, Einkäufe. Nur mich."* (Katjas „Es ist still. Aber dein Kopf macht nicht aus." ist diese Form.)
-3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit. *„Keiner sagt dir, dass du dich selbst verlieren kannst, während von außen alles läuft."*
+3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit. **Den Einstieg variieren, NICHT immer „Keiner sagt dir…"** — gleiche Wirkung, anderer Auftakt: „Niemand warnt dich davor, dass…" · „Worüber keiner spricht: …" · „Das, was mir keiner gesagt hat: …" · „Es redet keiner darüber, aber …".
 
 **Regel:** Jeder der 3 Hooks trägt ≥ 2 Mechanismen und besteht den Auflöse-Test. Die 3 Formen geben die Vielfalt — nie dreihen sich 3 Hooks derselben Form oder mit demselben Opener (z. B. nicht 3× „Komisch, oder?"). Beim Ausgeben **jeden Hook mit seiner Form labeln** (Confession / Widerspruch / Unausgesprochenes), damit Katja den Mechanismus sieht.
 

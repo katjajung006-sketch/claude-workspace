@@ -70,9 +70,9 @@ Persönlicher Content baut Beziehung, nicht Funnel (siehe `reference/persoenlich
 
 Immer **3 Hooks** liefern (1 Haupt als Zeile 1 + 2 Alt zum Tauschen) — und die **3 nutzen je eine der drei Formen** (Katja-System 2026-06-30, `reference/hook-formel.md` + Memory `feedback_starker_hook`):
 
-1. **Confession** — ehrliche, überraschende, konkrete Beichte (gern mit Zahl).
+1. **Confession** — ehrliche, überraschende, konkrete Beichte, **IMMER mit einer Zahl/konkreten Größe** (Jahre, Häufigkeit, Anzahl) — Pflicht für diese Form.
 2. **Widerspruch** — zwei Dinge hart nebeneinander, die nicht zusammenpassen (Pattern Interrupt).
-3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit.
+3. **Das Unausgesprochene** — was keiner sagt, die unbequeme Wahrheit; **Einstieg variieren, nicht immer „Keiner sagt dir…"** (z. B. „Niemand warnt dich, dass…", „Worüber keiner spricht: …", „Das, was mir keiner gesagt hat: …").
 
 Jeder der 3 trägt ≥ 2 Mechanismen und besteht den Auflöse-Test. **Beim Ausgeben jeden Hook mit seiner Form labeln** (Confession / Widerspruch / Unausgesprochenes), damit Katja den Mechanismus sieht. Nie 3× dieselbe Form oder derselbe Opener. Die 2 nicht gewählten kommen als Alt-Hooks mit in die Notion-Ablage (`feedback_notion_alt_hooks`, `feedback_alt_hooks_immer`).
 
