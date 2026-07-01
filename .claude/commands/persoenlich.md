@@ -43,12 +43,9 @@ Folge der **Output-Struktur aus `.claude/commands/reel.md`** (Reel-Text · Thumb
 - **KEINE Grundformel-Pflicht.** Die 4 Grundformeln aus `reel.md` gelten nur fürs Funktionsmodus-Erkennungs-Format. Hier trägt ein **persönlicher Hook** aus der Geschichte (ihre Wahrheit, ihr Moment).
 - **Hook = psychologischer Auslöser, kein netter Satz (Pflicht — `reference/hook-formel.md` + Memory `feedback_starker_hook`):** Jeder Hook trägt **≥ 2 von 3 Mechanismen** (Neugier-Lücke · Pattern Interrupt · emotionale Erkennung) und besteht den **Auflöse-Test**: Kann man ihn lesen, „ja stimmt" denken und weiterscrollen → schwach, neu bauen. Muss man weiterschauen, um die Spannung aufzulösen → stark. Konkret schlägt vage (Zahl/Bild/gefühlter Moment), Reiz ganz vorne (~1 Sek). Negativbeispiel: „Halb drei. Ich komm aus dem Büro." — wahr, aber kein Stopper.
 - **Hook sichtbar machen (Pflicht, Katja-Wunsch 2026-06-30):** Den Hook **als Zeile 1 klar kennzeichnen** („HOOK (Zeile 1, der Stopper):"). Beide Reel-Versionen starten mit genau dieser Hook-Zeile; die 2 Alt-Hooks unten **ersetzen ebendiese Zeile 1** (zum Tauschen). Nicht den Hook unmarkiert im Fließtext verstecken — Katja muss auf einen Blick sehen, was der Scroll-Stopper ist.
-- **IMMER ZWEI FORMAT-VARIANTEN liefern** (Katja-Wunsch 2026-06-30, Pflicht) — Katja wählt je nach Zeit/Energie spontan:
-  - **Variante A — Text im Reel:** der Text trägt das Video auch stumm. Knappe, lesbare On-Screen-Beats (kurz, schnell produzierbar — Katjas Notfall-/Stresstag-Variante). Katja ist trotzdem im Bild (B-Roll mit ihr), Text als Overlay.
-  - **Variante B — Voiceover:** Katja spricht den Text als Voiceover ein (warm, persönlich, baut Vertrauen), sie ist im Bild, **Untertitel laufen mit** (viele schauen stumm). Der Text darf hier flüssiger/voller sein — so, wie sie ihn laut sagen würde.
-  Beide starten mit **demselben Hook als Zeile 1**. Ehrlicher Ich-Einstieg statt Klammersatz; keine feste Beat-Zahl (die „3 Beats" gelten nur fürs Funktionsmodus-Reel). **Katja ist immer im Bild** — nie „faceless". (Talking Head / direkt in die Kamera ist ein späterer Schritt, noch nicht Standard.)
+- **Nur Voiceover — im Poetry-Format** (Katja-Entscheidung 2026-07-01, Pflicht). Kein Text-im-Reel mehr. Katja spricht den Text als Voiceover ein, sie ist im Bild, **Untertitel laufen mit**. Der Text ist ein durchgehender, gesprochener Fluss — kurze, gesetzte Zeilen mit natürlichem Atemrhythmus, eine emotionale Reise von Anfang bis Ende. Kein Slide-Denken, kein Bullet-Denken. Startet mit dem Hook (Zeile 1), ehrlicher Ich-Einstieg, keine feste Beat-Zahl. Referenz: erstes Content Piece „Niemand warnt dich davor…" (erstellt 2026-07-01). **Katja ist immer im Bild** — nie „faceless".
 - **Positionierung (Pflicht):** Katja **ist raus** aus dem Funktionsmodus und führt von der anderen Seite — glaubwürdig, weil sie es gelebt hat UND sich ihren Weg täglich hält (Yoga, Atmen, Pausen). **Nie „ich bin selbst noch nicht raus / noch mittendrin"** (Memory `feedback_katja_ist_raus`).
-- **Caption:** nicht mit derselben Zeile wie das Reel starten; kurz und am Hook bleiben; endet bei ihr (die „zurück zu ihr"-Regel). Kein Yoga-Verkaufsabsatz.
+- **Caption:** Startet mit einem absolut starken Hook — einer echten **Neugier-Lücke**, die zwingt weiterzulesen (kein weicher Einstieg, kein erklärender Einstieg). Andere Zeile als der Voiceover-Einstieg. Natürliche, gesprochene Sprache. 1–2 Emojis genau dort, wo sie wirklich passen (kein Emoji erzwingen). **👉🏻 vor dem finalen CTA**. Kurz halten, endet bei ihr (die „zurück zu ihr"-Regel). Kein Yoga-Verkaufsabsatz.
 - Kein On-Screen-CTA, kein „steht in der Caption" (Memory `feedback_reel_kein_caption_verweis_cta`).
 
 ### Wenn Karussell
@@ -84,7 +81,7 @@ Jeder der 3 trägt ≥ 2 Mechanismen und besteht den Auflöse-Test. **Beim Ausge
 TÜR 5 (Deine Geschichte) · FORMAT: [Reel / Karussell] · HÄPPCHEN: [kurzer Winkel]
 
 — dann die vollständigen Outputs des gewählten Formats —
-(Reel: HOOK (Zeile 1) · Variante A Text im Reel · Variante B Voiceover (+ Untertitel) · Reelcover · Caption · B-Roll · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
+(Reel: HOOK (Zeile 1) · Voiceover/Poetry · Reelcover · Caption · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
 (Karussell: Slides · Caption · 5 Hashtags · Story-Sequenz · DM-Antwort wenn nötig)
 
 DIE 3 HOOKS (je eine Form, ersetzen Zeile 1 zum Tauschen):
