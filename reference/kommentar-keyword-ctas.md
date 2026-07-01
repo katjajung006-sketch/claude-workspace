@@ -22,7 +22,8 @@ Zwei Arten: **Keyword** (Funnel → Freebie, feuert den Auto-DM) und **Erkennung
 **Zum Rauspicken (Keyword je nach gewähltem Freebie tauschen):**
 - „Wenn du wissen willst, ob du im Funktionsmodus läufst: schreib **CHECK** in die Kommentare. Ich schick dir den Weg zurück."
 - „Kommentier **3MINUTEN**, dann schick ich dir meinen 3-Minuten-Körpercheck — für mitten im Tag, wenn alles zu viel wird."
-- „Schreib **RESET**, und ich schicke dir meinen 5-Minuten-Körper-Reset — für die Abende, an denen du nicht runterkommst."
+- „Wenn du nach dem Feierabend schwer abschalten kannst — schreib „RESET" in die Kommentare und ich schick dir meinen 5-Minuten-Körper-Reset."
+- „Schreib „RESET" in die Kommentare — ich schick dir meinen 5-Minuten-Körper-Reset, damit der Abend dir auch wirklich gehört."
 - „Kommentier **NACHTRUHE**, dann schick ich dir mein Einschlaf-Freebie — für die Nächte, in denen der Kopf einfach nicht ausmacht."
 
 **DM dazu (Best Practice):** erst den versprochenen Wert liefern, dann *eine* Frage. Unter ~200 Zeichen, kein Newsletter-Look.

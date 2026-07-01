@@ -254,7 +254,9 @@ Dieses Format lebt von Speichern UND Kommentar (= der Distribution-Hebel). Immer
   > Speicher dir das für die Abende, an denen dein Körper müde ist, aber dein Kopf noch weiterrennt.
 - **Kommentar-/Keyword-CTA** — je Reel das passende der vier Freebies wählen (nie zwei Keywords mischen), Keyword in „Anführungszeichen", nie fett, immer das registrierte ManyChat-Keyword:
   - kurze Spür-Übung tagsüber → „3MINUTEN"
-  - Abend/Feierabend/abschalten → „RESET"
+  - Abend/Feierabend/abschalten → „RESET" — zwei Varianten, bewusst abwechseln:
+    1. „Wenn du nach dem Feierabend schwer abschalten kannst — schreib „RESET" in die Kommentare und ich schick dir meinen 5-Minuten-Körper-Reset."
+    2. „Schreib „RESET" in die Kommentare — ich schick dir meinen 5-Minuten-Körper-Reset, damit der Abend dir auch wirklich gehört."
   - Einschlafen/Kopf macht abends nicht aus → „NACHTRUHE"
   - Erkennen/Funktionsmodus-Bewusstsein → „CHECK" (in neuem Content „7ZEICHEN", sobald auf „any post" live — siehe CLAUDE.md ManyChat-Abschnitt)
 
