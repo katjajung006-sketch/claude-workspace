@@ -221,7 +221,8 @@ Die ✨-Liste **trägt die konkrete Auflösung von Beat 3** — sie sagt, was di
 1. **Konkrete Wirkung DIESER Übung** (aus der validierten DB-Wirkung), nicht austauschbare Allgemeinsätze. Bei Knie-Sways z. B.: die Anspannung fällt ab · der Kopf hört auf zu kreisen · es wird still innen. Bei Beine-an-der-Wand ganz andere Wirkung — je Übung frisch aus der DB.
 2. **Über das mentale/psychische Erleben geführt, nicht über den Körperteil.** Das Thema ist, was in IHR passiert (der Kopf wird ruhig, die Anspannung lässt los, sie ist wieder da) — nicht was anatomisch mit Hüfte/Rücken/Schulter passiert. Körperempfindung ist erlaubt, wenn sie das mentale Erleben trägt („der Kopf hört auf zu rattern"), nie der Körperteil als Schlagzeile.
 
-**Einleitungs-Zeile variieren** (NICHT jedes Mal „Leg dich auf den Rücken. Und dann:" — das nutzt sich ab und doppelt die Anleitung): z. B. „Und dann, irgendwo in der ersten Minute:" · „Und dann kippt was:" · „Was dann passiert:" · „Und auf einmal:".
+**Weicher Übergang PFLICHT (Katja 2026-07-01):** Zwischen dem „Die meisten Frauen…"-Absatz und der ✨-Liste steht ein **Brücken-Satz**, der sie erst mal hinlegt / die kleine Bewegung benennt, bevor die Auflösung kommt. Nie hart von der Erkennung direkt in „Und dann, irgendwo in der ersten Minute:" springen — das reißt die Caption auseinander. Der Brücken-Satz nennt die winzige Handlung, ohne die „So machst du es"-Schritte vorwegzunehmen. Beispiel: „Dabei braucht's abends nur eine winzige Sache. Du legst dich hin, lässt die Knie langsam hin und her pendeln, und dann, irgendwo in der ersten Minute:".
+**Einleitungs-Zeile variieren** (NICHT jedes Mal „Leg dich auf den Rücken. Und dann:" — das nutzt sich ab und doppelt die Anleitung): z. B. „und dann, irgendwo in der ersten Minute:" · „und dann kippt was:" · „und auf einmal:".
 
 > Und dann, irgendwo in der ersten Minute:
 > ✨ Die Anspannung vom ganzen Tag darf langsam abfallen
@@ -256,8 +257,11 @@ Max 5 Schritte, keine Fachbegriffe, kein Perfektionsanspruch.
 **6. CTA — Speichern + EIN Freebie-Kommentar (Pflicht für dieses Format)**
 Dieses Format lebt von Speichern UND Kommentar (= der Distribution-Hebel). Immer **beides** geben:
 
-- **Speicher-CTA** (Wiederkehr-Geste, Mehrzahl):
-  > Speicher dir das für die Abende, an denen dein Körper müde ist, aber dein Kopf noch weiterrennt.
+- **Zweiter CTA — zwischen Speichern und Senden rotieren** (Katja 2026-07-01): Nicht immer „Speicher dir das…" als zweiten CTA. Je nach Reel abwechseln:
+  - **Speicher-CTA** (Wiederkehr-Geste, Mehrzahl): „Speicher dir das für die Abende, an denen dein Körper müde ist, aber dein Kopf noch weiterrennt."
+  - **Senden-CTA** (content-spezifisch, konkrete Person aus genau diesem Reel-Moment): „Schick das einer Frau, die abends nicht abschalten kann." — nie der Standardsatz, immer am Thema des Reels. Größter Reichweiten-Hebel (Sends 3–5× wertvoller als Likes), `reference/senden-ctas.md`.
+  
+  Pro Reel EINEN der beiden als zweiten CTA wählen (der Kommentar-/Keyword-CTA bleibt immer der erste).
 - **Kommentar-/Keyword-CTA** — je Reel das passende der vier Freebies wählen (nie zwei Keywords mischen), Keyword in „Anführungszeichen", nie fett, immer das registrierte ManyChat-Keyword:
   - kurze Spür-Übung tagsüber → „3MINUTEN"
   - Abend/Feierabend/abschalten → „RESET" — zwei Varianten, bewusst abwechseln:
