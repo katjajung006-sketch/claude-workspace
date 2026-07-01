@@ -40,7 +40,7 @@ Der letzte On-Screen-Satz ist ein **Ergebnis-Teaser**: macht neugierig auf ein k
 
 ## Was ins Video gehört vs. in die Caption
 
-**Übungs-Reels** (`reel-yoga`, `reel-yoga-wirkung`, `reel-stille`, `reel-gewinner`):
+**Übungs-Reels** (`reel-yoga`, `reel-yoga-wirkung`, `reel-stille`):
 - **Video:** Erkennen (Hook) + kurzer Blick auf die Haltung (Machbarkeit, „das kann ich auch") + Ergebnis-Teaser. **Keine** genaue Anleitung, **kein** Payoff.
 - **Caption:** die genaue, anfängerinnen-taugliche Anleitung (Ausgangshaltung · Bewegung · Atemrichtung · feste Wiederholung) + das Warum/Reframe (= „was dann passiert"). Das ist der Grund, die Caption zu lesen.
 

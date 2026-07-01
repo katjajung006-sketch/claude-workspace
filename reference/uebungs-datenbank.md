@@ -357,4 +357,4 @@
 ## Pflege-Hinweise
 - Neue Übungen kommen **nur mit „Was wirklich passiert" aus Katjas Hand** dazu (nicht von Claude erfinden).
 - Das **Freebie**-Feld mappt Claude aus dem Moment; bei Bedarf von Katja korrigierbar.
-- Für `/reel-gewinner` & Co. trägt die **Körper-Metapher** das Format — Übungen mit klarer Geste (öffnen/sinken/halten/zurückkommen) eignen sich dafür am besten; reine Atem-/Wahrnehmungsübungen (Beckenuhr, Rippenatmung, Summatmung) passen eher in Teach-Karussells/Stories.
+- Für Reels mit durchgehender Körper-Metapher (`/reel-stille` & Co.) trägt die **Körper-Metapher** das Format — Übungen mit klarer Geste (öffnen/sinken/halten/zurückkommen) eignen sich dafür am besten; reine Atem-/Wahrnehmungsübungen (Beckenuhr, Rippenatmung, Summatmung) passen eher in Teach-Karussells/Stories.

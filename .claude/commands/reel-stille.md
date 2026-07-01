@@ -4,7 +4,7 @@
 >
 > **Wichtig — das Thema ist NICHT Schlafen.** Es geht um die **Stille** und was der Kopf dann macht (Grübeln, Weiterlaufen, nicht abschalten können). Die Nacht ist nur der häufigste stille Moment, in dem das hochkommt — genauso: wenn die Kinder schlafen, im Auto, wenn du dich abends endlich hinsetzt. Den stillen Moment variieren, nie aufs Bett verengen.
 >
-> **Abgrenzung zu `/reel-gewinner`:** Dort Insider-/Ergebnis-Hook mit offenem Loop (Auflösung erst Caption). Hier **problem-geführter Erkennungs-Hook** am stillen Moment + Reframe, und die Übung wird **direkt im Video gezeigt**.
+> **Abgrenzung zu den offenen Loop-Reels (`/reel-yoga`, `/reel-yoga-wirkung`):** Dort Hook mit offenem Loop (Auflösung erst in der Caption, Übung nicht im Video verraten). Hier **problem-geführter Erkennungs-Hook** am stillen Moment + Reframe, und die Übung wird **direkt im Video gezeigt**.
 
 ## Variablen
 
@@ -24,7 +24,7 @@ Der 30,5k-Reel im Detail:
 
 **Das Herzstück (warum es WIRKLICH zieht — wichtiger als alles andere):**
 
-1. **Körper-Metapher: Dauer-Standby → Signal zum Loslassen.** Der Körper, der den ganzen Tag „in Bereitschaft / auf Standby" war (erreichbar, ein Ohr bei allen), bekommt über die Haltung die Erlaubnis runterzufahren. Dieselbe Bauart wie beim Gewinner-Reel: die körperliche Geste IST die emotionale Botschaft.
+1. **Körper-Metapher: Dauer-Standby → Signal zum Loslassen.** Der Körper, der den ganzen Tag „in Bereitschaft / auf Standby" war (erreichbar, ein Ohr bei allen), bekommt über die Haltung die Erlaubnis runterzufahren. Bauprinzip: die körperliche Geste IST die emotionale Botschaft (belegt durch das Top-Format, Memory `project_reel_gewinner_format`).
 2. **Über den Körper an den Kopf (die somatische Logik):** Man kann dem Kopf nicht befehlen aufzuhören. Der Reel führt deshalb über den **Körper** (gehalten, schwer, weich, langsamer Atem) — und der Kopf zieht erst danach nach („und irgendwann macht auch der Kopf langsam mit"). **Erst der Körper, dann folgt der Kopf.** Das ist der eigentliche Wirk-Mechanismus, nicht der Hook allein.
 
 **Die Säulen des Stille-Musters (alle Pflicht):**
@@ -114,7 +114,7 @@ Beispiele:
 
 ## Output 1 — Reel-Text (On-Screen, 3 Beats, ~10–12 Sek)
 
-**Problem-Hook am stillen Moment + Übung direkt zeigen.** Anders als `/reel-gewinner`: hier wird die Übung im Video sichtbar, der Loop bleibt nur leicht offen (das *Warum* / das volle Spür-Ergebnis kommt in der Caption).
+**Problem-Hook am stillen Moment + Übung direkt zeigen.** Anders als bei den offenen Loop-Reels (`/reel-yoga`, `/reel-yoga-wirkung`): hier wird die Übung im Video sichtbar, der Loop bleibt nur leicht offen (das *Warum* / das volle Spür-Ergebnis kommt in der Caption).
 
 ```
 Beat 1 (0–3 Sek):  [Erkennungs-Hook — stiller Moment + Kopf macht nicht aus]
@@ -319,7 +319,7 @@ Nach der Ausgabe: kurz fragen, ob Moment, Hook oder Caption angepasst werden sol
 - **Herzstück: über den Körper an den Kopf.** Die Haltung gibt dem Dauer-Standby-Körper das Signal loszulassen; die Auflösung führt über Körper-Empfindungen, der Kopf folgt ZULETZT (Schritt 2.7). Das ist der Motor, nicht der Hook allein.
 - Thema ist **Stille + Kopf, der nicht aufhört** — NIE auf „Schlafen/Einschlafen" verengen. Stiller Moment rotieren.
 - Hook problem-geführt am stillen Moment (Erkennen = Scroll-Stop); Reframe nimmt die Schuld.
-- Übung wird im Video gezeigt (anders als `/reel-gewinner`), volle Spür-Auflösung erst in der Caption.
+- Übung wird im Video gezeigt (anders als bei den offenen Loop-Reels), volle Spür-Auflösung erst in der Caption.
 - Ergebnis IMMER gespürt-körperlich, nie Leistung/Optimierung (Schritt 2.5).
 - Kein Körperteil als Schlagzeile, wenn es nach Schmerz/Diagnose klingt — über den Zustand führen.
 - Speicher- UND Kommentar-CTA sind Pflicht; Freebie je Moment wählen, nie zwei Keywords mischen.
