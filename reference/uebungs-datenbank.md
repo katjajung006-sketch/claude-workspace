@@ -6,7 +6,9 @@
 
 **Sprach-Regeln (für alles, was aus der DB in den Content geht):** keine Fachbegriffe (kein Nervensystem/Vagus/Asana/Sanskrit/interner Fachname) im Content; nur die gespürte, alltagsnahe Wirkung in Katjas Sprache; Ergebnis immer gespürt-körperlich, nie Leistung/Optimierung; Anleitung anfängerinnen-tauglich.
 
-**Felder:** Intern (Fachname, NIE im Content) · So geht's · Was wirklich passiert · Körper-Metapher · Problem/Anker (echte Zielgruppen-Probleme, aus `soulclient.md` Abschnitt 10) · Moment · **Freebie** (von Claude aus dem Moment gemappt: abends/Feierabend → RESET · nachts/Bett/einschlafen → NACHTRUHE · kurz tagsüber/Spüren/morgens → 3MINUTEN · reines Erkennen → CHECK bzw. 7ZEICHEN) · Vorsicht.
+**Felder:** Intern (Fachname, NIE im Content) · So geht's · Was wirklich passiert · Körper-Metapher · **Zielgruppen-Problem (→ Hook/Beat 1)** (die echten inneren Probleme der Zielgruppe in Katjas Sprache, aus `soulclient.md` Abschnitt 5+10 — HIER Beat 1 rausziehen, nie herleiten) · **Körper-Anker (Übungslogik)** (nur Körperliches/Situatives, gehört NICHT in den Hook) · Moment · **Freebie** (von Claude aus dem Moment gemappt: abends/Feierabend → RESET · nachts/Bett/einschlafen → NACHTRUHE · kurz tagsüber/Spüren/morgens → 3MINUTEN · reines Erkennen → CHECK bzw. 7ZEICHEN) · Vorsicht.
+
+> **Zielgruppen-Problem vs. Körper-Anker (eingeführt 2026-07-01):** Die **Zielgruppen-Problem**-Zeile ist die Hook-Quelle — ganze Sätze über das emotionale/psychische Erleben der Zielgruppe (nie über den Körperteil der Übung). Beat 1 kommt IMMER von hier. Die **Körper-Anker**-Zeile ist nur Übungslogik (welcher Körperbereich, welche Situation) und gehört nie in den Hook. Diese Trennung verhindert den Fehler, Beat 1 über den Körper statt über ihr Problem zu führen.
 
 **Bewusst NICHT in der DB:** „Liegende Katze" (= Dublette zur Liegenden Drehung, Katja-Entscheid) · „Beckenwiegen im Liegen" (von Katja bewusst rausgenommen). Das alte Reel „Korkenzieher – müde durch den Tag" wird **nicht gepostet** (falsche Wirkungs-Annahme) — gültig ist die Korkenzieher-Beschreibung unten.
 
@@ -345,9 +347,9 @@
 ## 31. Liegende Acht
 - **Intern:** kleine Hüftkreise im Liegen
 - **So geht's:** Rückenlage, Knie aufgestellt. Ein Knie Richtung Bauch ziehen und mit dem Knie eine winzige liegende Acht in die Luft malen — sehr langsam. **1 Minute pro Seite.**
-- **Was wirklich passiert:** Hüftgelenk, Becken und unterer Rücken bekommen feine, nicht-lineare Bewegung. Sehr somatisch — Spüren wichtiger als Bewegungsweite.
-- **Körper-Metapher:** Die Hüfte findet Umwege → nicht immer nur geradeaus funktionieren.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** bei ihr muss alles geradeaus und effizient laufen, kein Umweg erlaubt · sie will alles kontrollieren, nichts einfach fließen lassen · sie ist innerlich starr und blockiert · sie funktioniert nur in geraden Linien. *(mental dünn — Katja-Input offen)*
+- **Was wirklich passiert:** Die kleinen, runden Bewegungen wirken wie ein sanftes Wiegen — der Kopf darf abschalten, das Grübeln wird unterbrochen, sie kommt in eine innere Balance. Das weiche Kreisen löst Verhärtungen, sodass angestaute Gefühle und innere Unruhe abfließen können. Die runde, zentrierte Bewegung gibt ein Gefühl von Halt und Sicherheit — als würde sie sich selbst auffangen. *(Von Katja validiert 2026-07-01. Intern/nicht in Content: rhythmisches Kreisen/Schaukeln sendet Sicherheitssignale, schaltet vom sympathischen Kampf-/Fluchtmodus in den parasympathischen Ruhezustand.)*
+- **Körper-Metapher:** Der Körper wiegt sich in kleinen, runden Bewegungen → sich selbst Halt und Ruhe geben.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie grübelt ständig und kann den Kopf nicht abschalten · in ihr staut sich Unruhe, die einfach nicht rauskommt · sie sehnt sich nach Halt und Geborgenheit · sie fängt den ganzen Tag alle auf, ohne selbst mal Halt zu finden.
 - **Körper-Anker (Übungslogik):** Becken starr · Hüften fest · nach Sitzen.
 - **Moment:** vor Hüftöffnungen / nach Sitzen / wenn Bewegung wieder weich werden soll.
 - **Freebie:** 3MINUTEN.
