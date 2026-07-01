@@ -19,7 +19,7 @@
 - **So geht's:** Auf den Rücken, gefaltete Decke/flaches Kissen unter den Kopf. Knie beugen, Fußsohlen aneinander, Knie langsam nach außen sinken lassen — nicht drücken, die Knie dürfen bleiben, wo der Körper von allein weich wird. Zieht es in Hüfte/Leiste/Knie/unterem Rücken: je ein Kissen unter die Knie. Arme locker neben dem Körper, Handflächen nach oben (alternativ eine Hand auf den Bauch, eine aufs Herz). Atem in den Bauch sinken lassen, Ausatem verlängern. **3 Minuten.**
 - **Was wirklich passiert:** Innenseiten der Beine, Leisten und Hüften öffnen sich passiv, ohne dass etwas erarbeitet wird. Der Bauch bekommt Raum, der Atem wird tiefer, der Körper merkt: ich muss hier nichts halten. Mit Unterstützung darf auch das Becken leichter loslassen. Fühlt sich an wie ein inneres Aufweichen — weniger Kontrolle, weniger Festhalten.
 - **Körper-Metapher:** Die Knie, die den ganzen Tag zusammengehalten haben, fallen zur Seite → nichts mehr zusammenhalten müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie hält den ganzen Tag alles zusammen — den Plan, die Stimmung, sich selbst · sie kann nicht loslassen, ist innerlich ständig auf Kontrolle · sie erlaubt sich keine Ruhe, funktioniert lieber weiter · selbst abends macht ihr Körper nicht auf.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie hält den ganzen Tag alles zusammen — den Plan, die Stimmung, sich selbst · sie kann nicht loslassen, ist innerlich ständig auf Kontrolle · sie ist immer angespannt, nie wirklich entspannt · sie erlaubt sich keine Ruhe, funktioniert lieber weiter · abends kommt sie nicht runter, selbst der Körper macht nicht auf.
 - **Körper-Anker (Übungslogik):** Becken/Unterbauch fest · Körper eng, Kopf voll.
 - **Moment:** abends / nach einem „ich habe wieder funktioniert"-Tag / Körper eng, Kopf voll / vor dem Schlafen.
 - **Freebie:** RESET (abends) · NACHTRUHE (vor dem Schlafen).
@@ -30,7 +30,7 @@
 - **So geht's:** Seitlich nah an eine freie Wand setzen, dann auf den Rücken rollen und die Beine die Wand hochlegen. Po muss nicht direkt an der Wand sein — ein paar cm Abstand sind oft angenehmer (v. a. wenn die Beinrückseiten ziehen). Kopf/Rücken weich am Boden, bei Bedarf Decke unter den Kopf oder kleines Kissen unters Becken. Arme locker, Handflächen nach oben oder eine Hand auf den Bauch. Knie dürfen leicht gebeugt sein. Durch die Nase atmen, Ausatem länger. **3 Minuten.**
 - **Was wirklich passiert:** Die Beine müssen endlich nicht mehr tragen. Schwere aus Füßen, Waden, Knien lässt nach, der untere Rücken wird entlastet, die Beinrückseiten dehnen sanft, ohne zu „leisten". Der Kopf wird leiser, die Schultern sinken — aus „ich muss noch" wird „ich darf kurz liegen bleiben".
 - **Körper-Metapher:** Die Beine, die dich den ganzen Tag getragen haben, werden jetzt selbst getragen → nicht mehr stark sein müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist immer die Starke, die durchhält · sie trägt den ganzen Tag alles und darf nie ausfallen · innerlich getrieben, kommt nie wirklich zur Ruhe · sie meint, eine Pause erst verdienen zu müssen.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist immer die Starke, die durchhält · sie trägt den ganzen Tag alles und darf nie ausfallen · sie ist den ganzen Tag auf den Beinen und kommt nie zum Stehen · innerlich getrieben, kommt nie zur Ruhe · abends ist sie ausgelaugt, aber der Kopf ist noch wach · sie meint, eine Pause erst verdienen zu müssen.
 - **Körper-Anker (Übungslogik):** schwere Beine · Kopf an, Körper müde · den ganzen Tag auf den Beinen.
 - **Moment:** Feierabend / nach langem Stehen oder Sitzen / abends.
 - **Freebie:** RESET · 3MINUTEN (kurze Pause tagsüber).
@@ -41,7 +41,7 @@
 - **So geht's:** Auf eine Seite legen, so dass Kopf, Brustkorb, Becken, Knie nicht verdreht sind. Knie leicht Richtung Bauch, nur so weit es bequem bleibt. Kissen zwischen die Knie (gern etwas höher zwischen die Oberschenkel, damit das obere Bein nicht nach vorn fällt). Kopf auf einem Kissen, Nacken möglichst gerade. Bei großem Abstand zwischen Taille und Unterlage dort ein flaches Kissen/Handtuch. Eine Hand auf dem Bauch, die andere vor dem Körper. Ruhig in die obenliegende Körperseite atmen. **3 Minuten oder länger.**
 - **Was wirklich passiert:** Das Kissen verhindert, dass das obere Bein nach vorn kippt und das Becken mitzieht — der untere Rücken muss weniger ausgleichen. Hüften, Knie, Becken bekommen Abstand und Halt statt Druck. Der Körper liegt nicht „perfekt", sondern gehalten. Die Bauchdecke wird weicher, der Rücken breiter, das Liegen fühlt sich weniger wie Zusammenklappen an.
 - **Körper-Metapher:** Das Kissen hält den Abstand, den sie selbst den ganzen Tag nicht halten konnte → endlich nicht mehr alles an sich heranlassen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie lässt den ganzen Tag alles an sich heran und findet keinen Abstand · sie ist allen nah, nur sich selbst nicht · sie sehnt sich nach Schutz und Rückzug, gönnt ihn sich aber nicht · sie kommt abends nicht zur Ruhe.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie lässt den ganzen Tag alles an sich heran und findet keinen Abstand · sie ist allen nah, nur sich selbst nicht · sie übergeht sich ständig und kommt selbst immer zuletzt · nach einem emotional vollen Tag sehnt sie sich nach Schutz und Rückzug · sie kommt abends nicht zur Ruhe.
 - **Körper-Anker (Übungslogik):** unteren Rücken festhalten · innerlich verdreht · abends im Bett / vor dem Einschlafen.
 - **Moment:** abends im Bett / nach einem emotional vollen Tag / Sehnsucht nach Schutz, Halt, Rückzug / vor dem Einschlafen.
 - **Freebie:** NACHTRUHE · RESET.
@@ -52,7 +52,7 @@
 - **So geht's:** In den Fersensitz kommen (oder Vierfüßler). Knie zusammen oder weiter auseinander — was für Bauch/Hüften/Rücken weicher ist. Oberkörper langsam nach vorn senken, Stirn auf Boden/Hände/Kissen. Kommt der Po nicht zu den Fersen: Kissen dazwischen. Drücken die Knie: Decke darunter oder gerollte Decke zwischen Oberschenkel und Waden. Arme nach vorn oder neben den Körper (Handflächen nach oben). **3 Minuten,** in den Rücken atmen.
 - **Was wirklich passiert:** Der Rücken darf rund werden, ohne sich aufrichten zu müssen. Die Vorderseite wird geschützt und nach innen genommen, die Rückseite wird breiter und weicher. Gefühl von Rückzug — weniger Außen, weniger Haltung bewahren, weniger funktionieren. Schultern und Nacken dürfen loslassen. Für viele wie ein kleines inneres Versteck.
 - **Körper-Metapher:** Der Körper faltet sich nach innen → nicht mehr für alle verfügbar sein müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist den ganzen Tag für alle ansprechbar und nie für sich · sie fühlt sich für alles und jeden verantwortlich · sie hat keinen Ort, an dem gerade mal keiner was von ihr will · sie funktioniert nur noch nach außen.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist den ganzen Tag für alle ansprechbar und nie für sich · sie fühlt sich für alles und jeden verantwortlich · sie funktioniert nur noch nach außen und ist immer präsent · sie hat keinen Ort, an dem gerade mal keiner was von ihr will · nach zu vielen Reizen sehnt sie sich nach Rückzug.
 - **Körper-Anker (Übungslogik):** Nacken/Schultern fest · zwischendurch am Tag / nach zu vielen Reizen.
 - **Moment:** zwischendurch am Tag / nach Konflikt oder zu vielen Reizen / abends.
 - **Freebie:** 3MINUTEN · RESET (abends).
@@ -63,7 +63,7 @@
 - **So geht's:** Auf den Rücken, Kopf auf flacher Decke. Beide Knie langsam Richtung Brust, Hände auf die Schienbeine, hinter die Oberschenkel oder locker um die Knie. Knie dürfen zusammen oder etwas auseinander (für Bauch/Atem mehr Raum). Schultern schwer, Nacken weich. Nicht fest ziehen, eher die Beine vom Körper halten lassen. Wenn angenehm, ganz leicht nach rechts/links schaukeln. In unteren Rücken und Bauch atmen. **1–3 Minuten.**
 - **Was wirklich passiert:** Der untere Rücken kommt in eine sanfte Rundung und löst sich vom Halten, das Becken kippt leicht, die Lendenwirbelsäule wird entlastet. Vorn am Bauch eine weiche Kompression — wie ein inneres Sammeln. Der Körper macht sich klein, aber nicht eng: gehalten, geschützt, zurückgeholt. Aus „ich muss mich zusammenreißen" wird „ich darf mich kurz zu mir nehmen".
 - **Körper-Metapher:** Die Knie kommen zum Körper zurück → sich selbst wieder zu sich holen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie verliert sich selbst auf dem Weg durch den Tag · sie ist ständig beschäftigt, aber kaum noch bei sich · innerlich zerstreut, alles muss immer weitergehen · sie sehnt sich danach, einfach mal gehalten zu sein.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie verliert sich selbst auf dem Weg durch den Tag · sie ist ständig beschäftigt, aber kaum noch bei sich · innerlich zerstreut, alles muss immer weitergehen · sie übergeht sich und kommt selbst immer zuletzt · sie sehnt sich danach, einfach mal gehalten zu sein und wieder bei sich anzukommen.
 - **Körper-Anker (Übungslogik):** unterer Rücken fest · morgens im Bett / abends / nach langem Sitzen.
 - **Moment:** morgens im Bett / abends / nach langem Sitzen / wenn sie wieder bei sich ankommen will.
 - **Freebie:** 3MINUTEN · RESET.
@@ -74,7 +74,7 @@
 - **So geht's:** Auf den Rücken, Knie gebeugt, Füße am Boden. Knie sanft Richtung Bauch, dann langsam zu einer Seite sinken lassen. Arme seitlich ausgebreitet oder weich neben dem Körper. Schultern müssen nicht perfekt am Boden bleiben, aber der Brustkorb soll nicht kämpfen. Hängen die Knie in der Luft / zieht der Rücken: Kissen/Decke darunter. Kopf zur Decke oder sanft zur Gegenseite (nur wenn der Nacken mag). **1–3 Minuten pro Seite,** ruhig ausatmen.
 - **Was wirklich passiert:** Die Wirbelsäule bekommt eine sanfte Rotation, ohne aufrecht halten zu müssen. Unterer Rücken, seitliche Taille, äußere Hüften und Brustkorb dürfen Spannung abgeben. Vorn leichte Kompression, auf der Gegenseite mehr Raum. Fühlt sich an, als dürfe etwas innerlich Festgehaltenes langsam zur Seite sinken — durch Schwerkraft, Atem und Nachgeben, nicht Druck.
 - **Körper-Metapher:** Der Körper dreht sich aus der geraden Funktionier-Linie heraus → nicht mehr starr geradeaus weitermachen müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie funktioniert nur noch starr geradeaus, Termin für Termin · sie kommt abends nicht aus dem Kopf raus · alles vom Tag bleibt in ihr hängen · sie fühlt sich innerlich festgefahren.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie funktioniert nur noch starr geradeaus, Termin für Termin · sie kommt abends nicht aus dem Kopf raus und kann nicht abschalten · alles vom Tag bleibt in ihr hängen · sie fühlt sich innerlich festgefahren.
 - **Körper-Anker (Übungslogik):** Rücken trägt zu viel · Brustkorb eng · Hüften halten fest · nach langem Sitzen.
 - **Moment:** abends / nach langem Sitzen / nach einem Tag voller Anspannung / vor dem Schlafen als Übergang.
 - **Freebie:** RESET · NACHTRUHE (vor dem Schlafen).
@@ -85,7 +85,7 @@
 - **So geht's:** Auf den Rücken, Beine lang, Arme entspannt über den Kopf (oder neben den Körper bei empfindlichen Schultern). Beide Füße langsam ein Stück nach rechts schieben, dann den Oberkörper sanft nach rechts wandern lassen → weiche Bananenform. Becken bleibt schwer am Boden, nicht auf die Seite drehen. Wenn angenehm: linken Arm über den Kopf, linkes Handgelenk mit der rechten Hand halten. Die linke Seite wird länger. **1–3 Minuten,** in die linke Rippen-/Taillenseite atmen. Dann zurück zur Mitte, andere Seite.
 - **Was wirklich passiert:** Die seitliche Körperlinie bekommt Raum — zwischen Rippen, Taille, Bauchseite und Hüfte entsteht Länge, die im Alltag oft fehlt (viel Sitzen, Halten, nach vorn Zusammenziehen). Der seitliche Atemraum wird spürbar: die Rippen weiten sich, der Bauch muss nicht festhalten, die Flanken werden beweglicher. Keine große Dehnung, eher ein leises „Aufziehen" der Seite, die den ganzen Tag eng war.
 - **Körper-Metapher:** Die Körperseite wird wieder lang → nicht mehr innerlich zusammengedrückt bleiben müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie macht sich den ganzen Tag klein · alles ist eng, nah, zu viel · sie atmet kaum noch richtig durch · sie zieht sich innerlich zusammen, statt sich Raum zu nehmen.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie macht sich den ganzen Tag klein · alles ist eng, nah, zu viel · sie atmet kaum noch richtig durch · sie nimmt sich keinen Raum für sich selbst · sie zieht sich innerlich zusammen, statt Raum zu nehmen.
 - **Körper-Anker (Übungslogik):** Enge im Brustkorb · flacher Atem · seitliche Anspannung · zu viel Sitzen.
 - **Moment:** morgens im Bett / nach langem Sitzen / zwischendurch / wenn der Atem flach ist.
 - **Freebie:** 3MINUTEN · RESET (abends).
@@ -96,7 +96,7 @@
 - **So geht's:** Festes Yoga-Kissen / Rolle / zusammengerollte Decke quer unter den oberen Rücken (Höhe Schulterblätter); alternativ längs unter die Wirbelsäule, sodass Kopf und oberer Rücken getragen sind. Langsam zurücklegen — Brustkorb öffnet sich, Nacken bleibt weich (kippt der Kopf nach hinten: Kissen darunter). Knie gebeugt, Füße am Boden, damit der untere Rücken entspannter bleibt. Arme seitlich, Handflächen nach oben (oder Hände auf Bauch und Brust). **2–3 Minuten** ruhig atmen.
 - **Was wirklich passiert:** Die Vorderseite bekommt Raum: Brustkorb, Rippen, Schultern und Atembereich öffnen sich passiv, ohne aktiv „aufgerichtet" zu werden. Die Brustwirbelsäule kommt in eine sanfte Rückbeuge — Gegenimpuls zu Sitzen, Rundwerden, Schultern-nach-vorn, innerem Zumachen. Der Atem verteilt sich breiter. Fühlt sich an, als fände der Körper aus einer Schutzspannung heraus — nicht mehr eng, nicht mehr gepanzert.
 - **Körper-Metapher:** Der Brustkorb liegt getragen offen → sich öffnen dürfen, ohne sich ungeschützt zu fühlen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie macht innerlich alles dicht, um stark zu wirken · sie hält sich gepanzert, damit keiner sieht, wie viel gerade los ist · sie zieht die Schultern nach vorn und macht sich zu · sie traut sich nicht, weich zu werden.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie macht innerlich alles dicht, um stark zu wirken · sie hält sich gepanzert, damit keiner sieht, wie viel gerade los ist · sie zieht die Schultern nach vorn und macht sich zu · sie traut sich nicht, weich zu werden · ihr Atem bleibt flach und eng.
 - **Körper-Anker (Übungslogik):** Brustkorb eng · Schultern nach vorn · flacher Atem · nach langem Tag am Schreibtisch.
 - **Moment:** nach einem langen Tag am Schreibtisch / abends / nach emotionaler Anspannung / „ich mache gerade wieder alles dicht".
 - **Freebie:** RESET · CHECK/7ZEICHEN (Erkennen „alles dicht").
@@ -107,7 +107,7 @@
 - **So geht's:** Auf gefaltete Decke/festes Kissen setzen (Becken kippt leichter nach vorn). Fußsohlen zusammen, Knie locker nach außen. Füße müssen nicht nah am Becken sein — weiter weg ist oft angenehmer. Stehen die Knie hoch/ziehen: Kissen oder Blöcke darunter. Erst aufrichten, dann Oberkörper langsam nach vorn sinken, nur so weit der Atem weich bleibt. Hände auf Füße/Knöchel oder auf ein Kissen davor. Kopf/Nacken loslassen. **1–3 Minuten.**
 - **Was wirklich passiert:** Innenseiten der Beine und Leisten bekommen eine sanfte Dehnung, das Becken gibt nach. Durch die Vorbeuge geht der Körper aus dem Aufrichten/Präsentsein/„ich muss mich halten" heraus. Der Rücken wird runder, der Blick geht nach innen, der Atem ruhiger. Gestützt entsteht weniger Zug, mehr Nachgeben — nicht tiefer kommen müssen, sondern in sich sinken dürfen.
 - **Körper-Metapher:** Der Körper klappt nicht zusammen, er kehrt nach innen zurück → nicht mehr nach außen funktionieren müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist den ganzen Tag nach außen gerichtet — antworten, reagieren, präsent sein · sie muss sich immer aufrecht halten und zusammenreißen · sie hört sich selbst kaum noch · sie funktioniert nur noch für andere.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist den ganzen Tag nach außen gerichtet — antworten, reagieren, präsent sein · sie muss sich immer aufrecht halten und zusammenreißen · sie hört sich selbst kaum noch · sie funktioniert nur noch für andere · nach einem Tag voller Menschen kommt sie nicht mehr nach innen.
 - **Körper-Anker (Übungslogik):** Hüften/Becken fest · nach langem Sitzen / nach einem Tag voller Menschen.
 - **Moment:** abends / nach einem Tag voller Menschen, Gespräche, Reize / nach langem Sitzen / vor dem Schlafen.
 - **Freebie:** RESET · 3MINUTEN.
@@ -140,7 +140,7 @@
 - **So geht's:** Auf den Rücken, beide Knie aufgestellt, Füße am Boden. Rechten Knöchel über den linken Oberschenkel legen (Form einer 4). Rechten Fuß leicht aktiv halten (schützt das Knie). Reicht das, dort bleiben. Mehr Spüren: linken Oberschenkel sanft Richtung Bauch ziehen, hinter den Oberschenkel oder ans Schienbein greifen. Schultern, Kiefer, Bauch weich. **1–3 Minuten,** dann Seite wechseln.
 - **Was wirklich passiert:** Äußere Hüfte und Gesäß bekommen Raum, besonders die tiefen Muskeln rund ums Hüftgelenk — der Bereich, der bei langem Sitzen und innerem Festhalten dicht macht. Weil der Rücken am Boden liegt, muss der Körper weniger stabilisieren als im Sitzen/Knien. Der untere Rücken gibt mit nach, die Hüfte wird langsam weicher, ohne sie aufdrücken zu müssen.
 - **Körper-Metapher:** Die Hüfte darf aufmachen, ohne dass etwas gedrückt wird → Grenzen werden nicht aufgebrochen, sondern eingeladen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie will alles im Griff behalten und kann nicht nachgeben · sie hat Feierabend, aber ihr Körper schaltet nicht ab · sie hält innerlich fest, statt es laufen zu lassen · sie fühlt sich blockiert und kommt nicht in Bewegung.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie will alles im Griff behalten und kann nicht nachgeben · sie hat Feierabend, aber ihr Körper schaltet nicht ab · sie hält innerlich fest, statt es laufen zu lassen · sie ist innerlich ständig angespannt und auf Kontrolle · sie fühlt sich blockiert und kommt nicht in Bewegung.
 - **Körper-Anker (Übungslogik):** feste Hüften · viel Sitzen · unterer Rücken müde · nach Autofahrten.
 - **Moment:** abends / nach langem Sitzen / nach Autofahrten / vor dem Schlafen.
 - **Freebie:** RESET · CHECK (Erkennen „Feierabend, dein Körper nicht").
@@ -162,7 +162,7 @@
 - **So geht's:** Auf den Rücken, Füße aufstellen, Becken kurz anheben. Festes Kissen / Yoga-Block / zusammengerolltes Handtuch quer unter das Becken schieben (eher unter Kreuzbein/Becken als in den unteren Rücken). Nacheinander beide Beine locker Richtung Decke strecken, Knie dürfen leicht gebeugt bleiben. Zittern die Beine / musst du halten: Knie mehr beugen oder Waden auf einen Stuhl. Arme neben den Körper, Handflächen nach oben. Kiefer und Bauch weich, langsam atmen. **1–3 Minuten.**
 - **Was wirklich passiert:** Die Beine müssen nicht mehr tragen, sondern dürfen nach oben abgeben — Füße, Waden, Beine wirken entlastet (ähnlich Beine-an-der-Wand). Das gestützte Becken nimmt dem unteren Rücken Arbeit ab. Klares Signal: weniger machen, mehr sinken. Wird der Atem ruhiger, fühlt es sich an wie inneres Runterfahren, als flösse Spannung aus Beinen und Becken nach unten ab.
 - **Körper-Metapher:** Die Beine geben nach oben ab, das Becken wird getragen → nicht mehr alles selbst halten müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist abends völlig ausgelaugt, aber der Kopf ist noch wach · sie hat den ganzen Tag zu viel getragen und ist überlastet · sie kommt vom Tag einfach nicht runter · sie muss immer alles selbst stemmen und halten.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist abends völlig ausgelaugt, aber der Kopf ist noch wach · sie hat den ganzen Tag zu viel getragen und ist überlastet · sie kommt vom Tag einfach nicht runter · sie muss immer alles selbst stemmen und halten · abends findet sie schwer in den Schlaf.
 - **Körper-Anker (Übungslogik):** schwere Beine · Becken/unterer Rücken müde · nach langem Stehen / nach einem vollen Arbeitstag.
 - **Moment:** abends / nach langem Stehen / nach einem vollen Arbeitstag / vor dem Schlafen als „ich lege den Tag ab".
 - **Freebie:** RESET · NACHTRUHE.
@@ -239,7 +239,7 @@
 - **So geht's:** Aufrecht auf einen Stuhl setzen, Füße am Boden, Hände auf die Oberschenkel. Beim Einatmen Brustbein leicht nach vorn, Rücken sanft lang. Beim Ausatmen Rücken rund werden lassen, Kinn leicht sinken. **6–10 langsame Runden.**
 - **Was wirklich passiert:** Die Wirbelsäule bewegt sich in Beugung und Streckung, ohne Hände/Knie/Matte. Mobilisiert die Wirbelsäule; klein und achtsam ausführen.
 - **Körper-Metapher:** Die Wirbelsäule darf wieder wellen → nicht mehr steif durch den Tag gehen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie geht steif und funktional durch den Tag · sie ist den ganzen Tag in derselben Haltung erstarrt · sie funktioniert nur, ohne Lebendigkeit · sie merkt gar nicht mehr, wie fest sie ständig ist.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie geht steif und funktional durch den Tag · sie ist den ganzen Tag in derselben Haltung erstarrt · sie funktioniert nur, ohne Lebendigkeit · sie ist gar nicht mehr richtig in ihrem Körper · sie merkt gar nicht mehr, wie fest sie ständig ist.
 - **Körper-Anker (Übungslogik):** Rücken fest · Schreibtischhaltung · Nacken schwer.
 - **Moment:** am Schreibtisch / zwischen Terminen / morgens am Bettrand / als 1-Minuten-Reset.
 - **Freebie:** 3MINUTEN.
@@ -261,7 +261,7 @@
 - **So geht's:** Auf den Rücken oder in Seitenlage. Eine Hand auf den Bauch, eine auf den Herzraum. Nur den Kontakt spüren — Wärme, Gewicht, Bewegung, Ruhe. Kein Atemziel. **3 Minuten.**
 - **Was wirklich passiert:** Zwei klare Kontaktpunkte, oben und unten — hilft, aus dem Kopf zurück in den Körper zu kommen. Handkontakt macht Atembewegung und Zwerchfell besser spürbar.
 - **Körper-Metapher:** Eine Hand sagt „ich bin da" → sich selbst wieder mitnehmen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie übergeht sich ständig und kommt selbst immer zuletzt · sie verliert sich auf dem Weg durch den Tag · ihr Kopf ist zu laut, sie findet keinen Halt bei sich · sie nimmt sich selbst gar nicht mehr mit.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie übergeht sich ständig und kommt selbst immer zuletzt · sie verliert sich auf dem Weg durch den Tag · ihr Kopf ist zu laut, sie findet keinen Halt bei sich · sie kommt aus dem Kopf nicht zurück in ihren Körper · sie nimmt sich selbst gar nicht mehr mit.
 - **Körper-Anker (Übungslogik):** innere Unruhe · morgens / abends / nach Stress / nach einem Funktionsmodus-Tag.
 - **Moment:** immer — besonders morgens, abends, nach Stress, nach Tränen, nach einem Funktionsmodus-Tag.
 - **Freebie:** 3MINUTEN · CHECK/7ZEICHEN (Erkennen) · NACHTRUHE (abends/Bett).
@@ -272,7 +272,7 @@
 - **So geht's:** Rückenlage, Knie aufgestellt. Arme neben den Körper, Handflächen nach oben. Die Schultern einmal minimal Richtung Ohren heben und dann schwer in den Boden sinken lassen. **5–8 Wiederholungen.**
 - **Was wirklich passiert:** Schultern, Nacken und oberer Rücken bekommen das Signal, dass sie nicht mehr tragen müssen. Aus Halten wird Ablegen.
 - **Körper-Metapher:** Die Schultern geben Verantwortung ab → nicht mehr alles auf sich nehmen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie nimmt alles auf sich und trägt die Verantwortung für alle · sie glaubt, sie muss alles schaffen · sie hält durch, egal wie viel es ist · sie lässt nie ab, zieht die Schultern immer höher.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie nimmt alles auf sich und trägt die Verantwortung für alle · sie glaubt, sie muss alles schaffen · sie hält durch, egal wie viel es ist · sie ist immer die Starke und trägt alles auf ihren Schultern · sie lässt nie ab, zieht die Schultern immer höher.
 - **Körper-Anker (Übungslogik):** Nacken fest · Schultern hochgezogen · nach Bildschirmzeit.
 - **Moment:** Feierabend / nach Bildschirmzeit / nach Gesprächen, in denen sie viel gehalten hat.
 - **Freebie:** RESET · 3MINUTEN.
@@ -294,7 +294,7 @@
 - **So geht's:** Vierfüßlerstand. Hände nach vorn wandern lassen, Brustkorb Richtung Boden. Stirn oder Brust auf ein Kissen ablegen. Hüften bleiben über oder leicht hinter den Knien. **1–3 Minuten.**
 - **Was wirklich passiert:** Brustkorb, Schultern und oberer Rücken öffnen sich, während der Körper gestützt bleibt — eine weichere Alternative zur starken Herzöffnung.
 - **Körper-Metapher:** Der Brustkorb sinkt, ohne zusammenzubrechen → weich werden und trotzdem gehalten sein.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie kann nur loslassen, wenn sie sich sicher gehalten fühlt · sie traut sich nur weich zu werden, wenn sie geschützt ist · sie trägt so viel auf den Schultern, dass sie sich nicht öffnen mag · sie muss immer stark sein, nie schutzlos.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie kann nur loslassen, wenn sie sich sicher gehalten fühlt · sie traut sich nur weich zu werden, wenn sie geschützt ist · sie trägt so viel auf den Schultern, dass sie sich nicht öffnen mag · sie muss immer stark sein, nie schutzlos · sie sehnt sich danach, sich mal fallen lassen zu dürfen.
 - **Körper-Anker (Übungslogik):** Brustkorb eng · Schultern tragen · nach Bildschirmzeit.
 - **Moment:** nach Bildschirmzeit / abends / wenn der Atem oben festhängt.
 - **Freebie:** RESET · 3MINUTEN.
@@ -316,7 +316,7 @@
 - **So geht's:** Rückenlage. Knie Richtung Achseln, Hände an Fußaußenkanten, Knöchel oder hinter die Oberschenkel. Füße Richtung Decke, Rücken schwer. **1–2 Minuten.**
 - **Was wirklich passiert:** Hüften, Leisten, unterer Rücken und Beckenbodenbereich werden weicher — eine sanfte Haltung für Hüften, Rücken und Entspannung.
 - **Körper-Metapher:** Der Körper darf wieder spielerisch sein → nicht nur stark und kontrolliert.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist ständig im Ernstmodus, alles ist schwer und kontrolliert · sie hat die Leichtigkeit verloren · sie muss immer stark und zusammen sein · sie erlaubt sich keine Verspieltheit mehr.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist ständig im Ernstmodus, alles ist schwer und kontrolliert · sie hat die Leichtigkeit verloren · sie muss immer stark und zusammen sein · sie erlaubt sich keine Verspieltheit mehr · sie fühlt sich nur noch leistungsfähig, nicht mehr lebendig.
 - **Körper-Anker (Übungslogik):** Becken fest · Rücken müde · abends.
 - **Moment:** abends / nach Hüftübungen / wenn sie Leichtigkeit braucht.
 - **Freebie:** RESET · 3MINUTEN.
@@ -371,7 +371,7 @@
 - **So geht's:** Sitzend, Beine locker gekreuzt oder gegrätscht. Kissen/Decken vor dem Körper stapeln und den Oberkörper darauf ablegen, Kopf stützen. **2–5 Minuten.**
 - **Was wirklich passiert:** Der Körper muss nicht mehr aufrecht bleiben. Gut gestützte Vorbeugen wirken oft beruhigend.
 - **Körper-Metapher:** Der Körper sinkt nach innen → nicht mehr nach außen funktionieren.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie muss immer präsent und ansprechbar sein · nach viel Menschenkontakt ist sie reizüberflutet · ihr Kopf ist voll, sie kommt nicht runter · sie funktioniert nach außen, bis nichts mehr geht.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie muss immer präsent und ansprechbar sein · nach viel Menschenkontakt ist sie reizüberflutet · ihr Kopf ist voll, sie kommt nicht runter · sie ist den ganzen Tag für alle da und kommt nicht nach innen · sie funktioniert nach außen, bis nichts mehr geht.
 - **Körper-Anker (Übungslogik):** Rücken müde · Kopf voll · nach Menschenkontakt.
 - **Moment:** abends / nach Menschenkontakt / nach einem vollen Tag.
 - **Freebie:** RESET · 3MINUTEN.
@@ -382,7 +382,7 @@
 - **So geht's:** Bequem sitzen. Einatmen durch die Nase. Beim Ausatmen leise summen, ein langes „mmm". **5–8 Runden.** Hände dürfen auf Bauch oder Herz liegen.
 - **Was wirklich passiert:** Das Summen verlängert den Ausatem und macht Vibration im Kopf-/Brustraum spürbar — beruhigend, hilft vom Denken ins Spüren zu kommen.
 - **Körper-Metapher:** Die Stimme vibriert nach innen → sich selbst wieder hören.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** ihr Kopf ist zu laut, sie hört sich selbst gar nicht mehr · sie kommt abends nicht runter, die Unruhe bleibt · sie steckt im Denken fest, kommt nicht ins Spüren · sie hat den Kontakt zu ihrer eigenen Stimme verloren.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** ihr Kopf ist zu laut, sie hört sich selbst gar nicht mehr · sie kommt abends nicht runter, die Unruhe bleibt · sie steckt im Denken fest, kommt nicht ins Spüren · sie hat den Kontakt zu ihrer eigenen Stimme verloren · abends findet sie keine Ruhe, das Grübeln hört nicht auf.
 - **Körper-Anker (Übungslogik):** Atem kurz · abends / vor dem Schlaf.
 - **Moment:** abends / vor dem Schlaf / nach Stress / wenn stille Meditation zu schwer ist.
 - **Freebie:** NACHTRUHE · RESET.
