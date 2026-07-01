@@ -165,10 +165,10 @@
 ## 16. Knie-Sways
 - **Intern:** liegendes Kniependeln (Supine Hip Sways)
 - **So geht's:** Auf den Rücken, Knie aufstellen, Füße etwas breiter als hüftbreit. Beide Knie langsam nach rechts sinken lassen, zurück zur Mitte, dann nach links — nicht bis zum Anschlag. Die Füße bleiben am Boden. **1–3 Minuten** langsam pendeln.
-- **Was wirklich passiert:** Hüften, Becken und unterer Rücken bekommen eine weiche, rhythmische Bewegung. Löst Spannung, ohne dass eine Dehnung gehalten werden muss.
+- **Was wirklich passiert:** Das langsame, rhythmische Hin-und-her nimmt die Anspannung raus, mit der der Körper den ganzen Tag gelaufen ist — die innere Unruhe darf sanft abgeschüttelt werden, ohne dass eine Dehnung gehalten werden muss. Und der Kopf kommt aus dem Gedankenkreisen raus: statt weiter zu grübeln, ist da nur noch das Spüren der Bewegung, hier und jetzt. Es wird still und weit innen, tiefe Ruhe stellt sich ein, ganz von allein. *(Von Katja validiert 2026-07-01. Intern/nicht in Content: aktiviert das vegetative Nervensystem, senkt Stresshormone/Cortisol, stärkt die Körperwahrnehmung/Propriozeption.)*
 - **Körper-Metapher:** Die Knie pendeln hin und her → der Körper muss sich nicht festlegen, er darf wieder weich werden.
-- **Problem/Anker:** feste Hüften · Rücken eng · innerlich blockiert · zu viel Sitzen · nicht abschalten.
-- **Moment:** abends / nach Autofahrten / nach Bürotag / wenn der Körper „eingerostet" wirkt.
+- **Problem/Anker:** innerlich festgefahren · nicht aus dem Kopf kommen · Gedankenkreisen · nicht abschalten · feste Hüften · Rücken eng · zu viel Sitzen.
+- **Moment:** abends / nach Autofahrten / nach Bürotag / wenn der Kopf nicht aufhört / wenn der Körper „eingerostet" wirkt.
 - **Freebie:** RESET · 3MINUTEN.
 - **Vorsicht:** —.
 
