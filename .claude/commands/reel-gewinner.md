@@ -215,12 +215,14 @@ Benennt, was fast alle tun, ohne Vorwurf — mündet in den körperlichen Moment
 > Die meisten Frauen halten den ganzen Tag alles zusammen, ohne es zu merken. Erst wenn [Moment in der Haltung], spüren sie, wie fest das war.
 
 **2. Auflösung des Open Loops**
-Was der Körper machen kann — ruhig, körpernah, als kleine Liste, **an die in Schritt 2.5 geprüfte Wirkung angepasst** (nicht pauschal kopieren). Hier dürfen Körperteile stehen (Kontext = Entspannung).
-> Und dann, irgendwo in der ersten Minute, passiert das:
-> Dein Atem wird tiefer.
-> Deine Schultern sinken.
-> [weiter laut geprüfter Wirkung]
-> Und manchmal merkst du erst dann, wie angespannt du eigentlich warst.
+Was in ihr passiert — als kleine ✨-Liste, **immer über das emotionale/psychische Erleben geführt**, nicht über den Körperteil der Übung. Das Thema ist, was in IHR nachgibt (das Tragen, das Festhalten, das Funktionieren) — nicht was anatomisch mit Hüfte, Rücken oder Schulter passiert. Die Übung ist das Vehikel, nie das Thema.
+
+**PFLICHT:** Die Liste führt über: was sie gerade nicht mehr muss (kontrollieren, halten, funktionieren) · was sich in ihr verändert (Vertrauen, Erleichterung, Raum) · was sie erst jetzt merkt (wie viel sie getragen hat). Körperempfindungen sind erlaubt, wenn sie die emotionale Metapher tragen (z. B. „etwas in dir gibt nach") — aber KEIN Körperteil der Übung als Thema (keine Hüfte, kein Rücken als Schlagzeile in der Liste).
+
+> Und dann, irgendwo in der ersten Minute:
+> ✨ Du merkst, wie viel du heute schon getragen hast
+> ✨ Nichts muss gerade funktionieren, niemand braucht gerade etwas
+> ✨ Und etwas in dir gibt nach — nicht weil du es erzwingst, sondern weil du aufgehört hast, dagegen zu halten
 
 > **PFLICHT — Beat-3-Loop schließen (Katja 2026-06-29, Memory `feedback_watchtime_retention`):** Die Caption muss **explizit auflösen, was Beat 3 anteasert.** Teasert Beat 3 z. B. „…etwas, von dem du nicht mal wusstest, dass du es vermisst", dann reicht die Körper-Spürliste NICHT — die Caption muss benennen, WAS genau sie vermisst/nicht gewusst hat (meist die emotionale Wahrheit der Metapher: „dass du gerade nichts halten musst … ein Moment, der nur dir gehört. Genau das hast du vermisst, ohne es zu wissen."). Brücken-Zeile + dieser Auflösungs-Block müssen dieselbe Frage stellen UND beantworten. Check vor dem Abschicken: Beantwortet die Caption wörtlich das, was Beat 3 verspricht?
 
