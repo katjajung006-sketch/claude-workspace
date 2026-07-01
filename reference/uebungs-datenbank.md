@@ -191,9 +191,9 @@
 ## 17. Mini-Brücke somatisch
 - **Intern:** Somatic Bridge Flow
 - **So geht's:** Auf den Rücken, Knie aufgestellt. Beim Ausatmen das Becken minimal kippen und Wirbel für Wirbel nur ein kleines Stück vom Boden lösen — nicht hoch in eine starke Brücke. Beim Einatmen langsam wieder ablegen. **6–10 Wiederholungen.**
-- **Was wirklich passiert:** Rücken, Gesäß, Bauch und Becken arbeiten sanft zusammen. Nicht um Kraft, sondern um Wahrnehmung: wo hebt sich mein Körper leicht, wo halte ich fest?
+- **Was wirklich passiert:** Die fließende, kleine Bewegung nimmt die Anspannung aus dem Tag — der Körper darf aus dem Dauer-Alarm raus und runterfahren. Aufgewühltes vom Tag beruhigt sich, sie findet zurück in ein emotionales Gleichgewicht, und das Gedankenkarussell kommt oft zur Ruhe. Dazu ganz somatisch die Wahrnehmung: wo hebt sich mein Körper leicht, wo halte ich fest? *(Von Katja validiert 2026-07-01. Intern/nicht in Content: schaltet vom sympathischen Kampf-/Fluchtmodus in den parasympathischen Ruhemodus, baut akuten und chronischen Alltagsstress ab.)*
 - **Körper-Metapher:** Der Rücken rollt sich langsam vom Boden und wieder zurück → nicht alles auf einmal heben müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie will immer alles auf einmal stemmen, statt Schritt für Schritt · sie ist schwer und energielos, funktioniert aber weiter · sie glaubt, sie muss alles auf einmal packen, sonst zählt es nicht. *(mental dünn — Katja-Input offen)*
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist innerlich aufgewühlt und kommt nicht ins Gleichgewicht · sie steht den ganzen Tag unter Strom, ohne runterzukommen · das Gedankenkarussell dreht sich weiter · sie trägt den Alltagsstress ständig mit sich.
 - **Körper-Anker (Übungslogik):** unterer Rücken müde · Becken ohne Verbindung · Körper schwer.
 - **Moment:** morgens zum Wachwerden / abends als sanfter Rücken-Reset / vor dem Schlafen.
 - **Freebie:** 3MINUTEN (morgens) · RESET (abends).
@@ -281,7 +281,8 @@
 - **So geht's:** Vierfüßlerstand. Beim Einatmen Brustbein leicht nach vorn, Rücken sanft hohl. Beim Ausatmen Rücken rund, Kopf sinkt. Langsam, klein, **6–10 Runden.**
 - **Was wirklich passiert:** Die Wirbelsäule bewegt sich rhythmisch; Rücken, Bauch, Nacken und Atem verbinden sich wieder.
 - **Körper-Metapher:** Der Rücken darf wieder Wellen machen → nicht mehr starr funktionieren.
-- **Problem/Anker:** Rücken fest · Körper steif · Atmung stockt · nicht im Körper sein.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie startet schon steif und funktional in den Tag · sie ist nicht wirklich in ihrem Körper, nur im Kopf · ihr Atem stockt vor lauter Anspannung · sie funktioniert, ohne mit sich verbunden zu sein.
+- **Körper-Anker (Übungslogik):** Rücken fest · Körper steif · morgens / nach langem Sitzen.
 - **Moment:** morgens / als Start in eine kurze Yoga-Einheit / nach langem Sitzen.
 - **Freebie:** 3MINUTEN.
 - **Vorsicht:** Bei empfindlichen Handgelenken/Knien Unterlage.
@@ -291,7 +292,8 @@
 - **So geht's:** Vierfüßlerstand. Hände nach vorn wandern lassen, Brustkorb Richtung Boden. Stirn oder Brust auf ein Kissen ablegen. Hüften bleiben über oder leicht hinter den Knien. **1–3 Minuten.**
 - **Was wirklich passiert:** Brustkorb, Schultern und oberer Rücken öffnen sich, während der Körper gestützt bleibt — eine weichere Alternative zur starken Herzöffnung.
 - **Körper-Metapher:** Der Brustkorb sinkt, ohne zusammenzubrechen → weich werden und trotzdem gehalten sein.
-- **Problem/Anker:** Brustkorb eng · Schultern tragen · Herzbereich geschützt · zu viel vorneüber sitzen.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie kann nur loslassen, wenn sie sich sicher gehalten fühlt · sie traut sich nur weich zu werden, wenn sie geschützt ist · sie trägt so viel auf den Schultern, dass sie sich nicht öffnen mag · sie muss immer stark sein, nie schutzlos.
+- **Körper-Anker (Übungslogik):** Brustkorb eng · Schultern tragen · nach Bildschirmzeit.
 - **Moment:** nach Bildschirmzeit / abends / wenn der Atem oben festhängt.
 - **Freebie:** RESET · 3MINUTEN.
 - **Vorsicht:** Stirn/Brust stützen, kein Druck auf den Nacken.
@@ -301,7 +303,8 @@
 - **So geht's:** Bauchlage, Stirn auf die Hände. Beine locker, Füße fallen nach außen. In den Bauch gegen den Boden atmen. **2–3 Minuten.**
 - **Was wirklich passiert:** Der Atem wird durch den Bodenkontakt spürbar. Bauchlage mit entspanntem Körper und tiefer Atmung wirkt beruhigend.
 - **Körper-Metapher:** Der Bauch trifft Boden → endlich landen.
-- **Problem/Anker:** flacher Atem · nicht geerdet · Bauch fest · Nervensystem wach.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie kommt gar nicht mehr richtig an, ist ständig auf dem Sprung · sie fühlt sich nicht geerdet, innerlich getrieben · abends findet sie nicht in den Schlaf, der Körper bleibt wach · sie atmet flach und hängt oben fest.
+- **Körper-Anker (Übungslogik):** flacher Atem · Bauch fest · abends / bei Unruhe.
 - **Moment:** bei Unruhe / abends / wenn sie nicht in den Schlaf findet.
 - **Freebie:** NACHTRUHE · RESET.
 - **Vorsicht:** —.
@@ -311,7 +314,8 @@
 - **So geht's:** Rückenlage. Knie Richtung Achseln, Hände an Fußaußenkanten, Knöchel oder hinter die Oberschenkel. Füße Richtung Decke, Rücken schwer. **1–2 Minuten.**
 - **Was wirklich passiert:** Hüften, Leisten, unterer Rücken und Beckenbodenbereich werden weicher — eine sanfte Haltung für Hüften, Rücken und Entspannung.
 - **Körper-Metapher:** Der Körper darf wieder spielerisch sein → nicht nur stark und kontrolliert.
-- **Problem/Anker:** Becken fest · Ernstmodus · Rücken müde · Kontrolle · innere Schwere.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist ständig im Ernstmodus, alles ist schwer und kontrolliert · sie hat die Leichtigkeit verloren · sie muss immer stark und zusammen sein · sie erlaubt sich keine Verspieltheit mehr.
+- **Körper-Anker (Übungslogik):** Becken fest · Rücken müde · abends.
 - **Moment:** abends / nach Hüftübungen / wenn sie Leichtigkeit braucht.
 - **Freebie:** RESET · 3MINUTEN.
 - **Vorsicht:** Zu intensiv? → Halber Happy Baby (#29).
@@ -321,7 +325,8 @@
 - **So geht's:** Rückenlage. Ein Knie Richtung Achsel, Hand an Fuß, Knöchel oder Oberschenkel. Anderes Bein aufgestellt oder lang. **1–2 Minuten pro Seite.**
 - **Was wirklich passiert:** Sanfter als beide Beine gleichzeitig — eine Körperseite bekommt Raum, ohne zu viel Druck auf Bauch oder Rücken.
 - **Körper-Metapher:** Nur eine Seite öffnet sich → nicht alles auf einmal lösen müssen.
-- **Problem/Anker:** Hüften fest · einseitige Spannung · Überforderung · zu viel auf einmal.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie fühlt sich von allem überfordert, es ist zu viel auf einmal · sie glaubt, sie muss alles gleichzeitig lösen · sie traut sich nicht, klein anzufangen · sie nimmt sich immer zu viel auf einmal vor.
+- **Körper-Anker (Übungslogik):** Hüften fest · einseitige Spannung · nach langem Sitzen.
 - **Moment:** wenn Happy Baby zu intensiv ist / abends / nach langem Sitzen.
 - **Freebie:** RESET · 3MINUTEN.
 - **Vorsicht:** —.
@@ -331,7 +336,8 @@
 - **So geht's:** Rückenlage. Rechtes Knie Richtung rechte Schulter ziehen, Hände hinter den Oberschenkel oder aufs Schienbein. Linkes Bein aufgestellt. **1–2 Minuten,** dann Seite wechseln.
 - **Was wirklich passiert:** Hüfte, Bauchraum und unterer Rücken werden einseitig entlastet — weniger Druck als beide Knie zur Brust.
 - **Körper-Metapher:** Das Knie kommt zur eigenen Seite zurück → sich selbst wieder näherkommen.
-- **Problem/Anker:** Bauch fest · Hüfte blockiert · unterer Rücken müde · innerlich verstreut.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie ist sich selbst fremd geworden · sie ist innerlich verstreut, überall, nur nicht bei sich · sie hat kaum noch Nähe zu sich selbst · sie kümmert sich um alle, nur nicht um sich.
+- **Körper-Anker (Übungslogik):** Bauch fest · Hüfte blockiert · unterer Rücken müde · morgens im Bett.
 - **Moment:** morgens im Bett / bei Bauchanspannung / vor dem Schlafen.
 - **Freebie:** 3MINUTEN · NACHTRUHE.
 - **Vorsicht:** —.
@@ -341,7 +347,8 @@
 - **So geht's:** Rückenlage, Knie aufgestellt. Ein Knie Richtung Bauch ziehen und mit dem Knie eine winzige liegende Acht in die Luft malen — sehr langsam. **1 Minute pro Seite.**
 - **Was wirklich passiert:** Hüftgelenk, Becken und unterer Rücken bekommen feine, nicht-lineare Bewegung. Sehr somatisch — Spüren wichtiger als Bewegungsweite.
 - **Körper-Metapher:** Die Hüfte findet Umwege → nicht immer nur geradeaus funktionieren.
-- **Problem/Anker:** Becken starr · Hüften fest · Kontrolle · Körper blockiert.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** bei ihr muss alles geradeaus und effizient laufen, kein Umweg erlaubt · sie will alles kontrollieren, nichts einfach fließen lassen · sie ist innerlich starr und blockiert · sie funktioniert nur in geraden Linien. *(mental dünn — Katja-Input offen)*
+- **Körper-Anker (Übungslogik):** Becken starr · Hüften fest · nach Sitzen.
 - **Moment:** vor Hüftöffnungen / nach Sitzen / wenn Bewegung wieder weich werden soll.
 - **Freebie:** 3MINUTEN.
 - **Vorsicht:** —.
@@ -351,7 +358,8 @@
 - **So geht's:** Seitenlage, Knie leicht Richtung Bauch. Kissen zwischen die Knie, Kopf gut gestützt. Arme locker vor dem Körper oder eine Hand auf Bauch/Herz. **3 Minuten.**
 - **Was wirklich passiert:** Der Körper darf sich zurückziehen — die Vorderseite ist geschützt, Rücken und Nervensystem bekommen Ruhe.
 - **Körper-Metapher:** Der Körper macht sich klein → nicht mehr verfügbar sein müssen.
-- **Problem/Anker:** Überreizung · Schutzbedürfnis · emotionaler Tag · zu viel Außen.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** nach einem emotional vollen Tag fühlt sie sich leer und überreizt · sie hat sich für alle verausgabt und braucht Rückzug · sie ist dünnhäutig und empfindlich, will sich einigeln · sie muss ständig verfügbar sein und kann nie einfach zumachen.
+- **Körper-Anker (Übungslogik):** Vorderseite/Bauch schutzbedürftig · nach Konflikten / abends.
 - **Moment:** nach Konflikten / abends / wenn sie sich leer oder empfindlich fühlt.
 - **Freebie:** NACHTRUHE · RESET.
 - **Vorsicht:** Eigene Übung neben „Seitenlage mit Kissen" (#3) — hier liegt der Fokus auf Rückzug/Schutz, nicht auf Abstand/Halt.
@@ -361,7 +369,8 @@
 - **So geht's:** Sitzend, Beine locker gekreuzt oder gegrätscht. Kissen/Decken vor dem Körper stapeln und den Oberkörper darauf ablegen, Kopf stützen. **2–5 Minuten.**
 - **Was wirklich passiert:** Der Körper muss nicht mehr aufrecht bleiben. Gut gestützte Vorbeugen wirken oft beruhigend.
 - **Körper-Metapher:** Der Körper sinkt nach innen → nicht mehr nach außen funktionieren.
-- **Problem/Anker:** immer präsent sein · Kopf voll · Rücken müde · Reizüberflutung.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie muss immer präsent und ansprechbar sein · nach viel Menschenkontakt ist sie reizüberflutet · ihr Kopf ist voll, sie kommt nicht runter · sie funktioniert nach außen, bis nichts mehr geht.
+- **Körper-Anker (Übungslogik):** Rücken müde · Kopf voll · nach Menschenkontakt.
 - **Moment:** abends / nach Menschenkontakt / nach einem vollen Tag.
 - **Freebie:** RESET · 3MINUTEN.
 - **Vorsicht:** —.
@@ -371,7 +380,8 @@
 - **So geht's:** Bequem sitzen. Einatmen durch die Nase. Beim Ausatmen leise summen, ein langes „mmm". **5–8 Runden.** Hände dürfen auf Bauch oder Herz liegen.
 - **Was wirklich passiert:** Das Summen verlängert den Ausatem und macht Vibration im Kopf-/Brustraum spürbar — beruhigend, hilft vom Denken ins Spüren zu kommen.
 - **Körper-Metapher:** Die Stimme vibriert nach innen → sich selbst wieder hören.
-- **Problem/Anker:** Kopf laut · innere Unruhe · nicht runterkommen · Atem kurz · Nervensystem wach.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** ihr Kopf ist zu laut, sie hört sich selbst gar nicht mehr · sie kommt abends nicht runter, die Unruhe bleibt · sie steckt im Denken fest, kommt nicht ins Spüren · sie hat den Kontakt zu ihrer eigenen Stimme verloren.
+- **Körper-Anker (Übungslogik):** Atem kurz · abends / vor dem Schlaf.
 - **Moment:** abends / vor dem Schlaf / nach Stress / wenn stille Meditation zu schwer ist.
 - **Freebie:** NACHTRUHE · RESET.
 - **Vorsicht:** —.
