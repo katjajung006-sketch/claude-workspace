@@ -214,15 +214,21 @@ Die **erste Zeile** ist ein **eigener Hook** (anderer als im Reel), der **echte 
 Benennt, was fast alle tun, ohne Vorwurf — mündet in den körperlichen Moment.
 > Die meisten Frauen halten den ganzen Tag alles zusammen, ohne es zu merken. Erst wenn [Moment in der Haltung], spüren sie, wie fest das war.
 
-**2. Auflösung des Open Loops**
-Was in ihr passiert — als kleine ✨-Liste, **immer über das emotionale/psychische Erleben geführt**, nicht über den Körperteil der Übung. Das Thema ist, was in IHR nachgibt (das Tragen, das Festhalten, das Funktionieren) — nicht was anatomisch mit Hüfte, Rücken oder Schulter passiert. Die Übung ist das Vehikel, nie das Thema.
+**2. Auflösung des Open Loops — HIER wird Beat 3 aufgelöst (die ✨-Liste ist das Herzstück der Caption)**
+Die ✨-Liste **trägt die konkrete Auflösung von Beat 3** — sie sagt, was diese eine Übung am Ende WIRKLICH bewirkt (die in Schritt 2.5 aus `uebungs-datenbank.md` gezogene, von Katja validierte Wirkung). Beat 3 hält offen „und dann passiert etwas" — die ✨-Liste ist das „etwas". Das ist der eigentliche Grund, warum sie die Caption liest. **Nicht generisch** („du musst nichts festlegen", „nichts muss funktionieren") — das ist Füllmaterial und tötet die Auflösung. Konkret: was diese Übung mit ihr macht.
 
-**PFLICHT:** Die Liste führt über: was sie gerade nicht mehr muss (kontrollieren, halten, funktionieren) · was sich in ihr verändert (Vertrauen, Erleichterung, Raum) · was sie erst jetzt merkt (wie viel sie getragen hat). Körperempfindungen sind erlaubt, wenn sie die emotionale Metapher tragen (z. B. „etwas in dir gibt nach") — aber KEIN Körperteil der Übung als Thema (keine Hüfte, kein Rücken als Schlagzeile in der Liste).
+**PFLICHT — zwei Regeln gleichzeitig:**
+1. **Konkrete Wirkung DIESER Übung** (aus der validierten DB-Wirkung), nicht austauschbare Allgemeinsätze. Bei Knie-Sways z. B.: die Anspannung fällt ab · der Kopf hört auf zu kreisen · es wird still innen. Bei Beine-an-der-Wand ganz andere Wirkung — je Übung frisch aus der DB.
+2. **Über das mentale/psychische Erleben geführt, nicht über den Körperteil.** Das Thema ist, was in IHR passiert (der Kopf wird ruhig, die Anspannung lässt los, sie ist wieder da) — nicht was anatomisch mit Hüfte/Rücken/Schulter passiert. Körperempfindung ist erlaubt, wenn sie das mentale Erleben trägt („der Kopf hört auf zu rattern"), nie der Körperteil als Schlagzeile.
+
+**Einleitungs-Zeile variieren** (NICHT jedes Mal „Leg dich auf den Rücken. Und dann:" — das nutzt sich ab und doppelt die Anleitung): z. B. „Und dann, irgendwo in der ersten Minute:" · „Und dann kippt was:" · „Was dann passiert:" · „Und auf einmal:".
 
 > Und dann, irgendwo in der ersten Minute:
-> ✨ Du merkst, wie viel du heute schon getragen hast
-> ✨ Nichts muss gerade funktionieren, niemand braucht gerade etwas
-> ✨ Und etwas in dir gibt nach — nicht weil du es erzwingst, sondern weil du aufgehört hast, dagegen zu halten
+> ✨ Die Anspannung vom ganzen Tag darf langsam abfallen
+> ✨ Dein Kopf hört auf zu kreisen — du spürst nur noch die Bewegung
+> ✨ Und auf einmal wird's still, wo den ganzen Tag Lärm war
+
+*(Beispiel für Knie-Sways — jede Zeile ist die konkrete Auflösung dessen, was Beat 3 „und dann wird was still" NICHT verraten hat. Bei anderer Übung: andere validierte Wirkung.)*
 
 > **PFLICHT — Beat-3-Loop schließen (Katja 2026-06-29, Memory `feedback_watchtime_retention`):** Die Caption muss **explizit auflösen, was Beat 3 anteasert.** Teasert Beat 3 z. B. „…etwas, von dem du nicht mal wusstest, dass du es vermisst", dann reicht die Körper-Spürliste NICHT — die Caption muss benennen, WAS genau sie vermisst/nicht gewusst hat (meist die emotionale Wahrheit der Metapher: „dass du gerade nichts halten musst … ein Moment, der nur dir gehört. Genau das hast du vermisst, ohne es zu wissen."). Brücken-Zeile + dieser Auflösungs-Block müssen dieselbe Frage stellen UND beantworten. Check vor dem Abschicken: Beantwortet die Caption wörtlich das, was Beat 3 verspricht?
 
