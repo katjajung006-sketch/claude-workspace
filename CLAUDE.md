@@ -317,7 +317,7 @@ Nie: „Hier ist, womit…" — „Das ist nicht X, sondern Y" — „Zusammenfa
 
 Jeder Satz ist eine Entscheidung, kein generiertes Muster.
 
-**Immer einfache, normale Alltagssprache — nicht poetisch, nicht verkopft.** Gilt für ALLES, was wir erstellen (Reels, Karussells, Stories, Captions, E-Mails, Telegram, Antworten). So schreiben, wie Katja zu einer Freundin spricht. NICHT „dein Atem ist den ganzen Tag oben geblieben" → SONDERN „du hast den ganzen Tag kaum richtig durchgeatmet". Lieber schlicht und klar als schön. Test je Satz: Würde sie das genau so laut zu jemandem sagen?
+**Immer einfache, normale Alltagssprache — nicht poetisch, nicht verkopft.** Gilt für ALLES, was wir erstellen (Reels, Karussells, Stories, Captions, E-Mails, Telegram, Antworten). So schreiben, wie Katja zu ihrer besten Freundin spricht. NICHT „dein Atem ist den ganzen Tag oben geblieben" → SONDERN „du hast den ganzen Tag kaum richtig durchgeatmet". Lieber schlicht und klar als schön. Test je Satz: Würde sie das genau so laut zu jemandem sagen? Kein „Weißt du,"-Füllauftakt, keine lehrerhaften Weisheitssätze, keine (auch rhetorischen) Fragen im Caption-Text (Ausnahme: echter Kommentar-CTA). Bei Übungs-Captions nur auf **Wirkung** (was die Übung bewirkt) + **Ausführung** (wie sie geht) fokussieren, alles andere kürzen. **Aus jeder Content-Korrektur die Regel ableiten und als Memory speichern** (Richtung „perfekte Content-Maschine"). Details: Memories `feedback_content_learn_from_edits`, `feedback_caption_natuerlicher_ton`, `feedback_caption_keine_fragen`, `feedback_caption_fokus_wirkung_ausfuehrung`.
 
 ---
 
