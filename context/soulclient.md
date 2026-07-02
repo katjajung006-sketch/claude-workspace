@@ -30,6 +30,8 @@ Oder kürzer:
 **Körpersignale, die sie ignoriert:**
 Innere Unruhe · Verspannungen · Müdigkeit · flacher Atem · Gereiztheit · Erschöpfung · Schlafprobleme · „Ich bin zwar da, aber irgendwie nicht richtig in mir"
 
+**Kopf vs. Körper — die zentrale Spannung (wichtig fürs Texten):** Ihr **Kopf ist randvoll**, nie leer: die Gedanken kreisen ununterbrochen, sie geht die To-do-Listen immer wieder durch (was am Tag war, was morgen ansteht) — der Kopf hört einfach nicht auf. Ihr **Körper** dagegen fühlt sich müde, leer, erschöpft an. Der Kern ist die Spannung dazwischen: **körperlich erschöpft und trotzdem nicht abschalten können**, weil der Kopf nicht aufhört. → Kopf immer als voll/kreisend zeichnen (nie leer/still), Körper darf müde/erschöpft heißen, am stärksten wirkt beides gegeneinander. (Details: Memory `feedback_zielgruppe_randvoll`.)
+
 ---
 
 ## 2. Ihr eigentliches Problem
