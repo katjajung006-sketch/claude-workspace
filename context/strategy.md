@@ -85,15 +85,17 @@ Weitere Minikurse / Miniprodukte (Online-Kurse, in Planung)
 ## Instagram-Kanal
 
 **Handle:** @yoga.statt.funktionieren
-**Status:** 354 Follower · 30 Beiträge · 96 Gefolgt (Stand 2026-06-28) · 17.775 Aufrufe / 30 Tage
+**Status:** 358 Follower · 34 Beiträge · 96 Gefolgt (Stand 2026-07-02) · 20.939 Aufrufe / 30 Tage
 **Bio:** SEO-optimiert (Namensfeld 2026-06-06), Bio-Text geprüft & finalisiert 2026-06-28 (live). Grundprinzip: Instagram durchsucht nur Handle + Namensfeld → Namensfeld trägt das gesuchte Keyword, nicht den (nicht gesuchten) Markensatz „Selbstübergehen".
 - **Namensfeld:** `Katja Jung | Yoga für Frauen 40+` (auffindbar für „Yoga 40+ / Yoga Frauen 40")
-- **Bio-Text (live, Stand 2026-06-28):**
-  - 🤍 Immer stark. Immer da. Und abends wie leer
-  - 🌿 Yoga zum Spüren, ohne dich zu verrenken
-  - 👇 Sanft zurück zu dir: hol dir den Funktionsmodus-Check
-  - _(Zeilen bewusst OHNE Schlusspunkt — Katja-Entscheidung 2026-06-28: ein Punkt auf nur einer Zeile sieht unruhig aus, einheitlich ohne ist sauberer. Komma statt Gedankenstrich in Zeile 2 ist gesetzt.)_
-  - **Logik:** Zeile 1 = Körper-Erkennung (3-Sek.-Spiegel „das bin ich"). Zeile 2 = löst den Anfänger-Irrglauben „ich muss beweglich sein / mich verbiegen" auf; „Spüren" trägt die Somatik-Essenz (spüren statt leisten) sichtbar rein, OHNE Fachwort. Zeile 3 = Freebie-CTA mit dem Signatur-Wort „Funktionsmodus-Check" (statt beliebigem „Gratis-Check") + Zeiger 👇 zum Link. (Spüren-Swap final genommen; „Gratis-Check" → „Funktionsmodus-Check" am 2026-06-28 geschärft.)
+- **Bio-Text (live, Stand 2026-07-02 — neu getextet nach Konkurrenz-Analyse):** 149 Zeichen (IG-Limit 150).
+  - Für die Frau, immer stark, immer da, Kopf voll
+  - Zurück zu dir, statt dich zu vergessen
+  - Yoga zum Spüren, ohne dich zu verrenken
+  - 👇 Funktionsmodus-Check
+  - _(Zeilen bewusst OHNE Schlusspunkt — Katja-Entscheidung 2026-06-28. Keine Emojis mehr am Zeilenanfang außer 👇, bewusst schlicht wie die Vorbild-Bios.)_
+  - **Aufbau nach der „Lehrbuch-Struktur" der wachsenden Nischen-Accounts (Heike @soul_one_spirit_yoga, Sandra @sandramindbody), Katjas Wunsch 2026-07-02:** Zeile 1 = **für wen** (direkte Ansprache „Für die Frau, die…", Einzahl = persönlicher als Mehrzahl; „Kopf voll" = das *randvoll*-Insight, sie ist NICHT leer sondern überladen — Katja-Korrektur). Zeile 2 = **was sie löst** (das eigentliche Thema: sich selbst nicht mehr vergessen; „zurück zu dir" = Marken-Satz). Zeile 3 = **die Methode** („Yoga zum Spüren" = Mechanismus des Zurückkommens; „ohne dich zu verrenken" = Alleinstellungsmerkmal, nimmt den Anfänger-Einwand „zu unbeweglich", hat keine Konkurrenz-Bio). Zeile 4 = **Start/CTA** (Freebie beim Namen = Wert + Keyword „Funktionsmodus"; 👇 macht das „hier"-Zeigen). Jede Zeile greift in die nächste.
+  - **OFFENE Zeile-3-Option (Katja überlegt noch, 2026-07-02):** eventuell „Yoga zum Spüren" → **„Sanftes Yoga, ohne dich zu verrenken"** (146 Zeichen, passt) tauschen. Grund: Unsicherheit, ob „spüren" schon im Bewusstsein der Zielgruppe ist (wie vorher „Körper"). Gegen-Argument: „spüren" ist der Mechanismus zu „zurück zu dir" (Z2) und spart Doppelung mit „ohne Verrenken". **Achtung:** „**durch** sanftes Yoga, …" passt NICHT (152, 2 zu viel) — das „durch" müsste dann weg.
 - **Bio-Links (2 native IG-Links, Stand 2026-06-28):**
   1. `check.katjajung.com` → Funktionsmodus-Check (Freebie, primär)
   2. `start.katjajung.com` → eigener Link-Hub (ersetzt Linktree; gebaut 2026-06-28, Cloudflare-Projekt `katjajung-start`, Quelle `website-quelle/start.html`, enthält Check + 10-Min-Rückkehr 17 € + Telegram, erweiterbar um neue Produkte). **Offen: Linktree in der Bio gegen `start.katjajung.com` tauschen, sobald SSL aktiv (DNS gesetzt 2026-06-28).**
