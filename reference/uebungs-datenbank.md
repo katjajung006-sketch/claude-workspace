@@ -206,7 +206,7 @@
 - **So geht's:** Auf die Seite, Knie leicht gebeugt, Kissen zwischen den Knien. Eine Hand auf die obere Rippen-/Taillenseite. Atmen, als flösse der Atem sanft in diese Hand — nicht tief erzwingen. **2–3 Minuten pro Seite.**
 - **Was wirklich passiert:** Der Atem wird nicht nur im Bauch/Brustkorb gespürt, sondern in den seitlichen Rippen. Hilft bei flachem Stressatem, wieder mehr Raum im Körper wahrzunehmen.
 - **Körper-Metapher:** Die Rippen öffnen sich zur Seite → wieder Raum bekommen, ohne mehr leisten zu müssen.
-- **Zielgruppen-Problem (→ Hook/Beat 1):** sie atmet den ganzen Tag nur flach, der Stress sitzt oben · sie nimmt sich keinen Raum für sich selbst · ihr Kopf ist voll, sie kommt nicht runter · sie glaubt, für Raum müsste sie erst was leisten.
+- **Zielgruppen-Problem (→ Hook/Beat 1):** sie atmet den ganzen Tag nur flach, der Stress sitzt oben · sie nimmt sich keine Zeit für sich selbst · ihr Kopf ist voll, sie kommt nicht runter · sie glaubt, sie müsste sich diese Zeit erst verdienen.
 - **Körper-Anker (Übungslogik):** flacher Atem · Brustkorb eng · Stress sitzt oben.
 - **Moment:** abends im Bett / nach einem vollen Tag / bei innerer Enge / vor dem Einschlafen.
 - **Freebie:** NACHTRUHE · 3MINUTEN.
